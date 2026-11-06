@@ -3,3 +3,7 @@ Original native-resolution icons; no upscaling or recompression.
 See manifest.json for source pages, original URLs, dimensions, hashes, and any missing icons.
 Original third-party artwork; no redistribution licence asserted. Review source terms before publishing.
 Beguiling Influence is from https://bg3.wiki/wiki/Beguiling_Influence because the Fextralife page has no icon.
+
+Additional URL-pattern/image-index search found Pact of the Blade, Pact of the Chain, and Pact of the Tome on Fextralife.
+Eldritch Spear from https://bg3.wiki/wiki/Eldritch_Spear uses shared Eldritch Blast artwork, as its source page does; it is not a distinct Eldritch Spear icon.
+See missing-invocations-search.json for search coverage and 14 names still not found.

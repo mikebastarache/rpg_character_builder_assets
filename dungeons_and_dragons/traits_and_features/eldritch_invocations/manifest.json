@@ -287,12 +287,76 @@
       "filename": "lifedrinker.png",
       "bytes": 11697,
       "sha256": "78d504766c703cb07c9da71e36f48f97ad9394e8124bf859bd8e98e6b452229e"
+    },
+    {
+      "name": "Pact of the Blade",
+      "page": "https://baldursgate3.wiki.fextralife.com/Pact_of_the_Blade",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/0/07/Pact_of_the_blade_feature_bg3_wiki_guide_150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Pact_of_the_blade_feature_bg3_wiki_guide_150px.png",
+      "filename": "pactOfTheBlade.png",
+      "bytes": 11421,
+      "sha256": "af6caa232611ba820763f9cf0e144c620d0750d583d7c450dd93d3613c317d04"
+    },
+    {
+      "name": "Pact of the Chain",
+      "page": "https://baldursgate3.wiki.fextralife.com/Pact_of_the_Chain",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/5/55/Find_familiar_imp_spell_baldurs_gate3_guide_150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Find_familiar_imp_spell_baldurs_gate3_guide_150px.png",
+      "filename": "pactOfTheChain.png",
+      "bytes": 13554,
+      "sha256": "76a8870f06f9a89a70957ec40a7b8dc0e144baa69a6447aca2da349febc48312"
+    },
+    {
+      "name": "Pact of the Tome",
+      "page": "https://baldursgate3.wiki.fextralife.com/Pact_of_the_Tome",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/7/7f/Pact_of_the_tome_feature_bg3_wiki_guide_150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Pact_of_the_tome_feature_bg3_wiki_guide_150px.png",
+      "filename": "pactOfTheTome.png",
+      "bytes": 12645,
+      "sha256": "8e70e0f3f551cd96a92afbcac32e52e89b13329dc06bd9baccd33843635adba1"
+    },
+    {
+      "name": "Eldritch Spear",
+      "page": "https://bg3.wiki/wiki/Eldritch_Spear",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "filename": "eldritchSpear.webp",
+      "width": 380,
+      "height": 380,
+      "bytes": 41594,
+      "sha256": "7a10a91bb9f21e65f44401b98c64c14470aa066a3ffd8bace89cb632e2112b76",
+      "original_url": "https://bg3.wiki/w/images/b/b5/Eldritch_Blast.webp",
+      "file_page": "https://bg3.wiki/wiki/File:Eldritch_Blast.webp",
+      "source_note": "The Eldritch Spear page uses shared Eldritch Blast artwork. This is not a distinct Eldritch Spear icon."
     }
   ],
   "summary": {
-    "downloaded": 19,
-    "from_fextralife": 18,
-    "from_bg3_wiki": 1
+    "downloaded": 23,
+    "from_fextralife": 21,
+    "from_bg3_wiki": 2,
+    "user_list_options_with_images": 14,
+    "user_list_options_still_missing": 14
   },
-  "usage": "Original third-party artwork; no redistribution licence asserted. Review source terms before publishing."
+  "usage": "Original third-party artwork; no redistribution licence asserted. Review source terms before publishing.",
+  "additional_search_report": "missing-invocations-search.json"
 }

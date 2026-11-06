@@ -1,0 +1,97 @@
+{
+  "requested_missing_names": [
+    "Ascendant Step",
+    "Devouring Blade",
+    "Eldritch Mind",
+    "Eldritch Smite",
+    "Eldritch Spear",
+    "Gaze of Two Minds",
+    "Gift of the Depths",
+    "Gift of the Protectors",
+    "Investment of the Chain Master",
+    "Lessons of the First Ones",
+    "Master of Myriad Forms",
+    "Misty Visions",
+    "Pact of the Blade",
+    "Pact of the Chain",
+    "Pact of the Tome",
+    "Thirsting Blade",
+    "Visions of Distant Realms",
+    "Witch Sight"
+  ],
+  "found": [
+    {
+      "name": "Pact of the Blade",
+      "page": "https://baldursgate3.wiki.fextralife.com/Pact_of_the_Blade",
+      "filename": "pactOfTheBlade.png",
+      "source_note": null
+    },
+    {
+      "name": "Pact of the Chain",
+      "page": "https://baldursgate3.wiki.fextralife.com/Pact_of_the_Chain",
+      "filename": "pactOfTheChain.png",
+      "source_note": null
+    },
+    {
+      "name": "Pact of the Tome",
+      "page": "https://baldursgate3.wiki.fextralife.com/Pact_of_the_Tome",
+      "filename": "pactOfTheTome.png",
+      "source_note": null
+    },
+    {
+      "name": "Eldritch Spear",
+      "page": "https://bg3.wiki/wiki/Eldritch_Spear",
+      "filename": "eldritchSpear.webp",
+      "source_note": "The Eldritch Spear page uses shared Eldritch Blast artwork. This is not a distinct Eldritch Spear icon."
+    }
+  ],
+  "not_found": [
+    "Ascendant Step",
+    "Devouring Blade",
+    "Eldritch Mind",
+    "Eldritch Smite",
+    "Gaze of Two Minds",
+    "Gift of the Depths",
+    "Gift of the Protectors",
+    "Investment of the Chain Master",
+    "Lessons of the First Ones",
+    "Master of Myriad Forms",
+    "Misty Visions",
+    "Thirsting Blade",
+    "Visions of Distant Realms",
+    "Witch Sight"
+  ],
+  "method": "Checked Fextralife page URL patterns and the public allimages filename index for name prefixes; checked BG3 Wiki page titles and image index for the remaining names. No image substitution unless the source feature page itself uses it.",
+  "fextralife_image_index_queries": [
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Ascendant&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Devouring&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Eldritch&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Gaze&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Gift&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Investment&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Invocation&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Invocations&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Lessons&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Master&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Misty&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Pact&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Thirsting&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Visions&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Warlock&ailimit=500",
+    "https://baldursgate3.wiki.fextralife.com/api.php?action=query&format=json&list=allimages&aiprefix=Witch&ailimit=500"
+  ],
+  "bg3wiki_image_index_queries": [
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Ascendant&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Devouring&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Eldritch&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Gaze&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Gift&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Investment&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Lessons&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Master&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Misty&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Thirsting&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Visions&ailimit=500",
+    "https://bg3.wiki/w/api.php?action=query&format=json&list=allimages&aiprefix=Witch&ailimit=500"
+  ]
+}
