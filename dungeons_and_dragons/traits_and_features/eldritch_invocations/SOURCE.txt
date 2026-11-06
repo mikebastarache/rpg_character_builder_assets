@@ -1,0 +1,5 @@
+Source: https://baldursgate3.wiki.fextralife.com/Eldritch_Invocations
+Original native-resolution icons; no upscaling or recompression.
+See manifest.json for source pages, original URLs, dimensions, hashes, and any missing icons.
+Original third-party artwork; no redistribution licence asserted. Review source terms before publishing.
+Beguiling Influence is from https://bg3.wiki/wiki/Beguiling_Influence because the Fextralife page has no icon.

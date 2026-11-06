@@ -1,0 +1,5 @@
+Source: https://baldursgate3.wiki.fextralife.com/Traits_and_Features
+Original infobox images, minimum 128 x 128 native pixels. No upscaling.
+Images retain their original formats. See manifest.json for source pages, image URLs, dimensions, hashes, and skipped entries.
+Third-party artwork, not SRD-licensed; no redistribution licence asserted. Review source terms before publishing.
+Also checked the linked Feats index: https://baldursgate3.wiki.fextralife.com/Feats

@@ -1,0 +1,298 @@
+{
+  "source": "https://baldursgate3.wiki.fextralife.com/Eldritch_Invocations",
+  "entries": [
+    {
+      "name": "Agonizing Blast",
+      "page": "https://baldursgate3.wiki.fextralife.com/Agonizing_Blast",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/0/05/Eldritch_agonizing_blast_feature_bg3_wiki_guide_150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Eldritch_agonizing_blast_feature_bg3_wiki_guide_150px.png",
+      "filename": "agonizingBlast.png",
+      "bytes": 12321,
+      "sha256": "a7ebd7d42f60be1c75394e45e01500316c5d6657e0f5a669be18755d8f0e371f"
+    },
+    {
+      "name": "Armour of Shadows",
+      "page": "https://baldursgate3.wiki.fextralife.com/Armour_of_Shadows",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/c/c4/Mage_armour_spell_baldursgate3_wiki_guide_150px_2.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Mage_armour_spell_baldursgate3_wiki_guide_150px_2.png",
+      "filename": "armourOfShadows.png",
+      "bytes": 12039,
+      "sha256": "7640ae6ce262cb7fc2d6f46f3cd3be49e5cf406ef48b8fc150b11b23c6b10228"
+    },
+    {
+      "name": "Beast Speech",
+      "page": "https://baldursgate3.wiki.fextralife.com/Beast_Speech",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/4/46/Speak_with_animals_spell_baldursgate3_wiki_guide_150px_2.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Speak_with_animals_spell_baldursgate3_wiki_guide_150px_2.png",
+      "filename": "beastSpeech.png",
+      "bytes": 11334,
+      "sha256": "110e9a84b17cbbc1864843f64243bb664e2e54349b39a63280460189cf95c3a3"
+    },
+    {
+      "name": "Beguiling Influence",
+      "page": "https://baldursgate3.wiki.fextralife.com/Beguiling_Influence",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "filename": "beguilingInfluence.webp",
+      "width": 380,
+      "height": 380,
+      "bytes": 50758,
+      "sha256": "3428779118b47382f8dbd5ff7b72baa702c21b7fdc75e3d5a98f0b7ff9326685",
+      "original_url": "https://bg3.wiki/w/images/d/db/Beguiling_Influence.webp",
+      "file_page": "https://bg3.wiki/wiki/File:Beguiling_Influence.webp",
+      "image_source_page": "https://bg3.wiki/wiki/Beguiling_Influence",
+      "source_note": "Fextralife page has no image; original tooltip icon from BG3 Wiki used as fallback."
+    },
+    {
+      "name": "Devil's Sight",
+      "page": "https://baldursgate3.wiki.fextralife.com/Devil%27s_Sight",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/8/81/Devils_sight.png",
+      "width": 144,
+      "height": 144,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Devils_sight.png",
+      "filename": "devilsSight.png",
+      "bytes": 36279,
+      "sha256": "bde149b77e4cde7de842da9b665c1895bee28da274e31a94e2efc3d2992a77ab"
+    },
+    {
+      "name": "Fiendish Vigour",
+      "page": "https://baldursgate3.wiki.fextralife.com/Fiendish_Vigour",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/a/a6/False_life_spell_baldursgate3_wiki_guide_150px_2.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:False_life_spell_baldursgate3_wiki_guide_150px_2.png",
+      "filename": "fiendishVigour.png",
+      "bytes": 12570,
+      "sha256": "9a0692cc09b9cf7cb0ec149b45acb620a21213a4bf58a6c400752f007f512fc6"
+    },
+    {
+      "name": "Mask of Many Faces",
+      "page": "https://baldursgate3.wiki.fextralife.com/Mask_of_Many_Faces",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/0/05/Desguise_self_spell_baldursgate3_wiki_guide_150px_2.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Desguise_self_spell_baldursgate3_wiki_guide_150px_2.png",
+      "filename": "maskOfManyFaces.png",
+      "bytes": 11382,
+      "sha256": "7e642360d0b250067eb641f8c43db04d34f0d7c4f9ecdc4686d122deea7151f8"
+    },
+    {
+      "name": "Repelling Blast",
+      "page": "https://baldursgate3.wiki.fextralife.com/Repelling_Blast",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/6/6e/Eldritch_repelling_blast_feature_bg3_wiki_guide_150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Eldritch_repelling_blast_feature_bg3_wiki_guide_150px.png",
+      "filename": "repellingBlast.png",
+      "bytes": 12128,
+      "sha256": "d2e6cb995107c970d09e067a4b2f7fd5231f7e3a7dc7f5e6034e7ab93566e0cc"
+    },
+    {
+      "name": "Thief of Five Fates",
+      "page": "https://baldursgate3.wiki.fextralife.com/Thief_of_Five_Fates",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/3/38/Bane_spell_baldursgate3_wiki_guide_150px_2.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Bane_spell_baldursgate3_wiki_guide_150px_2.png",
+      "filename": "thiefOfFiveFates.png",
+      "bytes": 12128,
+      "sha256": "dc9ae352efbc378bb8077dd12ead272698305a2a16cb72c8bf246e969df4d263"
+    },
+    {
+      "name": "One with Shadows",
+      "page": "https://baldursgate3.wiki.fextralife.com/One_with_Shadows",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/5/52/Invisible_condition_icon.png",
+      "width": 100,
+      "height": 100,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Invisible_condition_icon.png",
+      "filename": "oneWithShadows.png",
+      "bytes": 8966,
+      "sha256": "518f1217963678bb91b536c53132922b8db3960c54c71367b26563aaed4dcb48"
+    },
+    {
+      "name": "Mire the Mind",
+      "page": "https://baldursgate3.wiki.fextralife.com/Mire_the_Mind",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/b/bd/Slow_spell_transmutation_school_baldursgate3_wiki_guide_150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Slow_spell_transmutation_school_baldursgate3_wiki_guide_150px.png",
+      "filename": "mireTheMind.png",
+      "bytes": 9743,
+      "sha256": "f678591d0766f4044c6a056000659ccc91b11791feab549509f825eec5a3ffc0"
+    },
+    {
+      "name": "Sign of ill Omen",
+      "page": "https://baldursgate3.wiki.fextralife.com/Sign_of_ill_Omen",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/0/0b/Bestow_curse_spells_bg3_wiki_guide150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Bestow_curse_spells_bg3_wiki_guide150px.png",
+      "filename": "signOfIllOmen.png",
+      "bytes": 12328,
+      "sha256": "f2ececd4948a688ddaaee99e6d57d3ca3fa6611550da25750df0ea673c033c17"
+    },
+    {
+      "name": "Book of Ancient Secrets",
+      "page": "https://baldursgate3.wiki.fextralife.com/Book_of_Ancient_Secrets",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/2/2e/Book_of_ancient_secrets_feature_bg3_wiki_guide_150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Book_of_ancient_secrets_feature_bg3_wiki_guide_150px.png",
+      "filename": "bookOfAncientSecrets.png",
+      "bytes": 9736,
+      "sha256": "8f646e79a51f82863892baace3360fb7fed3e224faf9fa76b0ce2707724fcf22"
+    },
+    {
+      "name": "Dreadful Word",
+      "page": "https://baldursgate3.wiki.fextralife.com/Dreadful_Word",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/d/db/Confusion-spell-bg3-wiki-guide-150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Confusion-spell-bg3-wiki-guide-150px.png",
+      "filename": "dreadfulWord.png",
+      "bytes": 31578,
+      "sha256": "2fae33a42b6c2679436513e68a96f910629581a1eb3652d123d901c1dc132784"
+    },
+    {
+      "name": "Sculptor of Flesh",
+      "page": "https://baldursgate3.wiki.fextralife.com/Sculptor_of_Flesh",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/a/ab/Polymorph-spell-bg3-wiki-guide-150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Polymorph-spell-bg3-wiki-guide-150px.png",
+      "filename": "sculptorOfFlesh.png",
+      "bytes": 41029,
+      "sha256": "08d24dd78899c9b85bf421eb881db887f39e9e77aa34048306ecd46a030a9f82"
+    },
+    {
+      "name": "Minions of Chaos",
+      "page": "https://baldursgate3.wiki.fextralife.com/Minions_of_Chaos",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/f/ff/Conjureelemental-spell-bg3-wiki-guide-150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Conjureelemental-spell-bg3-wiki-guide-150px.png",
+      "filename": "minionsOfChaos.png",
+      "bytes": 41795,
+      "sha256": "bd6b2adf8a680d4c9f46226b26538ebe9d1d6d2ca7443ba4f2f62e5255c44c4e"
+    },
+    {
+      "name": "Otherworldly Leap",
+      "page": "https://baldursgate3.wiki.fextralife.com/Otherworldly_Leap",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/8/81/Jump_spell_baldursgate3_wiki_guide_150px_2.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Jump_spell_baldursgate3_wiki_guide_150px_2.png",
+      "filename": "otherworldlyLeap.png",
+      "bytes": 11192,
+      "sha256": "facfc02ceb0f72386ebb9ad9ddf57fee0890fccf458b56b18cfaefac30e3fc75"
+    },
+    {
+      "name": "Whispers of the Grave",
+      "page": "https://baldursgate3.wiki.fextralife.com/Whispers_of_the_Grave",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/8/80/Speakwithdead-spell-bg3-wiki-guide-150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Speakwithdead-spell-bg3-wiki-guide-150px.png",
+      "filename": "whispersOfTheGrave.png",
+      "bytes": 41133,
+      "sha256": "cf79e2462c8bb30d4b6eb6032946f38d6273473711dec6f375c602388812a906"
+    },
+    {
+      "name": "Lifedrinker",
+      "page": "https://baldursgate3.wiki.fextralife.com/Lifedrinker",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "status": "downloaded",
+      "original_url": "https://static0.fextralifeimages.com/file/baldursgate3/3/32/Lifedrinker_feature_bg3_wiki_guide_150px.png",
+      "width": 150,
+      "height": 150,
+      "file_page": "https://baldursgate3.wiki.fextralife.com/File:Lifedrinker_feature_bg3_wiki_guide_150px.png",
+      "filename": "lifedrinker.png",
+      "bytes": 11697,
+      "sha256": "78d504766c703cb07c9da71e36f48f97ad9394e8124bf859bd8e98e6b452229e"
+    }
+  ],
+  "summary": {
+    "downloaded": 19,
+    "from_fextralife": 18,
+    "from_bg3_wiki": 1
+  },
+  "usage": "Original third-party artwork; no redistribution licence asserted. Review source terms before publishing."
+}
