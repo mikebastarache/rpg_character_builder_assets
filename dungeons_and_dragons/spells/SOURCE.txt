@@ -1,0 +1,9 @@
+BG3 Wiki spell image reference download
+Source: https://bg3.wiki/wiki/List_of_all_spells
+Artwork is not covered by the SRD 5.2.1 CC-BY-4.0 licence.
+Example file notice: https://bg3.wiki/wiki/File:Acid_Splash.webp
+Some or all of the artwork is copyright Larian Studios.
+Review file-specific notices, Larian Fan Content Policy and Baldur's Gate 3 Fan Content Terms before publishing.
+This directory is gitignored and is not included in the app build.
+Original file formats preserve transparency; .jog is not an image format.
+See manifest.json for original URLs, filenames, hashes, and missing artwork.
