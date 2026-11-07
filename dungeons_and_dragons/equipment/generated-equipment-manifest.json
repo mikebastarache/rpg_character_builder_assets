@@ -1,0 +1,608 @@
+{
+  "generation": "Built-in image_gen tool",
+  "style": "Original hand-painted fantasy equipment, earthy palette, worn materials, transparent background; style references equipAxe.webp and large/equipCamel.webp",
+  "items": [
+    {
+      "slug": "airship",
+      "filename": "equipAirship.webp",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1db8ac84-5a74-42a7-8b94-065377a9d8cd.png",
+      "prompt": "Use case: stylized-concept. Asset type: one fantasy RPG equipment inventory illustration, AIRSHIP. Reference image 1 (axe) and reference image 2 (camel) are STYLE ONLY: match their realistic hand-painted fantasy equipment, muted earthy browns, weathered metal, fine dark outlines, restrained highlights and tactile materials. Create ONE complete medieval fantasy airship: a compact wooden sailing-ship gondola suspended beneath a large tan gas envelope, rope rigging, modest rudder and small propeller; a coherent flying vessel with readable silhouette. Full object isolated, centered in square composition, three-quarter side view, generous 5% clear margin, no clipping. True transparent alpha background. NO scenery, floor, ground shadow, people, labels, text, border, logo, or watermark. No ambient haze, glow, gray washes or shadow clouds around the object. Generate high-resolution original suitable for a 640x640 large asset and a 300x300 inventory thumbnail.",
+      "files": [
+        {
+          "path": "equipAirship.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 31912,
+          "sha256": "3d61738266a22978ffb424c6ecd446ad99d841f24cafba3489bbed89787be030"
+        },
+        {
+          "path": "large/equipAirship.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 122528,
+          "sha256": "8bb7debc738732af1cd391334e8bbc5cf41ddccbce11bd82a7347ebd68e7c87c"
+        }
+      ]
+    },
+    {
+      "slug": "chariot",
+      "filename": "equipChariot.webp",
+      "subject": "An ancient fantasy two-wheeled war chariot: small open-backed standing platform, curved protective wood-and-bronze front rail, two spoked wheels and forward draw pole. Clearly a chariot, not a cart or carriage. No horses or people.",
+      "prompt": "Use case: stylized-concept. Asset type: ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: match realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights, worn tactile materials. One complete centered subject, square composition, 5% clear margin, no clipping. Genuine transparent alpha background. No text, logo, watermark, frame, floor, ground shadow, haze, scenery or surrounding environment. High-resolution original to be resized to 640x640 and 300x300. Subject: An ancient fantasy two-wheeled war chariot: small open-backed standing platform, curved protective wood-and-bronze front rail, two spoked wheels and forward draw pole. Clearly a chariot, not a cart or carriage. No horses or people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b91dcb15-6719-4480-bd09-c2b7b8206ecb.png",
+      "files": [
+        {
+          "path": "equipChariot.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 20400,
+          "sha256": "67233a9a8ce2f25df6326c9d55f6683020ffd45710af5ef6b916dbdbe15d5933"
+        },
+        {
+          "path": "large/equipChariot.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 72444,
+          "sha256": "0d6e24d4c10e2b859fe5f2f7c492bdfc5257bb73f947f09b4f216c5009fb97ab"
+        }
+      ]
+    },
+    {
+      "slug": "carriage",
+      "filename": "equipCarriage.webp",
+      "subject": "An enclosed four-wheeled medieval passenger carriage: curved dark wooden cabin, two side windows, hinged door, cushioned driver seat, large spoked wheels, simple leather roof and iron fittings. No horses or people.",
+      "prompt": "Use case: stylized-concept. Asset type: ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: match realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights, worn tactile materials. One complete centered subject, square composition, 5% clear margin, no clipping. Genuine transparent alpha background. No text, logo, watermark, frame, floor, ground shadow, haze, scenery or surrounding environment. High-resolution original to be resized to 640x640 and 300x300. Subject: An enclosed four-wheeled medieval passenger carriage: curved dark wooden cabin, two side windows, hinged door, cushioned driver seat, large spoked wheels, simple leather roof and iron fittings. No horses or people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5c036343-feae-479a-a6da-a92d456e2a31.png",
+      "files": [
+        {
+          "path": "equipCarriage.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 30906,
+          "sha256": "10214d5338c4b616374c7ba73cdeb6739031c61f556255b43c805dcc0adb4162"
+        },
+        {
+          "path": "large/equipCarriage.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 111838,
+          "sha256": "b2296b5b9e08a41dfc0956b09ea04533e2fe9a1e7b2295cd9edabb165dbe85e9"
+        }
+      ]
+    },
+    {
+      "slug": "cart",
+      "filename": "equipCart.webp",
+      "subject": "A simple small two-wheeled wooden hand/horse cart: open rectangular plank cargo box, exactly two large spoked wheels and two long forward shafts; plain rural construction. No horse or cargo.",
+      "prompt": "Use case: stylized-concept. Asset type: ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: match realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights, worn tactile materials. One complete centered subject, square composition, 5% clear margin, no clipping. Genuine transparent alpha background. No text, logo, watermark, frame, floor, ground shadow, haze, scenery or surrounding environment. High-resolution original to be resized to 640x640 and 300x300. Subject: A simple small two-wheeled wooden hand/horse cart: open rectangular plank cargo box, exactly two large spoked wheels and two long forward shafts; plain rural construction. No horse or cargo.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-de56d9f0-0f0c-4dd2-a430-38100eb8f65a.png",
+      "files": [
+        {
+          "path": "equipCart.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 20768,
+          "sha256": "7bec564f7d1a944c18a79fe970d89dff0d43b76d7296c6160550164c951d5e42"
+        },
+        {
+          "path": "large/equipCart.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 77196,
+          "sha256": "01a9ff2f0170aea595655848c828187c7f4347f7036e118c3619b0eb1e2784e9"
+        }
+      ]
+    },
+    {
+      "slug": "keelboat",
+      "filename": "equipKeelboat.webp",
+      "subject": "A small inland river cargo keelboat, compact broad wooden shallow-draft hull with a short mast, a single modest square canvas sail, flat working deck and low stern shelter. Smaller and simpler than an ocean sailing ship. Three-quarter isometric view, no water or crew.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including all negative spaces within ropes and rigging. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A small inland river cargo keelboat, compact broad wooden shallow-draft hull with a short mast, a single modest square canvas sail, flat working deck and low stern shelter. Smaller and simpler than an ocean sailing ship. Three-quarter isometric view, no water or crew.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-59543bbe-71c6-4435-8299-119a8853cb49.png",
+      "files": [
+        {
+          "path": "equipKeelboat.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25052,
+          "sha256": "adeb8a0d0d94016ac85ad239c4dc4c07b7f4385a74db43601cb37327a02e3498"
+        },
+        {
+          "path": "large/equipKeelboat.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 95516,
+          "sha256": "da2a7a8e04298ddc183fcaf8def38da0190f5f2ef2b1c7d922bd2439760787f7"
+        }
+      ]
+    },
+    {
+      "slug": "galley",
+      "filename": "equipGalley.webp",
+      "subject": "A complete large medieval Mediterranean galley: long low slender timber hull, bank of evenly spaced oars on both sides, one furled tan square sail, high stern platform and modest bronze ram. Three-quarter isometric view. No water, crew, shore or text.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including all negative spaces within ropes and rigging. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A complete large medieval Mediterranean galley: long low slender timber hull, bank of evenly spaced oars on both sides, one furled tan square sail, high stern platform and modest bronze ram. Three-quarter isometric view. No water, crew, shore or text.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-4000dca1-2470-4dfc-925f-b4514b0a7820.png",
+      "files": [
+        {
+          "path": "equipGalley.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 38488,
+          "sha256": "83d2a26400f697ff58dd1c2d813319dfd4132992f7243648044db888fc61ed7b"
+        },
+        {
+          "path": "large/equipGalley.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 139384,
+          "sha256": "6267c7c49d87698998fcebf86e25ce03136aacb623b861d798f79025ceb6be1e"
+        }
+      ]
+    },
+    {
+      "slug": "longship",
+      "filename": "equipLongship.webp",
+      "subject": "A complete Viking-style longship, long narrow clinker-built timber hull, raised carved dragon-headed prow and stern, single mast with one tan rectangular sail, a few round wooden shields along gunwales, paired oars. Clearly distinct from a galley. Three-quarter isometric view; no water or crew.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including all negative spaces within ropes and rigging. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A complete Viking-style longship, long narrow clinker-built timber hull, raised carved dragon-headed prow and stern, single mast with one tan rectangular sail, a few round wooden shields along gunwales, paired oars. Clearly distinct from a galley. Three-quarter isometric view; no water or crew.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-01afaecb-522e-4f4d-a66b-4a82ee987e60.png",
+      "files": [
+        {
+          "path": "equipLongship.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 32032,
+          "sha256": "311efa9a5524efbc407e3447f00b21887b1c1271eacec0087290e345811362c0"
+        },
+        {
+          "path": "large/equipLongship.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 117982,
+          "sha256": "2d803902864da93e4e22b525674a4e6ed1e385ecf9ef816565e324f36bb29cec"
+        }
+      ]
+    },
+    {
+      "slug": "sailing-ship",
+      "filename": "equipSailingShip.webp",
+      "subject": "A complete medieval ocean-going merchant sailing ship, rounded broad timber hull, three masts with tan square and triangular canvas sails, rope rigging and raised stern cabin, no weapons. Three-quarter isometric view. No water, crew or scenery.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces within ropes and rigging. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A complete medieval ocean-going merchant sailing ship, rounded broad timber hull, three masts with tan square and triangular canvas sails, rope rigging and raised stern cabin, no weapons. Three-quarter isometric view. No water, crew or scenery.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2f7c9c0b-c22b-4c48-bc47-9d4831ac2bbc.png",
+      "files": [
+        {
+          "path": "equipSailingShip.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 38958,
+          "sha256": "6ecb19f09275dd7e910d19964e61a6ca79ab65391acedbc598330fdff00f52da"
+        },
+        {
+          "path": "large/equipSailingShip.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 150060,
+          "sha256": "1ad5c198e7ef0ca4ded8f907ecf6f3fd37ef76457c873fa04a703fba0f77b3f5"
+        }
+      ]
+    },
+    {
+      "slug": "rowboat",
+      "filename": "equipRowboat.webp",
+      "subject": "A complete small plain wooden rowboat: compact open lapstrake dinghy, three simple bench seats and a pair of resting wooden oars, worn brown planks and small iron oarlocks. Three-quarter overhead view. No sail, mast, water or people.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces within ropes and rigging. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A complete small plain wooden rowboat: compact open lapstrake dinghy, three simple bench seats and a pair of resting wooden oars, worn brown planks and small iron oarlocks. Three-quarter overhead view. No sail, mast, water or people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-31275b03-cfba-487b-b9b0-59308cc9d8f0.png",
+      "files": [
+        {
+          "path": "equipRowboat.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22566,
+          "sha256": "b74543451c195885a4dd182397e2f3794e9262df5cdecd487dae4b281a4955fe"
+        },
+        {
+          "path": "large/equipRowboat.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 92546,
+          "sha256": "baffa8eb72bd825122841caa0233e3923ee18c1650951e8cf13acffd8452b0df"
+        }
+      ]
+    },
+    {
+      "slug": "sled",
+      "filename": "equipSled.webp",
+      "subject": "A medieval wooden cargo sled: low rectangular plank platform on exactly two long curved wooden runners, simple short side rails and a rope loop at the front. No wheels, cargo, snow, ground or people. Three-quarter view.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces within ropes and rigging. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A medieval wooden cargo sled: low rectangular plank platform on exactly two long curved wooden runners, simple short side rails and a rope loop at the front. No wheels, cargo, snow, ground or people. Three-quarter view.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ca96c196-743d-47ad-b9c9-a7e9cc3a89a2.png",
+      "files": [
+        {
+          "path": "equipSled.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 19326,
+          "sha256": "b5ffe6f37f59a20651af4e0f4491d51d888b7d1cd03db972f599f10abfd62542"
+        },
+        {
+          "path": "large/equipSled.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 70206,
+          "sha256": "b7c2614dc0ae4a38bbace6d6baec84cd51750a429f6a69a54e28a97eec12052d"
+        }
+      ]
+    },
+    {
+      "slug": "wagon",
+      "filename": "equipWagon.webp",
+      "subject": "A medieval four-wheeled open wooden freight wagon: long rectangular plank cargo bed, low slatted sides, four large spoked wooden wheels and a forward draw pole, visible iron wheel rims. No canvas canopy, cargo, animals or people. Three-quarter view.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A medieval four-wheeled open wooden freight wagon: long rectangular plank cargo bed, low slatted sides, four large spoked wooden wheels and a forward draw pole, visible iron wheel rims. No canvas canopy, cargo, animals or people. Three-quarter view.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-cc8a37f7-3787-4492-95da-f72a1bb4858c.png",
+      "files": [
+        {
+          "path": "equipWagon.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 26404,
+          "sha256": "2c30cf7c40e3847ad7c837518755037e830eb12f13641244b482c838d3c5cdbf"
+        },
+        {
+          "path": "large/equipWagon.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 98426,
+          "sha256": "9541fca0ce7dd3b867c0102fb5e0abd1aefeabc01031982f022c129c26313cb3"
+        }
+      ]
+    },
+    {
+      "slug": "saddle-exotic",
+      "filename": "equipSaddleExotic.webp",
+      "subject": "An exotic saddle designed for a large fantastical riding beast: broad richly worked brown leather saddle, unusually deep padded seat, oversized curved pommel and high cantle, multiple heavy adjustable harness straps and large stirrups; compact coherent assembled object. Show only saddle and attached harness, no creature or stand.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: An exotic saddle designed for a large fantastical riding beast: broad richly worked brown leather saddle, unusually deep padded seat, oversized curved pommel and high cantle, multiple heavy adjustable harness straps and large stirrups; compact coherent assembled object. Show only saddle and attached harness, no creature or stand.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6a9a2882-31d8-4174-be25-d7e3b34e91c2.png",
+      "files": [
+        {
+          "path": "equipSaddleExotic.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 31508,
+          "sha256": "24754b4a36ae0b1cc48ec5d5faac7b6f68856e493f4f0db4c670f5f156666c23"
+        },
+        {
+          "path": "large/equipSaddleExotic.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 113380,
+          "sha256": "669551d2bbfd1f02f67926c018c437c4cb116e2dea9c51a76885a1d30d049089"
+        }
+      ]
+    },
+    {
+      "slug": "warship",
+      "filename": "equipWarship.webp",
+      "subject": "A complete formidable medieval fantasy warship: broad dark timber hull with reinforced iron bands, high protective forecastle and sterncastle, two masts with tan sails, a small deck ballista and wooden defensive shields. Distinct from an ordinary merchant sailing ship. No cannons, water, crew or scenery. Three-quarter isometric view.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A complete formidable medieval fantasy warship: broad dark timber hull with reinforced iron bands, high protective forecastle and sterncastle, two masts with tan sails, a small deck ballista and wooden defensive shields. Distinct from an ordinary merchant sailing ship. No cannons, water, crew or scenery. Three-quarter isometric view.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-21183d68-fd70-4e14-8262-b8acc6ce78e7.png",
+      "files": [
+        {
+          "path": "equipWarship.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 30954,
+          "sha256": "1c932404e0dc4509c3318f623d3b809d65bb3b7158ff0a9fc91fc9c0500e08be"
+        },
+        {
+          "path": "large/equipWarship.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 115300,
+          "sha256": "7ac4b5f06f629712288f5e74c210123d989a4b1bb5fb32ffec99a3e13ce7f07a"
+        }
+      ]
+    },
+    {
+      "slug": "saddle-riding",
+      "filename": "equipSaddleRiding.webp",
+      "subject": "A plain everyday medieval riding saddle: simple worn chestnut leather seat with low pommel and modest cantle, soft folded cream saddle blanket, one girth strap and a pair of simple iron stirrups. Lighter, less armored and simpler than a military saddle. No horse, rider or stand.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A plain everyday medieval riding saddle: simple worn chestnut leather seat with low pommel and modest cantle, soft folded cream saddle blanket, one girth strap and a pair of simple iron stirrups. Lighter, less armored and simpler than a military saddle. No horse, rider or stand.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-4ffb8979-6a3e-4530-b87c-0c29f61eb5bd.png",
+      "files": [
+        {
+          "path": "equipSaddleRiding.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 24034,
+          "sha256": "6d7d025daa0338d6b338b8a74ea91a28ec29411085cb8291aa88a02cd817dcec"
+        },
+        {
+          "path": "large/equipSaddleRiding.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 94710,
+          "sha256": "66601b97ab689f84332fe681fe8c8e7fe035123313ebbc9d690151f5661acc8c"
+        }
+      ]
+    },
+    {
+      "slug": "saddle-military",
+      "filename": "equipSaddleMilitary.webp",
+      "subject": "A practical medieval military cavalry saddle: rugged dark brown leather, strongly raised pommel and high cantle supporting the rider, thick quilted saddle blanket, robust girth straps, paired iron stirrups and restrained reinforced fittings. Show the complete saddle only, no horse, rider, weapons or stand.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A practical medieval military cavalry saddle: rugged dark brown leather, strongly raised pommel and high cantle supporting the rider, thick quilted saddle blanket, robust girth straps, paired iron stirrups and restrained reinforced fittings. Show the complete saddle only, no horse, rider, weapons or stand.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1d110b53-5cdf-47be-9d69-fedf36058e59.png",
+      "files": [
+        {
+          "path": "equipSaddleMilitary.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25562,
+          "sha256": "39351007e4e382eb053e50930ac7e84172065defab8a7290c83314a243222750"
+        },
+        {
+          "path": "large/equipSaddleMilitary.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 95550,
+          "sha256": "4fb6b28c65e616c7b4dbca5893f1264be5af7b973fbb9206dcc6d709c6a6000e"
+        }
+      ]
+    },
+    {
+      "slug": "feed-per-day",
+      "filename": "equipFeedPerDay.webp",
+      "subject": "One compact grouping representing a day's horse feed: open coarse burlap feed sack filled with golden oats, with a small tied bundle of dry hay resting beside it. Natural grain and straw detail, muted earthy palette. No animal, trough, scenery or ground plane.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy browns, weathered steel, restrained highlights and worn tactile materials. Full object centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: One compact grouping representing a day's horse feed: open coarse burlap feed sack filled with golden oats, with a small tied bundle of dry hay resting beside it. Natural grain and straw detail, muted earthy palette. No animal, trough, scenery or ground plane.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-549a06ea-9e34-4a4a-81fb-47b17cd21ba9.png",
+      "files": [
+        {
+          "path": "equipFeedPerDay.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 34864,
+          "sha256": "d02d258704a3aeb32f5d1cdcda69622572ad42a4101b6bbd7bd0fc278dfa3756"
+        },
+        {
+          "path": "large/equipFeedPerDay.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 146516,
+          "sha256": "b4b350e20b5342e5dbf9982f4164419647d8dae40864381a606d1fd53eb9f16f"
+        }
+      ]
+    },
+    {
+      "slug": "stabling-per-day",
+      "filename": "equipStablingPerDay.webp",
+      "subject": "A miniature medieval stable building representing overnight stabling: compact single timber-and-stone horse stall with a sloped worn wooden shingle roof, open upper doorway, hinged half-height stable door, small hay rack and a little straw visible inside. Isolated entire building, architectural inventory illustration, three-quarter isometric view. No surrounding ground, landscape, horse or people.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy colours, weathered steel, restrained highlights and worn tactile materials. Full subject centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or surrounding scenery. High-resolution original for 640x640 and 300x300. Subject: A miniature medieval stable building representing overnight stabling: compact single timber-and-stone horse stall with a sloped worn wooden shingle roof, open upper doorway, hinged half-height stable door, small hay rack and a little straw visible inside. Isolated entire building, architectural inventory illustration, three-quarter isometric view. No surrounding ground, landscape, horse or people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-dd90efed-0b29-4c75-939a-3b53df13552c.png",
+      "files": [
+        {
+          "path": "equipStablingPerDay.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25016,
+          "sha256": "b5025a4c3bd669144ca341bc15a6147dfb785a3a672f3d844e90d91f9c672435"
+        },
+        {
+          "path": "large/equipStablingPerDay.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 105366,
+          "sha256": "9e6976d518a893493880fdf1bb7c7c5b93eb684191207b22780e42e94b7d8052"
+        }
+      ]
+    },
+    {
+      "slug": "gaming-set",
+      "filename": "equipGamingSet.webp",
+      "subject": "One compact generic tabletop gaming set: a small folded brown leather game board with a handful of ivory dice, carved wooden playing tokens and a neat stack of decorative unlettered playing cards beside it. Coherent grouping, readable individual components. No text, numbers, logos, table or hands.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy colours, weathered steel, restrained highlights and worn tactile materials. Full subject centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or surrounding scenery. High-resolution original for 640x640 and 300x300. Subject: One compact generic tabletop gaming set: a small folded brown leather game board with a handful of ivory dice, carved wooden playing tokens and a neat stack of decorative unlettered playing cards beside it. Coherent grouping, readable individual components. No text, numbers, logos, table or hands.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-bbbf5e83-2932-4a95-8bdd-ce009b698c0d.png",
+      "files": [
+        {
+          "path": "equipGamingSet.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 30678,
+          "sha256": "1b873e74c49a630c19cba73b40cf55dc7350d0127950629002aa64aa56c20430"
+        },
+        {
+          "path": "large/equipGamingSet.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 117292,
+          "sha256": "8cd9e9bf291f3705f7f4f7692aa70ec6ec9cff813cc406899a267d8fef80101c"
+        }
+      ]
+    },
+    {
+      "slug": "druidic-focus-sprig-of-mistletoe",
+      "filename": "equipDruidicFocusSprigOfMistletoe-v2.webp",
+      "subject": "A single botanically recognizable druidic sprig of mistletoe: forked slender woody stems, paired smooth oval leathery green leaves and small clusters of pearly WHITE berries, tied at the base with a short natural twine loop. Full delicate sprig, centered. Not holly: no spiky leaves, red berries, ribbons, magic glow, rune, vase or wand.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy colours, weathered steel, restrained highlights and worn tactile materials. Full subject centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or surrounding scenery. High-resolution original for 640x640 and 300x300. Subject: A single botanically recognizable druidic sprig of mistletoe: forked slender woody stems, paired smooth oval leathery green leaves and small clusters of pearly WHITE berries, tied at the base with a short natural twine loop. Full delicate sprig, centered. Not holly: no spiky leaves, red berries, ribbons, magic glow, rune, vase or wand.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5f5741f8-16c2-4eee-a8b9-972a9fe03655.png",
+      "files": [
+        {
+          "path": "equipDruidicFocusSprigOfMistletoe-v2.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 27056,
+          "sha256": "67175e8e61968b08d196716cf0dc57bdb76bf67c93f78a66a44dce610636732f"
+        },
+        {
+          "path": "large/equipDruidicFocusSprigOfMistletoe-v2.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 85360,
+          "sha256": "d1cfb7d58d9017910d825089f4c96b22ae4f5d4acb7e6bad9f760a6650baf91e"
+        }
+      ]
+    },
+    {
+      "slug": "handaxe",
+      "filename": "equipHandaxe.webp",
+      "subject": "A plain functional one-handed handaxe: short straight ash-wood haft, compact single-bearded steel axe head, modest leather-wrapped lower grip, worn sharp edge. Clearly a light throwable hatchet with compact proportions, not a battleaxe. Entire weapon diagonally positioned; no second weapon, shield or ground.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy colours, weathered steel, restrained highlights and worn tactile materials. Full subject centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A plain functional one-handed handaxe: short straight ash-wood haft, compact single-bearded steel axe head, modest leather-wrapped lower grip, worn sharp edge. Clearly a light throwable hatchet with compact proportions, not a battleaxe. Entire weapon diagonally positioned; no second weapon, shield or ground.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-167ff73c-62c5-4684-888d-d6a4e8cbcae6.png",
+      "files": [
+        {
+          "path": "equipHandaxe.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 10018,
+          "sha256": "f64e1bc361abf3aa2f761a5262d83fbb3506479e7adba675d49f9f2c9046ba28"
+        },
+        {
+          "path": "large/equipHandaxe.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 35772,
+          "sha256": "5c097a5113636c48783c4a7568999914ecab8f76fe45df1c55c037c6af32d06c"
+        }
+      ]
+    },
+    {
+      "slug": "longbow",
+      "filename": "equipLongbow.webp",
+      "subject": "A complete tall traditional six-foot yew longbow: simple slender gently curved D-shaped wooden bow, taut single bowstring, small leather central grip, elegant plain tips. Realistic narrow proportions visibly distinguish it from a shortbow or ornate recurve bow. Entire long bow fits diagonally with clear margin. No arrows, quiver, magic or background.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy colours, weathered steel, restrained highlights and worn tactile materials. Full subject centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A complete tall traditional six-foot yew longbow: simple slender gently curved D-shaped wooden bow, taut single bowstring, small leather central grip, elegant plain tips. Realistic narrow proportions visibly distinguish it from a shortbow or ornate recurve bow. Entire long bow fits diagonally with clear margin. No arrows, quiver, magic or background.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0c924e6b-c64c-4f11-a64f-d2ffe4f2e634.png",
+      "files": [
+        {
+          "path": "equipLongbow.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 8978,
+          "sha256": "b822921c9aebbdd7a0bb772136b71ea45b7fb0358ad72101b5a4967fc8f8ce98"
+        },
+        {
+          "path": "large/equipLongbow.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 27116,
+          "sha256": "07302eab79ec15c16dfb7bbb813b055416359f881501063724df6f3da16d64f9"
+        }
+      ]
+    },
+    {
+      "slug": "longsword",
+      "filename": "equipLongsword.webp",
+      "subject": "A complete plain medieval longsword: long straight double-edged weathered steel blade, central fuller, simple straight cruciform steel crossguard, brown leather hand-and-a-half grip and round steel pommel. Well-proportioned blade and grip, useful martial weapon without ornament. Entire sword diagonally fits with clear margin. No sheath, second weapon, magic or background.",
+      "prompt": "Use case: stylized-concept. ONE original fantasy RPG equipment inventory illustration. References are STYLE ONLY: realistic hand-painted equipment, fine dark outlines, muted earthy colours, weathered steel, restrained highlights and worn tactile materials. Full subject centered, square composition, 5% clear margin, no clipping. Genuine transparent alpha background, including negative spaces. No text, logos, frame, floor, ground shadow, glow, haze or scenery. High-resolution original for 640x640 and 300x300. Subject: A complete plain medieval longsword: long straight double-edged weathered steel blade, central fuller, simple straight cruciform steel crossguard, brown leather hand-and-a-half grip and round steel pommel. Well-proportioned blade and grip, useful martial weapon without ornament. Entire sword diagonally fits with clear margin. No sheath, second weapon, magic or background.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-bf3ede3a-fbd5-476a-8d11-04c229073af2.png",
+      "files": [
+        {
+          "path": "equipLongsword.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 7710,
+          "sha256": "5d0cae3eff1333f6e4770874badb29595078309233c9925c0906ba9d264565fb"
+        },
+        {
+          "path": "large/equipLongsword.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 23930,
+          "sha256": "047ff5285bd4033a1472d9813648df62692dae6b4ae175595fcd680f39b72d04"
+        }
+      ]
+    }
+  ],
+  "style_reference_paths": [
+    "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+    "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+  ],
+  "notes": [
+    "All 22 items have both a 300x300 and 640x640 transparent WebP export.",
+    "Existing mistletoe art was preserved; the new sprig is saved with a -v2 suffix.",
+    "Generic axe, bow, and sword art was preserved; dedicated handaxe, longbow, and longsword assets were added."
+  ]
+}

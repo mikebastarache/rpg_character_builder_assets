@@ -1,0 +1,4635 @@
+{
+  "comparison": "Conservative normalized-name audit of app spell JSON against local artwork, including known BG3 naming aliases. Unmatched names require review: some may reuse differently named or shared artwork. This does not change app content or add generation work.",
+  "total_app_spells": 432,
+  "unmatched_art_names": 227,
+  "unmatched_icon_names": 229,
+  "unmatched_art_by_level": {
+    "0": 10,
+    "1": 17,
+    "2": 30,
+    "3": 23,
+    "4": 24,
+    "5": 38,
+    "6": 16,
+    "7": 25,
+    "8": 23,
+    "9": 21
+  },
+  "unmatched_art": [
+    {
+      "name": "Aura of Evasion",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Battle Familiar",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Catnap",
+      "level": 3,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detonate",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Disruptive Tune",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Distorted Distance",
+      "level": 4,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dueling Ground",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Enervation",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Entrancing Mirrors",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Festering Blast",
+      "level": 4,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Fractured Awareness",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Grave Ground",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Hindsight",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Illusory Dragon",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Inflict Doubt",
+      "level": 3,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Invulnerability",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Iron Body",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Lightning Ring",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Moment of Prescience",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mordenkainen's Lucubration",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Negative Energy Flood",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Power Word Pain",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Reweave Fate",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Spirit Lantern",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Dinosaur",
+      "level": 6,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Plant",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Transfix",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Uncertain Footing",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Vision of Elapsing Eons",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wail of the Banshee",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Waves of Exhaustion",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wither and Bloom",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Zone of Amicability",
+      "level": 4,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Homunculus Servant",
+      "level": 2,
+      "source": "efa",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcane Vigor",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Armor of Agathys",
+      "level": 1,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Aura of Purity",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Beast Sense",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Circle of Power",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Conjure Volley",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Cordon of Arrows",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Fount of Moonlight",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Jallarzi's Storm of Radiance",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mind Sliver",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Power Word Fortify",
+      "level": 7,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Steel Wind Strike",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Aberration",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Beast",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Celestial",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Construct",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Elemental",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Fey",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Fiend",
+      "level": 6,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Undead",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Swift Quiver",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Synaptic Static",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tasha's Bubbling Cauldron",
+      "level": 6,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Telepathy",
+      "level": 8,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Thunderclap",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Word of Radiance",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Yolande's Regal Presence",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Alarm",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Alter Self",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Animal Messenger",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Animal Shapes",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Animate Objects",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Antilife Shell",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Antimagic Field",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Antipathy/Sympathy",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcane Eye",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcane Hand",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcane Sword",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcanist\u2019s Magic Aura",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Astral Projection",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Augury",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Aura of Life",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Awaken",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Befuddlement",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Blindness/Deafness",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Charm Monster",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Clairvoyance",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Clone",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Color Spray",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Commune with Nature",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Commune",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Comprehend Languages",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Compulsion",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Conjure Animals",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Conjure Celestial",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Conjure Fey",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Contact Other Plane",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Contingency",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Continual Flame",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Control Water",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Control Weather",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Create Food and Water",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Creation",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Delayed Blast Fireball",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Demiplane",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detect Evil and Good",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detect Magic",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detect Poison and Disease",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dispel Magic",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Divination",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Divine Favor",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Divine Smite",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Divine Word",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dominate Monster",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dragon\u2019s Breath",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dream",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Earthquake",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Elementalism",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Etherealness",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Fabricate",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Faithful Hound",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Find Steed",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Find the Path",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Find Traps",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Fire Storm",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Floating Disk",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Forbiddance",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Forcecage",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Foresight",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Gate",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Geas",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Gentle Repose",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Giant Insect",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Glibness",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Guards and Wards",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Hallow",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Hallucinatory Terrain",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Holy Aura",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Identify",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Illusory Script",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Imprisonment",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Incendiary Cloud",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Instant Summons",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Jump",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Legend Lore",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Levitate",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Locate Animals or Plants",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Locate Creature",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Locate Object",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mage Armor",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Magic Circle",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Magic Jar",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Magic Mouth",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Magnificent Mansion",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Major Image",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mass Heal",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mass Suggestion",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Maze",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Meld into Stone",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Message",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Meteor Swarm",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mind Blank",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mirage Arcane",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mislead",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Modify Memory",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Move Earth",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Nondetection",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Passwall",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Phantom Steed",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Plane Shift",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Power Word Heal",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Power Word Stun",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Prestidigitation",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Prismatic Spray",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Prismatic Wall",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Private Sanctum",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Programmed Illusion",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Project Image",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Purify Food and Drink",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Raise Dead",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Regenerate",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Reincarnate",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Resurrection",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Reverse Gravity",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Rope Trick",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Scrying",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Secret Chest",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Sending",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Sequester",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Shapechange",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Shining Smite",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Silent Image",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Simulacrum",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Sorcerous Burst",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Spare the Dying",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Speak with Plants",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Spider Climb",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Starry Wisp",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Stone Shape",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Storm of Vengeance",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Suggestion",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Dragon",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Sunburst",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Symbol",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Telepathic Bond",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Teleport",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Teleportation Circle",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Time Stop",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tiny Hut",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tongues",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Transport via Plants",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tree Stride",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "True Polymorph",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "True Resurrection",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "True Seeing",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tsunami",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Unseen Servant",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Vitriolic Sphere",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wall of Force",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Water Breathing",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Water Walk",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Weird",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wind Wall",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wish",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Word of Recall",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Zone of Truth",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Intellect Fortress",
+      "level": 3,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Psychic Scream",
+      "level": 9,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Raulothim\u2019s Psychic Lance",
+      "level": 4,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Astral Entity",
+      "level": 3,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tasha\u2019s Mind Whip",
+      "level": 2,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Telekinetic Crush",
+      "level": 3,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Telekinetic Fling",
+      "level": 0,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    }
+  ],
+  "all_spells": [
+    {
+      "name": "Aura of Evasion",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Battle Familiar",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Catnap",
+      "level": 3,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detonate",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Disruptive Tune",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Distorted Distance",
+      "level": 4,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dueling Ground",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Enervation",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Entrancing Mirrors",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Festering Blast",
+      "level": 4,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Fractured Awareness",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Grave Ground",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Hindsight",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Illusory Dragon",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Inflict Doubt",
+      "level": 3,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Invulnerability",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Iron Body",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Lightning Ring",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Moment of Prescience",
+      "level": 8,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mordenkainen's Lucubration",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Negative Energy Flood",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Power Word Pain",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Reweave Fate",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Spirit Lantern",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Dinosaur",
+      "level": 6,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Plant",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Transfix",
+      "level": 7,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Uncertain Footing",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Vision of Elapsing Eons",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wail of the Banshee",
+      "level": 9,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Waves of Exhaustion",
+      "level": 5,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wither and Bloom",
+      "level": 2,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Zone of Amicability",
+      "level": 4,
+      "source": "au",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Homunculus Servant",
+      "level": 2,
+      "source": "efa",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcane Gate",
+      "level": 6,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Arcane Vigor",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Armor of Agathys",
+      "level": 1,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arms of Hadar",
+      "level": 1,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Aura of Purity",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Aura of Vitality",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Banishing Smite",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Beast Sense",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Blade Ward",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Blinding Smite",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Circle of Power",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Cloud of Daggers",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Compelled Duel",
+      "level": 1,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Conjure Barrage",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Conjure Volley",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Cordon of Arrows",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Crown of Madness",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Crusader's Mantle",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Destructive Wave",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Elemental Weapon",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Feign Death",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Fount of Moonlight",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Friends",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Grasping Vine",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hail of Thorns",
+      "level": 1,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hunger of Hadar",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Jallarzi's Storm of Radiance",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Lightning Arrow",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Mind Sliver",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Power Word Fortify",
+      "level": 7,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Staggering Smite",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Steel Wind Strike",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Aberration",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Beast",
+      "level": 2,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Celestial",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Construct",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Elemental",
+      "level": 4,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Fey",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Fiend",
+      "level": 6,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Undead",
+      "level": 3,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Swift Quiver",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Synaptic Static",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tasha's Bubbling Cauldron",
+      "level": 6,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Telepathy",
+      "level": 8,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Thorn Whip",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Thunderclap",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Thunderous Smite",
+      "level": 1,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Toll the Dead",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Witch Bolt",
+      "level": 1,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Word of Radiance",
+      "level": 0,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wrathful Smite",
+      "level": 1,
+      "source": "phb-2024",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Yolande's Regal Presence",
+      "level": 5,
+      "source": "phb-2024",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Acid Arrow",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Acid Splash",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Aid",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Alarm",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Alter Self",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Animal Friendship",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Animal Messenger",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Animal Shapes",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Animate Dead",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Animate Objects",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Antilife Shell",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Antimagic Field",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Antipathy/Sympathy",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcane Eye",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcane Hand",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcane Lock",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Arcane Sword",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Arcanist\u2019s Magic Aura",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Astral Projection",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Augury",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Aura of Life",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Awaken",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Bane",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Banishment",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Barkskin",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Beacon of Hope",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Befuddlement",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Bestow Curse",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Black Tentacles",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Blade Barrier",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Bless",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Blight",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Blindness/Deafness",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Blink",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Blur",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Burning Hands",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Call Lightning",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Calm Emotions",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Chain Lightning",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Charm Monster",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Charm Person",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Chill Touch",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Chromatic Orb",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Circle of Death",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Clairvoyance",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Clone",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Cloudkill",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Color Spray",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Command",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Commune with Nature",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Commune",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Comprehend Languages",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Compulsion",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Cone of Cold",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Confusion",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Conjure Animals",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Conjure Celestial",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Conjure Elemental",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Conjure Fey",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Conjure Minor Elementals",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Conjure Woodland Beings",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Contact Other Plane",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Contagion",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Contingency",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Continual Flame",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Control Water",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Control Weather",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Counterspell",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Create Food and Water",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Create or Destroy Water",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Create Undead",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Creation",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Cure Wounds",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Dancing Lights",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Darkness",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Darkvision",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Daylight",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Death Ward",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Delayed Blast Fireball",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Demiplane",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detect Evil and Good",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detect Magic",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detect Poison and Disease",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Detect Thoughts",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Dimension Door",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Disguise Self",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Disintegrate",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Dispel Evil and Good",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Dispel Magic",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dissonant Whispers",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Divination",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Divine Favor",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Divine Smite",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Divine Word",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dominate Beast",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Dominate Monster",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dominate Person",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Dragon\u2019s Breath",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Dream",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Druidcraft",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": true
+    },
+    {
+      "name": "Earthquake",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Eldritch Blast",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Elementalism",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Enhance Ability",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Enlarge/Reduce",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Ensnaring Strike",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Entangle",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Enthrall",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Etherealness",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Expeditious Retreat",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Eyebite",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Fabricate",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Faerie Fire",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Faithful Hound",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "False Life",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Fear",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Feather Fall",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Find Familiar",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Find Steed",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Find the Path",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Find Traps",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Finger of Death",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Fire Bolt",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Fire Shield",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Fire Storm",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Fireball",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Flame Blade",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Flame Strike",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Flaming Sphere",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Flesh to Stone",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Floating Disk",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Fly",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Fog Cloud",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Forbiddance",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Forcecage",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Foresight",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Freedom of Movement",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Freezing Sphere",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Gaseous Form",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Gate",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Geas",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Gentle Repose",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Giant Insect",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Glibness",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Globe of Invulnerability",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Glyph of Warding",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Goodberry",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Grease",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Greater Invisibility",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Greater Restoration",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Guardian of Faith",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Guards and Wards",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Guidance",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Guiding Bolt",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Gust of Wind",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hallow",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Hallucinatory Terrain",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Harm",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Haste",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Heal",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Healing Word",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Heat Metal",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hellish Rebuke",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Heroes\u2019 Feast",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Heroism",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hex",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hideous Laughter",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hold Monster",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hold Person",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Holy Aura",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Hunter\u2019s Mark",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Hypnotic Pattern",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Ice Knife",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Ice Storm",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Identify",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Illusory Script",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Imprisonment",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Incendiary Cloud",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Inflict Wounds",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Insect Plague",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Instant Summons",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Invisibility",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Irresistible Dance",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Jump",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Knock",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Legend Lore",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Lesser Restoration",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Levitate",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Light",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Locate Animals or Plants",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Locate Creature",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Locate Object",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Longstrider",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Mage Armor",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mage Hand",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Magic Circle",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Magic Jar",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Magic Missile",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Magic Mouth",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Magic Weapon",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Magnificent Mansion",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Major Image",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mass Cure Wounds",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Mass Heal",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mass Healing Word",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Mass Suggestion",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Maze",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Meld into Stone",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mending",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": true
+    },
+    {
+      "name": "Message",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Meteor Swarm",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mind Blank",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mind Spike",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Minor Illusion",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Mirage Arcane",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Mirror Image",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Mislead",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Misty Step",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Modify Memory",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Moonbeam",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Move Earth",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Nondetection",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Pass without Trace",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Passwall",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Phantasmal Force",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Phantasmal Killer",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Phantom Steed",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Planar Ally",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Planar Binding",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Plane Shift",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Plant Growth",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Poison Spray",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Polymorph",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Power Word Heal",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Power Word Kill",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Power Word Stun",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Prayer of Healing",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Prestidigitation",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Prismatic Spray",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Prismatic Wall",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Private Sanctum",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Produce Flame",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Programmed Illusion",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Project Image",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Protection from Energy",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Protection from Evil and Good",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Protection from Poison",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Purify Food and Drink",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Raise Dead",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Ray of Enfeeblement",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Ray of Frost",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Ray of Sickness",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Regenerate",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Reincarnate",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Remove Curse",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Resilient Sphere",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Resistance",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Resurrection",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Reverse Gravity",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Revivify",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Rope Trick",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Sacred Flame",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Sanctuary",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Scorching Ray",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Scrying",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Searing Smite",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Secret Chest",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "See Invisibility",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Seeming",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Sending",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Sequester",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Shapechange",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Shatter",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Shield of Faith",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Shield",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Shillelagh",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Shining Smite",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Shocking Grasp",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Silence",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Silent Image",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Simulacrum",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Sleep",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Sleet Storm",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Slow",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Sorcerous Burst",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Spare the Dying",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Speak with Animals",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Speak with Dead",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Speak with Plants",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Spider Climb",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Spike Growth",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Spirit Guardians",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Spiritual Weapon",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Starry Wisp",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Stinking Cloud",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Stone Shape",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Stoneskin",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Storm of Vengeance",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Suggestion",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Dragon",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Sunbeam",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Sunburst",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Symbol",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Telekinesis",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Telepathic Bond",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Teleport",
+      "level": 7,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Teleportation Circle",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Thaumaturgy",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Thunderwave",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Time Stop",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tiny Hut",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tongues",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Transport via Plants",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tree Stride",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "True Polymorph",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "True Resurrection",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "True Seeing",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "True Strike",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Tsunami",
+      "level": 8,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Unseen Servant",
+      "level": 1,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Vampiric Touch",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Vicious Mockery",
+      "level": 0,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Vitriolic Sphere",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wall of Fire",
+      "level": 4,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Wall of Force",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wall of Ice",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Wall of Stone",
+      "level": 5,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Wall of Thorns",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Warding Bond",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Water Breathing",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Water Walk",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Web",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Weird",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wind Walk",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": true,
+      "has_art": true
+    },
+    {
+      "name": "Wind Wall",
+      "level": 3,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Wish",
+      "level": 9,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Word of Recall",
+      "level": 6,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Zone of Truth",
+      "level": 2,
+      "source": "srd-5.2.1",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Intellect Fortress",
+      "level": 3,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Psychic Scream",
+      "level": 9,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Raulothim\u2019s Psychic Lance",
+      "level": 4,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Summon Astral Entity",
+      "level": 3,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Tasha\u2019s Mind Whip",
+      "level": 2,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Telekinetic Crush",
+      "level": 3,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    },
+    {
+      "name": "Telekinetic Fling",
+      "level": 0,
+      "source": "ua-2025",
+      "has_icon": false,
+      "has_art": false
+    }
+  ]
+}
