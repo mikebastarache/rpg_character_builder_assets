@@ -1,0 +1,814 @@
+{
+  "generator": "built-in image_gen",
+  "summary": {
+    "complete": 25,
+    "pending": 0
+  },
+  "items": [
+    {
+      "stem": "sculptorOfFlesh",
+      "name": "Sculptor of Flesh",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/sculptorOfFlesh.png",
+      "filename": "sculptorOfFlesh.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "tiefling",
+      "source_icon_sha256": "08d24dd78899c9b85bf421eb881db887f39e9e77aa34048306ecd46a030a9f82",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. One original square painterly fantasy illustration for Sculptor of Flesh, representing harmless polymorph magic. Primary character: male tiefling, mature wise adult. A peaceful warlock smiling beside a sheep as a gentle magical swirl suggests a willing companion has taken animal form. Serene moonlit meadow, tactile painted textures, jewel-toned magic, detailed cloth and atmospheric light. No distress, injury, physical distortion, gore, violence, lettering, watermark or border. Do not draw a literal sculpture or body modification. Full edge-to-edge scene.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/sculptorOfFlesh.png"
+      ],
+      "last_error": "Image generation output was rejected for violence; no image saved.",
+      "retry_scene": "A peaceful elderly fantasy warlock using harmless polymorph magic: a willing companion gently transforming into a sheep in a meadow, soft swirling light, whimsical nonviolent atmosphere, no wounds or body horror.",
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/sculptorOfFlesh.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-81a8d9f0-a634-4000-9151-de81ce3a486e.png",
+      "jpeg_quality": 34,
+      "bytes": 49376,
+      "sha256": "ae92ba4e8abe40dbd9f86f2fcd62a412570e3c889215362ae33db9260cce87f9",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "splitEnchantment",
+      "name": "Split Enchantment",
+      "types": [
+        "Subclass Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/splitEnchantment.png",
+      "filename": "splitEnchantment.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "half-orc",
+      "source_icon_sha256": "76f1dcb32f58d5de0bdac7c07dbc9636f95ad56e813e59610ef580ea86b0d12a",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Split Enchantment. Subject and scene: A vivid literal narrative illustration of Split Enchantment, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male half-orc, an adult in their thirties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/splitEnchantment.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/splitEnchantment.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e4399998-7b47-4cac-bfa2-247b289453cf.png",
+      "jpeg_quality": 49,
+      "bytes": 50179,
+      "sha256": "0ed9a28424914da301cd5b69183b59d6c34b9a3fb185ddb7b59c243b13f22918",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "stoneCamouflage",
+      "name": "Stone Camouflage",
+      "types": [
+        "Trait"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/stoneCamouflage.png",
+      "filename": "stoneCamouflage.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "deep gnome",
+      "source_icon_sha256": "4576e2f21c9519e30e0a8a16086aff1d43507afd2ec897e740130ee3bfd3f08f",
+      "character_age": "a seasoned adult in their forties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Stone Camouflage. Subject and scene: A vivid literal narrative illustration of Stone Camouflage, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female deep gnome, a seasoned adult in their forties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/stoneCamouflage.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/stoneCamouflage.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f2048260-da3b-4909-b29a-6b83eb2ff7a3.png",
+      "jpeg_quality": 43,
+      "bytes": 50116,
+      "sha256": "defe29598a5483a1891419bf1a1f50e724fb5daa0741ce0097b5a43c97007dd0",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "strengthOfTheGrave",
+      "name": "Strength of the Grave",
+      "types": [
+        "Feature",
+        "Subclass Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/strengthOfTheGrave.png",
+      "filename": "strengthOfTheGrave.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "goliath",
+      "source_icon_sha256": "382a3a6c4afabd38800c96f34b5748e631249a237b73a906b58d246b76878ffc",
+      "character_age": "an experienced adult in their fifties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Strength of the Grave. Subject and scene: A vivid literal narrative illustration of Strength of the Grave, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male goliath, an experienced adult in their fifties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/strengthOfTheGrave.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/strengthOfTheGrave.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-9b56e6d8-9266-4b14-b873-faa73bcf2ba5.png",
+      "jpeg_quality": 36,
+      "bytes": 49939,
+      "sha256": "36b1d7476b6716daefc115d7358db3d5df422e03e1f87faf89cab435fae3a6a5",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "sweepingAttack",
+      "name": "Sweeping Attack",
+      "types": [
+        "Passive Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/sweepingAttack.png",
+      "filename": "sweepingAttack.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "halfling",
+      "source_icon_sha256": "12c41e54542f0c419fe9dcc075f3eb627c4258846a47c94fc5737d5d9179d646",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Sweeping Attack. Subject and scene: A vivid literal narrative illustration of Sweeping Attack, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female halfling, an adult in their thirties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/sweepingAttack.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/sweepingAttack.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3fc9f7a9-0dd6-4d59-bfb2-461e7aeb37d0.png",
+      "jpeg_quality": 41,
+      "bytes": 50257,
+      "sha256": "9a5c7885a87c4a33d605ae07d4858795aaab4c289b4a208aae8a621400f53e69",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "tavernBrawler",
+      "name": "Tavern Brawler",
+      "types": [
+        "Class Feature",
+        "Feat"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tavernBrawler.png",
+      "filename": "tavernBrawler.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "elf",
+      "source_icon_sha256": "1aa49c865f84274a1b0f5cd368ed1e8bffaf577cfe2562c3439643f98bb26257",
+      "character_age": "a seasoned adult in their forties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Tavern Brawler. Subject and scene: A vivid literal narrative illustration of Tavern Brawler, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male elf, a seasoned adult in their forties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tavernBrawler.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tavernBrawler.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5cf7d56a-d2b1-42ae-acf1-bc6edcfbf491.png",
+      "jpeg_quality": 46,
+      "bytes": 50463,
+      "sha256": "d0843b8a9720eba6fa75dfd7cca41ac2f385a69aae035761450172f0df190ff1",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "thiefOfFiveFates",
+      "name": "Thief of Five Fates",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thiefOfFiveFates.png",
+      "filename": "thiefOfFiveFates.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "human",
+      "source_icon_sha256": "dc9ae352efbc378bb8077dd12ead272698305a2a16cb72c8bf246e969df4d263",
+      "character_age": "an experienced adult in their fifties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Thief of Five Fates. Subject and scene: A vivid literal narrative illustration of Thief of Five Fates, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female human, an experienced adult in their fifties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thiefOfFiveFates.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thiefOfFiveFates.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b7214936-b1b2-4775-8849-33f02fd51679.png",
+      "jpeg_quality": 49,
+      "bytes": 50357,
+      "sha256": "56c9e29efd707335e7083aee98fb1ade361dadac0f27d47a69ec41fbe80b2a3e",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "thoughtShieldPsychicReflection",
+      "name": "Thought Shield: Psychic Reflection",
+      "types": [
+        "Subclass Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thoughtShieldPsychicReflection.png",
+      "filename": "thoughtShieldPsychicReflection.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dwarf",
+      "source_icon_sha256": "eaf8ff6ab5e74085c977e4257eb6bafd7fa198fe8c4099fd6b37645361c18aaa",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Thought Shield: Psychic Reflection. Subject and scene: A vivid literal narrative illustration of Thought Shield: Psychic Reflection, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male dwarf, an adult in their thirties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thoughtShieldPsychicReflection.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thoughtShieldPsychicReflection.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-30a3a9b1-8723-44a3-acde-bd038f568508.png",
+      "jpeg_quality": 45,
+      "bytes": 49591,
+      "sha256": "19082c69dd638fbcf0ee569ac0c65051feb6e0eb68a5dcac24e5c4fbe69904cd",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "thoughtShieldPsychicResistance",
+      "name": "Thought Shield: Psychic Resistance",
+      "types": [
+        "Subclass Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thoughtShieldPsychicResistance.png",
+      "filename": "thoughtShieldPsychicResistance.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "gnome",
+      "source_icon_sha256": "9154bcd0e73f7d5b61e70d7a7a27671a2bcee90be0b995e588b877e9450a639a",
+      "character_age": "a seasoned adult in their forties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Thought Shield: Psychic Resistance. Subject and scene: A vivid literal narrative illustration of Thought Shield: Psychic Resistance, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female gnome, a seasoned adult in their forties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thoughtShieldPsychicResistance.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/thoughtShieldPsychicResistance.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5a27e586-af33-450d-8ce2-b1ebff6902ed.png",
+      "jpeg_quality": 49,
+      "bytes": 50062,
+      "sha256": "ecc42112b07f1ecae1316d415489434388da9eb5a3c52f9ab8db55a2475af736",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "tidesOfChaos",
+      "name": "Tides of Chaos",
+      "types": [
+        "Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tidesOfChaos.png",
+      "filename": "tidesOfChaos.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dragonborn",
+      "source_icon_sha256": "6b262d09b4f06895d5ba295de9ebabc015f2584b703933f821a5a06c5bb86ca1",
+      "character_age": "an experienced adult in their fifties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Tides of Chaos. Subject and scene: A vivid literal narrative illustration of Tides of Chaos, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male dragonborn, an experienced adult in their fifties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tidesOfChaos.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tidesOfChaos.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f6de02eb-45b9-47b6-9c9d-2440e9927ff9.png",
+      "jpeg_quality": 33,
+      "bytes": 49798,
+      "sha256": "245b41dc9b22663f41b84d2f15fdb966f5a1810c80b78abf228d6f4ceef9ea3d",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "tough",
+      "name": "Tough",
+      "types": [
+        "Class Feature",
+        "Feat"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tough.png",
+      "filename": "tough.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "goliath",
+      "source_icon_sha256": "e561a1c719b62c520de3aa435f53729557eb8a823e30da83276679ade398acce",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Tough. Subject and scene: A vivid literal narrative illustration of Tough, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female goliath, an adult in their thirties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tough.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tough.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-36789b7e-982e-4093-b915-426e1b2f9430.png",
+      "jpeg_quality": 45,
+      "bytes": 49820,
+      "sha256": "a1c9a0b4b8430ea86d726425c092583dafd230bf7ad4814809edaf8f49199072",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "trainingInWarAndSong",
+      "name": "Training in War and Song",
+      "types": [
+        "Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/trainingInWarAndSong.png",
+      "filename": "trainingInWarAndSong.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "halfling",
+      "source_icon_sha256": "b33f0f38ab7f865c89975aae1b67db40467497392ab9aba030a9acd8e84f91ad",
+      "character_age": "a seasoned adult in their forties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Training in War and Song. Subject and scene: A vivid literal narrative illustration of Training in War and Song, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male halfling, a seasoned adult in their forties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/trainingInWarAndSong.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/trainingInWarAndSong.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-d01f7767-2695-4aa0-98cc-ef41b8712773.png",
+      "jpeg_quality": 37,
+      "bytes": 49464,
+      "sha256": "27489a3e564893f535c1412f775e62410bc4ffdc746dce0e8c01cc18085bf73d",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "tripAttack",
+      "name": "Trip Attack",
+      "types": [
+        "Passive Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tripAttack.png",
+      "filename": "tripAttack.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "elf",
+      "source_icon_sha256": "06bb4dee5839f458b3d2abb6bf448c91d39c978f0e0ba361a21b26146a6ae68a",
+      "character_age": "an experienced adult in their fifties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Trip Attack. Subject and scene: A vivid literal narrative illustration of Trip Attack, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female elf, an experienced adult in their fifties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tripAttack.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/tripAttack.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3b01e313-08b1-4204-9074-ce1dfa39f499.png",
+      "jpeg_quality": 42,
+      "bytes": 50133,
+      "sha256": "1f04115db0447c977cde64022b9a71d68f0723fabc32216d89ca9005fc7edc00",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "twinklingConstellations",
+      "name": "Twinkling Constellations",
+      "types": [
+        "Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/twinklingConstellations.png",
+      "filename": "twinklingConstellations.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "human",
+      "source_icon_sha256": "0f9138bda16814b7184464117ae33133d09ed939b59ad41a3553100fa16efc72",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Twinkling Constellations. Subject and scene: A vivid literal narrative illustration of Twinkling Constellations, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male human, an adult in their thirties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/twinklingConstellations.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/twinklingConstellations.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-78dc424b-5f8f-4f90-9d47-19accdd6d9f9.png",
+      "jpeg_quality": 42,
+      "bytes": 50325,
+      "sha256": "52cc06e4c8c190c955b8137f1fc173430d2420cc5232dfe59a0e724a8cd7e4bc",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "unarmouredDefence",
+      "name": "Unarmoured Defence",
+      "types": [
+        "Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/unarmouredDefence.png",
+      "filename": "unarmouredDefence.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "dwarf",
+      "source_icon_sha256": "ef32888fa660fc575cd90cab30f5bac8bf6b38d235006aeb4de7c6ea57b2fa81",
+      "character_age": "a seasoned adult in their forties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Unarmoured Defence. Subject and scene: A vivid literal narrative illustration of Unarmoured Defence, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female dwarf, a seasoned adult in their forties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/unarmouredDefence.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/unarmouredDefence.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-9ffcfc7d-7dfc-49a8-a8ed-f21d870e904d.png",
+      "jpeg_quality": 47,
+      "bytes": 49779,
+      "sha256": "980577b3fbe0360bec0a06f02e87dd8638d1c27b196a7f0377193692d6b4f186",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "uncannyDodge",
+      "name": "Uncanny Dodge",
+      "types": [
+        "Class Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/uncannyDodge.png",
+      "filename": "uncannyDodge.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "gnome",
+      "source_icon_sha256": "2d69ffca0b3d6244b467e1f788110d2e06190188ada3fdd9503a3633f6048032",
+      "character_age": "an experienced adult in their fifties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Uncanny Dodge. Subject and scene: A vivid literal narrative illustration of Uncanny Dodge, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male gnome, an experienced adult in their fifties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/uncannyDodge.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/uncannyDodge.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-4612e762-e6b3-477f-b050-772bb88a8643.png",
+      "jpeg_quality": 40,
+      "bytes": 49578,
+      "sha256": "a02e4fb278225ab6b844c38625598808f48557e813ea259b046256bd31469328",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "urbanTracker",
+      "name": "Urban Tracker",
+      "types": [
+        "Passive Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/urbanTracker.png",
+      "filename": "urbanTracker.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "dragonborn",
+      "source_icon_sha256": "a56c4a70028954239645099734c3fde8d2ef663c325ca878f67dc2baeb71a054",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Urban Tracker. Subject and scene: A vivid literal narrative illustration of Urban Tracker, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female dragonborn, an adult in their thirties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/urbanTracker.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/urbanTracker.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b6830d28-dcbe-4850-b239-99d5baa3d4e3.png",
+      "jpeg_quality": 40,
+      "bytes": 49884,
+      "sha256": "b7209fe655e4e9555d441228364f715488113b7e23480383f261163cee036278",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "vapraksGreed",
+      "name": "Vaprak's Greed",
+      "types": [
+        "Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/vapraksGreed.png",
+      "filename": "vapraksGreed.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "half-orc",
+      "source_icon_sha256": "3697058f16b799aef51f1140889583544991fec6f92a4109b0063f1ec36f8db0",
+      "character_age": "a seasoned adult in their forties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Vaprak's Greed. Subject and scene: A vivid literal narrative illustration of Vaprak's Greed, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male half-orc, a seasoned adult in their forties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/vapraksGreed.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/vapraksGreed.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-872e0ed4-ba12-4e7b-91e3-3a01c8d5e231.png",
+      "jpeg_quality": 38,
+      "bytes": 49648,
+      "sha256": "cf8108cb204cfaf363f6dacc4c101796fb10952a893e97af4c91a75a35853854",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "warMagic",
+      "name": "War Magic",
+      "types": [
+        "Passive Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/warMagic.png",
+      "filename": "warMagic.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "tiefling",
+      "source_icon_sha256": "8a2858ab8460d2e3abb1f26142589b91217804c616ce69dfb9e5c06c58468d31",
+      "character_age": "an experienced adult in their fifties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature War Magic. Subject and scene: A vivid literal narrative illustration of War Magic, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female tiefling, an experienced adult in their fifties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/warMagic.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/warMagic.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6fbb158d-cabf-4d52-aca4-3d1b75aebac2.png",
+      "jpeg_quality": 40,
+      "bytes": 49765,
+      "sha256": "ff8b0c2b1002bddde5545a3c7f21b2ec03e694f37d490b1a0ecd77a9373111c9",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "warPriest",
+      "name": "War Priest",
+      "types": [
+        "Subclass Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/warPriest.png",
+      "filename": "warPriest.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "elf",
+      "source_icon_sha256": "a6919f39fc95e514f25e1db5eabbaf771ccd8ae9cb19e47899151ef8c3bdf375",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature War Priest. Subject and scene: A vivid literal narrative illustration of War Priest, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male elf, an adult in their thirties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/warPriest.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/warPriest.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ebf7c1b6-084b-49fc-bd9c-a7f4692f713a.png",
+      "jpeg_quality": 35,
+      "bytes": 49740,
+      "sha256": "98d18b7036b663a5bac7aba32ea7a40d944049d3b87b2031158c0899dd401e22",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "wardingFlare",
+      "name": "Warding Flare",
+      "types": [
+        "Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wardingFlare.png",
+      "filename": "wardingFlare.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "human",
+      "source_icon_sha256": "636b99c4e23ab19dd90af8de703ef219593e6acb72f53c6666f0fd3ca4cc252e",
+      "character_age": "a seasoned adult in their forties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Warding Flare. Subject and scene: A vivid literal narrative illustration of Warding Flare, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female human, a seasoned adult in their forties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wardingFlare.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wardingFlare.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-d45b212a-bd12-4d70-96ff-46c6336eb0b3.png",
+      "jpeg_quality": 55,
+      "bytes": 49817,
+      "sha256": "631682d19287b270425644910848bbf83c55931c72b96641334baa173f12010a",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "whispersOfTheGrave",
+      "name": "Whispers of the Grave",
+      "types": [
+        "Eldritch Invocation"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/whispersOfTheGrave.png",
+      "filename": "whispersOfTheGrave.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dwarf",
+      "source_icon_sha256": "cf79e2462c8bb30d4b6eb6032946f38d6273473711dec6f375c602388812a906",
+      "character_age": "an experienced adult in their fifties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Whispers of the Grave. Subject and scene: A vivid literal narrative illustration of Whispers of the Grave, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male dwarf, an experienced adult in their fifties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/whispersOfTheGrave.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/whispersOfTheGrave.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-bbf06452-c385-4254-b136-2d7c2211ffc5.png",
+      "jpeg_quality": 48,
+      "bytes": 49522,
+      "sha256": "66eddb06f09dcb4d3a40557d5fe47a749634c3992b9a9906664952537f85528a",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "wildShape",
+      "name": "Wild Shape",
+      "types": [
+        "Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wildShape.png",
+      "filename": "wildShape.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "gnome",
+      "source_icon_sha256": "01caa75de94d17df035aba0665af2e3af02e0c8cec6f80aefadcb042c2f54d5b",
+      "character_age": "an adult in their thirties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Wild Shape. Subject and scene: A vivid literal narrative illustration of Wild Shape, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female gnome, an adult in their thirties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wildShape.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wildShape.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-84fff1d8-423e-48c2-8f70-3a512fa1420f.png",
+      "jpeg_quality": 35,
+      "bytes": 50351,
+      "sha256": "8065f34bc67a116ec7b3041592f76db6e304ea1263d1376caa9291725b73fcb9",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "wildStrike",
+      "name": "Wild Strike",
+      "types": [
+        "Class Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wildStrike.png",
+      "filename": "wildStrike.jpg",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dragonborn",
+      "source_icon_sha256": "01caa75de94d17df035aba0665af2e3af02e0c8cec6f80aefadcb042c2f54d5b",
+      "character_age": "a seasoned adult in their forties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Wild Strike. Subject and scene: A vivid literal narrative illustration of Wild Strike, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: male dragonborn, a seasoned adult in their forties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wildStrike.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wildStrike.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-30754997-5179-4f75-b54c-61236bd560e1.png",
+      "jpeg_quality": 38,
+      "bytes": 49744,
+      "sha256": "7d0206e2b4f3de82c606bd45854627010662f1bcae5e213c8456830c86f93112",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "stem": "wrathOfTheStorm",
+      "name": "Wrath of the Storm",
+      "types": [
+        "Subclass Feature"
+      ],
+      "icon": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wrathOfTheStorm.png",
+      "filename": "wrathOfTheStorm.jpg",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "half-orc",
+      "source_icon_sha256": "e582d5144d7856c4a775c4edf2d425080d1d3f1222e52063d9452696ee847516",
+      "character_age": "an experienced adult in their fifties",
+      "prompt": "Use case: stylized-concept. Create ONE square fantasy painting for the feature Wrath of the Storm. Subject and scene: A vivid literal narrative illustration of Wrath of the Storm, showing the defining action or ability clearly. Use the supplied icon's motif as the concept and choose appropriate clothing, equipment, setting and pose for this particular feature.. Primary character: female half-orc, an experienced adult in their fifties. Make their ancestry visibly recognizable; dragonborn have reptilian heads, scales and horns, dwarves sturdy proportions, elves pointed ears, tieflings horns. Gender refers to the primary person; keep them recognizable. Adapt equipment to the feature: martial warriors use weapons, monks unarmoured practical clothing, performers instruments, scholars books, nature guardians organic equipment. Input image 1 is ONLY a source icon/concept reference: reinterpret its meaning as a richly detailed scene, never simply enlarge the glyph. Match their painterly fantasy illustration, rich textures, dramatic colored light, atmospheric backgrounds, strong clear focal subject, glowing magical effects where appropriate. Depict a distinct action and natural anatomy. Compose to read well as a 640px square. Fully painted edge-to-edge background. No text, labels, lettering, borders, collage, watermark or UI. One finished illustration, no contact sheet. Style target: richly painterly fantasy card artwork with tactile brushwork, atmospheric dark surroundings, jewel-tone magical illumination, naturalistic figures and detailed materials. Vary lighting and composition to the depicted ability. Do not copy the reference paintings' objects, costumes, faces or settings; only match their painting medium and mood. The featured ability must determine the composition.",
+      "actual_reference_paths": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wrathOfTheStorm.png"
+      ],
+      "category": "traits",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/large",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/traits_and_features/wrathOfTheStorm.png"
+      ],
+      "transparent": false,
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-33dd138d-d43c-4d7c-afd4-3aa6e170cedd.png",
+      "jpeg_quality": 42,
+      "bytes": 50265,
+      "sha256": "323aaf99b577d419d094ed7f5f4f59cb0799a5e189765410f3a9f4e794204de5",
+      "size": [
+        640,
+        640
+      ]
+    }
+  ]
+}

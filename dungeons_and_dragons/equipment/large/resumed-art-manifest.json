@@ -1,0 +1,282 @@
+{
+  "generator": "built-in image_gen",
+  "summary": {
+    "complete": 13,
+    "pending": 0
+  },
+  "items": [
+    {
+      "category": "equipment",
+      "name": "Ball Bearings",
+      "stem": "equipBallBearings",
+      "filename": "equipBallBearings.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A small opened leather pouch spilling a neat handful of polished steel ball bearings. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-8827d98c-3b71-4581-b7c7-48d224222055.png",
+      "bytes": 72528,
+      "sha256": "52cb3a8b4f1464c93aafe69444fe8d393ea72fbcc77e4e3d5f9b107ae2669533",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Caltrops",
+      "stem": "equipCaltrops",
+      "filename": "equipCaltrops.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A cluster of four small iron caltrops, each with four pointed spikes. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7183558f-0d50-4700-becb-5370d6dc233c.png",
+      "bytes": 132498,
+      "sha256": "d88a162bedcaeccc87a90183732c975aa2887a0b1833430ac0a4f26e657bd61e",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Chain Mail",
+      "stem": "equipChainMail",
+      "filename": "equipChainMail.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A complete empty chain mail hauberk of fine interlinked steel rings with padded collar and short sleeves. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7bbe70cd-1ba5-4be0-aaaa-59636b65899f.png",
+      "bytes": 102534,
+      "sha256": "c2c8350379370789bb066e6221911a06ec485f4193b5ae326203ecd9620888fa",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Dagger",
+      "stem": "equipDagger",
+      "filename": "equipDagger.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: One complete plain medieval dagger, short double-edged steel blade, simple crossguard and brown leather grip. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ef344640-1a8c-42f5-8b09-482bf7cd99c8.png",
+      "bytes": 20616,
+      "sha256": "6527ce961754b666dab7d33644810cc10c308b0010c7e148af7e46fb730ba487",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Dungeoneer's Pack",
+      "stem": "equipDungeoneersPack",
+      "filename": "equipDungeoneersPack.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A worn leather backpack with a coil of rope, folded blanket, lantern, pitons and compact tools arranged in one coherent grouping. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-968785d4-da84-4327-ba6f-ce5bc2091b6b.png",
+      "bytes": 123446,
+      "sha256": "51cb57aedb4c0e0a1d1411e3f753eb49065103e5c25e10a988ea0854276f722b",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Explorer's Pack",
+      "stem": "equipExplorersPack",
+      "filename": "equipExplorersPack.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A rugged canvas and leather travelling backpack with bedroll, waterskin, rope and small cooking kit attached. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5ce8d551-ea02-406c-9654-43922fd92b4c.png",
+      "bytes": 99312,
+      "sha256": "bfd32f0d139a31b1a99e616fc23967c44f1796634b07a41c89288864f250ad44",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Mace",
+      "stem": "equipMace",
+      "filename": "equipMace.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A complete simple medieval mace with compact flanged steel head, wooden shaft and leather grip. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c9e54cc1-36a1-41f0-a20e-ff25ba94a61a.png",
+      "bytes": 20540,
+      "sha256": "fc35c7e947fe5f2a28b706c1be7d3a431dcfd8a25326233537d6fbe6f7cd8926",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Potion of Healing",
+      "stem": "equipPotionOfHealing",
+      "filename": "equipPotionOfHealing.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A small corked glass bottle containing crimson healing potion, simple leather binding, no label. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-abac059e-fb5f-4f0f-9262-a24aa4e3c663.png",
+      "bytes": 60502,
+      "sha256": "01835f04fae72a7c779d5e77b66b3d6bf5b2b63d5e374bb6e0ad8df88b4e7e99",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Rations",
+      "stem": "equipRations",
+      "filename": "equipRations.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A compact bundle of travel rations: dried meat, hard bread, nuts and cheese in a folded waxed cloth. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-40cd0cfc-b662-4c7e-adf4-179dc6bd0fc3.png",
+      "bytes": 89116,
+      "sha256": "c70448ac375245df65182741269373cd333e99ea9daa0848abd92dbc308840b3",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Rope",
+      "stem": "equipRope",
+      "filename": "equipRope.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A tidy coil of thick natural hemp rope, visible twisted fibres and a short loose end. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6461f598-e1c5-4107-b73f-dfca4a3404ab.png",
+      "bytes": 102126,
+      "sha256": "b51a8858ae346af55a81d309f5e68d4cbd763587eea114896a141bc855bfd88d",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Scale Mail",
+      "stem": "equipScaleMail",
+      "filename": "equipScaleMail.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A complete empty medieval scale mail tunic of small overlapping steel scales on sturdy leather backing. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-34c6478e-3d4e-4e41-9126-4a84083b0c63.png",
+      "bytes": 94924,
+      "sha256": "7b7916e53559480d8800770c4bfcec9254d87419b20ca91bedcd9a5cf17887c6",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Shield",
+      "stem": "equipShield",
+      "filename": "equipShield.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A complete practical round wooden shield with a steel rim, central metal boss and visible worn wood grain. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-88d01ba2-9fda-4182-aa81-984ccc99fa4a.png",
+      "bytes": 116854,
+      "sha256": "ad3cf0463cb7c46c7ff049d3fdc5a1cbd36ea5dbf6a471081b726eff31332015",
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "category": "equipment",
+      "name": "Thieves' Tools",
+      "stem": "equipThievesTools",
+      "filename": "equipThievesTools.webp",
+      "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipAxe.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipCamel.webp"
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One original fantasy equipment inventory illustration. Supplied images are STYLE ONLY: realistic hand-painted worn materials, fine dark outlines, muted earthy palette, restrained highlights. Subject: A rolled leather case containing delicate lockpicks, tension wrenches and small precision tools. Entire object centered with clear margin, readable at 640x640. Genuine transparent alpha background. No scenery, floor, shadow clouds, lettering, logo, watermark or border. Equipment only, no people.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c1cb7ccc-9e6b-437f-88b2-bf50798704ed.png",
+      "bytes": 93852,
+      "sha256": "79bc8feda190b825f2d5be33efe1ed95512e429e5e2e86ea7b6d7deececb5e28",
+      "size": [
+        640,
+        640
+      ]
+    }
+  ]
+}
