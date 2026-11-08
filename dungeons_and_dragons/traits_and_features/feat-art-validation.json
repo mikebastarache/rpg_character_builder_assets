@@ -1,0 +1,12 @@
+{
+  "generated": 176,
+  "feats_total": 187,
+  "gender": {
+    "male": 88,
+    "female": 88
+  },
+  "jpeg_bytes_min": 49388,
+  "jpeg_bytes_max": 50613,
+  "existing_images_preserved": 329,
+  "errors": []
+}
