@@ -1,0 +1,168 @@
+{
+  "generator": "built-in image_gen",
+  "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment",
+  "items": [
+    {
+      "slug": "dice",
+      "name": "Dice",
+      "filename": "equipDiceSet.webp",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/equipDiceSet.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipPouch.webp"
+      ],
+      "thumbnail": false,
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy equipment inventory illustration, isolated square transparent cutout.\nPrimary request: Create an original detailed Dice item illustration.\nSubject: A well-crafted dark brown leather dice cup tipped onto its side with a small collection of warm brass polyhedral dice spilling out. Ornate understated metal trim on cup, engraved numerals on dice. Keep the same subject, material palette and identity as reference Image 1, create a much clearer richly detailed larger illustration.\nReference images: style references for hand-painted medieval fantasy inventory items, aged leather and metal, fine tactile texture, restrained earthy palette, softly directional studio-like lighting, softly painted realistic object rendering and crisp silhouette. For Dice, Image 1 also specifies the existing item identity. Do not copy unrelated reference objects into this image.\nComposition: the complete requested item centered at generous readable scale, contained within a square canvas with safe margins. Match existing equipment inventory art rather than a scene. No people, no character, no environment, no ground plane, no floor, no rectangular background, no floating shadow panel. Genuine transparent background with clean alpha around every edge; contained lighting and any magical effect.\nConstraints: no text or title, no logo, no watermark, no frame. Small dice numerals are appropriate; not a text label. No modern objects.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3f5919bc-7fcb-4ae5-8c8b-3ef47d3e7407.png",
+      "outputs": [
+        {
+          "path": "large/equipDiceSet.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 113400,
+          "sha256": "befe2faccc1cbdf97df870910079b092cfaf9ad01e0da2e3d34a1c2a518a1e13"
+        }
+      ]
+    },
+    {
+      "slug": "bag-of-holding",
+      "name": "Bag of Holding",
+      "filename": "equipBagOfHolding.webp",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipPouch.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipGamingSet.webp"
+      ],
+      "thumbnail": true,
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy equipment inventory illustration, isolated square transparent cutout.\nPrimary request: Create an original detailed Bag of Holding item illustration.\nSubject: A sturdy enchanted brown leather adventurer's shoulder satchel, rounded and worn with careful stitching, brass clasp, shoulder strap and faint arcane decorative embossing. Flap partly open revealing a tiny hint of starry indigo extradimensional darkness inside. Subtle magical detail without a large floating glow. One coherent bag, approachable classic fantasy design.\nReference images: style references for hand-painted medieval fantasy inventory items, aged leather and metal, fine tactile texture, restrained earthy palette, softly directional studio-like lighting, softly painted realistic object rendering and crisp silhouette. For Dice, Image 1 also specifies the existing item identity. Do not copy unrelated reference objects into this image.\nComposition: the complete requested item centered at generous readable scale, contained within a square canvas with safe margins. Match existing equipment inventory art rather than a scene. No people, no character, no environment, no ground plane, no floor, no rectangular background, no floating shadow panel. Genuine transparent background with clean alpha around every edge; contained lighting and any magical effect.\nConstraints: no text or title, no logo, no watermark, no frame. No readable writing or numerals. No modern objects.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-521af333-d67e-440b-8252-18541151164f.png",
+      "outputs": [
+        {
+          "path": "large/equipBagOfHolding.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 125230,
+          "sha256": "386e6c2eacc5578af642f633a68f861ac14c929ea5e6763447fa240bae1059e5"
+        },
+        {
+          "path": "equipBagOfHolding.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 35426,
+          "sha256": "abc803d24faf1a5d16c4650e7d47658d4a91784505eaee5359ad16748c4701e9"
+        }
+      ]
+    },
+    {
+      "slug": "cloak-of-protection",
+      "name": "Cloak of Protection",
+      "filename": "equipCloakOfProtection.webp",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipPouch.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipGamingSet.webp"
+      ],
+      "thumbnail": true,
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy equipment inventory illustration, isolated square transparent cutout.\nPrimary request: Create an original detailed Cloak of Protection item illustration.\nSubject: One elegant heavy dark forest-green hooded cloak displayed naturally as an empty garment, draped in readable folds, antique silver protective clasp at collar and restrained fine gold edging. Muted blue-gray inner lining. No wearer or mannequin visible. A subtle protective motif embroidered near the hem; magic suggested through craftsmanship rather than large effects.\nReference images: style references for hand-painted medieval fantasy inventory items, aged leather and metal, fine tactile texture, restrained earthy palette, softly directional studio-like lighting, softly painted realistic object rendering and crisp silhouette. For Dice, Image 1 also specifies the existing item identity. Do not copy unrelated reference objects into this image.\nComposition: the complete requested item centered at generous readable scale, contained within a square canvas with safe margins. Match existing equipment inventory art rather than a scene. No people, no character, no environment, no ground plane, no floor, no rectangular background, no floating shadow panel. Genuine transparent background with clean alpha around every edge; contained lighting and any magical effect.\nConstraints: no text or title, no logo, no watermark, no frame. No readable writing or numerals. No modern objects.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e4315f22-0c6d-4d91-9eb7-379890f5389a.png",
+      "outputs": [
+        {
+          "path": "large/equipCloakOfProtection.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 60660,
+          "sha256": "8c76451259c5e360eb39289619019cc54bc78ec0fba99642b353fc31eadede9b"
+        },
+        {
+          "path": "equipCloakOfProtection.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 18378,
+          "sha256": "6dd2aaf6ffc154afbcc006c96981577bd70f9223637f6815ab8ba44e68048485"
+        }
+      ]
+    },
+    {
+      "slug": "ring-of-protection",
+      "name": "Ring of Protection",
+      "filename": "equipRingOfProtection.webp",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipPouch.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipGamingSet.webp"
+      ],
+      "thumbnail": true,
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy equipment inventory illustration, isolated square transparent cutout.\nPrimary request: Create an original detailed Ring of Protection item illustration.\nSubject: One beautifully crafted antique silver ring shown in close three-quarter view, thick sturdy band with finely etched interlocking protective motifs, a small deep blue cabochon stone in a low secure setting. Restrained warm gold inlay, slight patina and beautiful crisp metalwork. Readable ring opening, one single piece of jewelry, no hand or box.\nReference images: style references for hand-painted medieval fantasy inventory items, aged leather and metal, fine tactile texture, restrained earthy palette, softly directional studio-like lighting, softly painted realistic object rendering and crisp silhouette. For Dice, Image 1 also specifies the existing item identity. Do not copy unrelated reference objects into this image.\nComposition: the complete requested item centered at generous readable scale, contained within a square canvas with safe margins. Match existing equipment inventory art rather than a scene. No people, no character, no environment, no ground plane, no floor, no rectangular background, no floating shadow panel. Genuine transparent background with clean alpha around every edge; contained lighting and any magical effect.\nConstraints: no text or title, no logo, no watermark, no frame. No readable writing or numerals. No modern objects.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-971ddf1f-0833-450c-adb1-321ea204c2f4.png",
+      "outputs": [
+        {
+          "path": "large/equipRingOfProtection.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 85276,
+          "sha256": "692e06b0d43ce9e983e2d2c513620d20b7ec61568a7f89a24d9e0ae04ab72e0d"
+        },
+        {
+          "path": "equipRingOfProtection.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 24798,
+          "sha256": "fbd8d9351dfbba2ed5014f0c03c442033b7960650c235fcbcf0d035e76995ae9"
+        }
+      ]
+    },
+    {
+      "slug": "wand-of-the-war-mage-1",
+      "name": "Wand of the War Mage, +1",
+      "filename": "equipWandOfTheWarMage1.webp",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipPouch.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/equipment/large/equipGamingSet.webp"
+      ],
+      "thumbnail": true,
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy equipment inventory illustration, isolated square transparent cutout.\nPrimary request: Create an original detailed Wand of the War Mage, +1 item illustration.\nSubject: One battle-ready magical wand, slender dark polished hardwood shaft roughly forearm length, antique bronze reinforcing bands and a small faceted smoky-blue crystal at its tip, leather-wrapped handle and precise arcane engraving without readable writing. Diagonal balanced composition showing the entire wand. A restrained tiny blue magical glint at tip, no spell beam, no arm, no display stand.\nReference images: style references for hand-painted medieval fantasy inventory items, aged leather and metal, fine tactile texture, restrained earthy palette, softly directional studio-like lighting, softly painted realistic object rendering and crisp silhouette. For Dice, Image 1 also specifies the existing item identity. Do not copy unrelated reference objects into this image.\nComposition: the complete requested item centered at generous readable scale, contained within a square canvas with safe margins. Match existing equipment inventory art rather than a scene. No people, no character, no environment, no ground plane, no floor, no rectangular background, no floating shadow panel. Genuine transparent background with clean alpha around every edge; contained lighting and any magical effect.\nConstraints: no text or title, no logo, no watermark, no frame. No readable writing or numerals. No modern objects.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-8292db2d-7937-4dfb-a3d2-cd6c5ec94ec4.png",
+      "outputs": [
+        {
+          "path": "large/equipWandOfTheWarMage1.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 33562,
+          "sha256": "9d4073eb994d4d47ea31b4bcb0cac50a355c1d7a62c7cdaadb03bbdcff5112f8"
+        },
+        {
+          "path": "equipWandOfTheWarMage1.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 10930,
+          "sha256": "a4db16d77936211a90454d022b227d8f3ab896d9b684df2df763e1ab9e760664"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "illustrations": 5,
+    "large_files": 5,
+    "small_files": 4,
+    "pending": 0
+  }
+}
