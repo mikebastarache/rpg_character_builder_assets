@@ -24,7 +24,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 72528
+      }
     },
     {
       "category": "equipment",
@@ -45,7 +54,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 132498
+      }
     },
     {
       "category": "equipment",
@@ -66,7 +84,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 102534
+      }
     },
     {
       "category": "equipment",
@@ -87,7 +114,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 20616
+      }
     },
     {
       "category": "equipment",
@@ -108,7 +144,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 123446
+      }
     },
     {
       "category": "equipment",
@@ -129,7 +174,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 99312
+      }
     },
     {
       "category": "equipment",
@@ -150,7 +204,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 20540
+      }
     },
     {
       "category": "equipment",
@@ -171,7 +234,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 60502
+      }
     },
     {
       "category": "equipment",
@@ -192,7 +264,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 89116
+      }
     },
     {
       "category": "equipment",
@@ -213,7 +294,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 102126
+      }
     },
     {
       "category": "equipment",
@@ -234,7 +324,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 94924
+      }
     },
     {
       "category": "equipment",
@@ -255,7 +354,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 116854
+      }
     },
     {
       "category": "equipment",
@@ -276,7 +384,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "WEBP",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 93852
+      }
     }
   ]
 }

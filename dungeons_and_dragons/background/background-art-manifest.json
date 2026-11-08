@@ -1,0 +1,181 @@
+{
+  "generator": "built-in image_gen",
+  "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background",
+  "items": [
+    {
+      "slug": "changeling",
+      "name": "Changeling",
+      "filename": "changelingBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Changeling.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: A mysterious canal city at twilight, interwoven narrow streets and elegant bridges, pale pearlescent stone buildings reflected in perfectly still water, reflections subtly suggest alternate versions of the architecture, gentle fey mist and silver-blue light. A place of many identities, intriguing and beautiful.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-92670b6a-5e12-45da-a801-d5dc67cf8a81.png",
+      "bytes": 242293,
+      "jpeg_quality": 35,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "b4d5ec9154bd3467af5bbb781fe8331bb41d182d146bd529d0ff0983cb051877"
+    },
+    {
+      "slug": "kalashtar",
+      "name": "Kalashtar",
+      "filename": "kalashtarBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Kalashtar.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: A tranquil mountaintop monastery overlooking an immense sea of clouds, graceful terraces and open meditation courtyards, distant floating wisps of dreamlight like auroras, warm lanterns and violet dawn sky, contemplative refuge.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f811ab50-4dae-4161-9d6b-b4593bfbb1f5.png",
+      "bytes": 249783,
+      "jpeg_quality": 35,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "01230613864cfe4548b795c1babc703e8f1db684f10ed774d4989711638dd4f4"
+    },
+    {
+      "slug": "khoravar",
+      "name": "Khoravar",
+      "filename": "khoravarBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Khoravar.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: A welcoming coastal trading city blending graceful woodland architecture with sturdy medieval masonry, soaring bridges joining leafy neighborhoods and bustling harbor districts, distant sailing vessels, warm afternoon light, an inviting meeting place of cultures.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-9c46b34a-8f68-46bb-ac3c-7e510bc15cdf.png",
+      "bytes": 290171,
+      "jpeg_quality": 35,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "07b2f3b63e86e83ae5c743e73329a4a83a19debbeaa0f8d48cb7a269400d98c6"
+    },
+    {
+      "slug": "shifter",
+      "name": "Shifter",
+      "filename": "shifterBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Shifter.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: A rugged woodland settlement at the edge of a vast ancient forest, timber lodges and rope bridges fitted naturally among rocky outcrops, wild mountain ridges beyond, amber evening sun breaking through pine boughs, untamed yet welcoming atmosphere.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-64f15048-a7c1-43d8-86bb-0a94290c3dda.png",
+      "bytes": 250096,
+      "jpeg_quality": 35,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "e3342a2d693f7dd79e5cb4b6fa35521b513a7da4fe3365d30617bbae98567cd6"
+    },
+    {
+      "slug": "warforged",
+      "name": "Warforged",
+      "filename": "warforgedBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Warforged.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: An abandoned arcane foundry slowly reclaimed by nature, immense stone arches and weathered bronze forging machinery, living roots weaving through metal platforms, quiet turquoise magical embers within a dormant forge, sunbeams through a broken roof, atmosphere of rebirth and individuality. Fantasy craft, no modern factories.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-dfe15834-039c-4dc1-9911-e144e5696ccb.png",
+      "bytes": 313105,
+      "jpeg_quality": 35,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "78ac63fd0fd17b70d6328431cb1e8bfcb74ce6c25dcdd0ec701000029341e58f"
+    },
+    {
+      "slug": "dhampir",
+      "name": "Dhampir",
+      "filename": "dhampirBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Dhampir.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: A gothic castle and quiet terraced town overlooking a mist-filled river gorge beneath a pale moon, tall pointed windows glowing burgundy and amber, dark cypresses and winding cobblestone paths, elegant somber atmosphere, beautiful rather than horrific.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e54e4e28-96ae-4df5-ba26-a84bb16a558d.png",
+      "bytes": 221362,
+      "jpeg_quality": 36,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "5bdf511ea545cda889f63ef98b61282282853e32ccfb30ca2b76bcf801be28bf"
+    },
+    {
+      "slug": "hexblood",
+      "name": "Hexblood",
+      "filename": "hexbloodBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Hexblood.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: An enchanted marsh at blue hour, crooked ancient willows framing a remote moss-covered witch cottage built on roots, subtle jade witchlights above still water and luminous fungi, tangled thorn arches and distant fey woodland, eerie wonder without horror.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7cf17010-837a-42cf-b193-4053dfb03dc4.png",
+      "bytes": 299873,
+      "jpeg_quality": 35,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "083b8c9172936af960ff2dd8e755b91251a948bbee5e6197a3e8879c7c8b3c89"
+    },
+    {
+      "slug": "lupin",
+      "name": "Lupin",
+      "filename": "lupinBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Lupin.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: A remote stone-and-timber mountain village among dark pines, immense full moon over jagged snowy peaks, a winding trail leading through silver fog into the settlement, warm hearthlight in windows, wild watchful atmosphere, no wolves or figures in foreground.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-cba6b528-be09-4a58-8308-1dc283b45c57.png",
+      "bytes": 218244,
+      "jpeg_quality": 35,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "c431d963a748e0ac59d83e9257c1ce36fabc3cffd09fab7c6e3df77e88b1ef6f"
+    },
+    {
+      "slug": "reborn",
+      "name": "Reborn",
+      "filename": "rebornBG.jpg",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/humanBG.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/background/elfBG.jpg"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: wide fantasy landscape background for Reborn.\nPrimary request: Create a NEW original environment painting, landscape 16:9, edge-to-edge.\nScene: An ancient ruined abbey and overgrown memorial garden in a misty valley, cracked stone arches opening toward the first warm light of dawn, ivy, white wildflowers and new saplings emerging among old masonry, subtle pale-blue magical motes, poignant renewal after loss. Peaceful, no bodies or gruesome imagery.\nStyle references: Image 1 and Image 2 are STYLE references only. Match their atmospheric painterly high fantasy landscape art, broad natural brushwork, soft cinematic illumination, rich muted colors, depth through atmospheric perspective and detailed but restful scenery. Create the requested new environment rather than repeating the reference castle or mountain layout.\nComposition: panoramic environmental establishing shot, immersive foreground framing and an open middle distance. Landscape is the subject. No prominent people, no character portraits, no text, no letters, no logos, no borders, no watermarks. Visually coherent scenery suitable behind app content.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-65106f41-83c2-489e-a544-05c298fc04d0.png",
+      "bytes": 280656,
+      "jpeg_quality": 35,
+      "size": [
+        2560,
+        1440
+      ],
+      "sha256": "97d11e0c71f532a5eab0d51138b4c38c6c1722344fe7270969c84ca2cfeade45"
+    }
+  ],
+  "summary": {
+    "complete": 9,
+    "pending": 0
+  }
+}

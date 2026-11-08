@@ -1,8 +1,8 @@
 {
   "generator": "built-in image_gen",
   "summary": {
-    "complete": 208,
-    "pending": 12
+    "complete": 220,
+    "pending": 0
   },
   "items": [
     {
@@ -26,7 +26,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49897
+      }
     },
     {
       "category": "spells",
@@ -49,7 +58,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50422
+      }
     },
     {
       "category": "spells",
@@ -72,7 +90,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50068
+      }
     },
     {
       "category": "spells",
@@ -95,7 +122,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50162
+      }
     },
     {
       "category": "spells",
@@ -118,7 +154,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50026
+      }
     },
     {
       "category": "spells",
@@ -141,7 +186,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49914
+      }
     },
     {
       "category": "spells",
@@ -164,7 +218,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50437
+      }
     },
     {
       "category": "spells",
@@ -187,7 +250,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49574
+      }
     },
     {
       "category": "spells",
@@ -210,7 +282,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49785
+      }
     },
     {
       "category": "spells",
@@ -233,7 +314,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49841
+      }
     },
     {
       "category": "spells",
@@ -256,7 +346,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49601
+      }
     },
     {
       "category": "spells",
@@ -279,7 +378,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49871
+      }
     },
     {
       "category": "spells",
@@ -302,7 +410,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49960
+      }
     },
     {
       "category": "spells",
@@ -325,7 +442,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49508
+      }
     },
     {
       "category": "spells",
@@ -348,7 +474,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49515
+      }
     },
     {
       "category": "spells",
@@ -371,7 +506,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50163
+      }
     },
     {
       "category": "spells",
@@ -394,7 +538,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49908
+      }
     },
     {
       "category": "spells",
@@ -417,7 +570,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49763
+      }
     },
     {
       "category": "spells",
@@ -440,7 +602,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49713
+      }
     },
     {
       "category": "spells",
@@ -463,7 +634,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49476
+      }
     },
     {
       "category": "spells",
@@ -486,7 +666,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50372
+      }
     },
     {
       "category": "spells",
@@ -509,7 +698,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50223
+      }
     },
     {
       "category": "spells",
@@ -532,7 +730,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49973
+      }
     },
     {
       "category": "spells",
@@ -555,7 +762,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49787
+      }
     },
     {
       "category": "spells",
@@ -578,7 +794,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50438
+      }
     },
     {
       "category": "spells",
@@ -601,7 +826,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49746
+      }
     },
     {
       "category": "spells",
@@ -624,7 +858,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49995
+      }
     },
     {
       "category": "spells",
@@ -647,7 +890,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50027
+      }
     },
     {
       "category": "spells",
@@ -670,7 +922,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50138
+      }
     },
     {
       "category": "spells",
@@ -693,7 +954,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49981
+      }
     },
     {
       "category": "spells",
@@ -716,7 +986,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49815
+      }
     },
     {
       "category": "spells",
@@ -739,7 +1018,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49883
+      }
     },
     {
       "category": "spells",
@@ -762,7 +1050,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50152
+      }
     },
     {
       "category": "spells",
@@ -785,7 +1082,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49885
+      }
     },
     {
       "category": "spells",
@@ -808,7 +1114,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50979
+      }
     },
     {
       "category": "spells",
@@ -831,7 +1146,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50272
+      }
     },
     {
       "category": "spells",
@@ -854,7 +1178,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49778
+      }
     },
     {
       "category": "spells",
@@ -877,7 +1210,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49515
+      }
     },
     {
       "category": "spells",
@@ -900,7 +1242,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49995
+      }
     },
     {
       "category": "spells",
@@ -923,7 +1274,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49883
+      }
     },
     {
       "category": "spells",
@@ -946,7 +1306,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50068
+      }
     },
     {
       "category": "spells",
@@ -969,7 +1338,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49969
+      }
     },
     {
       "category": "spells",
@@ -992,7 +1370,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49970
+      }
     },
     {
       "category": "spells",
@@ -1015,7 +1402,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50038
+      }
     },
     {
       "category": "spells",
@@ -1038,7 +1434,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49833
+      }
     },
     {
       "category": "spells",
@@ -1061,7 +1466,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49921
+      }
     },
     {
       "category": "spells",
@@ -1084,7 +1498,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50247
+      }
     },
     {
       "category": "spells",
@@ -1107,7 +1530,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50173
+      }
     },
     {
       "category": "spells",
@@ -1130,7 +1562,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49493
+      }
     },
     {
       "category": "spells",
@@ -1153,7 +1594,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49818
+      }
     },
     {
       "category": "spells",
@@ -1176,7 +1626,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49989
+      }
     },
     {
       "category": "spells",
@@ -1199,7 +1658,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50442
+      }
     },
     {
       "category": "spells",
@@ -1222,7 +1690,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50537
+      }
     },
     {
       "category": "spells",
@@ -1245,7 +1722,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50072
+      }
     },
     {
       "category": "spells",
@@ -1268,7 +1754,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50282
+      }
     },
     {
       "category": "spells",
@@ -1291,7 +1786,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50097
+      }
     },
     {
       "category": "spells",
@@ -1314,7 +1818,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50407
+      }
     },
     {
       "category": "spells",
@@ -1337,7 +1850,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50061
+      }
     },
     {
       "category": "spells",
@@ -1360,7 +1882,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50506
+      }
     },
     {
       "category": "spells",
@@ -1383,7 +1914,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49712
+      }
     },
     {
       "category": "spells",
@@ -1406,7 +1946,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50215
+      }
     },
     {
       "category": "spells",
@@ -1429,7 +1978,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50187
+      }
     },
     {
       "category": "spells",
@@ -1452,7 +2010,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49775
+      }
     },
     {
       "category": "spells",
@@ -1475,7 +2042,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49660
+      }
     },
     {
       "category": "spells",
@@ -1498,7 +2074,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50018
+      }
     },
     {
       "category": "spells",
@@ -1521,7 +2106,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50456
+      }
     },
     {
       "category": "spells",
@@ -1544,7 +2138,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50247
+      }
     },
     {
       "category": "spells",
@@ -1567,7 +2170,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49809
+      }
     },
     {
       "category": "spells",
@@ -1590,7 +2202,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50049
+      }
     },
     {
       "category": "spells",
@@ -1613,7 +2234,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50010
+      }
     },
     {
       "category": "spells",
@@ -1636,7 +2266,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49394
+      }
     },
     {
       "category": "spells",
@@ -1659,7 +2298,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50192
+      }
     },
     {
       "category": "spells",
@@ -1682,7 +2330,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49517
+      }
     },
     {
       "category": "spells",
@@ -1705,7 +2362,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49624
+      }
     },
     {
       "category": "spells",
@@ -1728,7 +2394,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50404
+      }
     },
     {
       "category": "spells",
@@ -1751,7 +2426,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49810
+      }
     },
     {
       "category": "spells",
@@ -1774,7 +2458,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49498
+      }
     },
     {
       "category": "spells",
@@ -1797,7 +2490,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49719
+      }
     },
     {
       "category": "spells",
@@ -1820,7 +2522,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50411
+      }
     },
     {
       "category": "spells",
@@ -1843,7 +2554,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49678
+      }
     },
     {
       "category": "spells",
@@ -1866,7 +2586,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50001
+      }
     },
     {
       "category": "spells",
@@ -1889,7 +2618,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50096
+      }
     },
     {
       "category": "spells",
@@ -1912,7 +2650,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49414
+      }
     },
     {
       "category": "spells",
@@ -1935,7 +2682,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49612
+      }
     },
     {
       "category": "spells",
@@ -1958,7 +2714,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49603
+      }
     },
     {
       "category": "spells",
@@ -1981,7 +2746,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50330
+      }
     },
     {
       "category": "spells",
@@ -2004,7 +2778,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50082
+      }
     },
     {
       "category": "spells",
@@ -2027,7 +2810,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50396
+      }
     },
     {
       "category": "spells",
@@ -2050,7 +2842,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49726
+      }
     },
     {
       "category": "spells",
@@ -2073,7 +2874,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50015
+      }
     },
     {
       "category": "spells",
@@ -2096,7 +2906,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50442
+      }
     },
     {
       "category": "spells",
@@ -2119,7 +2938,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49869
+      }
     },
     {
       "category": "spells",
@@ -2142,7 +2970,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50101
+      }
     },
     {
       "category": "spells",
@@ -2165,7 +3002,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50574
+      }
     },
     {
       "category": "spells",
@@ -2188,7 +3034,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49845
+      }
     },
     {
       "category": "spells",
@@ -2211,7 +3066,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49682
+      }
     },
     {
       "category": "spells",
@@ -2234,7 +3098,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50607
+      }
     },
     {
       "category": "spells",
@@ -2257,7 +3130,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50322
+      }
     },
     {
       "category": "spells",
@@ -2280,7 +3162,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49735
+      }
     },
     {
       "category": "spells",
@@ -2303,7 +3194,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49873
+      }
     },
     {
       "category": "spells",
@@ -2326,7 +3226,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49858
+      }
     },
     {
       "category": "spells",
@@ -2349,7 +3258,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50200
+      }
     },
     {
       "category": "spells",
@@ -2372,7 +3290,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50465
+      }
     },
     {
       "category": "spells",
@@ -2395,7 +3322,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49653
+      }
     },
     {
       "category": "spells",
@@ -2418,7 +3354,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50110
+      }
     },
     {
       "category": "spells",
@@ -2441,7 +3386,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49825
+      }
     },
     {
       "category": "spells",
@@ -2464,7 +3418,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49512
+      }
     },
     {
       "category": "spells",
@@ -2487,7 +3450,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49972
+      }
     },
     {
       "category": "spells",
@@ -2510,7 +3482,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49768
+      }
     },
     {
       "category": "spells",
@@ -2533,7 +3514,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49742
+      }
     },
     {
       "category": "spells",
@@ -2556,7 +3546,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49503
+      }
     },
     {
       "category": "spells",
@@ -2579,7 +3578,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49992
+      }
     },
     {
       "category": "spells",
@@ -2602,7 +3610,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50164
+      }
     },
     {
       "category": "spells",
@@ -2625,7 +3642,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49914
+      }
     },
     {
       "category": "spells",
@@ -2648,7 +3674,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50144
+      }
     },
     {
       "category": "spells",
@@ -2671,7 +3706,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49919
+      }
     },
     {
       "category": "spells",
@@ -2694,7 +3738,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50369
+      }
     },
     {
       "category": "spells",
@@ -2717,7 +3770,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50198
+      }
     },
     {
       "category": "spells",
@@ -2740,7 +3802,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49588
+      }
     },
     {
       "category": "spells",
@@ -2763,7 +3834,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49996
+      }
     },
     {
       "category": "spells",
@@ -2786,7 +3866,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50390
+      }
     },
     {
       "category": "spells",
@@ -2809,7 +3898,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50070
+      }
     },
     {
       "category": "spells",
@@ -2832,7 +3930,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50320
+      }
     },
     {
       "category": "spells",
@@ -2855,7 +3962,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49903
+      }
     },
     {
       "category": "spells",
@@ -2878,7 +3994,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50231
+      }
     },
     {
       "category": "spells",
@@ -2901,7 +4026,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49743
+      }
     },
     {
       "category": "spells",
@@ -2924,7 +4058,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50289
+      }
     },
     {
       "category": "spells",
@@ -2947,7 +4090,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50194
+      }
     },
     {
       "category": "spells",
@@ -2970,7 +4122,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49618
+      }
     },
     {
       "category": "spells",
@@ -2993,7 +4154,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50322
+      }
     },
     {
       "category": "spells",
@@ -3016,7 +4186,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50031
+      }
     },
     {
       "category": "spells",
@@ -3039,7 +4218,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50514
+      }
     },
     {
       "category": "spells",
@@ -3062,7 +4250,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50472
+      }
     },
     {
       "category": "spells",
@@ -3085,7 +4282,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49630
+      }
     },
     {
       "category": "spells",
@@ -3108,7 +4314,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50198
+      }
     },
     {
       "category": "spells",
@@ -3131,7 +4346,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50502
+      }
     },
     {
       "category": "spells",
@@ -3154,7 +4378,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50099
+      }
     },
     {
       "category": "spells",
@@ -3177,7 +4410,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49702
+      }
     },
     {
       "category": "spells",
@@ -3200,7 +4442,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50914
+      }
     },
     {
       "category": "spells",
@@ -3223,7 +4474,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49824
+      }
     },
     {
       "category": "spells",
@@ -3246,7 +4506,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49790
+      }
     },
     {
       "category": "spells",
@@ -3269,7 +4538,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50232
+      }
     },
     {
       "category": "spells",
@@ -3292,7 +4570,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49707
+      }
     },
     {
       "category": "spells",
@@ -3315,7 +4602,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50063
+      }
     },
     {
       "category": "spells",
@@ -3338,7 +4634,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50208
+      }
     },
     {
       "category": "spells",
@@ -3361,7 +4666,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50281
+      }
     },
     {
       "category": "spells",
@@ -3384,7 +4698,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49974
+      }
     },
     {
       "category": "spells",
@@ -3407,7 +4730,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50432
+      }
     },
     {
       "category": "spells",
@@ -3430,7 +4762,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50176
+      }
     },
     {
       "category": "spells",
@@ -3453,7 +4794,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49669
+      }
     },
     {
       "category": "spells",
@@ -3476,7 +4826,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50363
+      }
     },
     {
       "category": "spells",
@@ -3499,7 +4858,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49765
+      }
     },
     {
       "category": "spells",
@@ -3522,7 +4890,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50023
+      }
     },
     {
       "category": "spells",
@@ -3545,7 +4922,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50514
+      }
     },
     {
       "category": "spells",
@@ -3568,7 +4954,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50089
+      }
     },
     {
       "category": "spells",
@@ -3591,7 +4986,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49899
+      }
     },
     {
       "category": "spells",
@@ -3614,7 +5018,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50029
+      }
     },
     {
       "category": "spells",
@@ -3637,7 +5050,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49563
+      }
     },
     {
       "category": "spells",
@@ -3660,7 +5082,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 51693
+      }
     },
     {
       "category": "spells",
@@ -3683,7 +5114,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49837
+      }
     },
     {
       "category": "spells",
@@ -3706,7 +5146,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49591
+      }
     },
     {
       "category": "spells",
@@ -3729,7 +5178,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50218
+      }
     },
     {
       "category": "spells",
@@ -3752,7 +5210,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 51183
+      }
     },
     {
       "category": "spells",
@@ -3775,7 +5242,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50512
+      }
     },
     {
       "category": "spells",
@@ -3798,7 +5274,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49567
+      }
     },
     {
       "category": "spells",
@@ -3821,7 +5306,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50550
+      }
     },
     {
       "category": "spells",
@@ -3844,7 +5338,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50005
+      }
     },
     {
       "category": "spells",
@@ -3867,7 +5370,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49972
+      }
     },
     {
       "category": "spells",
@@ -3890,7 +5402,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49940
+      }
     },
     {
       "category": "spells",
@@ -3913,7 +5434,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49542
+      }
     },
     {
       "category": "spells",
@@ -3936,7 +5466,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50199
+      }
     },
     {
       "category": "spells",
@@ -3959,7 +5498,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49954
+      }
     },
     {
       "category": "spells",
@@ -3982,7 +5530,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50087
+      }
     },
     {
       "category": "spells",
@@ -4005,7 +5562,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50187
+      }
     },
     {
       "category": "spells",
@@ -4028,7 +5594,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49750
+      }
     },
     {
       "category": "spells",
@@ -4051,7 +5626,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49943
+      }
     },
     {
       "category": "spells",
@@ -4074,7 +5658,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49674
+      }
     },
     {
       "category": "spells",
@@ -4097,7 +5690,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49544
+      }
     },
     {
       "category": "spells",
@@ -4120,7 +5722,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49731
+      }
     },
     {
       "category": "spells",
@@ -4143,7 +5754,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49536
+      }
     },
     {
       "category": "spells",
@@ -4166,7 +5786,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49725
+      }
     },
     {
       "category": "spells",
@@ -4189,7 +5818,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49661
+      }
     },
     {
       "category": "spells",
@@ -4212,7 +5850,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49826
+      }
     },
     {
       "category": "spells",
@@ -4235,7 +5882,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49938
+      }
     },
     {
       "category": "spells",
@@ -4258,7 +5914,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50144
+      }
     },
     {
       "category": "spells",
@@ -4281,7 +5946,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49716
+      }
     },
     {
       "category": "spells",
@@ -4304,7 +5978,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50039
+      }
     },
     {
       "category": "spells",
@@ -4327,7 +6010,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49713
+      }
     },
     {
       "category": "spells",
@@ -4350,7 +6042,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49790
+      }
     },
     {
       "category": "spells",
@@ -4373,7 +6074,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50106
+      }
     },
     {
       "category": "spells",
@@ -4396,7 +6106,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50356
+      }
     },
     {
       "category": "spells",
@@ -4419,7 +6138,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50247
+      }
     },
     {
       "category": "spells",
@@ -4442,7 +6170,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49829
+      }
     },
     {
       "category": "spells",
@@ -4465,7 +6202,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49886
+      }
     },
     {
       "category": "spells",
@@ -4488,7 +6234,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49600
+      }
     },
     {
       "category": "spells",
@@ -4511,7 +6266,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50063
+      }
     },
     {
       "category": "spells",
@@ -4534,7 +6298,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49554
+      }
     },
     {
       "category": "spells",
@@ -4557,7 +6330,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50268
+      }
     },
     {
       "category": "spells",
@@ -4580,7 +6362,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49566
+      }
     },
     {
       "category": "spells",
@@ -4603,7 +6394,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50119
+      }
     },
     {
       "category": "spells",
@@ -4626,7 +6426,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50167
+      }
     },
     {
       "category": "spells",
@@ -4649,7 +6458,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49688
+      }
     },
     {
       "category": "spells",
@@ -4672,7 +6490,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50401
+      }
     },
     {
       "category": "spells",
@@ -4695,7 +6522,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49667
+      }
     },
     {
       "category": "spells",
@@ -4718,7 +6554,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49661
+      }
     },
     {
       "category": "spells",
@@ -4741,7 +6586,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50314
+      }
     },
     {
       "category": "spells",
@@ -4764,7 +6618,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49811
+      }
     },
     {
       "category": "spells",
@@ -4787,7 +6650,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50116
+      }
     },
     {
       "category": "spells",
@@ -4795,14 +6667,31 @@
       "stem": "level9PowerWordHeal",
       "filename": "level9PowerWordHeal.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "male",
       "character_ancestry": "dwarf",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a tranquil lakeside meadow at golden hour; clothing in russet and moss green. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Power Word Heal (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the Charmed, Frightened, Paralyzed, Poisoned, or Stunned condition, the condition ends. If the creature has the Prone condition, it can use its Reaction to stand up.\nPrimary caster: male dwarf, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a tranquil lakeside meadow at golden hour; clothing in russet and moss green. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Power Word Heal (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the Charmed, Frightened, Paralyzed, Poisoned, or Stunned condition, the condition ends. If the creature has the Prone condition, it can use its Reaction to stand up.\nPrimary caster: male dwarf, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-d0448237-e5e3-4149-92fa-50d842bcbcb2.png",
+      "jpeg_quality": 34,
+      "bytes": 49516,
+      "sha256": "e6f4c73ed8269ce8b42e615bca29819138e0beb2dfd5ccffdd62a0a4ccabc55d",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49516
+      }
     },
     {
       "category": "spells",
@@ -4810,14 +6699,31 @@
       "stem": "level9PrismaticWall",
       "filename": "level9PrismaticWall.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "female",
       "character_ancestry": "gnome",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a rainy medieval market street; clothing in deep blue and weathered leather. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Prismatic Wall (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): A shimmering, multicolored plane of light forms a vertical opaque wall\u2014up to 90 feet long, 30 feet high, and 1 inch thick\u2014centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.\n\nThe wall sheds Bright Light within 100 feet and Dim Light for an additional 100 feet. You and creatures you designate when you cast the spell can pass through and be near the wall without harm. If another creature that can see the wall moves within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or have the Blinded condition for 1 minute.\n\nThe wall consists of seven layers, each with a different color. When a creature reaches into or passes through the wall, it does so one layer at a time through all the layers. Each layer forces the creature to make a Dexterity saving throw or be affected by that layer\u2019s properties as described in the Prismatic Layers table.\n\nThe wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. *Antimagic Field* has no effect on the wall, and *Dispel Magic* can affect only the violet layer.\n\n**Prismatic Layers**\n\n| Order | Effects |\n|---|---|\n| 1 | **Red.** *Failed Save:* 12d6 Fire damage. *Successful Save:* Half as much damage. *Additional Effects*: Nonmagical ranged attacks can\u2019t pass through this layer, which is destroyed if it takes at least 25 Cold damage. |\n| 2 | **Orange.** *Failed Save:* 12d6 Acid damage. *Successful Save:* Half as much damage. *Additional Effects:* Magical ranged attacks can\u2019t pass through this layer, which is destroyed by a strong wind (such as the one created by *Gust of Wind*). |\n| 3 | **Yellow.** *Failed Save:* 12d6 Lightning damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 60 Force damage. |\n| 4 | **Green.** *Failed Save:* 12d6 Poison damage. *Successful Save:* Half as much damage. *Additional Effects:* A *Passwall* spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |\n| 5 | **Blue.** *Failed Save:* 12d6 Cold damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 25 Fire damage. |\n| 6 | **Indigo.** *Failed Save:* The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the *Greater Restoration* spell. The successes and failures needn\u2019t be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can\u2019t be cast through this layer, which is destroyed by Bright Light shed by the *Daylight* spell. |\n| 7 | **Violet.** *Failed Save:* The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (GM\u2019s choice). *Additional Effects:* This layer is destroyed by *Dispel Magic*. |\nPrimary caster: female gnome, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a rainy medieval market street; clothing in deep blue and weathered leather. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Prismatic Wall (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): A shimmering, multicolored plane of light forms a vertical opaque wall\u2014up to 90 feet long, 30 feet high, and 1 inch thick\u2014centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.\n\nThe wall sheds Bright Light within 100 feet and Dim Light for an additional 100 feet. You and creatures you designate when you cast the spell can pass through and be near the wall without harm. If another creature that can see the wall moves within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or have the Blinded condition for 1 minute.\n\nThe wall consists of seven layers, each with a different color. When a creature reaches into or passes through the wall, it does so one layer at a time through all the layers. Each layer forces the creature to make a Dexterity saving throw or be affected by that layer\u2019s properties as described in the Prismatic Layers table.\n\nThe wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. *Antimagic Field* has no effect on the wall, and *Dispel Magic* can affect only the violet layer.\n\n**Prismatic Layers**\n\n| Order | Effects |\n|---|---|\n| 1 | **Red.** *Failed Save:* 12d6 Fire damage. *Successful Save:* Half as much damage. *Additional Effects*: Nonmagical ranged attacks can\u2019t pass through this layer, which is destroyed if it takes at least 25 Cold damage. |\n| 2 | **Orange.** *Failed Save:* 12d6 Acid damage. *Successful Save:* Half as much damage. *Additional Effects:* Magical ranged attacks can\u2019t pass through this layer, which is destroyed by a strong wind (such as the one created by *Gust of Wind*). |\n| 3 | **Yellow.** *Failed Save:* 12d6 Lightning damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 60 Force damage. |\n| 4 | **Green.** *Failed Save:* 12d6 Poison damage. *Successful Save:* Half as much damage. *Additional Effects:* A *Passwall* spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |\n| 5 | **Blue.** *Failed Save:* 12d6 Cold damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 25 Fire damage. |\n| 6 | **Indigo.** *Failed Save:* The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the *Greater Restoration* spell. The successes and failures needn\u2019t be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can\u2019t be cast through this layer, which is destroyed by Bright Light shed by the *Daylight* spell. |\n| 7 | **Violet.** *Failed Save:* The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (GM\u2019s choice). *Additional Effects:* This layer is destroyed by *Dispel Magic*. |\nPrimary caster: female gnome, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-07ba7549-30dc-45e8-9643-542f45d31ada.png",
+      "jpeg_quality": 31,
+      "bytes": 49464,
+      "sha256": "9a971b8f59c5881d579afbd59ca3f0fc0fb06770b32ddebe9b330bfcadc5644f",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49464
+      }
     },
     {
       "category": "spells",
@@ -4825,14 +6731,31 @@
       "stem": "level9PsychicScream",
       "filename": "level9PsychicScream.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "male",
       "character_ancestry": "dragonborn",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a sunlit ancient forest with emerald mist, moss and wildflowers; clothing in sage green and ivory. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Psychic Scream (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.\n\nEach target must make an Intelligence saving throw. On a failed save, a target takes 14d6 Psychic damage and has the Stunned condition. On a successful save, a target takes half as much damage only. If the target is reduced to 0 Hit Points by this damage, its head explodes, assuming it has one.\n\nAt the end of each of its turns, the Stunned target repeats the save, ending the condition on itself on a success.\nPrimary caster: male dragonborn, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a sunlit ancient forest with emerald mist, moss and wildflowers; clothing in sage green and ivory. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Psychic Scream (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.\n\nEach target must make an Intelligence saving throw. On a failed save, a target takes 14d6 Psychic damage and has the Stunned condition. On a successful save, a target takes half as much damage only. If the target is reduced to 0 Hit Points by this damage, its head explodes, assuming it has one.\n\nAt the end of each of its turns, the Stunned target repeats the save, ending the condition on itself on a success.\nPrimary caster: male dragonborn, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-d2abeb89-273e-4038-959d-74295a009614.png",
+      "jpeg_quality": 37,
+      "bytes": 50068,
+      "sha256": "2ca73ca5cb1a43d24514e8b1b053c721e85c245539554e53960f581c17ceca0b",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50068
+      }
     },
     {
       "category": "spells",
@@ -4840,14 +6763,31 @@
       "stem": "level9Shapechange",
       "filename": "level9Shapechange.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "female",
       "character_ancestry": "half-orc",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a windswept coastal cliff at dawn; clothing in indigo and silver. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Shapechange (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can\u2019t be a Construct or an Undead.\n\nWhen you cast the spell, you gain a number of Temporary Hit Points equal to the Hit Points of the first form into which you shape-shift. These Temporary Hit Points vanish if any remain when the spell ends.\n\nYour game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too.\n\nUpon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you\u2019re in it.\nPrimary caster: female half-orc, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a windswept coastal cliff at dawn; clothing in indigo and silver. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Shapechange (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can\u2019t be a Construct or an Undead.\n\nWhen you cast the spell, you gain a number of Temporary Hit Points equal to the Hit Points of the first form into which you shape-shift. These Temporary Hit Points vanish if any remain when the spell ends.\n\nYour game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too.\n\nUpon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you\u2019re in it.\nPrimary caster: female half-orc, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-bb3e1c63-7733-448c-a53c-9b26f4a058a7.png",
+      "jpeg_quality": 35,
+      "bytes": 49722,
+      "sha256": "ccffb3121f3e06305bd99c0a55807e9aead6ecf1ef8c8acac19487ab0fa19515",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49722
+      }
     },
     {
       "category": "spells",
@@ -4855,14 +6795,31 @@
       "stem": "level9StormofVengeance",
       "filename": "level9StormofVengeance.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "male",
       "character_ancestry": "tiefling",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: an amber-lit desert temple with sandstone carvings; clothing in ochre and deep teal. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Storm of Vengeance (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take 2d6 Thunder damage and have the Deafened condition for the duration.\n\nAt the start of each of your later turns, the storm produces different effects, as detailed below.\n\n**Turn 2.** Acidic rain falls. Each creature and object under the cloud takes 4d6 Acid damage.\n\n**Turn 3.** You call six bolts of lightning from the cloud to strike six different creatures or objects beneath it. Each target makes a Dexterity saving throw, taking 10d6 Lightning damage on a failed save or half as much damage on a successful one.\n\n**Turn 4.** Hailstones rain down. Each creature under the cloud takes 2d6 Bludgeoning damage.\n\n**Turns 5\u201310.** Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.\nPrimary caster: male tiefling, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: an amber-lit desert temple with sandstone carvings; clothing in ochre and deep teal. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Storm of Vengeance (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take 2d6 Thunder damage and have the Deafened condition for the duration.\n\nAt the start of each of your later turns, the storm produces different effects, as detailed below.\n\n**Turn 2.** Acidic rain falls. Each creature and object under the cloud takes 4d6 Acid damage.\n\n**Turn 3.** You call six bolts of lightning from the cloud to strike six different creatures or objects beneath it. Each target makes a Dexterity saving throw, taking 10d6 Lightning damage on a failed save or half as much damage on a successful one.\n\n**Turn 4.** Hailstones rain down. Each creature under the cloud takes 2d6 Bludgeoning damage.\n\n**Turns 5\u201310.** Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.\nPrimary caster: male tiefling, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-75c0ad6d-580b-4962-836d-bd07ea755c12.png",
+      "jpeg_quality": 32,
+      "bytes": 50127,
+      "sha256": "5c94fe958a3fb74c704ce3b131bfa6a6f879a3f45b48c00569e97df7f1ba5f13",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50127
+      }
     },
     {
       "category": "spells",
@@ -4870,14 +6827,31 @@
       "stem": "level9TimeStop",
       "filename": "level9TimeStop.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "female",
       "character_ancestry": "goliath",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a snowy mountain pass beneath pale daylight; clothing in charcoal and white fur. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Time Stop (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal.\n\nThis spell ends if one of the actions you use during this period, or any effects that you create during it, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.\nPrimary caster: female goliath, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a snowy mountain pass beneath pale daylight; clothing in charcoal and white fur. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Time Stop (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal.\n\nThis spell ends if one of the actions you use during this period, or any effects that you create during it, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.\nPrimary caster: female goliath, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-103e1c29-8be6-454f-ae63-6bcb874813c6.png",
+      "jpeg_quality": 39,
+      "bytes": 50125,
+      "sha256": "a7ad82bdf0318060730b911bada0ddfbf47e52f5b218133a1804f0844f30cffd",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50125
+      }
     },
     {
       "category": "spells",
@@ -4885,14 +6859,31 @@
       "stem": "level9TruePolymorph",
       "filename": "level9TruePolymorph.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "male",
       "character_ancestry": "halfling",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: an underground crystal grotto with turquoise reflections; clothing in dark blue and copper. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell True Polymorph (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): Choose one creature or nonmagical object that you can see within range. The creature shape-shifts into a different creature or a nonmagical object, or the object shape-shifts into a creature (the object must be neither worn nor carried). The transformation lasts for the duration or until the target dies or is destroyed, but if you maintain Concentration on this spell for the full duration, the spell lasts until dispelled.\n\nAn unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn\u2019t affected by this spell.\n\n**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose that has a Challenge Rating equal to or less than the target\u2019s Challenge Rating or level. The target\u2019s game statistics are replaced by the stat block of the new form, but it retains its Hit Points, Hit Point Dice, alignment, and personality.\n\nThe target gains a number of Temporary Hit Points equal to the Hit Points of the new form. These Temporary Hit Points vanish if any remain when the spell ends.\n\nThe target is limited in the actions it can perform by the anatomy of its new form, and it can\u2019t speak or cast spells.\n\nThe target\u2019s gear melds into the new form. The creature can\u2019t use or otherwise benefit from any of that equipment.\n\n**Object into Creature.** You can turn an object into any kind of creature, as long as the creature\u2019s size is no larger than the object\u2019s size and the creature has a Challenge Rating of 9 or lower. The creature is Friendly to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.\n\nIf the spell lasts more than an hour, you no longer control the creature. It might remain Friendly to you, depending on how you have treated it.\n\n**Creature into Object.** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object\u2019s size is no larger than the creature\u2019s size. The creature\u2019s statistics become those of the object, and the creature has no memory of time spent in this form after the spell ends and it returns to normal.\nPrimary caster: male halfling, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: an underground crystal grotto with turquoise reflections; clothing in dark blue and copper. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell True Polymorph (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): Choose one creature or nonmagical object that you can see within range. The creature shape-shifts into a different creature or a nonmagical object, or the object shape-shifts into a creature (the object must be neither worn nor carried). The transformation lasts for the duration or until the target dies or is destroyed, but if you maintain Concentration on this spell for the full duration, the spell lasts until dispelled.\n\nAn unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn\u2019t affected by this spell.\n\n**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose that has a Challenge Rating equal to or less than the target\u2019s Challenge Rating or level. The target\u2019s game statistics are replaced by the stat block of the new form, but it retains its Hit Points, Hit Point Dice, alignment, and personality.\n\nThe target gains a number of Temporary Hit Points equal to the Hit Points of the new form. These Temporary Hit Points vanish if any remain when the spell ends.\n\nThe target is limited in the actions it can perform by the anatomy of its new form, and it can\u2019t speak or cast spells.\n\nThe target\u2019s gear melds into the new form. The creature can\u2019t use or otherwise benefit from any of that equipment.\n\n**Object into Creature.** You can turn an object into any kind of creature, as long as the creature\u2019s size is no larger than the object\u2019s size and the creature has a Challenge Rating of 9 or lower. The creature is Friendly to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.\n\nIf the spell lasts more than an hour, you no longer control the creature. It might remain Friendly to you, depending on how you have treated it.\n\n**Creature into Object.** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object\u2019s size is no larger than the creature\u2019s size. The creature\u2019s statistics become those of the object, and the creature has no memory of time spent in this form after the spell ends and it returns to normal.\nPrimary caster: male halfling, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5874a112-50ef-4b50-a5ef-4a384db400a7.png",
+      "jpeg_quality": 36,
+      "bytes": 49953,
+      "sha256": "a45146e15c9bf0f1ec135d90aecf56f2c008573afdc6a28d77a85f7f9616e312",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49953
+      }
     },
     {
       "category": "spells",
@@ -4900,14 +6891,31 @@
       "stem": "level9TrueResurrection",
       "filename": "level9TrueResurrection.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "female",
       "character_ancestry": "elf",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a candlelit timber study filled with scrolls; clothing in plum and cream. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell True Resurrection (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its Hit Points.\n\nThis spell closes all wounds, neutralizes any poison, cures all magical contagions, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs. If the creature was Undead, it is restored to its non-Undead form.\n\nThe spell can provide a new body if the original no longer exists, in which case you must speak the creature\u2019s name. The creature then appears in an unoccupied space you choose within 10 feet of you.\nPrimary caster: female elf, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a candlelit timber study filled with scrolls; clothing in plum and cream. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell True Resurrection (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its Hit Points.\n\nThis spell closes all wounds, neutralizes any poison, cures all magical contagions, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs. If the creature was Undead, it is restored to its non-Undead form.\n\nThe spell can provide a new body if the original no longer exists, in which case you must speak the creature\u2019s name. The creature then appears in an unoccupied space you choose within 10 feet of you.\nPrimary caster: female elf, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ccea9a82-9bb6-44a6-b912-6eda2b19215e.png",
+      "jpeg_quality": 36,
+      "bytes": 50312,
+      "sha256": "45e82d9c9bd6bdcd7aad538fff6eef59d432bd93d47f1eb505bf7e9414969b70",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50312
+      }
     },
     {
       "category": "spells",
@@ -4915,14 +6923,31 @@
       "stem": "level9VisionofElapsingEons",
       "filename": "level9VisionofElapsingEons.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "male",
       "character_ancestry": "gnome",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a tranquil lakeside meadow at golden hour; clothing in russet and moss green. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Vision of Elapsing Eons (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You trick a creature you can see within range into believing it is watching itself and its surroundings crumble away, as if eons were passing in moments. The target must succeed on an Intelligence saving throw or take 10d12 Psychic damage and have the Paralyzed condition for the duration.\n\nWhile Paralyzed, the target repeats the save at the end of each of its turns. On a failed save, it gains 1 Exhaustion level. On a successful save, the spell ends. The spell ends early if someone within 5 feet of the target takes an action to shake it free from the illusion.\nPrimary caster: male gnome, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a tranquil lakeside meadow at golden hour; clothing in russet and moss green. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Vision of Elapsing Eons (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You trick a creature you can see within range into believing it is watching itself and its surroundings crumble away, as if eons were passing in moments. The target must succeed on an Intelligence saving throw or take 10d12 Psychic damage and have the Paralyzed condition for the duration.\n\nWhile Paralyzed, the target repeats the save at the end of each of its turns. On a failed save, it gains 1 Exhaustion level. On a successful save, the spell ends. The spell ends early if someone within 5 feet of the target takes an action to shake it free from the illusion.\nPrimary caster: male gnome, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1ae297b3-806e-422a-b51d-6ee3d5898169.png",
+      "jpeg_quality": 35,
+      "bytes": 49594,
+      "sha256": "fc1ff38cc4d8ebc68ee1106728e5618f1d57e36e67ff8151add0174d538b30b5",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49594
+      }
     },
     {
       "category": "spells",
@@ -4930,14 +6955,31 @@
       "stem": "level9WailoftheBanshee",
       "filename": "level9WailoftheBanshee.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "female",
       "character_ancestry": "dragonborn",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a rainy medieval market street; clothing in deep blue and weathered leather. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Wail of the Banshee (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You emit a terrible scream that can kill those who hear it. Choose up to ten creatures within range. Each target with 50 Hit Points or fewer dies. Targets with more than 50 Hit Points make a Constitution saving throw. On a failed save, a target takes 12d10 Psychic damage and has the Deafened condition for 1 hour. On a successful save, a target takes half as much damage only. A target is unaffected by the spell if it can't hear you.\nPrimary caster: female dragonborn, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a rainy medieval market street; clothing in deep blue and weathered leather. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Wail of the Banshee (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You emit a terrible scream that can kill those who hear it. Choose up to ten creatures within range. Each target with 50 Hit Points or fewer dies. Targets with more than 50 Hit Points make a Constitution saving throw. On a failed save, a target takes 12d10 Psychic damage and has the Deafened condition for 1 hour. On a successful save, a target takes half as much damage only. A target is unaffected by the spell if it can't hear you.\nPrimary caster: female dragonborn, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-36b978f9-de6c-4183-a800-ec3547bb452f.png",
+      "jpeg_quality": 36,
+      "bytes": 50267,
+      "sha256": "525addb5054cd8ba89aaf090418082d67b7261861cb0b8a6584e8a54428e802f",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50267
+      }
     },
     {
       "category": "spells",
@@ -4945,14 +6987,31 @@
       "stem": "level9Weird",
       "filename": "level9Weird.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "male",
       "character_ancestry": "half-orc",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a sunlit ancient forest with emerald mist, moss and wildflowers; clothing in sage green and ivory. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Weird (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You try to create illusory terrors in others\u2019 minds. Each creature of your choice in a 30-foot-radius Sphere centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes 10d10 Psychic damage and has the Frightened condition for the duration. On a successful save, a target takes half as much damage only.\n\nA Frightened target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes 5d10 Psychic damage. On a successful save, the spell ends on that target.\nPrimary caster: male half-orc, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a sunlit ancient forest with emerald mist, moss and wildflowers; clothing in sage green and ivory. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Weird (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): You try to create illusory terrors in others\u2019 minds. Each creature of your choice in a 30-foot-radius Sphere centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes 10d10 Psychic damage and has the Frightened condition for the duration. On a successful save, a target takes half as much damage only.\n\nA Frightened target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes 5d10 Psychic damage. On a successful save, the spell ends on that target.\nPrimary caster: male half-orc, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-63511809-3876-4921-a4a5-7e957ca6a4f4.png",
+      "jpeg_quality": 34,
+      "bytes": 49786,
+      "sha256": "f84a702e4a7ea2602f992cf23ef0af10529197b32f326fc4a8885cc075ca2d14",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 49786
+      }
     },
     {
       "category": "spells",
@@ -4960,14 +7019,31 @@
       "stem": "level9Wish",
       "filename": "level9Wish.jpg",
       "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/spells",
-      "status": "pending",
+      "status": "complete",
       "references": [],
       "transparent": false,
       "character_gender": "female",
       "character_ancestry": "tiefling",
       "character_age": "visibly elderly, wise and experienced, with mature weathered facial features",
       "level": 9,
-      "prompt": "Create a completely distinct standalone painting. Scene direction: a windswept coastal cliff at dawn; clothing in indigo and silver. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Wish (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): *Wish* is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.\n\nThe basic use of this spell is to duplicate any other spell of level 8 or lower. If you use it this way, you don\u2019t need to meet any requirements to cast that spell, including costly components. The spell simply takes effect.\n\nAlternatively, you can create one of the following effects of your choice:\n\n**Object Creation.** You create one object of up to 25,000 GP in value that isn\u2019t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space that you can see on the ground.\n\n**Instant Health.** You allow yourself and up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them listed in the *Greater Restoration* spell.\n\n**Resistance.** You grant up to ten creatures that you can see Resistance to one damage type that you choose. This Resistance is permanent.\n\n**Spell Immunity.** You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.\n\n**Sudden Learning.** You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can\u2019t replace a feat that is a prerequisite for any of your other feats or features.\n\n**Roll Redo.** You undo a single recent event by forcing a reroll of any die roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *Wish* spell could undo an ally\u2019s failed saving throw or a foe\u2019s Critical Hit. You can force the reroll to be made with Advantage or Disadvantage, and you choose whether to use the reroll or the original roll.\n\n**Reshape Reality.** You may wish for something not included in any of the other effects. To do so, state your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item\u2019s current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god\u2019s divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, your wish fails.\n\nThe stress of casting *Wish* to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take 1d10 Necrotic damage per level of that spell. This damage can\u2019t be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *Wish* ever again if you suffer this stress.\nPrimary caster: female tiefling, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds."
+      "prompt": "Create a completely distinct standalone painting. Scene direction: a windswept coastal cliff at dawn; clothing in indigo and silver. Choose a varied camera angle appropriate to this spell. Use case: stylized-concept. Create ONE original square fantasy painting for the spell Wish (spell level 9). Depict a clear evocative scene illustrating its central magical effect. Spell concept (use for visual meaning, do not render text): *Wish* is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.\n\nThe basic use of this spell is to duplicate any other spell of level 8 or lower. If you use it this way, you don\u2019t need to meet any requirements to cast that spell, including costly components. The spell simply takes effect.\n\nAlternatively, you can create one of the following effects of your choice:\n\n**Object Creation.** You create one object of up to 25,000 GP in value that isn\u2019t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space that you can see on the ground.\n\n**Instant Health.** You allow yourself and up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them listed in the *Greater Restoration* spell.\n\n**Resistance.** You grant up to ten creatures that you can see Resistance to one damage type that you choose. This Resistance is permanent.\n\n**Spell Immunity.** You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.\n\n**Sudden Learning.** You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can\u2019t replace a feat that is a prerequisite for any of your other feats or features.\n\n**Roll Redo.** You undo a single recent event by forcing a reroll of any die roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *Wish* spell could undo an ally\u2019s failed saving throw or a foe\u2019s Critical Hit. You can force the reroll to be made with Advantage or Disadvantage, and you choose whether to use the reroll or the original roll.\n\n**Reshape Reality.** You may wish for something not included in any of the other effects. To do so, state your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item\u2019s current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god\u2019s divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, your wish fails.\n\nThe stress of casting *Wish* to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take 1d10 Necrotic damage per level of that spell. This damage can\u2019t be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *Wish* ever again if you suffer this stress.\nPrimary caster: female tiefling, visibly elderly, wise and experienced, with mature weathered facial features. Visibly recognizable ancestry: elves pointed ears, dwarves sturdy proportions, dragonborn reptilian heads and scales, tieflings horns, goliaths imposing stone-grey skin. Create a distinct natural pose and clothes suited to this spell, with the magical effect as a strong focal subject. Richly painterly fantasy card artwork matching the existing collection: tactile brushwork, atmospheric dark surroundings, dramatic jewel-tone magical illumination, detailed worn fabrics, naturalistic fantasy figures and meaningful backgrounds. Vary the composition and environment to suit the spell. One coherent scene, edge-to-edge, readable at 640px square. No readable text, labels, UI, border, collage, logo or watermark. For transformations show elegant magical light, no body horror. For combat show magic, motion and armour without graphic wounds.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ac4bd79c-624c-4ada-8fee-d57af8f9015e.png",
+      "jpeg_quality": 38,
+      "bytes": 50140,
+      "sha256": "cdad330a8499e8664f68d85931f0d3cb15531e50bc0de419ed21b5827251cfc3",
+      "size": [
+        640,
+        640
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "sha256_verified": true,
+        "bytes": 50140
+      }
     }
   ]
 }

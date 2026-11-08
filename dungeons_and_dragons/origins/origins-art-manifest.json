@@ -1,0 +1,1109 @@
+{
+  "generator": "built-in image_gen",
+  "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins",
+  "dimensions": [
+    384,
+    576
+  ],
+  "items": [
+    {
+      "name": "Agent of the Ninth Quill",
+      "slug": "agent-of-the-ninth-quill",
+      "description": "**Ability Scores:** Dexterity, Intelligence, Charisma\n\n**Feat:** Arcane Infiltrator (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Arcana and Sleight of Hand\n\n**Tool Proficiency:** Thieves\u2019 Tools\n\n**Equipment:** Choose A or B: (A) Dagger, Light Hammer, Thieves\u2019 Tools, Iron Spikes, Rope, Traveler\u2019s Clothes, 17 GP; or (B) 50 GP\n\nYour sharp mind and keen burgling skills led you to fall in with the Ninth Quill, a collective of thieves, saboteurs, and spies who steal magical lore and relics from others. Through your escapades\u2014from purloining magic items and arcane tomes to sabotaging groups of mages\u2014you\u2019ve developed cunning skills and magical tricks to further your spy craft.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/agent-of-the-ninth-quill.json",
+      "filename": "bgAgentOfTheNinthQuill.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Agent of the Ninth Quill background through one distinctive character engaged in their former vocation.\nScene: A covert arcane burglar slipping through a moonlit archive with a stolen closed grimoire tucked under one arm, glimmering magical wards behind.\nMain character: an adult male elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-30f5abb1-1750-47e2-a305-a3d825fa0d91.png",
+      "bytes": 48704,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "f52583afff253129b1f62ef96f48f94e54d679789c8055784ce27153dbc57370"
+    },
+    {
+      "name": "Bejeweled Conclave Spy",
+      "slug": "bejeweled-conclave-spy",
+      "description": "**Ability Scores:** Dexterity, Wisdom, Charisma\n\n**Feat:** Arcane Eloquence (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Deception and Perception\n\n**Tool Proficiency:** Disguise Kit\n\n**Equipment:** Choose A or B: (A) Disguise Kit, Fine Clothes, Perfume, 5 GP; or (B) 50 GP\n\nPublicly, you\u2019re a courtier, a mediator, or an entertainer. But behind that glamorous visage is a mind honed for gathering secrets. Trained by the enchanters of the Bejeweled Conclave, you know how to use your charm and wit (plus a little magic) to infiltrate organizations, uncover information, and broker deals.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/bejeweled-conclave-spy.json",
+      "filename": "bgBejeweledConclaveSpy.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "dwarf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Bejeweled Conclave Spy background through one distinctive character engaged in their former vocation.\nScene: An elegant jeweled courtier discreetly observing a candlelit masked reception, holding a folded secret note at their side.\nMain character: an adult female dwarf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-da720ba4-4fbb-4e2b-a428-f955596c0768.png",
+      "bytes": 50842,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "871eadf25e632a80bd3a897b16cc41b0d5393bf512c9128757136335ea59ef31"
+    },
+    {
+      "name": "Cosmic Dawn Experiment",
+      "slug": "cosmic-dawn-experiment",
+      "description": "**Ability Scores:** Strength, Dexterity, Constitution\n\n**Feat:** Transmuted Anatomy (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Athletics and Survival\n\n**Tool Proficiency:** Choose one kind of Artisan\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Artisan\u2019s Tools (same as above), Backpack, Robe, Traveler\u2019s Clothes, 30 GP; or (B) 50 GP\n\nYour body has been warped by the transmutation practices of the Bringers of the Cosmic Dawn. Perhaps you were inadvertently caught up in one of the organization\u2019s experiments, or maybe you were a member of the organization and sought to improve your physical form through magical might. Whatever the case, you use your strange anatomy to your benefit.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/cosmic-dawn-experiment.json",
+      "filename": "bgCosmicDawnExperiment.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dragonborn",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Cosmic Dawn Experiment background through one distinctive character engaged in their former vocation.\nScene: A survivor of magical transmutation examining a gently luminous crystalline pattern on one forearm in a quiet alchemical chamber, fully clothed, calm and determined, no wounds or body horror.\nMain character: an adult male dragonborn, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1b4b28d4-217f-49b4-b7a1-0d597cbe0350.png",
+      "bytes": 47610,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "b1c5d5ee118d72e9ae4efe89296131ce6780b0c39474c5e8db4585cdf793adb3"
+    },
+    {
+      "name": "Covenant of the Grave Recruit",
+      "slug": "covenant-of-the-grave-recruit",
+      "description": "**Ability Scores:** Strength, Intelligence, Wisdom\n\n**Feat:** Arcane Undertaker (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** History and Medicine\n\n**Tool Proficiency:** Herbalism Kit\n\n**Equipment:** Choose A or B: (A) Dagger, Herbalism Kit, Book (anatomy), Shovel, 16 GP; or (B) 50 GP\n\nDeath has always fascinated you. You\u2019ve studied that morbid topic alongside members of the Covenant of the Grave, analyzing the macabre with scientific precision. Though these studies, you\u2019ve amassed knowledge of medication, necromancy, and history.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/covenant-of-the-grave-recruit.json",
+      "filename": "bgCovenantOfTheGraveRecruit.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "tiefling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Covenant of the Grave Recruit background through one distinctive character engaged in their former vocation.\nScene: A scholarly recruit studying old funerary relics and medicinal herbs beside candles in a stone crypt library, contemplative and peaceful, no corpses.\nMain character: an adult female tiefling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6420b55d-44e8-4bac-91b2-e13ffedf49f8.png",
+      "bytes": 46758,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "0355645bc55d064392f87cf6f71f8eb162ae22abc126169587f7008848c9f792"
+    },
+    {
+      "name": "Crucible Storm Chaser",
+      "slug": "crucible-storm-chaser",
+      "description": "**Ability Scores:** Strength, Constitution, Intelligence\n\n**Feat:** Arcane Overload (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Athletics and Nature\n\n**Tool Proficiency:** Glassblower\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Glassblower\u2019s Tools, Backpack, Rope, Traveler\u2019s Clothes, 15 GP; or (B) 50 GP\n\nYour daredevil tendencies and thirst for excitement led you to the Crucible Keepers, an organization dedicated to studying natural and magical catastrophes. From playing with molten glass to charging a hurricane\u2019s eye, you thrive when disaster is mere steps away.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/crucible-storm-chaser.json",
+      "filename": "bgCrucibleStormChaser.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "halfling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Crucible Storm Chaser background through one distinctive character engaged in their former vocation.\nScene: A daring storm researcher on a windswept cliff raising a brass weather instrument toward distant lightning, cloak billowing above a wild sea.\nMain character: an adult male halfling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b938423b-1eff-4916-a69e-d346d7fa0ab2.png",
+      "bytes": 51452,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "3622160827ad9620f12ca00f79cd51d7d93d8f1391ffb71d485c213202e4ccb3"
+    },
+    {
+      "name": "Familiar Trainer",
+      "slug": "familiar-trainer",
+      "description": "**Ability Scores:** Constitution, Intelligence, Wisdom\n\n**Feat:** Familiar Friend (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Animal Handling and Arcana\n\n**Tool Proficiency:** Choose one kind of Gaming Set\n\n**Equipment:** Choose A or B: (A) Quarterstaff, Gaming Set (same as above), Bedroll, Bell, String, Tinderbox, Traveler\u2019s Clothes, Waterskin, 44 GP; or (B) 50 GP\n\nA magical familiar bonded with you when you were young; accompanying you throughout your adolescence. Now, you can\u2019t imagine life without your furry\u2014or feathery, scaly, or slimy\u2014friend at your side. You\u2019ve learned to work in tandem with your familiar, and when adventure presents its challenges, your familiar is quick to remind you of the small joys in life.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/familiar-trainer.json",
+      "filename": "bgFamiliarTrainer.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "gnome",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Familiar Trainer background through one distinctive character engaged in their former vocation.\nScene: A familiar trainer gently offering a hand to a small owl familiar perched beside them in a cozy timber room, warm lamplight and quiet companionship.\nMain character: an adult female gnome, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3d881713-9476-4c54-ad04-59e5bc928262.png",
+      "bytes": 52564,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "6185e02848f96a9a7062d2c80dd0f24a9c66e355b2236dff9e97a61126febc44"
+    },
+    {
+      "name": "Horizon Weaver Initiate",
+      "slug": "horizon-weaver-initiate",
+      "description": "**Ability Scores:** Dexterity, Constitution, Wisdom\n\n**Feat:** Portal Jumper (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Acrobatics and Survival\n\n**Tool Proficiency:** Weaver\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Shortbow, 20 Arrows, Weaver\u2019s Tools, Map, Quiver, Rope, Traveler\u2019s Clothes, 18 GP; or (B) 50 GP\n\nYour adolescence was marked by unquenchable wanderlust. You left home and began your travels as soon as you were able. Along the way, you encountered the adventurous conjurers of the Horizon Weavers, who taught you some of their teleportation magic to further your explorations.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/horizon-weaver-initiate.json",
+      "filename": "bgHorizonWeaverInitiate.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "half-orc",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Horizon Weaver Initiate background through one distinctive character engaged in their former vocation.\nScene: A traveling novice stepping through a softly luminous portal from a rocky road toward an unfamiliar lush valley, travel pack and walking staff.\nMain character: an adult male half-orc, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-18506901-869f-45a4-a87e-ea840e726594.png",
+      "bytes": 61554,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "da9a060cae0339f66c181ee1d61e1d4a61737a6c06563f8db1e8fafb9d28e6e7"
+    },
+    {
+      "name": "Phantasmic Circus Trouper",
+      "slug": "phantasmic-circus-trouper",
+      "description": "**Ability Scores:** Dexterity, Constitution, Charisma\n\n**Feat:** Arcane Artist (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Deception and Performance\n\n**Tool Proficiency:** Disguise Kit\n\n**Equipment:** Choose A or B: (A) Disguise Kit, Gaming Set (any), Costume, Mirror, Traveler\u2019s Clothes, 12 GP; or (B) 50 GP\n\nWhether as a performer or a circus hand, you found a home among the members of the Phantasmic Circus. As you traveled across the world bringing magic and wonder to excited audiences, you learned some illusion magic and honed your talents for performance and misdirection.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/phantasmic-circus-trouper.json",
+      "filename": "bgPhantasmicCircusTrouper.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "goliath",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Phantasmic Circus Trouper background through one distinctive character engaged in their former vocation.\nScene: A magical circus performer gracefully juggling small illusionary glowing birds beneath a striped tent, theatrical dusk light and elegant movement.\nMain character: an adult female goliath, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e60e4278-dff8-47e3-88d2-fba6bfb12dbc.png",
+      "bytes": 55736,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "2b34cf9414a4cda6f8153938c7276b42246bb306db3d6c2c9f1cc2c71e8c9f25"
+    },
+    {
+      "name": "Seer Apprentice",
+      "slug": "seer-apprentice",
+      "description": "**Ability Scores:** Intelligence, Wisdom, Charisma\n\n**Feat:** Arcane Omens (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** History and Insight\n\n**Tool Proficiency:** Navigator\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Navigator\u2019s Tools, 8 Candles, Ink, Ink Pen, Parchment (9 sheets), Pouch, Tinderbox, Traveler\u2019s Clothes, 11 GP; or (B) 50 GP\n\nAs an apprentice among the Seers of Sea and Sky, you learned to interpret minor omens from the clouds above and the fathoms below. The organization\u2019s rich network of libraries furthered your education, and you now travel across the world, imparting advice and aid to others.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/seer-apprentice.json",
+      "filename": "bgSeerApprentice.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "human",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Seer Apprentice background through one distinctive character engaged in their former vocation.\nScene: A young adult seer reading subtle omens in a shallow bowl of seawater on a cliffside balcony beneath moving clouds.\nMain character: an adult male human, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3e47b3c2-ed56-4508-9bda-5a89c5e661c7.png",
+      "bytes": 50808,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "37800be91b5a43fda037d5a3e22fe7b3b7ca600c19d902945fc098e1e8b4b17d"
+    },
+    {
+      "name": "Ward of the Sheltering Hands",
+      "slug": "ward-of-the-sheltering-hands",
+      "description": "**Ability Scores:** Constitution, Wisdom, Charisma\n\n**Feat:** Arcane Safeguard (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Insight and Medicine\n\n**Tool Proficiency:** Cook\u2019s Utensils\n\n**Equipment:** Choose A or B: (A) Cook\u2019s Utensils, Blanket, Healer\u2019s Kit, Lamp, Oil (3 flasks), Tinderbox, Traveler\u2019s Clothes, Waterskin, 40 GP; or (B) 50 GP\n\nA turn of ill luck led you to the Sheltering Hands, an altruistic organization dedicated to defending the downtrodden. The organization helped you regain your footing and taught you some of its protective magic\u2014in the hope that one day you too would shelter the less fortunate in their time of need.",
+      "source_json": "games/dnd-2024/content/src/au/backgrounds/ward-of-the-sheltering-hands.json",
+      "filename": "bgWardOfTheShelteringHands.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Ward of the Sheltering Hands background through one distinctive character engaged in their former vocation.\nScene: A compassionate protector holding a softly glowing protective ward over the doorway of a modest shelter during rain, warm refuge behind.\nMain character: an adult female elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c23fb599-1ea4-469f-80f6-41e1a8c858d2.png",
+      "bytes": 63142,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "820424d19e5ad83ec1407e4130e00cb075ae5eff84e9b7b387d81f368c2ca636"
+    },
+    {
+      "name": "Aberrant Heir",
+      "slug": "aberrant-heir",
+      "description": "**Ability Scores:** Strength, Constitution, Charisma\n\n**Feat:** Aberrant Dragonmark (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** History and Intimidation\n\n**Tool Proficiency:** Disguise Kit\n\n**Equipment:** Choose A or B: (A) Dagger, Disguise Kit, Costume, Traveler\u2019s Clothes, 16 GP; or (B) 50 GP\n\nYour aberrant dragonmark has made life challenging since it manifested. You might have hidden it successfully for most of your life or managed to avoid notice. Alternatively, you might have encountered suspicion and fear, perhaps coupled with the outright antagonism of one or more dragonmarked houses. You might have formed an association with the House Tarkanan criminal organization (named for one of the most notorious leaders of the aberrant dragonmarked in the War of the Mark twenty-five centuries ago). Or you might struggle to find your own way in the world, relying on your wits and the power of your mark.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/aberrant-heir.json",
+      "filename": "bgAberrantHeir.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dwarf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Aberrant Heir background through one distinctive character engaged in their former vocation.\nScene: A wary traveler in a shadowed alley carefully revealing an abstract irregular magical birthmark on a clothed forearm, quiet guarded expression.\nMain character: an adult male dwarf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c77c5bd1-bf14-4543-8017-3ea18b99f416.png",
+      "bytes": 46624,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "5cfc0090e18e8f28f0742ad11c1967ee73436c49478a00a4761c61f8273dd4fb"
+    },
+    {
+      "name": "Archaeologist",
+      "slug": "archaeologist",
+      "description": "**Ability Scores:** Dexterity, Intelligence, Wisdom\n\n**Feat:** Skilled\n\n**Skill Proficiencies:** History and Survival\n\n**Tool Proficiency:** Cartographer\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Cartographer\u2019s Tools, Bullseye Lantern, Map, Map or Scroll Case, Shovel, Tent, Traveler\u2019s Clothes, 17 GP; or (B) 50 GP\n\nYou\u2019ve made a lifelong study of the lost and fallen cultures of the past, visiting their ruins, deciphering their written records, and examining their surviving masterworks. Perhaps you studied at Morgrave University or a similar institution, supplementing your time in the library with fieldwork amid ancient ruins in remote locations. Some archaeologists plunder the treasures of the past in search of wealth or fame, but most consider it their calling to learn from the past. In any case, the archaeologists of Eberron combine the qualities of learned historians with the grit of treasure hunters.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/archaeologist.json",
+      "filename": "bgArchaeologist.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "dragonborn",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Archaeologist background through one distinctive character engaged in their former vocation.\nScene: A field archaeologist kneeling beside an ancient carved tablet in overgrown ruins, carefully brushing dust away by lanternlight.\nMain character: an adult female dragonborn, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-fb4ddf63-f375-42ec-b028-a95053b7a61c.png",
+      "bytes": 60660,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "eef8d2fe9375f6dc27e948101601e64779700e3bfa501aa1c6a56d38fb1176b5"
+    },
+    {
+      "name": "House Agent",
+      "slug": "house-agent",
+      "description": "**Ability Scores:** Strength, Intelligence, Charisma\n\n**Feat:** Lucky\n\n**Skill Proficiencies:** Investigation and Persuasion\n\n**Tool Proficiency:** Choose one kind of Artisan\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Artisan\u2019s Tools (same as above), Fine Clothes, 20 GP; or (B) 50 GP\n\nYou are connected to one of the dragonmarked houses, but you haven\u2019t (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You\u2019ve earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-agent.json",
+      "filename": "bgHouseAgent.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "tiefling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Agent background through one distinctive character engaged in their former vocation.\nScene: A poised guild envoy carrying a sealed satchel through a grand arched trading hall, composed and observant.\nMain character: an adult male tiefling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5491bb01-1e6c-4ed1-abc8-dba13490f653.png",
+      "bytes": 57184,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "879dce354e878fb5bed7ee465b2b3ab2ed1b016a2b3296badfdf9b9415ae4d92"
+    },
+    {
+      "name": "House Cannith Heir",
+      "slug": "house-cannith-heir",
+      "description": "**Ability Scores:** Strength, Dexterity, Intelligence\n\n**Feat:** Mark of Making (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Investigation and Sleight of Hand\n\n**Tool Proficiency:** Choose one kind of Artisan\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Artisan\u2019s Tools (same as above), Crowbar, Fine Clothes, 2 Pouches, 17 GP; or (B) 50 GP\n\nAs a scion of House Cannith, you carry a proud legacy. Cannith creates wonders of the modern world, and you\u2019re expected to contribute to the ongoing success of the house through invention, scholarship, business, or diplomacy. The only thing that can stand in your way is the deep rift within your own house. The sooner the three barons sort out which of them is the true head of the house (and you, no doubt, have your preference), the sooner House Cannith can claim its rightful position of leadership among all the dragonmarked houses.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-cannith-heir.json",
+      "filename": "bgHouseCannithHeir.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "human",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Cannith Heir background through one distinctive character engaged in their former vocation.\nScene: An arcane craftsperson inspecting a small brass construct at a lamplit workbench scattered with precision tools and sketches without legible writing.\nMain character: an adult female human, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7c7a7be5-6c16-42c8-b7d3-99edb15f7564.png",
+      "bytes": 45278,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "96533c0e3765d4d1a22dc863ad2c266de7556d38c5156ecdd6388966bb9c60ef"
+    },
+    {
+      "name": "House Deneith Heir",
+      "slug": "house-deneith-heir",
+      "description": "**Ability Scores:** Strength, Constitution, Wisdom\n\n**Feat:** Mark of Sentinel (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Insight and Perception\n\n**Tool Proficiency:** Choose one kind of Gaming Set\n\n**Equipment:** Choose A or B: (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Fine Clothes, Healer\u2019s Kit, Quiver, 1 GP; or (B) 50 GP\n\nAs an heir of House Deneith, you\u2019ve been trained for combat\u2014not to seek it out, but not to shy from it either. You\u2019ve learned the importance of duty, honor, and the laws used to govern society when duty and honor fail. As you established your name in the house, you might have worked as a bodyguard for some minor dignitary, as a mercenary, or as a marshal hunting fugitives. Now you\u2019re prepared to claim your rightful standing in the mightiest of the dragonmarked houses.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-deneith-heir.json",
+      "filename": "bgHouseDeneithHeir.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "human",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Deneith Heir background through one distinctive character engaged in their former vocation.\nScene: An honorable armored bodyguard standing watch at a manor entrance, shield lowered and sword sheathed, steady and vigilant.\nMain character: an adult male human, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0285ef29-f196-4564-925c-a61bb344bd30.png",
+      "bytes": 50570,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "8ceceaecf98f75d9ceb250c98c3cac5c9076171ad7514d1012cc5dd0f601e5a8"
+    },
+    {
+      "name": "House Ghallanda Heir",
+      "slug": "house-ghallanda-heir",
+      "description": "**Ability Scores:** Dexterity, Wisdom, Charisma\n\n**Feat:** Mark of Hospitality (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Insight and Persuasion\n\n**Tool Proficiency:** Cook\u2019s Utensils\n\n**Equipment:** Choose A or B: (A) Cook\u2019s Utensils, Fine Clothes, Iron Pot, Lamp, Oil (5 flasks), Perfume, 26 GP; or (B) 50 GP\n\nThanks to your connections to House Ghallanda, you grew up accustomed to creature comforts, lively conversation, good drink, and delicious food. You might be a charming and witty scion of the house who loves nothing more than a pleasant evening beside a warm hearth. Or you could be a schemer who exploits bonds of trust and friendship to bend others to your will. You might pursue an adventuring career to master the cuisines of other cultures and ages, expand your network of useful contacts, or earn enough money to open your own inn.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-ghallanda-heir.json",
+      "filename": "bgHouseGhallandaHeir.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "halfling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Ghallanda Heir background through one distinctive character engaged in their former vocation.\nScene: A welcoming innkeeper offering a steaming bowl in a rustic inn beside a glowing hearth, hospitable atmosphere.\nMain character: an adult female halfling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-830ef0e6-06d4-4d4d-8d3a-58e593c25676.png",
+      "bytes": 53822,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "992f8946edf5ebc944edceaa3ed7c6e1141b8c9b2b76b03b639dd15159b2db49"
+    },
+    {
+      "name": "House Jorasco Heir",
+      "slug": "house-jorasco-heir",
+      "description": "**Ability Scores:** Dexterity, Constitution, Wisdom\n\n**Feat:** Mark of Healing (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Medicine and Stealth\n\n**Tool Proficiency:** Herbalism Kit\n\n**Equipment:** Choose A or B: (A) Herbalism Kit, Fine Clothes, Healer\u2019s Kit, 25 GP; or (B) 50 GP\n\nHouse Jorasco teaches that illness and injury stalk the living like ghosts, robbing people of health and longevity. You\u2019ve been taught ways to combat these scourges, both magically and medically. You\u2019re trained to use those skills in the service of others\u2014and to ascertain that you are always appropriately compensated for this service, ensuring the health and longevity of House Jorasco. You might be a kindly healer with no stomach for combat or a dispassionate specialist who knows exactly how to incapacitate or kill an enemy with precise strikes.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-jorasco-heir.json",
+      "filename": "bgHouseJorascoHeir.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "halfling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Jorasco Heir background through one distinctive character engaged in their former vocation.\nScene: A skilled healer preparing herbs and clean bandages in a quiet lamplit infirmary, gentle competent demeanor, no injuries shown.\nMain character: an adult male halfling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-9cc293ea-96db-4f3e-a637-08f5c6319772.png",
+      "bytes": 47850,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "16320422efb34cf3b59b1e585236ec0c5fc5873b84c6834d9035bf5feaa8d934"
+    },
+    {
+      "name": "House Kundarak Heir",
+      "slug": "house-kundarak-heir",
+      "description": "**Ability Scores:** Strength, Constitution, Intelligence\n\n**Feat:** Mark of Warding (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Arcana and Investigation\n\n**Tool Proficiency:** Thieves\u2019 Tools\n\n**Equipment:** Choose A or B: (A) Thieves\u2019 Tools, Fine Clothes, 10 GP; or (B) 50 GP\n\nAs an heir of House Kundarak, you take great pride in your family and its work of safeguarding the valuables of Khorvaire. Your house has always been a leader among the clans of the Mror Holds. Though it has never held the crown, it has a reputation for professionalism, honor, and order. You might strive to uphold that reputation, you might place your own sense of honor over your family\u2019s, or you could rebel against the house\u2019s expectations and flout the demands of honor.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-kundarak-heir.json",
+      "filename": "bgHouseKundarakHeir.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "dwarf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Kundarak Heir background through one distinctive character engaged in their former vocation.\nScene: A dignified vault warden examining a beautifully wrought lock in a cavernous stone bank, brass keys and a subtle protective glow.\nMain character: an adult female dwarf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c8c6c738-d8cd-4d26-b5b5-34ab695a4e45.png",
+      "bytes": 50932,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "136487084e62f656bbbfd7ba3db5c9ffcd908cfd76d71c3f2febd8999e3c033c"
+    },
+    {
+      "name": "House Lyrandar Heir",
+      "slug": "house-lyrandar-heir",
+      "description": "**Ability Scores:** Strength, Dexterity, Charisma\n\n**Feat:** Mark of Storm (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Acrobatics and Nature\n\n**Tool Proficiency:** Navigator\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Navigator\u2019s Tools, Fine Clothes, 10 GP; or (B) 50 GP\n\nAs an heir of House Lyrandar, the wind is your ally, the sea and sky your dominion. Despite the devastation of the Last War, your house is on the ascendancy, buoyed by its mastery of the new airship technology. You might have spent your early career on the sea as a sailor or navigator; as a shipwright; or as a member of the Raincallers\u2019 Guild, manipulating the weather and assisting with irrigation and similar public works. Or you might have been among the first in your house to take to the skies as part of an airship crew. Service to the house might call you to hunt pirates in the Lhazaar Sea, to explore ancient ruins in search of magical technology to bind elemental forces, or to salvage a wrecked airship in the Mournland.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-lyrandar-heir.json",
+      "filename": "bgHouseLyrandarHeir.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "half-elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Lyrandar Heir background through one distinctive character engaged in their former vocation.\nScene: A confident airship navigator at a wooden helm high among windblown clouds, elegant rigging and a faint elemental ring beyond.\nMain character: an adult male half-elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ffc92f84-0752-4470-867f-f7b10f09cb42.png",
+      "bytes": 53936,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "da09f60abd8664e3a09c6870bf7fa8b05938cdd404f12ebd55a92b571adef7da"
+    },
+    {
+      "name": "House Medani Heir",
+      "slug": "house-medani-heir",
+      "description": "**Ability Scores:** Dexterity, Intelligence, Wisdom\n\n**Feat:** Mark of Detection (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Insight and Investigation\n\n**Tool Proficiency:** Disguise Kit\n\n**Equipment:** Choose A or B: (A) Disguise Kit, Fine Clothes, 10 GP; or (B) 50 GP\n\nAs a member of House Medani, your life revolves around subterfuge\u2014not engaging in it, but preventing others from doing so. You see the world around you as an intricate web of schemes, plots, and counterplots. Assessing the range of possibilities, you use instinct to predict threats to your clients and defend against them well before those threats can turn into danger. Defending against an assassin\u2019s blade is a job any Deneith sellsword or Tharashk enforcer can do\u2014making sure no one ever draws that blade is the Medani way.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-medani-heir.json",
+      "filename": "bgHouseMedaniHeir.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "half-elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Medani Heir background through one distinctive character engaged in their former vocation.\nScene: A perceptive security adviser studying reflections in a polished goblet at a candlelit diplomatic gathering, alert and composed.\nMain character: an adult female half-elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3435e4be-2e33-4ee2-a15f-d15b3a8bd171.png",
+      "bytes": 49154,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "952233643165d257062bd89199799cdc5db0d6ba634dfbb5ad7cb16555485954"
+    },
+    {
+      "name": "House Orien Heir",
+      "slug": "house-orien-heir",
+      "description": "**Ability Scores:** Dexterity, Constitution, Intelligence\n\n**Feat:** Mark of Passage (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Acrobatics and Athletics\n\n**Tool Proficiency:** Cartographer\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Cartographer\u2019s Tools, Fine Clothes, Map, Map or Scroll Case, 18 GP; or (B) 50 GP\n\nBefore the Last War, Orien\u2019s influence covered Khorvaire, and its trade roads and lightning rails were the lifeblood of a vibrant kingdom. But the war cut those arteries, leaving Galifar dead and House Orien bloodied. While the house\u2019s couriers and shippers still keep goods moving on both sides of the continent, finding a way to reestablish routes across the Mournland remains the house\u2019s top priority. In the meantime, Orien adventurers can serve their house by investigating missing couriers, recovering goods stolen from caravans, and troubleshooting disruptions to the lightning rail.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-orien-heir.json",
+      "filename": "bgHouseOrienHeir.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "human",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Orien Heir background through one distinctive character engaged in their former vocation.\nScene: A resilient courier with a leather dispatch satchel waiting beside a fantasy arcane rail platform, blue magical light beneath distant carriages.\nMain character: an adult male human, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f6f80fc5-a02e-4def-9ca8-5638af96cf50.png",
+      "bytes": 49856,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "65adf754edaf65614d4f983fa731a1b7244a6b36ac8c96da7cd9f76c09b750c6"
+    },
+    {
+      "name": "House Phiarlan Heir",
+      "slug": "house-phiarlan-heir",
+      "description": "**Ability Scores:** Dexterity, Wisdom, Charisma\n\n**Feat:** Mark of Shadow (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Deception and Stealth\n\n**Tool Proficiency:** Disguise Kit\n\n**Equipment:** Choose A or B: (A) Disguise Kit, Fine Clothes, 10 GP; or (B) 50 GP\n\nThough you have seen wealth, fame, and beauty as a child of House Phiarlan, you consider knowledge (and the power it brings) the greatest treasure of all. You might pursue that power as an artist or performer, always alert for secrets even as you regale the world with story, song, acrobatics, or art. Or you might foster ties to the secretive espionage arm of your house: the Serpentine Table.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-phiarlan-heir.json",
+      "filename": "bgHousePhiarlanHeir.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Phiarlan Heir background through one distinctive character engaged in their former vocation.\nScene: A graceful traveling musician performing a lute melody in an elegant shadowed salon, watching the room with subtle intelligence.\nMain character: an adult female elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-de683def-fa05-444a-b623-7f3bfc6596bd.png",
+      "bytes": 44322,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "5ac6ba30e2517dc0cb360ab0d4476b23b189a9b0f277cac3b051512123715e76"
+    },
+    {
+      "name": "House Sivis Heir",
+      "slug": "house-sivis-heir",
+      "description": "**Ability Scores:** Intelligence, Wisdom, Charisma\n\n**Feat:** Mark of Scribing (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** History and Perception\n\n**Tool Proficiency:** Calligrapher\u2019s Supplies\n\n**Equipment:** Choose A or B: (A) Calligrapher\u2019s Supplies, Fine Clothes, Ink, 5 Ink Pens, Paper (30 sheets), Parchment (9 sheets), 8 GP; or (B) 50 GP\n\nFor nearly thirty centuries, your family has worked to maintain order. Communication is the cord that binds civilization together, and your ancestors settled the disputes of sovereigns and helped the dragonmarked houses find a place in the world. Few people realize the influence House Sivis has had on the shape of the modern age\u2014just as few know how often a royal adviser holds more power than the actual ruler. While the other dragonmarked houses fight for fame and recognition, House Sivis plays a long game of subtle influence behind the scenes, keeping order amid the chaos of unending intrigue.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-sivis-heir.json",
+      "filename": "bgHouseSivisHeir.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "gnome",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Sivis Heir background through one distinctive character engaged in their former vocation.\nScene: A meticulous diplomatic scribe holding a quill beside a glowing communication crystal in a book-lined office, no readable words.\nMain character: an adult male gnome, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-4fc66bba-168d-49a1-89de-344169fe396e.png",
+      "bytes": 51822,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "ef924d5deb855b589e1c080a47ffa6e1ec73997b2d31cd85d7c7dd5339d3c4ab"
+    },
+    {
+      "name": "House Tharashk Heir",
+      "slug": "house-tharashk-heir",
+      "description": "**Ability Scores:** Constitution, Intelligence, Wisdom\n\n**Feat:** Mark of Finding (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Perception and Survival\n\n**Tool Proficiency:** Choose one kind of Gaming Set\n\n**Equipment:** Choose A or B: (A) Gaming Set (same as above), Climber\u2019s Kit, Fine Clothes, Hunting Trap, Manacles, 2 GP; or (B) 50 GP\n\nHeirs of other houses lead lives of luxury, but in House Tharashk you learned self-reliance from an early age. What your young house lacks in resources, it makes up for in spirit and determination. Tharashk has a destiny to fulfill, and you have a part in it. Whether in combat or in social interaction, you have learned to play the role of the hunter: study your enemies, exploit their weaknesses, and do whatever it takes to achieve victory.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-tharashk-heir.json",
+      "filename": "bgHouseTharashkHeir.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "half-orc",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Tharashk Heir background through one distinctive character engaged in their former vocation.\nScene: A rugged tracker finding a faint magical trail among wet rocks in a marsh, lantern at their belt and practical outdoor gear.\nMain character: an adult female half-orc, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-fa384e6f-0451-4d40-943a-f702f115322f.png",
+      "bytes": 49524,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "bd41d4c54b89239c90b82b02b2e2e593ed399046a8d4c72ae1224c81f1112012"
+    },
+    {
+      "name": "House Thuranni Heir",
+      "slug": "house-thuranni-heir",
+      "description": "**Ability Scores:** Dexterity, Intelligence, Charisma\n\n**Feat:** Mark of Shadow (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Performance and Stealth\n\n**Tool Proficiency:** Choose one kind of Musical Instrument\n\n**Equipment:** Choose A or B: (A) Musical Instrument (same as above), Costume, Fine Clothes, 13 GP; or (B) 50 GP\n\nGiven House Thuranni\u2019s short history and focus on espionage, its leaders expect you to further the interests of the house at every opportunity. During the house\u2019s formative years as an independent entity, every move you make has been watched closely. This isn\u2019t to say that every Thuranni heir must actively spy at the behest of house elders. But even the house\u2019s most insular artists and artisans must keep up with current political events and pass on or collect information when asked.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-thuranni-heir.json",
+      "filename": "bgHouseThuranniHeir.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Thuranni Heir background through one distinctive character engaged in their former vocation.\nScene: A reserved elven artisan carving a fine sculpture in a moonlit studio, a discreet sealed message resting by the tools.\nMain character: an adult male elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6dcbaaa2-9aa7-4def-b706-7b9309f9cfc4.png",
+      "bytes": 43556,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "aba7ff097d309246b48a92120115721e04d549d6cb5451a9286192a27ca20a79"
+    },
+    {
+      "name": "House Vadalis Heir",
+      "slug": "house-vadalis-heir",
+      "description": "**Ability Scores:** Constitution, Wisdom, Charisma\n\n**Feat:** Mark of Handling (see \u201cDragonmark Feats\u201d)\n\n**Skill Proficiencies:** Animal Handling and Nature\n\n**Tool Proficiency:** Herbalism Kit\n\n**Equipment:** Choose A or B: (A) Herbalism Kit, Fine Clothes, Net, 29 GP; or (B) 50 GP\n\nYou have grown up with respect for both family and nature. You understand the culture of the Five Nations, but you don\u2019t get drawn into the games of ambition and status that others play. You know the beauty and power inherent in life, the mysteries of birth and death, and the miracles that happen in between. Your insights into the natural world allow you to see through the lies and deception of city folk\u2014and never let on how much of their subterfuge you recognize.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/house-vadalis-heir.json",
+      "filename": "bgHouseVadalisHeir.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "human",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the House Vadalis Heir background through one distinctive character engaged in their former vocation.\nScene: A thoughtful animal keeper tending a calm fantastical antlered horse in a leafy stable courtyard, patient affectionate gesture.\nMain character: an adult female human, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1d4e6578-209a-44a3-bbf6-90fd777aa051.png",
+      "bytes": 62748,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "e68efb926600c6fec7fe50ddfe7d6b210fcc835446e1d81f6c2726c90c07bb9e"
+    },
+    {
+      "name": "Inquisitive",
+      "slug": "inquisitive",
+      "description": "**Ability Scores:** Constitution, Intelligence, Charisma\n\n**Feat:** Alert\n\n**Skill Proficiencies:** Insight and Investigation\n\n**Tool Proficiency:** Thieves\u2019 Tools\n\n**Equipment:** Choose A or B: (A) Thieves\u2019 Tools, Bullseye Lantern, Crowbar, Oil (10 flasks), Traveler\u2019s Clothes, 10 GP; or (B) 50 GP\n\nYou have honed your talents of investigation and deduction\u2014fueled by a boundless curiosity\u2014to explore mysteries, find missing people, recover stolen goods, unearth corruption and conspiracies, and solve crimes. As an inquisitive, you might have pursued freelance work, signed on with an inquisitive agency (perhaps one licensed by a dragonmarked house such as Medani or Tharashk), reported for a broadsheet, or worked for a police force.",
+      "source_json": "games/dnd-2024/content/src/efa/backgrounds/inquisitive.json",
+      "filename": "bgInquisitive.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "human",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Inquisitive background through one distinctive character engaged in their former vocation.\nScene: A curious private investigator examining a small brass clue with a magnifying lens in a rain-dark cobblestone street.\nMain character: an adult male human, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6b4c9cfb-571e-44df-b9a1-43b4b6662301.png",
+      "bytes": 57270,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "4a756a63e1083a9ab422739a70b590084429733d955483e32ef3ad48e54efa74"
+    },
+    {
+      "name": "Chondathan Freebooter",
+      "slug": "chondathan-freebooter",
+      "description": "**Ability Scores:** Strength, Dexterity, Wisdom\n\n**Feat:** Skilled\n\n**Skill Proficiencies:** Athletics and Sleight of Hand\n\n**Tool Proficiency:** Weaver\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Dagger, Weaver\u2019s Tools, Backpack, Ball Bearings, Basket, Bedroll, Bucket, Rations (3 days\u2019 worth), Rope, Signal Whistle, Traveler\u2019s Clothes, 38 GP; or (B) 50 GP\n\nThough most youths in Chondath accept their four-year term of compulsory military service, you bristled at that authoritarian attempt to control your life. You forsook your nationhood, discarded your given name, and worked as a freebooter with the first ship that would have you. Since then, you\u2019ve traveled the Vilhon Reach. Though you\u2019ve never sailed more than a few dozen leagues from land, you make up for it with deep local connections and the breadth of your experiences.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/chondathan-freebooter.json",
+      "filename": "bgChondathanFreebooter.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Chondathan Freebooter background through one distinctive character engaged in their former vocation.\nScene: A seasoned independent sailor balancing on a wooden deck, coiling rope beside the rail with a bustling Mediterranean-like port beyond.\nMain character: an adult female elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-fdf9f4cf-0482-4f6f-bef5-b812fb65e998.png",
+      "bytes": 70756,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "508d960c4dea3a9eb215571a412b0eacdb167d4f24c2640515363957e3d121ac"
+    },
+    {
+      "name": "Dead Magic Dweller",
+      "slug": "dead-magic-dweller",
+      "description": "**Ability Scores:** Strength, Constitution, Wisdom\n\n**Feat:** Healer\n\n**Skill Proficiencies:** Medicine and Survival\n\n**Tool Proficiency:** Leatherworker's Tools\n\n**Equipment:** Choose A or B: (A) Greatclub, Leatherworker's Tools, Bedroll, Blanket, Healer's Kit, Pole, Rations (3 days' worth), Tent, Tinderbox, 5 Torches, Traveler's Clothes, Waterskin, 32 GP; or (B) 50 GP\n\nThe dead magic zones of the Anauroch desert are anathema to spellcasters and monsters that rely on magic\u2014which is exactly why you made your life there. Perhaps you're on the run from Red Wizards, or you ran afoul of a powerful djinni in Calimshan. Whatever the case, you decided that living in Anauroch was your best option. After long months or years, you're stronger, wiser, and armed with hard-earned knowledge of desert medicine and wasteland survival.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/dead-magic-dweller.json",
+      "filename": "bgDeadMagicDweller.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dwarf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Dead Magic Dweller background through one distinctive character engaged in their former vocation.\nScene: A resourceful desert survivor preparing herbal medicine beneath a weathered stone shelter overlooking vast dunes, no magical glow.\nMain character: an adult male dwarf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f18ad545-868a-4279-ab37-d6ae0cfe3f95.png",
+      "bytes": 60650,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "61b2d8cdd0610d057a96c3c6ca745ede24d29310c4fcd16af82a2023b2782ad9"
+    },
+    {
+      "name": "Dragon Cultist",
+      "slug": "dragon-cultist",
+      "description": "**Ability Scores:** Dexterity, Constitution, Intelligence\n\n**Feat:** Cult of the Dragon Initiate (see \"Feats\" later in this chapter)\n\n**Skill Proficiencies:** Deception and Stealth\n\n**Tool Proficiency:** Calligrapher\u2019s Supplies\n\n**Equipment:** Choose A or B: (A) Calligrapher\u2019s Supplies, Dagger, Glass Bottle, Lamp, Manacles, Oil (5 flasks), 2 Pouches, Robe, Rope, 30 GP; or (B) 50 GP\n\nYou are an initiate of the Cult of the Dragon. You discovered or were brought to a cell cult, where you exemplified the values honored by dragon cultists: duplicity, secrecy, and determination. In exchange for your oath to serve the cult, the cult offered you the company of fellow dragon worshipers, plus access to resources that might help further your studies in the realms of arcana and occultism.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/dragon-cultist.json",
+      "filename": "bgDragonCultist.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "dragonborn",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Dragon Cultist background through one distinctive character engaged in their former vocation.\nScene: A secretive dragon devotee studying a small dragon-shaped relic in a torchlit underground shrine, hooded silhouette, solemn and nonviolent.\nMain character: an adult female dragonborn, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b56f4bc4-185b-4800-b93d-3bb765ca0255.png",
+      "bytes": 49012,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "65ab4f89b910783d0e56d30cfd51ec2adddb1e40126fc8811e75a390ee8066a5"
+    },
+    {
+      "name": "Emerald Enclave Caretaker",
+      "slug": "emerald-enclave-caretaker",
+      "description": "**Ability Scores:** Constitution, Intelligence, Wisdom\n\n**Feat:** Emerald Enclave Fledgling (see \"Feats\" later in this chapter)\n\n**Skill Proficiencies:** Nature and Survival\n\n**Tool Proficiency:** Herbalism Kit\n\n**Equipment:** Choose A or B: (A) Shortbow, 20 Arrows, Herbalism Kit, Bedroll, Blanket, Pouch, Tent, Traveler\u2019s Clothes, 13 GP; or (B) 50 GP\n\nAs a Caretaker with the Emerald Enclave, you take care of those who care for the world. Either alongside your fellow Emerald Enclave members or by yourself, you\u2019ve learned essential skills for living with the land: how to track game, where to forage for useful herbs, and even how to forecast the weather. You use these talents to maintain the balance between civilization and the wilds and to rid the world of unnatural creatures.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/emerald-enclave-caretaker.json",
+      "filename": "bgEmeraldEnclaveCaretaker.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "tiefling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Emerald Enclave Caretaker background through one distinctive character engaged in their former vocation.\nScene: A woodland caretaker kneeling to tend a young sapling in an ancient forest clearing, green cloak, dappled light and simple tools.\nMain character: an adult male tiefling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-8375f209-fa61-4d53-87b3-19e425fbf348.png",
+      "bytes": 60568,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "f26ae2234342dab8a6ab2ab933082ca018a79d8a69de7883041e792290074756"
+    },
+    {
+      "name": "Flaming Fist Mercenary",
+      "slug": "flaming-fist-mercenary",
+      "description": "**Ability Scores:** Strength, Constitution, Charisma\n\n**Feat:** Tough\n\n**Skill Proficiencies:** Intimidation and Perception\n\n**Tool Proficiency:** Smith's Tools\n\n**Equipment:** Choose A or B: (A) Mace, Smith's Tools, Fine Clothes, Manacles, Portable Ram, 4 GP; or (B) 50 GP\n\nThe chief law enforcement branch of Baldur's Gate is the Flaming Fist, a brawny mercenary guild led by the city's grand duke. You once served as a Flaming Fist, where you learned how to preempt trouble with your intimidating stare and, when necessary, absorb deadly blows. Flaming Fist mercenaries, active or retired, are known as some of the toughest, most resilient warriors along the Sword Coast, and you seek to maintain that reputation.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/flaming-fist-mercenary.json",
+      "filename": "bgFlamingFistMercenary.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "halfling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Flaming Fist Mercenary background through one distinctive character engaged in their former vocation.\nScene: A tough mercenary guard standing at a rainy fortified city gate, weathered red cloak and sturdy armor, weapon resting at their side.\nMain character: an adult female halfling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0adaa745-6fe0-462e-90be-188fc62b88e6.png",
+      "bytes": 60398,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "968ec99b3eb0191da4d9ff71a179cafb946ed31ab8a6efb88c479cdf7f93e101"
+    },
+    {
+      "name": "Genie Touched",
+      "slug": "genie-touched",
+      "description": "**Ability Scores:** Dexterity, Wisdom, Charisma\n\n**Feat:** Magic Initiate (Wizard)\n\n**Skill Proficiencies:** Perception and Persuasion\n\n**Tool Proficiency:** Glassblower\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Light Hammer, Glassblower\u2019s Tools, Fine Clothes, Lamp, Oil (3 flasks), Waterskin, 2 GP; or (B) 50 GP\n\nAlthough genies no longer rule Calimshan, genie magic is still common in your homeland. Perhaps you inadvertently summoned a djinni from a magic lamp, or maybe you came upon an oasis guarded by a marid. A dao might have saved you from a landslide, or you bargained with an efreeti for fleeting wealth. However your fate intersected with that of a genie, the experience left you with a keen eye, a silver tongue, and more than a touch of magic.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/genie-touched.json",
+      "filename": "bgGenieTouched.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "gnome",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Genie Touched background through one distinctive character engaged in their former vocation.\nScene: A silver-tongued wanderer watching a delicate ribbon of elemental mist curl from an old brass lamp in a desert courtyard, wonder and warm lamplight.\nMain character: an adult male gnome, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0ae865a2-e121-492e-a961-8eaf0277b25d.png",
+      "bytes": 56382,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "1d5d9d24e77b373edbd54221714279af254251ffc48eb7a2de530941e320735c"
+    },
+    {
+      "name": "Harper",
+      "slug": "harper",
+      "description": "**Ability Scores:** Dexterity, Intelligence, Charisma\n\n**Feat:** Harper Agent (see \"Feats\" later in this chapter)\n\n**Skill Proficiencies:** Performance and Sleight of Hand\n\n**Tool Proficiency:** Disguise Kit\n\n**Equipment:** Choose A or B: (A) Disguise Kit, Bedroll, Costume, Grappling Hook, Rope, Traveler\u2019s Clothes, 14 GP; or (B) 50 GP\n\nYou accepted an invitation to join the Harpers, pledging an oath to uphold the Harper code and act in service to the common good. Like all Harpers, you understand the value of teamwork as well as when it\u2019s best to go it alone. Harper veterans have taught you the order\u2019s secrets\u2014magical melodies, special watchwords, and legerdemain\u2014and have entrusted you to use such knowledge to surveil and undermine the forces of evil.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/harper.json",
+      "filename": "bgHarper.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "half-orc",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Harper background through one distinctive character engaged in their former vocation.\nScene: A discreet wandering musician tuning a small harp in a quiet tavern alcove while keeping watch over a busy room.\nMain character: an adult female half-orc, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c9023b4b-e768-4142-a098-e3a23c82008e.png",
+      "bytes": 47048,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "228c855090a90bbcc4044a90e8f0b717d0ee40e4372d97b2812306b220af2dbe"
+    },
+    {
+      "name": "Ice Fisher",
+      "slug": "ice-fisher",
+      "description": "**Ability Scores:** Strength, Dexterity, Constitution\n\n**Feat:** Alert\n\n**Skill Proficiencies:** Animal Handling and Athletics\n\n**Tool Proficiency:** Woodcarver\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Woodcarver\u2019s Tools, Basket, Block and Tackle, Bucket, Chain, Hunting Trap, Net, Pole, Rations (3 days\u2019 worth), Rope, Traveler\u2019s Clothes, 32 GP; or (B) 50 GP\n\nYou come from a proud line of ice fishers out of Ten-Towns in Icewind Dale. Catching knucklehead trout isn\u2019t the most glorious trade in the North, but it\u2019s an honest living. You\u2019ve trained your senses for the slightest tug on the line, wrestled big trout out of ice-covered lakes, and gutted enough knucklehead trout to feed your village many times over. These experiences have toughened your body and mind for a life of adventuring.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/ice-fisher.json",
+      "filename": "bgIceFisher.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "goliath",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Ice Fisher background through one distinctive character engaged in their former vocation.\nScene: A hardy ice fisher seated beside a fishing hole on a frozen lake, thick practical winter clothes, fishing line taut and distant snowy cabins.\nMain character: an adult male goliath, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-563303ff-3f8d-48c2-81fe-91fd4d02dc1d.png",
+      "bytes": 56940,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "e384f0166668ecb30fac0196994f9b181d199027c7cd17b678a5d7a251332052"
+    },
+    {
+      "name": "Knight of the Gauntlet",
+      "slug": "knight-of-the-gauntlet",
+      "description": "**Ability Scores:** Strength, Intelligence, Wisdom\n\n**Feat:** Tyro of the Gauntlet (see \"Feats\" later in this chapter)\n\n**Skill Proficiencies:** Athletics and Medicine\n\n**Tool Proficiency:** Smith\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Spear, Smith\u2019s Tools, Bullseye Lantern, Holy Symbol, Manacles, Oil (5 flasks), Tinderbox, Traveler\u2019s Clothes, 9 GP; or (B) 50 GP\n\nNot all who answer the call of a higher power are content to pore over scripture in a stuffy temple apse. You chose the path of the holy warrior by joining the Order of the Gauntlet. As a knight of the Gauntlet, you exercise righteous scorn for the forces of evil, unswerving camaraderie for your siblings in arms, and heartfelt compassion for the survivors of war. With weapon and holy symbol in hand, you\u2019ve sworn not to rest until the light of justice has vanquished the shadow of chaos across Faer\u00fbn.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/knight-of-the-gauntlet.json",
+      "filename": "bgKnightOfTheGauntlet.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "human",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Knight of the Gauntlet background through one distinctive character engaged in their former vocation.\nScene: A compassionate holy knight kneeling at a roadside shrine, gauntleted hands resting on the pommel of a grounded sword, dawn through cloud.\nMain character: an adult female human, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-92a007d6-b0cd-440f-acd0-1b38162fb5eb.png",
+      "bytes": 52164,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "c1ab00c4c01a4883976e27e39f6769b16ecaafca26dc8e6a5d45e0f0852d11bb"
+    },
+    {
+      "name": "Lords\u2019 Alliance Vassal",
+      "slug": "lords-alliance-vassal",
+      "description": "**Ability Scores:** Strength, Intelligence, Charisma\n\n**Feat:** Lords\u2019 Alliance Agent (see \"Feats\" later in this chapter)\n\n**Skill Proficiencies:** Insight and Persuasion\n\n**Tool Proficiency:** Calligrapher\u2019s Supplies\n\n**Equipment:** Choose A or B: (A) 2 Javelins, Calligrapher\u2019s Supplies, Fine Clothes, Ink, 5 Ink Pens, Parchment (9 sheets), 13 GP; or (B) 50 GP\n\nYou\u2019ve pledged your loyalty to a member-city of the Lords\u2019 Alliance. As an Alliance agent, you must uphold the tenets of the Alliance and seek to increase safety and prosperity along the Sword Coast. You\u2019re sworn to bring honor and glory to your lord\u2019s house, whether that means securing trade roads for a merchant-lord of Waterdeep or vanquishing monsters upriver of Daggerford. You\u2019ve trained in the arts of swordplay and statecraft and are as deft with a blade as you are with a quill.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/lords-alliance-vassal.json",
+      "filename": "bgLordsAllianceVassal.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Lords\u2019 Alliance Vassal background through one distinctive character engaged in their former vocation.\nScene: A sworn diplomatic vassal reviewing an unlettered sealed scroll at a castle balcony overlooking a protected trade road, sword sheathed.\nMain character: an adult male elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-850f126f-730c-4202-86f5-5ab5d65ffad3.png",
+      "bytes": 51992,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "f30e23f6c4f210aef7a6fb8cf90a3dff76e3d04bf2c1fe8f4bd4c08324d82001"
+    },
+    {
+      "name": "Moonwell Pilgrim",
+      "slug": "moonwell-pilgrim",
+      "description": "**Ability Scores:** Constitution, Wisdom, Charisma\n\n**Feat:** Magic Initiate (Druid)\n\n**Skill Proficiencies:** Nature and Performance\n\n**Tool Proficiency:** Painter\u2019s Supplies\n\n**Equipment:** Choose A or B: (A) Quarterstaff, Painter\u2019s Supplies, Bedroll, Bell, Pouch, Robe, String, Traveler\u2019s Clothes, Waterskin, 34 GP; or (B) 50 GP\n\nLike many who hail from the Moonshae Isles, you grew up revering the blessed land, its unique gods, and the mysterious shrines called the moonwells. As a moonwell pilgrim, you undertook a quest to visit and commune with every moonwell on (or off) the map. Along your idyllic journeys, you collected a repertoire of Moonshavian folk songs, painted landscapes of enchanting vistas, and even learned how to wield a bit of primal magic.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/moonwell-pilgrim.json",
+      "filename": "bgMoonwellPilgrim.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "dwarf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Moonwell Pilgrim background through one distinctive character engaged in their former vocation.\nScene: A peaceful pilgrim kneeling beside a moonlit sacred spring under ancient trees, travel satchel and a small lyre nearby.\nMain character: an adult female dwarf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1dee4c28-e631-4079-9683-728d103374e7.png",
+      "bytes": 62420,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "84d7ab6ae9fc9ee4d5157c7790ea887dd76c7e2cf8a7dbbf1b011e027db0a657"
+    },
+    {
+      "name": "Mulhorandi Tomb Raider",
+      "slug": "mulhorandi-tomb-raider",
+      "description": "**Ability Scores:** Dexterity, Constitution, Intelligence\n\n**Feat:** Lucky\n\n**Skill Proficiencies:** Investigation and Religion\n\n**Tool Proficiency:** Mason's Tools\n\n**Equipment:** Choose A or B: (A) Dagger, Light Hammer, Mason's Tools, Backpack, Bedroll, Crowbar, Ladder, Pole, 2 Pouches, Rope, String, Tinderbox, 5 Torches, Traveler's Clothes, Waterskin, 26 GP; or (B) 50 GP\n\nYou grew up in a land of living god-kings, and as a child you were told countless stories of ancient empires and buried cities. In these tales, Mulhorand was a land overflowing with forgotten riches\u2014priceless treasures awaiting anyone cunning and brave enough to seek them out. You've taken it upon yourself to explore your homeland's crypts, tombs, and pyramids to reclaim your people's relics.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/mulhorandi-tomb-raider.json",
+      "filename": "bgMulhorandiTombRaider.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dragonborn",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Mulhorandi Tomb Raider background through one distinctive character engaged in their former vocation.\nScene: A daring tomb explorer holding a lantern before an ancient sandstone doorway inside a pyramid, ropes and dust, discovery rather than theft.\nMain character: an adult male dragonborn, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-203be999-6a53-4dbc-b7dd-243964901c0f.png",
+      "bytes": 57792,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "9616f1bc95976afd3b62ef0cfce7c464499d0516369505c6ce61673fa1d7f298"
+    },
+    {
+      "name": "Mythalkeeper",
+      "slug": "mythalkeeper",
+      "description": "**Ability Scores:** Intelligence, Wisdom, Charisma\n\n**Feat:** Crafter\n\n**Skill Proficiencies:** Arcana and History\n\n**Tool Proficiency:** Jeweler's Tools\n\n**Equipment:** Choose A or B: (A) Quarterstaff, Jeweler's Tools, Perfume, Pouch, Robe, Shovel, String, Waterskin, 16 GP; or (B) 50 GP\n\nMythals are sources of great magical power that can alter the Weave or even the very nature of reality. Most were constructed in antiquity, and many have since been damaged or gone dormant. As a mythalkeeper from the Dalelands, your first experience with a mythal was likely in the ruins of Myth Drannor. You roam Faer\u00fbn in search of other ruined places of power, hoping to learn more about the history and powers of mythals\u2014or even restore a malfunctioning one.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/mythalkeeper.json",
+      "filename": "bgMythalkeeper.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "tiefling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Mythalkeeper background through one distinctive character engaged in their former vocation.\nScene: A learned guardian studying a fractured glowing magical nexus among overgrown ancient elven ruins, carefully tracing its light.\nMain character: an adult female tiefling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0bb2aea8-a54d-42b1-a1ae-438ddcd71cdf.png",
+      "bytes": 67186,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "7c2b9ab11c0397dd745043a9058f9540126c5af3f1e3f67bcc5f58f26e8e8212"
+    },
+    {
+      "name": "Purple Dragon Squire",
+      "slug": "purple-dragon-squire",
+      "description": "**Ability Scores:** Strength, Wisdom, Charisma\n\n**Feat:** Purple Dragon Rook (see \"Feats\" later in this chapter)\n\n**Skill Proficiencies:** Animal Handling and Insight\n\n**Tool Proficiency:** Navigator\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Spear, Navigator\u2019s Tools, Fine Clothes, 9 GP; or (B) 50 GP\n\nYou\u2019ve pledged your life to the safety of Cormyr and sought admission to that realm\u2019s order of elite warriors: the Purple Dragon Knights. But before you have the chance to join the ranks officially, you must first serve as a knight\u2019s squire. You\u2019ve found a liege willing to take you on and teach you the order\u2019s ways. Will you uphold the Purple Dragon Knights\u2019 ideals of glory, honor, and strength and prove yourself worthy of knighthood?",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/purple-dragon-squire.json",
+      "filename": "bgPurpleDragonSquire.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "halfling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Purple Dragon Squire background through one distinctive character engaged in their former vocation.\nScene: A young adult knightly squire polishing a shield beside a saddled horse in a dawn castle courtyard, practical purple tabard.\nMain character: an adult male halfling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-64ba37d6-00d5-4aa1-a00c-316471edff59.png",
+      "bytes": 56292,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "8a25076c6bcad16e20a4f7f9bb80d8f7d6328a61a7421353f043b184eb8f6dd0"
+    },
+    {
+      "name": "Rashemi Wanderer",
+      "slug": "rashemi-wanderer",
+      "description": "**Ability Scores:** Strength, Constitution, Charisma\n\n**Feat:** Tough\n\n**Skill Proficiencies:** Intimidation and Perception\n\n**Tool Proficiency:** Cartographer's Tools\n\n**Equipment:** Choose A or B: (A) Cartographer's Tools, Backpack, Bedroll, Hooded Lantern, Oil (3 flasks), Rope, Tinderbox, Traveler's Clothes, Waterskin, 23 GP; or (B) 50 GP\n\nYou spent years wandering the highlands of Rashemen, a dangerous windswept heath that's dotted with ancient obelisks enchanted to imprison Fiends and home to dragons, gnolls, and other deadly creatures. Friendships are hard to find in such an isolated land, and you've learned to keep strangers at a distance.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/rashemi-wanderer.json",
+      "filename": "bgRashemiWanderer.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "gnome",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Rashemi Wanderer background through one distinctive character engaged in their former vocation.\nScene: A solitary highland traveler striding past an ancient standing stone across windswept heather, fur-trimmed cloak and long walking staff.\nMain character: an adult female gnome, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ee120f1e-44b7-452c-9a93-8980c983b79d.png",
+      "bytes": 55032,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "2c1b0ef2d936e215f916c47a3cbc28bb4b573b1a4678af31f7bbc4e6ed50f631"
+    },
+    {
+      "name": "Shadowmasters Exile",
+      "slug": "shadowmasters-exile",
+      "description": "**Ability Score:** Dexterity, Intelligence, Charisma\n\n**Feat:** Savage Attacker\n\n**Skill Proficiencies:** Acrobatics and Stealth\n\n**Tool Proficiency:** Thieves\u2019 Tools\n\n**Equipment:** Choose A or B: (A) 2 Daggers, Thieves\u2019 Tools, Caltrops, Costume, Grappling Hook, Iron Spikes, Mirror, 2 Pouches, Rope, Traveler\u2019s Clothes, 3 GP; or (B) 50 GP\n\nYou trained your whole life to become a member of the Shadowmasters, the mysterious thieves\u2019 guild that controls the realm of Thesk from behind the scenes. Stealth and quick reflexes were just the start of your Shadowmaster education; you also needed to hone your ruthlessness to ensure the safety of the guild\u2019s secrets. But one wrong move led to your expulsion from the order. Now you must walk your own path.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/shadowmasters-exile.json",
+      "filename": "bgShadowmastersExile.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "half-orc",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Shadowmasters Exile background through one distinctive character engaged in their former vocation.\nScene: An exiled stealth specialist paused on a moonlit rooftop overlooking a distant city, practical dark traveling clothes and a small packed bundle.\nMain character: an adult male half-orc, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-28f12d7f-e303-45a7-97a4-718832ccc8b0.png",
+      "bytes": 44710,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "c54b74c5c617dcc93c0478fc554d6777f6cc106a4ae40530e6db8e8199036070"
+    },
+    {
+      "name": "Spellfire Initiate",
+      "slug": "spellfire-initiate",
+      "description": "**Ability Scores:** Constitution, Intelligence, Charisma\n\n**Feat:** Spellfire Spark (see \"Feats\" later in this chapter)\n\n**Skill Proficiencies:** Arcana and Perception\n\n**Tool Proficiency:** Choose one kind of Gaming Set\n\n**Equipment:** Choose A or B: (A) Gaming Set (same as above), Arcane Focus (Crystal or Wand), 2 Pouches, Traveler\u2019s Clothes, 36 GP; or (B) 50 GP\n\nYou bear the gift of spellfire: a rare form of magic that channels the raw power of the Weave. Wielding spellfire takes a heavy toll on the body. You\u2019ve trained both mind and body to efficiently wield this sacred power.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/spellfire-initiate.json",
+      "filename": "bgSpellfireInitiate.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "goliath",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Spellfire Initiate background through one distinctive character engaged in their former vocation.\nScene: A disciplined magical initiate practicing a controlled stream of silver-blue flame between their hands in an old stone courtyard, focused composure.\nMain character: an adult female goliath, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0af0bf95-58b2-4cd7-b443-15abd1412930.png",
+      "bytes": 56552,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "91f8f3a018e01607f037fe98f2d9dd535d100acc545f7b33b36781ced0675bca"
+    },
+    {
+      "name": "Zhentarim Mercenary",
+      "slug": "zhentarim-mercenary",
+      "description": "**Ability Scores:** Strength, Dexterity, Charisma\n\n**Feat:** Zhentarim Ruffian (see \"Feats\" later in this chapter)\n\n**Skill Proficiencies:** Intimidation and Perception\n\n**Tool Proficiency:** Forgery Kit\n\n**Equipment:** Choose A or B: (A) Club, Dagger, Forgery Kit, Fine Clothes, Hooded Lantern, Oil (3 flasks), 2 Pouches, String, Tinderbox, 11 GP; or (B) 50 GP\n\nMaybe you needed the money. Maybe you longed for a family, no matter how dubious. Or maybe you\u2019re just good at getting the job done by any means necessary. Whatever your reason, you enlisted with the Zhentarim, the most notorious mercenary guild in the Realms. Though the Zhentarim\u2019s leaders insist the organization is more like a family than a shadowy syndicate, few families exhibit as much dishonesty, nepotism, and corruption as this one. You\u2019ve honed your cunning, reflexes, and blade to climb the guild\u2019s ranks.",
+      "source_json": "games/dnd-2024/content/src/fr-hof/backgrounds/zhentarim-mercenary.json",
+      "filename": "bgZhentarimMercenary.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "human",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Zhentarim Mercenary background through one distinctive character engaged in their former vocation.\nScene: A cunning veteran mercenary studying the road from a shadowed roadside camp, practical black leather and mail, blade sheathed.\nMain character: an adult male human, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-cfdeff5e-bd42-4cfd-8543-d54ddc02ca50.png",
+      "bytes": 46568,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "a23145f7a33622adfb5ca47de2217dd33bbe0bbfd030d9ebe210da5784b33d90"
+    },
+    {
+      "name": "Haunted One",
+      "slug": "haunted-one",
+      "description": "**Ability Scores:** Constitution, Wisdom, Charisma\n\n**Feat:** Survivor or a Dark Gift feat of your choice (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Arcana and Survival\n\n**Tool Proficiency:** Choose one kind of Gaming Set\n\n**Equipment:** Choose A or B: (A) Gaming Set (same as above), Crowbar, Holy Water (1 flask), Mirror, Oil (2 flasks), Signal Whistle, Tinderbox, Traveler\u2019s Clothes, 5 Torches, Waterskin, and 14 GP; or (B) 50 GP\n\nYou are haunted by the events of your past. Whether it was a lone terrible incident or an accumulation of painful moments, you bear the unshakable weight of what happened to you. You\u2019ve tried to bury it and run away from it, to no avail; it can\u2019t be slain with a sword or banished via magic. Nevertheless, you persist.",
+      "source_json": "games/dnd-2024/content/src/rhw/backgrounds/haunted-one.json",
+      "filename": "bgHauntedOne.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "elf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Haunted One background through one distinctive character engaged in their former vocation.\nScene: A weary yet resolute traveler holding a lantern in an empty rain-soaked gothic street, faint spectral memories in mist behind, no gore.\nMain character: an adult female elf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-87bc64a7-0951-4aea-bb20-89d592eed8ce.png",
+      "bytes": 55810,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "4198658babeca45319aec719c4929086f803fb499b640bbf668a58c01c939fef"
+    },
+    {
+      "name": "Investigator",
+      "slug": "investigator",
+      "description": "**Ability Scores:** Intelligence, Wisdom, Charisma\n\n**Feat:** Sharp Eye or a Dark Gift feat of your choice (see \u201cFeats\u201d later in this chapter)\n\n**Skill Proficiencies:** Insight and Investigation\n\n**Tool Proficiency:** Disguise Kit\n\n**Equipment:** Choose A or B: (A) Disguise Kit, Manacles, Shovel, Traveler\u2019s Clothes, 3 Vials, and 16 GP; or (B) 50 GP\n\nYou relentlessly seek the truth. Perhaps you witnessed something remarkable or terrible and now desire to unravel its mystery, or maybe you\u2019re motivated by universal justice and honesty. Whether the cases you\u2019re embroiled in are local crimes or eldritch conspiracies, you\u2019re driven to reveal what others would keep hidden.",
+      "source_json": "games/dnd-2024/content/src/rhw/backgrounds/investigator.json",
+      "filename": "bgInvestigator.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "dwarf",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Investigator background through one distinctive character engaged in their former vocation.\nScene: A relentless investigator comparing a small physical clue against an old unlabeled town map in a candlelit rented room.\nMain character: an adult male dwarf, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6b75c9c5-af46-4c71-99cb-4777b8afee10.png",
+      "bytes": 46716,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "f24204c3bb3a8be10e4a66e3e5463b6c835589516e73c797dd7cd5f49d203e1f"
+    },
+    {
+      "name": "Mist Wanderer",
+      "slug": "mist-wanderer",
+      "description": "**Ability Scores:** Dexterity, Constitution, Wisdom\n\n**Feat:** A Dark Gift feat of your choice (see \u201cFeats\u201d later in this chapter; Mist Walker is recommended)\n\n**Skill Proficiencies:** Survival and Stealth\n\n**Tool Proficiency:** Choose one kind of Artisan\u2019s Tools\n\n**Equipment:** Choose A or B: (A) Artisan\u2019s Tools (same as above), Lamp, Oil (5 flasks), Pouch, Rope, Tinderbox, Traveler\u2019s Clothes, and 30 GP; or (B) 50 GP\n\nYou once knew your home. But one day, the Mists rose and drew you into a Domain of Dread. Ever since, you have wandered between domains, braving the mercurial Mists as you search for a way home. Your time in these cursed realms has changed you, yet you find solace in communities of fellow wanderers throughout the Mists.",
+      "source_json": "games/dnd-2024/content/src/rhw/backgrounds/mist-wanderer.json",
+      "filename": "bgMistWanderer.webp",
+      "status": "complete",
+      "character_gender": "female",
+      "character_ancestry": "dragonborn",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Mist Wanderer background through one distinctive character engaged in their former vocation.\nScene: A wandering traveler with a heavy pack following a narrow road into curling silver mist between ancient dark trees, hopeful light far ahead.\nMain character: an adult female dragonborn, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-03585323-548c-49d8-95bc-afbe6214c13a.png",
+      "bytes": 55848,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "0502bfede85442ffedf296d50584e8bdcad702c4f006cbbfcb9e380cc6d0139a"
+    },
+    {
+      "name": "Spirit Medium",
+      "slug": "spirit-medium",
+      "description": "**Ability Scores:** Constitution, Intelligence, Wisdom\n\n**Feat:** A Dark Gift feat of your choice (see \u201cFeats\u201d later in this chapter; Gathered Whispers is recommended)\n\n**Skill Proficiencies:** Insight and Religion\n\n**Tool Proficiency:** Choose one kind of Gaming Set\n\n**Equipment:** Choose A or B: (A) Dagger, Gaming Set (same as above), Basket, Bell, 8 Candles, Ink, Ink Pen, Paper (5 sheets), Tinderbox, Traveler\u2019s Clothes, and 32 GP; or (B) 50 GP\n\nThrough strange rituals and fateful encounters, you\u2019ve discovered that you bear a unique connection to the spirits of the dead and damned. Your body is a conduit for such spirits, granting you prescient insight from beyond. But these spirits\u2019 intentions aren\u2019t always innocent, and their gifts come at a haunting cost.",
+      "source_json": "games/dnd-2024/content/src/rhw/backgrounds/spirit-medium.json",
+      "filename": "bgSpiritMedium.webp",
+      "status": "complete",
+      "character_gender": "male",
+      "character_ancestry": "tiefling",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character origin illustration, vertical portrait 2:3.\nPrimary request: Depict the Spirit Medium background through one distinctive character engaged in their former vocation.\nScene: A solemn spirit medium beside a candlelit table as a gentle translucent ancestral apparition appears in the air, contemplative and eerie, no horror.\nMain character: an adult male tiefling, anatomically appropriate fantasy ancestry, recognizable silhouette, practical fully clothed fantasy attire fitting the occupation.\nStyle references: Images 1 and 2 are STYLE references only: match their moody hand-painted fantasy book illustration, subdued earthy colors, rich dark silhouettes, strong atmospheric pools of amber or cool moonlight, textured painterly scenery and dramatic chiaroscuro. Do not copy the reference character, easel, fireplace or forest unless requested in this scene.\nComposition: a full-body or nearly full-body character integrated into the environment, small enough to show the vocation and surroundings, strong readable gesture and clear profession-specific props. Keep head, hands and key props inside the frame. Original costume and setting specific to this origin. Rich environmental storytelling, restrained magic where appropriate.\nConstraints: no text, no captions, no typography, no readable writing, no logos, no watermarks, no decorative frame, no modern clothing or guns. This is a narrative scene, not a floating icon or headshot.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-702aac2d-de8d-4aa9-a2a8-cbb20c5164e2.png",
+      "bytes": 45478,
+      "size": [
+        384,
+        576
+      ],
+      "sha256": "3de49deb9c7704f8700be424f1553ca057ca63a0307b56d1c7a46e7adde11cb2"
+    }
+  ],
+  "summary": {
+    "complete": 49,
+    "pending": 0
+  },
+  "validation": {
+    "total_origins": 65,
+    "missing": [],
+    "new_files_verified": 49,
+    "existing_files_preserved": 16,
+    "dimensions": [
+      384,
+      576
+    ],
+    "format": "WEBP",
+    "bytes_min": 43556,
+    "bytes_max": 70756,
+    "character_gender_plan": {
+      "male": 25,
+      "female": 24
+    }
+  }
+}

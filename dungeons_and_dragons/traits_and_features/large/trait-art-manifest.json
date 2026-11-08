@@ -4787,7 +4787,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49376,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "secondStoryWork",
@@ -4954,7 +4963,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50467,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "splitEnchantment",
@@ -4979,7 +4997,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50179,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "stoneCamouflage",
@@ -5004,7 +5031,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50116,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "strengthOfTheGrave",
@@ -5030,7 +5066,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49939,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "sweepingAttack",
@@ -5055,7 +5100,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50257,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "tavernBrawler",
@@ -5081,7 +5135,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50463,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "thiefOfFiveFates",
@@ -5106,7 +5169,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50357,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "thoughtShieldPsychicReflection",
@@ -5131,7 +5203,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49591,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "thoughtShieldPsychicResistance",
@@ -5156,7 +5237,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50062,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "tidesOfChaos",
@@ -5181,7 +5271,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49798,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "tough",
@@ -5207,7 +5306,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49820,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "trainingInWarAndSong",
@@ -5232,7 +5340,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49464,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "tripAttack",
@@ -5257,7 +5374,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50133,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "twinklingConstellations",
@@ -5282,7 +5408,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50325,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "unarmouredDefence",
@@ -5307,7 +5442,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49779,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "uncannyDodge",
@@ -5332,7 +5476,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49578,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "urbanTracker",
@@ -5357,7 +5510,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49884,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "vapraksGreed",
@@ -5382,7 +5544,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49648,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "warMagic",
@@ -5407,7 +5578,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49765,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "warPriest",
@@ -5432,7 +5612,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49740,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "wardingFlare",
@@ -5457,7 +5646,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49817,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "whispersOfTheGrave",
@@ -5482,7 +5680,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49522,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "wildShape",
@@ -5507,7 +5714,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50351,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "wildStrike",
@@ -5532,7 +5748,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 49744,
+        "sha256_verified": true
+      }
     },
     {
       "stem": "wrathOfTheStorm",
@@ -5557,7 +5782,16 @@
       "size": [
         640,
         640
-      ]
+      ],
+      "validation": {
+        "format": "JPEG",
+        "dimensions": [
+          640,
+          640
+        ],
+        "bytes": 50265,
+        "sha256_verified": true
+      }
     }
   ],
   "summary": {
@@ -5568,5 +5802,17 @@
     "pending_entries": 0
   },
   "generation_status": "complete",
-  "remaining_files": []
+  "remaining_files": [],
+  "validation": {
+    "files_checked": 168,
+    "all_640_square": true,
+    "all_jpeg": true,
+    "all_sha256_verified": true,
+    "bytes_min": 49376,
+    "bytes_max": 53928,
+    "character_gender_plan": {
+      "male": 84,
+      "female": 84
+    }
+  }
 }

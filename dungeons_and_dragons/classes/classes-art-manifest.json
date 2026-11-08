@@ -1,0 +1,52 @@
+{
+  "generator": "built-in image_gen",
+  "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes",
+  "items": [
+    {
+      "slug": "artificer",
+      "name": "Artificer",
+      "filename": "classArtificer.webp",
+      "character_gender": "female",
+      "character_ancestry": "dwarf",
+      "scene": "A resourceful adult female dwarf inventor in practical medium armor and a leather tool apron, goggles pushed up above braided hair, standing at an arcane workbench. One hand holds a tiny clockwork construct, the other adjusts it with a precision tool. A dramatic black character silhouette rim-lit by turquoise magical sparks and amber forge light; brass gears, subtle mechanical motifs, an ancient workshop behind.",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classWizard.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classFighter.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy class card illustration, vertical portrait 2:3.\nPrimary request: Create a new ARTIFICER class card matching the two supplied existing class-card references.\nInput images: Image 1 and Image 2 are style and layout references only. Match their antique golden rectangular frame with engraved corner filigree, arched interior opening, painterly vivid atmospheric color and strong black full-body character silhouette. Original character and scenery.\nScene: A resourceful adult female dwarf inventor in practical medium armor and a leather tool apron, goggles pushed up above braided hair, standing at an arcane workbench. One hand holds a tiny clockwork construct, the other adjusts it with a precision tool. A dramatic black character silhouette rim-lit by turquoise magical sparks and amber forge light; brass gears, subtle mechanical motifs, an ancient workshop behind.\nComposition: central full-body hero, dramatic rim lighting, textured fantasy-book painted illustration, ornate gold frame, cream parchment title plaque integrated at the bottom exactly like the references. Maintain breathing room inside frame; keep whole silhouette and relevant props visible.\nText (verbatim): \"ARTIFICER\" on the bottom parchment plaque, bold black classical serif capitals, correctly spelled and legible. No other writing.\nConstraints: consistent border proportions and title area with references; no extra names, no watermark, no modern technology, no photorealism.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3fa61d6f-e206-42d1-9535-b1474150da8e.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 62766,
+      "sha256": "1ecf245e547bac760b7743e6c03772d6344b9c0a1f82b4429bd1e87aad8dc9fa"
+    },
+    {
+      "slug": "psion",
+      "name": "Psion",
+      "filename": "classPsion.webp",
+      "character_gender": "male",
+      "character_ancestry": "elf",
+      "scene": "An adult male elf psychic adept wearing flowing unarmored robes, levitating serenely above fractured stone with one hand near his temple and the other open. A powerful dark silhouette rim-lit by violet and azure psionic energy. Several small stones suspended in precise orbit and translucent geometric waves convey telekinesis and disciplined mental power; atmospheric ruined sanctuary behind. No wizard hat, staff, fireball or spellbook.",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classWizard.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classFighter.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy class card illustration, vertical portrait 2:3.\nPrimary request: Create a new PSION class card matching the two supplied existing class-card references.\nInput images: Image 1 and Image 2 are style and layout references only. Match their antique golden rectangular frame with engraved corner filigree, arched interior opening, painterly vivid atmospheric color and strong black full-body character silhouette. Original character and scenery.\nScene: An adult male elf psychic adept wearing flowing unarmored robes, levitating serenely above fractured stone with one hand near his temple and the other open. A powerful dark silhouette rim-lit by violet and azure psionic energy. Several small stones suspended in precise orbit and translucent geometric waves convey telekinesis and disciplined mental power; atmospheric ruined sanctuary behind. No wizard hat, staff, fireball or spellbook.\nComposition: central full-body hero, dramatic rim lighting, textured fantasy-book painted illustration, ornate gold frame, cream parchment title plaque integrated at the bottom exactly like the references. Maintain breathing room inside frame; keep whole silhouette and relevant props visible.\nText (verbatim): \"PSION\" on the bottom parchment plaque, bold black classical serif capitals, correctly spelled and legible. No other writing.\nConstraints: consistent border proportions and title area with references; no extra names, no watermark, no modern technology, no photorealism.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f6600a85-0d5c-411a-be96-94504c3ce646.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 60740,
+      "sha256": "89a90cfb1110bf3e2ce5407504221887956f5e08bb4fe9e3617c3075e3564d9b"
+    }
+  ],
+  "summary": {
+    "complete": 2,
+    "pending": 0
+  }
+}
