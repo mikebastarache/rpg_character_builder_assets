@@ -1665,7 +1665,17 @@
       "character_age": "a mature adult in their forties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Arcane Eloquence.\nSubject: one clearly identifiable main character, male tiefling, a mature adult in their forties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Arcane Eloquence in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: an old sandstone temple, ocher and teal clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Cantrip.** You learn the *Vicious Mockery* cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).\n\n**Smooth Talker.** When you make a Charisma (Deception, Intimidation, or Persuasion) check, you can roll 1d4 and add the number rolled to the ability check.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-8f48e122-3f2f-4e4a-ad64-006cf70c373a.png",
+      "jpeg_quality": 43,
+      "bytes": 50255,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "26a8844ef6ff96ba20580be5395a56c19f98a913b5243abd4476940940457479",
+      "thumbnail_bytes": 9032,
+      "thumbnail_sha256": "6ff75b897793833d96eaeb3f3cd2577ca4770adb5a845dc6d5797f77a16f55ef"
     },
     {
       "id": "au:feat:arcane-infiltrator",
@@ -1680,7 +1690,17 @@
       "character_age": "a seasoned adult in their fifties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Arcane Infiltrator.\nSubject: one clearly identifiable main character, female halfling, a seasoned adult in their fifties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Arcane Infiltrator in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a snowy mountain pass, charcoal and white clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Cantrip.** You learn the *Friends* cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).\n\n**Cunning Diversion.** You can take the Dodge action as a Bonus Action. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5e214883-4ef2-45e3-9d91-b5f40af23f1d.png",
+      "jpeg_quality": 48,
+      "bytes": 49493,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "931e90f2caf12073a5bfd97daf531a3bf04b1a9b18c2f1a074455f6558e0f36d",
+      "thumbnail_bytes": 8242,
+      "thumbnail_sha256": "e29711d9343ce9a3b4555a22ade155588a344ffe90b880b914bcd7816657f99e"
     },
     {
       "id": "au:feat:arcane-omens",
@@ -1695,7 +1715,17 @@
       "character_age": "a young adult in their twenties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Arcane Omens.\nSubject: one clearly identifiable main character, male gnome, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Arcane Omens in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a crystalline cavern, blue and copper clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Cantrip.** You learn the *Guidance* cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).\n\n**Helpful Premonition.** When you or a creature you can see within 30 feet of yourself fails a saving throw, you can take a Reaction to roll 1d4 and add the number rolled to the save\u2019s total, potentially turning the failure into a success. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-78164fc9-0e50-4b69-b1e9-08dbd1a5d33d.png",
+      "jpeg_quality": 41,
+      "bytes": 50197,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "22ec7bc8d659953a6f17773dc2ec2b84c97d0ea2d076074ac52eaa21c2c17089",
+      "thumbnail_bytes": 9260,
+      "thumbnail_sha256": "309c0f6c6380cf084ed9a93c07b7649f17220127d66597c6e89181075aa29e13"
     },
     {
       "id": "au:feat:arcane-overload",
@@ -1710,7 +1740,17 @@
       "character_age": "an experienced adult in their thirties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Arcane Overload.\nSubject: one clearly identifiable main character, female half-orc, an experienced adult in their thirties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Arcane Overload in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a candlelit scholar\u2019s study, plum and cream clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Cantrip.** You learn the *Fire Bolt* cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).\n\n**Power Surge.** When you cast an Evocation spell and deal damage with it, you can add your Proficiency Bonus to one damage roll of that spell. Once you use this benefit, you can\u2019t do so again until you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-a3848de0-ed5d-4f42-ad39-40dc9c354308.png",
+      "jpeg_quality": 46,
+      "bytes": 50279,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "4c0fd1e2870bb5dd91b7e8bd1569d023bd25947d5aed144037a941da46a6192d",
+      "thumbnail_bytes": 8672,
+      "thumbnail_sha256": "843393d7a32302e1095bb0bc5fc3958ecaba1f31aad70fe0a098a6dd7c958ddf"
     },
     {
       "id": "au:feat:arcane-safeguard",
@@ -1725,7 +1765,17 @@
       "character_age": "a mature adult in their forties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Arcane Safeguard.\nSubject: one clearly identifiable main character, male goliath, a mature adult in their forties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Arcane Safeguard in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a lakeside meadow, russet and moss-green clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Cantrip.** You learn the *Resistance* cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat). You can cast the *Resistance* cantrip as a Bonus Action. You can do so a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\n\n**Sheltering Aid.** When you take the Help action to assist with an ally\u2019s ability check, that ally gains a number of Temporary Hit Points equal to your Proficiency Bonus.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-daffa0ad-e0ba-4f04-bf70-106141baee4a.png",
+      "jpeg_quality": 38,
+      "bytes": 50485,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "5975a1a2875b9ed37d54dd6ca786f9f0aa912a46643b34400e59086defc30efc",
+      "thumbnail_bytes": 9006,
+      "thumbnail_sha256": "5553fafca6f4bd6dcc5dc321bd560f7705117f8d2601cc7efc017f6498b39412"
     },
     {
       "id": "au:feat:arcane-undertaker",
@@ -1740,7 +1790,17 @@
       "character_age": "a seasoned adult in their fifties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Arcane Undertaker.\nSubject: one clearly identifiable main character, female human, a seasoned adult in their fifties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A respectful magical scholar examining an old funerary urn as a faint gentle ancestral light rises from it, no body or gore.\nSuggested setting and clothing palette: a rain-damp medieval market, navy and bronze clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Cantrip.** You learn one Cleric or Wizard cantrip of your choice. The cantrip must be from the Necromancy school. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).\n\n**Knowledge from the Dead.** When you make an Intelligence (History) or Wisdom (Medicine) check, you can roll 1d4 and add the number rolled to the ability check.\n\n**Understanding of Death.** When you take the Help action to stabilize a creature with 0 Hit Points, you gain Heroic Inspiration. Once you use this benefit, you can\u2019t use it again until you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-30f6cc42-fabd-4987-969f-bf684cf9238d.png",
+      "jpeg_quality": 41,
+      "bytes": 50191,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "c6905b393165d5bc2ad02c9cc33da7db8a6c1aa3335de195d8df6dc8d0f78b71",
+      "thumbnail_bytes": 8662,
+      "thumbnail_sha256": "5917c75e1cccdd5a5510e1803e1ba6dad0b7dcb4120d09a3c92e8cc9e21c56f0"
     },
     {
       "id": "au:feat:arcane-warrior",
@@ -1755,7 +1815,17 @@
       "character_age": "a young adult in their twenties",
       "category": "fightingStyle",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Arcane Warrior.\nSubject: one clearly identifiable main character, male elf, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Arcane Warrior in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a sunlit ancient forest, green and warm ivory clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Fighting Style Feat (Prerequisite: Fighting Style Feature)*\n\nYou learn two Wizard cantrips of your choice. *Mage Hand* and *Ray of Frost* are recommended. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat). Whenever you gain a level, you can replace one of these cantrips with another Wizard cantrip.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1540361e-2e75-4cda-8784-4ae4b746281d.png",
+      "jpeg_quality": 36,
+      "bytes": 50037,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "a98a07b89ac969c5659335ba608a307ff7cb217cc911a9bf58a9ce547673eba2",
+      "thumbnail_bytes": 9264,
+      "thumbnail_sha256": "125e64738ddb893b44e5421c456bdd0f7ea3337fc6d4bdd0fa7b547af9da8499"
     },
     {
       "id": "au:feat:boon-of-erupting-spellpower",
@@ -1770,7 +1840,17 @@
       "character_age": "visibly elderly, wise and experienced, with dignified mature features",
       "category": "epicBoon",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Boon of Erupting Spellpower.\nSubject: one clearly identifiable main character, female dwarf, visibly elderly, wise and experienced, with dignified mature features. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Boon of Erupting Spellpower in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a stormy coastal cliff, indigo and silver clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Epic Boon Feat (Prerequisite: Level 19+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 30.\n\n**Spell Overload.** When you cast a spell that deals damage using a spell slot, you can cause its magical energy to surge. You can treat any 1 or 2 on a damage die rolled for the spell as a 3, and creatures that took damage from the spell also have the Prone condition. Once you use this benefit, you can\u2019t do so again until you roll Initiative or finish a Long or\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-8a1c8680-94ed-448d-847e-9193be9d17b1.png",
+      "jpeg_quality": 37,
+      "bytes": 49856,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "291c67c62fe5a13f95841ab65b3e0568f43f08395be759f303939cd53967e9a4",
+      "thumbnail_bytes": 9292,
+      "thumbnail_sha256": "32a1b43bc618f62d0c30e845bc2d6ab0ee266a2bc11411ab0c29c121fb56ffc2"
     },
     {
       "id": "au:feat:boon-of-magic-school-mastery",
@@ -1785,7 +1865,17 @@
       "character_age": "visibly elderly, wise and experienced, with dignified mature features",
       "category": "epicBoon",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Boon of Magic School Mastery.\nSubject: one clearly identifiable main character, male dragonborn, visibly elderly, wise and experienced, with dignified mature features. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Boon of Magic School Mastery in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: an old sandstone temple, ocher and teal clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Epic Boon Feat (Prerequisite: Level 19+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 30.\n\n**Mastered School.** Choose one of the eight schools of magic: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation. Your choice grants you the following features:\n\n*Rote Casting.* Choose a level 1 spell from the chosen school that appears on your class\u2019s spell list. You always have that spell prepared and can cast it without a spell slot or spell components.\n\n*Signature Arcanum.* Choose a level 7 or lower spell from the chosen school. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.\n\nYou can also cast these prepared spells using any spell slots you have of the appropriate level.\n\n**Repeatable.** You can take this feat more than once, but you must choose a different school of magic each time.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-104ec50a-6306-4b52-8e80-58c36714b688.png",
+      "jpeg_quality": 36,
+      "bytes": 49819,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "de3e962fff29abc3f90426e66cd670148d320975213bef06ea505958d2ba9ba1",
+      "thumbnail_bytes": 9590,
+      "thumbnail_sha256": "5592cc6c1901d2e3f862aab86f4ee4213571d05f7005e1254c4c0cd3faff6c43"
     },
     {
       "id": "au:feat:boon-of-the-iron-mind",
@@ -1800,7 +1890,17 @@
       "character_age": "visibly elderly, wise and experienced, with dignified mature features",
       "category": "epicBoon",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Boon of the Iron Mind.\nSubject: one clearly identifiable main character, female tiefling, visibly elderly, wise and experienced, with dignified mature features. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Boon of the Iron Mind in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a snowy mountain pass, charcoal and white clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Epic Boon Feat (Prerequisite: Level 19+)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.\n\n**Unshakable Focus.** When you are maintaining Concentration on an effect, you lose Concentration only if you cast a spell or activate another effect that requires Concentration, if you have the Petrified or Unconscious condition, or if you die.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-901fd76c-8951-4e68-ab21-1eaaa879e01d.png",
+      "jpeg_quality": 39,
+      "bytes": 49807,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "fd79c83681c686682e5c64c2f8478859e55642f14c57eca478c338cc635edd21",
+      "thumbnail_bytes": 8856,
+      "thumbnail_sha256": "9e5738ed2c06fe77c5e9c99ced7a6f5310a7eb728f1d73c347af3c6989ad6fe9"
     },
     {
       "id": "au:feat:conjuration-adept",
@@ -1815,7 +1915,17 @@
       "character_age": "a young adult in their twenties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Conjuration Adept.\nSubject: one clearly identifiable main character, male halfling, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Conjuration Adept in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a crystalline cavern, blue and copper clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Additional Spells.** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Conjuration Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.\n\n**Conjuration Adept Spells**\n\n| Spell Slot Level | Spell |\n|---|---|\n| 1 | *Entangle* |\n| 2 | *Misty Step* |\n| 3 | *Conjure Animals* |\n| 4 | *Dimension Door* |\n| 5 | *Conjure Elemental* |\n\n**Persistent Conjuration.** While maintaining Concentration on a spell from the Conjuration school, you gain a bonus to Constitution saving throws to maintain this Concentration. This bonus is equal to the ability modifier of the score increased by this feat.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ebd9352c-8e26-4cc8-a39f-2d3f7fb5755b.png",
+      "jpeg_quality": 37,
+      "bytes": 49649,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "5fd91a440dff487197d5cf7ea14aca3314ffbabe62aa794ded4473848d3e609f",
+      "thumbnail_bytes": 9676,
+      "thumbnail_sha256": "30786431c4150fb2e0dd2da29dcf5212d84f2ddbbaa0e3229db1a89bd425eb71"
     },
     {
       "id": "au:feat:divination-adept",
@@ -1830,7 +1940,17 @@
       "character_age": "an experienced adult in their thirties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Divination Adept.\nSubject: one clearly identifiable main character, female gnome, an experienced adult in their thirties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Divination Adept in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a candlelit scholar\u2019s study, plum and cream clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Additional Spells.** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Divination Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.\n\n**Divination Adept Spells**\n\n| Spell Slot Level | Spell |\n|---|---|\n| 1 | *Detect Evil and Good* |\n| 2 | *Mind Spike* |\n| 3 | *Clairvoyance* |\n| 4 | *Divination* |\n| 5 | *Scrying* |\n\n**Prescient Intervention.** When a creature you can see within 60 feet of yourself makes a D20 Test, you can take a Reaction to give that creature Advantage or Disadvantage (your choice) on that roll. Once you use this benefit, you can\u2019t do so again until you finish a Long Rest. You can also regain use of this feature when you cast a spell from the Divination school using a spell slot.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-568cfd13-ebae-41f0-8e04-69583089e203.png",
+      "jpeg_quality": 45,
+      "bytes": 49590,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "de5468f802fecf04b7bdafa49c17a00b046483a9cc734e8eaf300bc8d9b4d9b8",
+      "thumbnail_bytes": 9006,
+      "thumbnail_sha256": "621912e90bf32a297a98e8c96f7630f91fa055eb3cd8be9bf65816202d55fcd7"
     },
     {
       "id": "au:feat:elemental-familiar",
@@ -1845,7 +1965,17 @@
       "character_age": "a mature adult in their forties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Elemental Familiar.\nSubject: one clearly identifiable main character, male half-orc, a mature adult in their forties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A magical adventurer working closely with one small familiar animal; their shared gesture demonstrates the particular bond or ability described below. The familiar is a clear supporting subject.\nSuggested setting and clothing palette: a lakeside meadow, russet and moss-green clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Familiar Friend Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Elemental Energy.** You learn how to imbue your familiar with elemental power. When you cast the *Find Familiar* spell, choose Acid, Cold, Fire, Lightning, or Thunder damage. Your familiar is imbued with this energy until you cast *Find Familiar* again, granting it the following benefits:\n\n*Elemental Resistance.* Your familiar has Resistance to the chosen damage type.\n\n*Energy Pulse.* As a Bonus Action, you command your familiar to unleash a burst of elemental energy. Your familiar must be within 120 feet of you and take a Reaction to unleash this burst. Each creature in a 5-foot Emanation originating from your familiar makes a Dexterity saving throw (DC 8 plus your spellcasting ability modifier for the *Find Familiar* spell and your Proficiency Bonus). On a failed save, a creature takes 2d4 damage of the chosen type, and if the creature is Medium or smaller, it has the Prone condition.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2c53fb3a-c8b4-4958-81c4-b5d850ba45e0.png",
+      "jpeg_quality": 32,
+      "bytes": 49503,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "4b606077df78339e75913165a382389321a01d047f2f3c6b6b44d7def0b67aff",
+      "thumbnail_bytes": 9698,
+      "thumbnail_sha256": "9ee4d0ee49d3a92264966e430991f2855c7d8c06cf7840e1e74d59e400ede5f6"
     },
     {
       "id": "au:feat:enchantment-adept",
@@ -1860,7 +1990,17 @@
       "character_age": "a seasoned adult in their fifties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Enchantment Adept.\nSubject: one clearly identifiable main character, female goliath, a seasoned adult in their fifties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Enchantment Adept in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a rain-damp medieval market, navy and bronze clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Additional Spells.** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Enchantment Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.\n\n**Enchantment Adept Spells**\n\n| Spell Slot Level | Spell |\n|---|---|\n| 1 | *Dissonant Whispers* |\n| 2 | *Enthrall* |\n| 3 | *Hold Person* |\n| 4 | *Dominate Beast* |\n| 5 | *Modify Memory* |\n\n**Subtle Enchantments.** When you cast a spell from the Enchantment school using a spell slot, you can cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-528e2a28-7915-46ca-9ade-7af052270481.png",
+      "jpeg_quality": 44,
+      "bytes": 49766,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "ff5898c8c606b094ddad0e6f78b86d18975b5fe49f1025b0295b5d9572714a6f",
+      "thumbnail_bytes": 8494,
+      "thumbnail_sha256": "9f7572af4f3e910f8d8eef7fbbd8faead7f63a8ed4dcd221194fa303ec96c61c"
     },
     {
       "id": "au:feat:evocation-adept",
@@ -1875,7 +2015,17 @@
       "character_age": "a young adult in their twenties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Evocation Adept.\nSubject: one clearly identifiable main character, male human, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Evocation Adept in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a sunlit ancient forest, green and warm ivory clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Additional Spells.** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Evocation Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.\n\n**Evocation Adept Spells**\n\n| Spell Slot Level | Spell |\n|---|---|\n| 1 | *Chromatic Orb* |\n| 2 | *Shatter* |\n| 3 | *Fireball* |\n| 4 | *Vitriolic Sphere* |\n| 5 | *Wall of Force* |\n\n**Fueled Evocation.** Once per turn when you cast an Evocation spell and deal damage, you can roll up to two of your unexpended Hit Point Dice and add the total rolled to one of the spell\u2019s damage rolls. Those Hit Point Dice are then expended.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3d14ae3e-02e0-4ec7-aeb1-3bbecd387395.png",
+      "jpeg_quality": 32,
+      "bytes": 49522,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "20db5831590f6a9757dc15d3bfab9e8798f796d0f454cf21ab8f466d2d17f119",
+      "thumbnail_bytes": 9988,
+      "thumbnail_sha256": "7a7e0a697a6bad2d528b4d8cba18fdbb645af749195dfdfe3fb0f58d5edacd41"
     },
     {
       "id": "au:feat:familiar-friend",
@@ -1890,7 +2040,17 @@
       "character_age": "an experienced adult in their thirties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Familiar Friend.\nSubject: one clearly identifiable main character, female elf, an experienced adult in their thirties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A magical adventurer working closely with one small familiar animal; their shared gesture demonstrates the particular bond or ability described below. The familiar is a clear supporting subject.\nSuggested setting and clothing palette: a stormy coastal cliff, indigo and silver clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Faithful Companion.** You always have the *Find Familiar* spell prepared. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat). You can cast it once without a spell slot or Material components, and you regain the ability to cast it in this way when you finish a Long Rest. You can also cast the spell using any spell slots you have.\n\n**Fortified Familiar.** When you cast the *Find Familiar* spell, your familiar\u2019s Hit Point maximum and current Hit Points are increased by an amount equal to twice your character level.\n\n**Helpful Friend.** When you make an ability check using a skill in which you have proficiency while your familiar is within 5 feet of you, you gain Advantage on the check. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-adb1aa75-3203-4092-9541-0b3b34d77d19.png",
+      "jpeg_quality": 37,
+      "bytes": 49942,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "8525fb69fb4572586f2a0e7b29692098f4c2217e977770d96aa1e94b39db76ef",
+      "thumbnail_bytes": 9202,
+      "thumbnail_sha256": "49d6b51e72e696f3435f9c70f86af21021cabe99929a4df147db6da4b7d71858"
     },
     {
       "id": "au:feat:illusion-adept",
@@ -1905,7 +2065,17 @@
       "character_age": "a mature adult in their forties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Illusion Adept.\nSubject: one clearly identifiable main character, male dwarf, a mature adult in their forties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Illusion Adept in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: an old sandstone temple, ocher and teal clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Additional Spells.** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Illusion Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.\n\n**Illusion Adept Spells**\n\n| Spell Slot Level | Spell |\n|---|---|\n| 1 | *Silent Image* |\n| 2 | *Phantasmal Force* |\n| 3 | *Major Image* |\n| 4 | *Hallucinatory Terrain* |\n| 5 | *Seeming* |\n\n**Masterful Illusions.** When you cast a spell from the Illusion school using a spell slot, you can cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell. Additionally, creatures have Disadvantage on Intelligence (Investigation) checks made to discern the true nature of illusions created by your spells.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e0a028e1-8b12-49b5-b910-3f00a66582da.png",
+      "jpeg_quality": 41,
+      "bytes": 49852,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "8825e2da2b7610a60f2617383ce8041107f58e754e4cc5a8375cc61a7efda6c9",
+      "thumbnail_bytes": 9052,
+      "thumbnail_sha256": "39bbbc8578de5a7f6c346e44cf94ec2b0b2c818d031aac6e1668b7624bfadbf5"
     },
     {
       "id": "au:feat:magic-connoisseur",
@@ -1920,7 +2090,17 @@
       "character_age": "a seasoned adult in their fifties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Magic Connoisseur.\nSubject: one clearly identifiable main character, female dragonborn, a seasoned adult in their fifties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Magic Connoisseur in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a snowy mountain pass, charcoal and white clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Magic Initiate Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Additional Spells.** Choose a level 1 and a level 2 spell from the same list you selected for the Magic Initiate feat\u2019s cantrips. You always have those spells prepared. You can cast each spell once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest. You can also cast those spells using any spell slots you have of the appropriate level. The spellcasting ability for these spells is the same as the spellcasting ability chosen for your Magic Initiate feat\u2019s spells.\n\n**Spell Change.** Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b914045c-120e-4078-acc5-e16f7ef7a910.png",
+      "jpeg_quality": 35,
+      "bytes": 50567,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "f78322173abe089dfc8fcfd36a396fe35c571ca640b85eb9cdf9b19ec3f0e95c",
+      "thumbnail_bytes": 9382,
+      "thumbnail_sha256": "fa473f2763ace7fbf7ebfdc50d6ad2b2a0f63e25d0414e5ea9cd3f282f81c64f"
     },
     {
       "id": "au:feat:necromancy-adept",
@@ -1935,7 +2115,17 @@
       "character_age": "a young adult in their twenties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Necromancy Adept.\nSubject: one clearly identifiable main character, male tiefling, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A calm scholar communing with a translucent ancestral spirit in an ancient stone library, respectful atmosphere, no corpses or gore.\nSuggested setting and clothing palette: a crystalline cavern, blue and copper clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Additional Spells.** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Necromancy Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.\n\n**Necromancy Adept Spells**\n\n| Spell Slot Level | Spell |\n|---|---|\n| 1 | *Inflict Wounds* |\n| 2 | *Ray of Enfeeblement* |\n| 3 | *Vampiric Touch* |\n| 4 | *Blight* |\n| 5 | *Raise Dead* |\n\n**Life Manipulation.** When you cast a spell from the Necromancy school using a spell slot, you can immediately roll up to two of your unexpended Hit Point Dice. You regain Hit Points equal to the total rolled plus the level of spell slot expended. Those Hit Point Dice are then expended.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-18d9d139-0ae6-4df0-9fa2-d788fb859d4a.png",
+      "jpeg_quality": 41,
+      "bytes": 50483,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "c852077a66a68a3fff5f7b4e67e3bac2c2792712d37245a1ecfcc5eee9cca2af",
+      "thumbnail_bytes": 9064,
+      "thumbnail_sha256": "29f6b7ec28ede4edbff5a8a8cad3786b4c5377f7811ab4e4ed66a5b305c44324"
     },
     {
       "id": "au:feat:otherworldly-familiar",
@@ -1950,7 +2140,17 @@
       "character_age": "an experienced adult in their thirties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Otherworldly Familiar.\nSubject: one clearly identifiable main character, female halfling, an experienced adult in their thirties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A magical adventurer working closely with one small familiar animal; their shared gesture demonstrates the particular bond or ability described below. The familiar is a clear supporting subject.\nSuggested setting and clothing palette: a candlelit scholar\u2019s study, plum and cream clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Familiar Friend Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Otherworldly Power.** When you cast the *Find Familiar* spell, you can imbue your familiar with otherworldly might, which lasts until you cast *Find Familiar* again. While imbued, your familiar gains the following benefits:\n\n*Energy Resistance.* Choose Necrotic, Poison, Psychic, Radiant, or Thunder damage. Your familiar has Resistance to the chosen damage type.\n\n*Phase Walk.* Your familiar can move through other creatures and objects as if they were Difficult Terrain. If your familiar ends its turn inside an object, it is shunted to the last unoccupied space it was in.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-36acabae-06ea-4866-8625-c18c8db08da4.png",
+      "jpeg_quality": 44,
+      "bytes": 50431,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "92406a833563236675ca2be4608d8d3d3bc0c8ce7cf798bf3aa62609055edf2e",
+      "thumbnail_bytes": 8966,
+      "thumbnail_sha256": "95ac57f5ef06ff6e6e14a954d93f067e0766f0e2b4b3071ec74db3331dd69b34"
     },
     {
       "id": "au:feat:portal-jumper",
@@ -1965,7 +2165,17 @@
       "character_age": "a mature adult in their forties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Portal Jumper.\nSubject: one clearly identifiable main character, male gnome, a mature adult in their forties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Portal Jumper in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a lakeside meadow, russet and moss-green clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Otherworldly Resilience.** You have Resistance to one of the following damage types: Necrotic, Psychic, or Radiant (choose when you select this feat).\n\n**Portal Step.** You can spend 15 feet of movement to teleport to an unoccupied space you can see within 15 feet of yourself. You can use this benefit a number of times equal to your Proficiency Bonus but only once per turn, and you regain all expended uses when you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7f5fdce4-8f23-4afe-b5e3-d0216033eb74.png",
+      "jpeg_quality": 34,
+      "bytes": 49528,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "96f83476ada92d16e7b478a42e675412781f0df6358b454fb820c956562b406f",
+      "thumbnail_bytes": 9786,
+      "thumbnail_sha256": "fd40e68f27bf866313c54b1e2bbdc7f3cf7a41448f4a07a1d445df184c3053e4"
     },
     {
       "id": "au:feat:soothing-familiar",
@@ -1980,7 +2190,17 @@
       "character_age": "a seasoned adult in their fifties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Soothing Familiar.\nSubject: one clearly identifiable main character, female half-orc, a seasoned adult in their fifties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A magical adventurer working closely with one small familiar animal; their shared gesture demonstrates the particular bond or ability described below. The familiar is a clear supporting subject.\nSuggested setting and clothing palette: a rain-damp medieval market, navy and bronze clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Familiar Friend Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Healing Beacon.** Positive energy fills a 5-foot Emanation originating from your familiar as long as it is within 120 feet of you. Whenever an ally in that Emanation rolls a die to determine the number of Hit Points restored to a creature, that ally can treat a roll of 1 or 2 on the die as a 3.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-135538d4-c9e7-4771-ba24-8a7cfb80d8be.png",
+      "jpeg_quality": 35,
+      "bytes": 50162,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "07bba9a22ca5ebc7497bc5c49576e990c8769106d716b6b4ff9d17d004b5e2a5",
+      "thumbnail_bytes": 9484,
+      "thumbnail_sha256": "446451fb4bba85576b99713bafef0385df5d438314c748dd827e622328e69e2e"
     },
     {
       "id": "au:feat:spell-resistant",
@@ -1995,7 +2215,17 @@
       "character_age": "a young adult in their twenties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Spell Resistant.\nSubject: one clearly identifiable main character, male goliath, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Spell Resistant in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a sunlit ancient forest, green and warm ivory clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Dexterity or Constitution score by 1, to a maximum of 20.\n\n**Magical Resilience.** You have Resistance to one of the following damage types (choose when you gain this feat): Necrotic, Psychic, Radiant, or Thunder.\n\n**Magic Resistant.** When you would fail a saving throw against a spell or magical effect, you can roll 1d6 and add the number rolled to the save\u2019s total, potentially turning the failure into a success. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-52eb9591-8bd9-4f04-b3f4-32bc6de4ccde.png",
+      "jpeg_quality": 38,
+      "bytes": 50533,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "92a48fc05d11dc60dadceed5f53d65dd153a43d57850d954659a7ee0e7acd471",
+      "thumbnail_bytes": 9402,
+      "thumbnail_sha256": "770ae5e4a67bc7fc57d10613b6c94dc53903f2f7505141fbf2ffacc0e3a45117"
     },
     {
       "id": "au:feat:spell-subterfuge",
@@ -2010,7 +2240,17 @@
       "character_age": "an experienced adult in their thirties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Spell Subterfuge.\nSubject: one clearly identifiable main character, female human, an experienced adult in their thirties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Spell Subterfuge in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a stormy coastal cliff, indigo and silver clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Shrouding Spells.** After you cast a spell that has a casting time of an action using a spell slot, you can take both the Dash and Hide actions as a Bonus Action. You can use this benefit a number of times equal to the ability modifier of the score increased by this feat, and you regain all expended uses when you finish a Long Rest.\n\n**Sneaky Casting.** If you have the Hide action\u2019s Invisible condition, casting a spell with a Verbal component or making a spell attack doesn\u2019t end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2d762bd8-64e7-4fbd-8c06-9820ea303a59.png",
+      "jpeg_quality": 51,
+      "bytes": 49522,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "23f2e98b17898c4a026cf594bf61a213525d696a50580a71da2ebcbc6c2cf47d",
+      "thumbnail_bytes": 7058,
+      "thumbnail_sha256": "bec2f9e47c83ef80c380296dabed887c8a7b57a047f9bc40822b0ec96d8e4029"
     },
     {
       "id": "au:feat:transmutation-adept",
@@ -2025,7 +2265,17 @@
       "character_age": "a mature adult in their forties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Transmutation Adept.\nSubject: one clearly identifiable main character, male elf, a mature adult in their forties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Transmutation Adept in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: an old sandstone temple, ocher and teal clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n\n**Additional Spells.** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Transmutation Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.\n\n**Transmutation Adept Spells**\n\n| Spell Slot Level | Spell |\n|---|---|\n| 1 | *Jump* |\n| 2 | *Spider Climb* |\n| 3 | *Slow* |\n| 4 | *Polymorph* |\n| 5 | *Animate Objects* |\n\n**Magical Augmentation.** On your turn when you cast a spell from the Transmutation school using a spell slot, your Speed increases by a number of feet equal to five times the level of spell slot expended This increase lasts until the end of the turn.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-a4de0505-3b3d-4a48-b2cc-c7bb2015eef4.png",
+      "jpeg_quality": 39,
+      "bytes": 50036,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "3a2af201f2defe8478ae031343d61787b9d92739cc2ca14d9381f6945899ebb7",
+      "thumbnail_bytes": 9274,
+      "thumbnail_sha256": "85ed1859bc22407ed9a6feb31c858c4a859a53334fd36a99d6b2f409487d12a4"
     },
     {
       "id": "au:feat:transmuted-anatomy",
@@ -2040,7 +2290,17 @@
       "character_age": "a seasoned adult in their fifties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Transmuted Anatomy.\nSubject: one clearly identifiable main character, female dwarf, a seasoned adult in their fifties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Transmuted Anatomy in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a snowy mountain pass, charcoal and white clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Origin Feat*\n\nYou gain the following benefits.\n\n**Lengthened Stride.** Your Speed increases by 5 feet.\n\n**Resilient Anatomy.** You have Advantage on saving throws against effects that would compel you to shape-shift against your will. Additionally, when you fail a Constitution saving throw, you can take a Reaction to roll 1d4 and add the number rolled to the save, potentially turning the failure into a success. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-655c5066-db55-4e96-afcd-502edf74b1fc.png",
+      "jpeg_quality": 42,
+      "bytes": 50122,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "864efd2d907a2dec563533653532ece3f72053d77153607b82b9ed902d7b1fcf",
+      "thumbnail_bytes": 9076,
+      "thumbnail_sha256": "85494ea62471ccc8c6dabe7f690c19645959b4b414c0a72b5d16f69c82d61865"
     },
     {
       "id": "au:feat:warlike-familiar",
@@ -2055,7 +2315,17 @@
       "character_age": "a young adult in their twenties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Warlike Familiar.\nSubject: one clearly identifiable main character, male dragonborn, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A magical adventurer working closely with one small familiar animal; their shared gesture demonstrates the particular bond or ability described below. The familiar is a clear supporting subject.\nSuggested setting and clothing palette: a crystalline cavern, blue and copper clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Familiar Friend Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Battle Familiar.** You always have the *Battle Familiar* spell (see chapter 2) prepared. You can cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Your spellcasting ability for this spell is the one chosen for the Faithful Companion benefit of your Familiar Friend feat.\n\n**Intercept Attack.** When a creature within 5 feet of your familiar is hit by an attack roll, your familiar can take a Reaction to add a bonus to the creature\u2019s Armor Class against that attack, potentially causing the attack to miss. The bonus is equal to your Proficiency Bonus.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-81341bb2-3532-435f-9de5-c33cfd12988e.png",
+      "jpeg_quality": 42,
+      "bytes": 49891,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "68b7d310b01cb4900e8fba4609cf8d3dde339482be33bb50c0f8fdb76b8cc739",
+      "thumbnail_bytes": 9038,
+      "thumbnail_sha256": "5d8b40e69977762c09c261a144160629a1e161d9fbeaaa64eadb11d7bbc62138"
     },
     {
       "id": "efa:feat:aberrant-dragonmark",
@@ -2070,7 +2340,17 @@
       "character_age": "an experienced adult in their thirties",
       "category": "origin",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Aberrant Dragonmark.\nSubject: one clearly identifiable main character, female tiefling, an experienced adult in their thirties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A marked adventurer using the vocation or supernatural talent described below; one small abstract glowing magical birthmark is visible on a forearm. Emphasize the distinct practical ability, not merely a portrait of the mark. No readable glyphs.\nSuggested setting and clothing palette: a candlelit scholar\u2019s study, plum and cream clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Dragonmark Feat (Prerequisite: Eberron Campaign, Can\u2019t Have Another Dragonmark Feat)*\n\nYou gain the following benefits.\n\n**Aberrant Fortitude.** When you fail a Constitution saving throw, you can take a Reaction to roll 1d4 and add the number rolled to the save, potentially turning the failure into a success. Once you\u2019ve used this benefit, you can\u2019t use it again until you finish a Long Rest.\n\n**Aberrant Magic.** You know one cantrip of your choice from the Sorcerer spell list. Also, choose a level 1 spell from that spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Short or Long Rest. You can also cast this spell using any spell slots you have. Constitution is your spellcasting ability for this spell.\n\n**Aberrant Surge.** When you cast the level 1 spell from this feat, you can expend one of your Hit Point Dice and roll it. If you roll an even number, you gain a number of Temporary Hit Points equal to the number rolled. If you roll an odd number, one creature within 30 feet of you (not including you) takes Force damage equal to the number rolled. If no other creatures are in range, you take the damage.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7774be10-39f0-4496-8554-d061df04be27.png",
+      "jpeg_quality": 46,
+      "bytes": 50434,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "a1bcacdc814dc70fe02ec662782892574e97e2159785ded0a19727800752dcd6",
+      "thumbnail_bytes": 9000,
+      "thumbnail_sha256": "8f008e432f4ede96e18b2bf7c183c404577e681df52584610150b909fa5dba96"
     },
     {
       "id": "efa:feat:boon-of-siberys",
@@ -2085,7 +2365,17 @@
       "character_age": "visibly elderly, wise and experienced, with dignified mature features",
       "category": "epicBoon",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Boon of Siberys.\nSubject: one clearly identifiable main character, male halfling, visibly elderly, wise and experienced, with dignified mature features. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: An adventurer demonstrating Boon of Siberys in a concrete story moment. Read the feat details below and choose the single most distinctive visual action or effect. Make the character genuinely perform that ability with appropriate tools or body movement.\nSuggested setting and clothing palette: a lakeside meadow, russet and moss-green clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*Epic Boon Feat (Prerequisite: Level 19+, Eberron Campaign)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.\n\n**Aberrant Magic.** Choose a level 8 or lower spell from the Sorcerer spell list or a spell from the Siberys Dragonmark Spells table (the table includes dragonmark suggestions if you\u2019d like to associate a spell with one of the marks). You always have that spell prepared. You can cast it once without a spell slot or spell components, and you regain the ability to cast it in that way when you finish a Short or Long Rest. You can also cast this spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you gain this feat).\n\n**Siberys Dragonmark Spells**\n\n| Spell | Suggested Dragonmark |\n|---|---|\n| Animal Shapes | Handling |\n| Control Weather | Storm |\n| Demiplane | Making |\n| Heroes\u2019 Feast | Hospitality |\n| Maze | Warding |\n| Mind Blank | Sentinel |\n| Plane Shift | Passage |\n| Project Image | Shadow |\n| Regenerate | Healing |\n| Symbol | Scribing |\n| Teleport | Finding |\n| True Seeing | Detection |\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1923543a-0bb8-4080-bfcb-efec556ce07e.png",
+      "jpeg_quality": 32,
+      "bytes": 50468,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "4ba6dadf8e4e486ccea02f9cb56f80887af8bd7bda5d2fb3c58b2a96b23d1c0a",
+      "thumbnail_bytes": 9738,
+      "thumbnail_sha256": "fefb276a5bf949cb0f9343ece27dbd89529914e80888f88e18d194263fcaea0a"
     },
     {
       "id": "efa:feat:greater-aberrant-mark",
@@ -2100,7 +2390,17 @@
       "character_age": "a seasoned adult in their fifties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Greater Aberrant Mark.\nSubject: one clearly identifiable main character, female gnome, a seasoned adult in their fifties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A marked adventurer using the vocation or supernatural talent described below; one small abstract glowing magical birthmark is visible on a forearm. Emphasize the distinct practical ability, not merely a portrait of the mark. No readable glyphs.\nSuggested setting and clothing palette: a rain-damp medieval market, navy and bronze clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Aberrant Dragonmark Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase your Constitution score by 1, to a maximum of 20.\n\n**Improved Fortitude.** When you use the Aberrant Fortitude benefit of your Aberrant Dragonmark feat, you can roll 1d6 instead of 1d4. You also now regain your use of Aberrant Fortitude whenever you finish a Short or Long Rest.\n\n**Mark of Inspiration.** When you cast a cantrip, you can roll one or two of your unexpended Hit Point Dice. You gain a number of Temporary Hit Points equal to the number rolled plus your Constitution modifier, and one creature of your choice within 30 feet of you (not including you) takes Force damage equal to the number rolled. Those dice are then expended.\n\nYou can use this benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c49244ae-6b49-49c8-b0f9-4a1e7805690a.png",
+      "jpeg_quality": 35,
+      "bytes": 50402,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "2b74229eeb87af995018e8651bce60e54e430464d07e91cb82b2e6a3cceeabfd",
+      "thumbnail_bytes": 9650,
+      "thumbnail_sha256": "c1735c9631c3aa55fc800bef15e31002387e655a7ba638ccc1a2b05af78a8633"
     },
     {
       "id": "efa:feat:greater-mark-of-detection",
@@ -2115,7 +2415,17 @@
       "character_age": "a young adult in their twenties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Greater Mark of Detection.\nSubject: one clearly identifiable main character, male half-orc, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A marked adventurer using the vocation or supernatural talent described below; one small abstract glowing magical birthmark is visible on a forearm. Emphasize the distinct practical ability, not merely a portrait of the mark. No readable glyphs.\nSuggested setting and clothing palette: a sunlit ancient forest, green and warm ivory clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Mark of Detection Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Improved Intuition.** When you use the Deductive Intuition benefit of your Mark of Detection feat, you can roll 1d6 instead of 1d4.\n\n**Shared Detection.** When you use the Magical Detection benefit of your Mark of Detection feat to cast *See Invisibility* without a spell slot, you can choose one creature you can see within 30 feet of yourself. That creature also gains the benefits of the spell for its duration.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-fee91464-6d26-40d4-987f-6178984cf290.png",
+      "jpeg_quality": 38,
+      "bytes": 49681,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "1940eed1b88ed34070d50564bc23627ed5e488c16a535938a4fdfa169cee99af",
+      "thumbnail_bytes": 9242,
+      "thumbnail_sha256": "ee88d3ea9de20dd1a2c9b5e81e97f5ba27dc6d8e692cef8a7fb0c3fb1a5a32b4"
     },
     {
       "id": "efa:feat:greater-mark-of-finding",
@@ -2130,7 +2440,17 @@
       "character_age": "an experienced adult in their thirties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Greater Mark of Finding.\nSubject: one clearly identifiable main character, female goliath, an experienced adult in their thirties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A marked adventurer using the vocation or supernatural talent described below; one small abstract glowing magical birthmark is visible on a forearm. Emphasize the distinct practical ability, not merely a portrait of the mark. No readable glyphs.\nSuggested setting and clothing palette: a stormy coastal cliff, indigo and silver clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Mark of Finding Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Improved Intuition.** When you use the Hunter\u2019s Intuition benefit of your Mark of Finding feat, you can roll 1d6 instead of 1d4.\n\n**Improved Finding.** When you use the Finder\u2019s Magic benefit of your Mark of Finding to cast *Hunter\u2019s Mark* without a spell slot, the range of the spell is doubled, and you can modify the spell so that the target can\u2019t benefit from the Invisible condition for the duration.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-de62048a-9fad-43ef-a489-e344a9489c88.png",
+      "jpeg_quality": 45,
+      "bytes": 49878,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "f179ea4c1a663e4403318492d1ca0a7ed671e5eaf8058a52b8b022e28bd84d54",
+      "thumbnail_bytes": 8004,
+      "thumbnail_sha256": "df2a2b832af3ce4170fae39449fbff1605692871ff9bcf0a6652de3a0d41cbd2"
     },
     {
       "id": "efa:feat:greater-mark-of-handling",
@@ -2145,7 +2465,17 @@
       "character_age": "a mature adult in their forties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Greater Mark of Handling.\nSubject: one clearly identifiable main character, male human, a mature adult in their forties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A marked adventurer using the vocation or supernatural talent described below; one small abstract glowing magical birthmark is visible on a forearm. Emphasize the distinct practical ability, not merely a portrait of the mark. No readable glyphs.\nSuggested setting and clothing palette: an old sandstone temple, ocher and teal clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Mark of Handling Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Improved Intuition.** When you use the Wild Intuition benefit of your Mark of Handling feat, you can roll 1d6 instead of 1d4.\n\n**Improved Handling.** While you are mounted, immediately after you hit a target within 5 feet of your mount with a melee attack roll, your mount can take a Reaction to move up to its Speed or take the Attack action to make one attack only (your choice).\n\n**Subdue Animal.** As a Magic action, you exert command over one Beast or Monstrosity you can see within 30 feet of yourself. The target must succeed on a Wisdom saving throw (DC 8 plus your Wisdom modifier and Proficiency Bonus) or have the Frightened condition until the start of your next turn. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2cd8cb21-dd33-4c7e-a090-ed1bd4a9cef0.png",
+      "jpeg_quality": 42,
+      "bytes": 50197,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "92cc68cfb17ac8e68540c8d7a37b165e7cd74938ccae20f8701df373bdf6fbad",
+      "thumbnail_bytes": 8678,
+      "thumbnail_sha256": "d1fcd9527a46afcfb0756a6d692f29cb3171f2b67018f6ce8e7a18c8b4bffbe2"
     },
     {
       "id": "efa:feat:greater-mark-of-healing",
@@ -2160,7 +2490,17 @@
       "character_age": "a seasoned adult in their fifties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Greater Mark of Healing.\nSubject: one clearly identifiable main character, female elf, a seasoned adult in their fifties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A marked adventurer using the vocation or supernatural talent described below; one small abstract glowing magical birthmark is visible on a forearm. Emphasize the distinct practical ability, not merely a portrait of the mark. No readable glyphs.\nSuggested setting and clothing palette: a snowy mountain pass, charcoal and white clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Mark of Healing Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Improved Intuition.** When you use the Medical Intuition benefit of your Mark of Healing feat, you can roll 1d6 instead of 1d4.\n\n**Improved Healing.** You can now use the Healing Touch benefit of your Mark of Healing feat to cast *Cure Wounds* without using a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.\n\nAdditionally, when you cast *Cure Wounds* and roll dice to determine the number of Hit Points restored, you can treat any 1 or 2 on a roll as a 3.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f73f2996-0ea4-4e74-8688-7c0ff1f07b0e.png",
+      "jpeg_quality": 38,
+      "bytes": 50302,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "b6db58aeb5dfd31b95e4df70d0fed5f7807db1b23ce4791600452995d249fad7",
+      "thumbnail_bytes": 9426,
+      "thumbnail_sha256": "d0534bc444fb47cb9e42e089b3e20dbc8742d259fd1a054ca8eef03f36e97830"
     },
     {
       "id": "efa:feat:greater-mark-of-hospitality",
@@ -2175,7 +2515,17 @@
       "character_age": "a young adult in their twenties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Greater Mark of Hospitality.\nSubject: one clearly identifiable main character, male dwarf, a young adult in their twenties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A marked adventurer using the vocation or supernatural talent described below; one small abstract glowing magical birthmark is visible on a forearm. Emphasize the distinct practical ability, not merely a portrait of the mark. No readable glyphs.\nSuggested setting and clothing palette: a crystalline cavern, blue and copper clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Mark of Hospitality Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Improved Intuition.** When you use the Ever Hospitable benefit of your Mark of Hospitality feat, you can roll 1d6 instead of 1d4.\n\n**Inspired Hospitality.** When you cast *Purify Food and Drink*, you can modify the spell so that instead of its normal effect, each creature of your choice within 30 feet of you is refreshed. Each affected creature\u2019s Exhaustion level is reduced by 1, and the creature gains Temporary Hit Points equal to your Proficiency Bonus plus your Intelligence, Wisdom, or Charisma modifier (choose when you select this feat). Once you modify the spell with this benefit, you can\u2019t do so again until you finish a Long Rest.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-13c43a60-769a-46cb-8bb4-6b76e38c48ec.png",
+      "jpeg_quality": 39,
+      "bytes": 50319,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "a9e7709f6d06cef298e9dc1af3cfd934d114b07a439f05f7d0a01aa2e267aa87",
+      "thumbnail_bytes": 9616,
+      "thumbnail_sha256": "a5db3e50f39f1e08a6c489e7483d6d843581cfca8b64d1aba01a7c0eaeb3b903"
     },
     {
       "id": "efa:feat:greater-mark-of-making",
@@ -2190,7 +2540,17 @@
       "character_age": "an experienced adult in their thirties",
       "category": "general",
       "prompt": "Use case: stylized-concept.\nAsset type: square fantasy feat illustration for a tabletop character builder.\nPrimary request: original narrative artwork for the feat Greater Mark of Making.\nSubject: one clearly identifiable main character, female dragonborn, an experienced adult in their thirties. Anatomically appropriate ancestry; retain unmistakable nonhuman features where relevant. Fully clothed practical fantasy attire suitable to this specific ability. Other people only when needed to depict the feat, and always adults.\nScene direction: A marked adventurer using the vocation or supernatural talent described below; one small abstract glowing magical birthmark is visible on a forearm. Emphasize the distinct practical ability, not merely a portrait of the mark. No readable glyphs.\nSuggested setting and clothing palette: a candlelit scholar\u2019s study, plum and cream clothing. Adapt setting and attire when the depicted ability requires another environment; avoid repeating the same purple robe, identical casting pose or ruined arch across the set.\nFeat reference details (context, never printed in the image):\n*General Feat (Prerequisite: Level 4+, Mark of Making Feat)*\n\nYou gain the following benefits.\n\n**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.\n\n**Improved Intuition.** When you use the Artisan\u2019s Intuition benefit of your Mark of Making feat, you can roll 1d6 instead of 1d4.\n\n**Improved Making.** When you use the Spellsmith benefit of your Mark of Making feat to cast *Magic Weapon* without a spell slot, you cast the spell as its level 3 version.\nStyle/medium: lush painterly high fantasy illustration, visible soft brush texture, rich atmospheric depth, tactile materials, expressive faces, dramatic cinematic natural and magical light. Match the established spell and trait illustrations: polished narrative fantasy book art, colorful magical accents grounded in deep shadows, detailed but visually readable. This is a full scene, not a tiny flat icon.\nComposition: square edge-to-edge painting with one strong focal action; medium or wide framing showing enough environment to explain the ability. Keep head, hands and essential props inside safe margins. Vary the viewpoint according to the action. Explicitly depict this feat's distinguishing ability rather than generic spellcasting.\nConstraints: no titles, no text, no readable writing, no letters, no numbers, no UI, no stats, no logos, no watermark, no decorative frame, no collage, no panels. No nudity, no gore, no open wounds, no body horror. If a feat concerns death or injury, express it through symbolic magical light, protective gestures or a non-graphic scene. Original fantasy art.",
-      "status": "pending"
+      "status": "complete",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ead1ca51-8dbe-4d04-8479-291586f3847e.png",
+      "jpeg_quality": 44,
+      "bytes": 50167,
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "a784769d8cb67b36dc5776f3b8ed3fee58a6b017298a7094b7d3915bb680a70b",
+      "thumbnail_bytes": 9036,
+      "thumbnail_sha256": "28ce9c227a123efe56e6154761ee6a9278338fbab4d4f10311e15191580c094c"
     },
     {
       "id": "efa:feat:greater-mark-of-passage",
@@ -3305,8 +3665,8 @@
   ],
   "summary": {
     "total": 176,
-    "complete": 66,
-    "pending": 110
+    "complete": 102,
+    "pending": 74
   },
   "existing_feat_images_preserved": 11
 }
