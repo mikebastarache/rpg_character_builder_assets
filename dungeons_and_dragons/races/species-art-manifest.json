@@ -1,0 +1,181 @@
+{
+  "generator": "built-in image_gen",
+  "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races",
+  "items": [
+    {
+      "slug": "changeling",
+      "name": "Changeling",
+      "gender": "female",
+      "filename": "raceChangeling.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Changeling species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: A pale changeling with smooth subtly undefined features, loose hooded traveling clothes and a delicate hand mirror; alternate face silhouettes echoed faintly in reflective mist behind. An enigmatic moonlit canal city, pearl-gray and teal.\nPrimary character is an adult female, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"CHANGELING\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-4afa4335-8f4b-4c4c-924a-3cfd05970d53.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 66546,
+      "sha256": "fff49821720a4625a40f677bda82ab5f8e3bbc45ec4bf889a684087d2ea7ed8a"
+    },
+    {
+      "slug": "kalashtar",
+      "name": "Kalashtar",
+      "gender": "male",
+      "filename": "raceKalashtar.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Kalashtar species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: A tall kalashtar with angular human-like features, tied hair, simple contemplative robes and faintly glowing eyes, one hand resting over the heart. A graceful abstract dream-spirit shape rises in the atmosphere behind; violet and warm gold mountain monastery.\nPrimary character is an adult male, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"KALASHTAR\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-dc41b06b-4e4b-44d1-a78d-b8053baa36f6.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 65592,
+      "sha256": "0d3771208574464dbd843def46cc82d150e1e347f9adc253b479d873f205b42a"
+    },
+    {
+      "slug": "khoravar",
+      "name": "Khoravar",
+      "gender": "female",
+      "filename": "raceKhoravar.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Khoravar species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: A half-elven Khoravar diplomat-adventurer with gently pointed ears and practical elegant traveling clothes, holding a rolled treaty and standing with open welcoming posture. Bridge between leafy stone city districts above a harbor, ocean blue and warm amber.\nPrimary character is an adult female, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"KHORAVAR\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-38554ab9-c466-4f00-8c31-27dadbedd894.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 73576,
+      "sha256": "a1b6a2e08428689e914d6162152004ad46ebd2bdd1cf6e5bcd360d433f504831"
+    },
+    {
+      "slug": "shifter",
+      "name": "Shifter",
+      "gender": "male",
+      "filename": "raceShifter.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Shifter species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: A humanoid shifter with subtle bestial facial features, shaggy hair, pointed ears and strong hands, practical forest leathers, poised alert with a short hunting spear. Remains recognizably humanoid, no full wolf muzzle. Wild forest at dusk, russet and deep green.\nPrimary character is an adult male, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"SHIFTER\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-aab4fef7-3d63-4fa2-9a88-c81e931c16c6.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 58000,
+      "sha256": "af3d372a00ab0a50be551d9126340212af3532314ad0621554dbeae76313c12c"
+    },
+    {
+      "slug": "warforged",
+      "name": "Warforged",
+      "gender": "female",
+      "filename": "raceWarforged.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Warforged species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: A female-presenting warforged sentient construct, unmistakable humanoid body of bronze armor plates, darkwood and rootlike cords, softly luminous eyes, dignified protective stance, carrying a simple shield. No human skin, no exaggerated sexual anatomy. An ancient arcane foundry reclaimed by vines, copper and turquoise.\nPrimary character is an adult female, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"WARFORGED\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-a45c0a92-33ef-4f8f-80b8-fd2fab8cab08.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 83570,
+      "sha256": "7cac79999445edfae8b8cf54bb94ccb28b0cc5927336992751051fad3aa88e98"
+    },
+    {
+      "slug": "dhampir",
+      "name": "Dhampir",
+      "gender": "male",
+      "filename": "raceDhampir.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Dhampir species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: A refined dhampir traveler with pale skin and subtle fangs, long dark coat, composed posture, holding an old lantern at their side. Gothic rooftops and distant castle under a pale moon, burgundy and smoky slate, no blood.\nPrimary character is an adult male, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"DHAMPIR\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-43b04466-6939-433a-98f1-46e98203b568.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 40816,
+      "sha256": "eeccea1d6894f759225540ceef0c887945234f41b0e4548f2cb41e0e88f11b0f"
+    },
+    {
+      "slug": "hexblood",
+      "name": "Hexblood",
+      "gender": "female",
+      "filename": "raceHexblood.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Hexblood species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: A hexblood wanderer with an organic crownlike growth of slender thorned twigs around the head, elongated pointed ears, layered witchlike traveling clothes, holding a knotted wooden staff with a small charm. Enchanted marsh cottage and wisps in jade mist, moss green and amber.\nPrimary character is an adult female, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"HEXBLOOD\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6de894ee-d4b1-4869-b3ba-855066252e80.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 66114,
+      "sha256": "3aa705bbb565009a718c6fa1509a5c6b242d67c6a3412a5020ac77333803b57c"
+    },
+    {
+      "slug": "lupin",
+      "name": "Lupin",
+      "gender": "male",
+      "filename": "raceLupin.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Lupin species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: An upright humanoid wolf-person lupin with bristling fur, distinct wolf muzzle and pointed ears, dressed in rugged traveler clothes and a fur-edged cloak, holding a wooden walking staff, resolute rather than snarling. Snowy pine village under moonlight, silver blue and warm ocher.\nPrimary character is an adult male, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"LUPIN\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-db517675-431b-4c49-9711-71a31c7ceca0.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 71792,
+      "sha256": "564c1780db1aee223713a10eff94137d94cfd0051b10d46020bf71e827a102d6"
+    },
+    {
+      "slug": "reborn",
+      "name": "Reborn",
+      "gender": "female",
+      "filename": "raceReborn.webp",
+      "status": "complete",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceElf.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/races/raceDragonborn.webp"
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: fantasy species option card, vertical 2:3.\nCreate an original Reborn species card matching the supplied collection. Input images are STYLE AND LAYOUT references only, not characters to copy.\nScene and character: A reborn traveler with ashen skin, subtly mismatched stitched clothing, a few delicate healed seam marks and a thoughtful determined expression, holding a small memento locket. Fully clothed and peaceful, no wounds, no gore, no body horror. Ivy-covered ruined abbey at dawn, pale blue and soft golden light.\nPrimary character is an adult female, full-body or nearly full-body dark silhouette, anatomically distinctive for the described species. Strong readable profile, immersive environment, dramatic colored rim light. The species identity must remain recognizable at small size.\nStyle: match the reference cards' hand-painted, somewhat graphic fantasy-book art, strong near-black silhouette against atmospheric luminous colors, visible broad painted texture. Match antique gold rectangular frame, engraved corner ornaments, arched inner image and cream parchment name plaque at bottom. Keep all anatomy and props within frame.\nText (verbatim): \"REBORN\" in bold black classical serif capitals, centered legibly in the bottom parchment title plaque. No other lettering, no watermarks. Do not copy the elf or dragonborn reference character; use exactly the requested species. No modern clothing or guns.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7bb40952-d10b-41f6-b87c-35b1beebfe40.png",
+      "size": [
+        384,
+        576
+      ],
+      "bytes": 72874,
+      "sha256": "9096921122e4989b0f5f5258d76fa40b8986bc77729ecb322150d1f7c45b2d79"
+    }
+  ],
+  "summary": {
+    "complete": 9,
+    "pending": 0
+  }
+}

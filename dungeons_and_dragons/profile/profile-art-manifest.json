@@ -1,0 +1,67 @@
+{
+  "generator": "built-in image_gen",
+  "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/profile",
+  "items": [
+    {
+      "slug": "artificer",
+      "name": "Artificer",
+      "filename": "profileBGartificer.jpg",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/profile/profileBGwizard.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/profile/profileBGfighter.jpg"
+      ],
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: square fantasy class profile background.\nPrimary request: Create the missing Artificer illustration to closely match this existing profile image collection. Square 1:1, edge-to-edge, no frame.\nInput images: Image 1 and Image 2 are STYLE AND COMPOSITION references only. Preserve their visual language: near-black hooded figure, face lost in shadow, muted desaturated deep teal and gray-green surroundings, rough confident visible brushstrokes, atmospheric architectural silhouettes and a single large pale circular brush-painted halo behind the central figure. Sparse restrained color accents only, quiet and mysterious, graphic painterly fantasy art rather than photorealism.\nSubject: A hooded adult female dwarf artificer, compact stocky proportions, dark practical armor and leather tool belts, goggles resting atop the hood, hands delicately adjusting a small clockwork bird with a single tiny amber-blue magical core. Silhouette and hands readable, face concealed in shadow. The main circular halo behind the figure is a restrained distressed brushed-silver ring with a few subtle gear-like divisions.\nComposition: centered hero from head to approximately knees/lower robe, occupying most of square, circular halo centered behind head and torso, enough dark margin around figure. Clear distinctive props for this class. Match the restrained low-key lighting of references. Keep face anonymous.\nConstraints: no text, no lettering, no title plaques, no logos, no watermark, no gold border, no decorative rectangular card frame, no bright saturated busy scenery, no modern technology or guns. This belongs to the profile set, not the gold-framed classes set.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ac9fa637-9d84-4905-841a-dd0b2f106c9b.png",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 100670,
+      "jpeg_quality": 66,
+      "sha256": "158fada975ea99e0caf45da52ea7e526d06268802592c4f618ea3973a517d2b9"
+    },
+    {
+      "slug": "sorcerer",
+      "name": "Sorcerer",
+      "filename": "profileBGsorcerer.jpg",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/profile/profileBGwizard.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/profile/profileBGfighter.jpg"
+      ],
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: square fantasy class profile background.\nPrimary request: Create the missing Sorcerer illustration to closely match this existing profile image collection. Square 1:1, edge-to-edge, no frame.\nInput images: Image 1 and Image 2 are STYLE AND COMPOSITION references only. Preserve their visual language: near-black hooded figure, face lost in shadow, muted desaturated deep teal and gray-green surroundings, rough confident visible brushstrokes, atmospheric architectural silhouettes and a single large pale circular brush-painted halo behind the central figure. Sparse restrained color accents only, quiet and mysterious, graphic painterly fantasy art rather than photorealism.\nSubject: A hooded adult male dragonborn sorcerer with a distinctly draconic snout and modest horn silhouette, flowing dark robes, one hand raised as a small restrained violet-and-amber wisp of innate magic curls around the fingertips. No staff or book. Face mostly concealed in shadow but snout recognizable. One large pale circular brushstroke halo behind the figure.\nComposition: centered hero from head to approximately knees/lower robe, occupying most of square, circular halo centered behind head and torso, enough dark margin around figure. Clear distinctive props for this class. Match the restrained low-key lighting of references. Keep face anonymous.\nConstraints: no text, no lettering, no title plaques, no logos, no watermark, no gold border, no decorative rectangular card frame, no bright saturated busy scenery, no modern technology or guns. This belongs to the profile set, not the gold-framed classes set.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-88ead70e-b4b5-4a9c-88f6-38241462ce8a.png",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 100782,
+      "jpeg_quality": 69,
+      "sha256": "72328cefa3bd44fc347bb62cfab620c9396a0ef1371cac67a6e79bafb9a1e846"
+    },
+    {
+      "slug": "psion",
+      "name": "Psion",
+      "filename": "profileBGpsion.jpg",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/profile/profileBGwizard.jpg",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/profile/profileBGfighter.jpg"
+      ],
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: square fantasy class profile background.\nPrimary request: Create the missing Psion illustration to closely match this existing profile image collection. Square 1:1, edge-to-edge, no frame.\nInput images: Image 1 and Image 2 are STYLE AND COMPOSITION references only. Preserve their visual language: near-black hooded figure, face lost in shadow, muted desaturated deep teal and gray-green surroundings, rough confident visible brushstrokes, atmospheric architectural silhouettes and a single large pale circular brush-painted halo behind the central figure. Sparse restrained color accents only, quiet and mysterious, graphic painterly fantasy art rather than photorealism.\nSubject: A hooded adult female elf psion in simple flowing dark robes, subtle pointed ears at the hood edge, fingers of one hand near the temple while three small fragments of stone levitate beside the other open hand. Face obscured in shadow, calm controlled posture, extremely subtle cool blue psionic glimmer. One large pale circular brushed-silver halo behind the figure.\nComposition: centered hero from head to approximately knees/lower robe, occupying most of square, circular halo centered behind head and torso, enough dark margin around figure. Clear distinctive props for this class. Match the restrained low-key lighting of references. Keep face anonymous.\nConstraints: no text, no lettering, no title plaques, no logos, no watermark, no gold border, no decorative rectangular card frame, no bright saturated busy scenery, no modern technology or guns. This belongs to the profile set, not the gold-framed classes set.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7cc2a907-5126-4ba8-8173-bd3b9a53dd24.png",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 100886,
+      "jpeg_quality": 68,
+      "sha256": "6d1673d1eb8e69e72874999a473d036112e356bb1391e29d392fad0b00e35519"
+    }
+  ],
+  "summary": {
+    "complete": 3,
+    "pending": 0
+  }
+}
