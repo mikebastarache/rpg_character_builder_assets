@@ -11652,8 +11652,29 @@
       "slug": "shield-of-expression",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/shield-of-expression.json",
       "filename": "equipShieldOfExpression.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield of Expression.\nSubject: the exact magic item named above, type shield, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Common*\n\nThe front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a Bonus Action to alter the face's expression.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield of Expression.\nSubject: the exact magic item named above, type shield, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Common*\n\nThe front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a Bonus Action to alter the face's expression.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-08b6bfb6-9382-4db1-bb82-0d80bce18a06.png",
+      "files": [
+        {
+          "path": "equipShieldOfExpression.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 23842,
+          "sha256": "787b75891676a2b7d9ab5c921167d84de1309c92a8303f39afd1af382694883f"
+        },
+        {
+          "path": "large/equipShieldOfExpression.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 97638,
+          "sha256": "658f0bf79c08da04a4ff4edd111a763469f34384ef23539e38d8c4b2a3d2d33a"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:shield-of-missile-attraction",
@@ -11661,8 +11682,29 @@
       "slug": "shield-of-missile-attraction",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/shield-of-missile-attraction.json",
       "filename": "equipShieldOfMissileAttraction.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield of Missile Attraction.\nSubject: the exact magic item named above, type shield, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Rare (Requires Attunement)*\n\nWhile holding this Shield, you have Resistance to damage from attacks made with Ranged weapons. Curse. This Shield is cursed. Attuning to it curses you until you are targeted by a Remove Curse spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within l0 feet of you, the curse causes you to become the target instead.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield of Missile Attraction.\nSubject: the exact magic item named above, type shield, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Rare (Requires Attunement)*\n\nWhile holding this Shield, you have Resistance to damage from attacks made with Ranged weapons. Curse. This Shield is cursed. Attuning to it curses you until you are targeted by a Remove Curse spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within l0 feet of you, the curse causes you to become the target instead.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b52ab21f-0ced-4a79-aa39-2fff92d65828.png",
+      "files": [
+        {
+          "path": "equipShieldOfMissileAttraction.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21942,
+          "sha256": "7fe8dda5629ae8c98037ee422dbe0cf8891d040ad68dcdb5b6e5f0de30b8012f"
+        },
+        {
+          "path": "large/equipShieldOfMissileAttraction.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 93890,
+          "sha256": "4e996a9543a82b436db6a2323d4f58ce58290639bb776a0f10ba39f6e9de026f"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:shield-of-the-cavalier",
@@ -11670,8 +11712,29 @@
       "slug": "shield-of-the-cavalier",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/shield-of-the-cavalier.json",
       "filename": "equipShieldOfTheCavalier.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield of the Cavalier.\nSubject: the exact magic item named above, type shield, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Very Rare (Requires Attunement)*\n\nWhile holding this Shield, you have a +2 bonus to Armor Class. This bonus is in addition to the Shield's normal bonus to AC. The Shield has the following additional properties that you can use while holding it. ForcefulBash. When you take the Attack action, you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your Proficiency Bonus and Strength modifier to the attack roll. On a hit, the Shield deals Force damage to the target equal to 2d6 + 2 plus your Strength modifier, and if the target is a creature, you can push it up to 10 feet directly away from yourself. If the creature is your size or smaller, you can also knock it down, giving it the Prone condition.\n\nSxteto or Mtsstte AtfRAcrtoN SxteLo or rxe Cavattee\n\nProtective Field, As a Reaction, when you or an ally you can see within 5 feet of you is targeted by an attack or makes a saving throw against an area of effect, you can use the Shield to create an immobile S-foot Emanation originating from you. When the Emanation appears, any creatures or objects not fully contained within it are pushed into the nearest unoccupied spaces outside it. The attack or area of effect that triggered the Reaction has no effect on creatures and objects inside the Emanation, which lasts as long as you maintain Concentration, up to 1 minute. Nothing can pass into or out of the Emanation. A creature or object inside the Emanation can't be damaged by attacks or effects originating from outside, nor can a creature inside the Emanation damage anything outside it. Once this property is used, it can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield of the Cavalier.\nSubject: the exact magic item named above, type shield, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Very Rare (Requires Attunement)*\n\nWhile holding this Shield, you have a +2 bonus to Armor Class. This bonus is in addition to the Shield's normal bonus to AC. The Shield has the following additional properties that you can use while holding it. ForcefulBash. When you take the Attack action, you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your Proficiency Bonus and Strength modifier to the attack roll. On a hit, the Shield deals Force damage to the target equal to 2d6 + 2 plus your Strength modifier, and if the target is a creature, you can push it up to 10 feet directly away from yourself. If the creature is your size or smaller, you can also knock it down, giving it the Prone condition.\n\nSxteto or Mtsstte AtfRAcrtoN SxteLo or rxe Cavattee\n\nProtective Field, As a Reaction, when you or an ally you can see within 5 feet of you is targeted by an attack or makes a saving throw against an area of effect, you can use the Shield to create an immobile S-foot Emanation originating from you. When the Emanation appears, any creatures or objects not fully contained within it are pushed into the nearest unoccupied spaces outside it. The attack or area of effect that triggered the Reaction has no effect on creatures and objects inside the Emanation, which lasts as long as you maintain Concentration, up to 1 minute. Nothing can pass into or out of the Emanation. A creature or object inside the Emanation can't be damaged by attacks or effects originating from outside, nor can a creature inside the Emanation damage anything outside it. Once this property is used, it can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-9c393618-0658-4c3e-8949-e264e8677abe.png",
+      "files": [
+        {
+          "path": "equipShieldOfTheCavalier.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 23440,
+          "sha256": "e7a73abad46c8f22fbc5484fd22497da3184badc8edcd25b4f84b17870499e2e"
+        },
+        {
+          "path": "large/equipShieldOfTheCavalier.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 95340,
+          "sha256": "7f21b7df276cba53021aa1782245ecc2882e2dc96bc43e485963b72fc27b63b6"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:shield-plus-2",
@@ -11679,8 +11742,29 @@
       "slug": "shield-plus-2",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/shield-plus-2.json",
       "filename": "equipShieldPlus2.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield, +2.\nSubject: the exact magic item named above, type shield, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Rare*\n\n(.3) While holding this Shield, you have a bonus to Armor Class determined by the Shield's rarity, in addition to the Shield's normal bonus to AC.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield, +2.\nSubject: the exact magic item named above, type shield, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Rare*\n\n(.3) While holding this Shield, you have a bonus to Armor Class determined by the Shield's rarity, in addition to the Shield's normal bonus to AC.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3812487c-5bdf-45d1-9982-3bf5f4a9a674.png",
+      "files": [
+        {
+          "path": "equipShieldPlus2.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21644,
+          "sha256": "6b2618ff413d423b63e562da325d7bd380ef7809d515729c7fbf7db70f03ecb3"
+        },
+        {
+          "path": "large/equipShieldPlus2.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 86162,
+          "sha256": "55fb21f30eb7160b7a8a040a2db5e2a6322bd7422b3f0fda1db13f21acb7c280"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:shield-plus-3",
@@ -11688,8 +11772,29 @@
       "slug": "shield-plus-3",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/shield-plus-3.json",
       "filename": "equipShieldPlus3.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield, +3.\nSubject: the exact magic item named above, type shield, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Very Rare*\n\n(.3) While holding this Shield, you have a bonus to Armor Class determined by the Shield's rarity, in addition to the Shield's normal bonus to AC.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Shield, +3.\nSubject: the exact magic item named above, type shield, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Very Rare*\n\n(.3) While holding this Shield, you have a bonus to Armor Class determined by the Shield's rarity, in addition to the Shield's normal bonus to AC.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-38bb8236-778e-4b5b-99c6-0b6551e9b0a3.png",
+      "files": [
+        {
+          "path": "equipShieldPlus3.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25528,
+          "sha256": "4844dec595b85ad6f0d0156a186b56d9b6658e78f191ad8ee2e6ef67d13d7b2e"
+        },
+        {
+          "path": "large/equipShieldPlus3.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 106166,
+          "sha256": "d0d47008b01ad7f148008fee077fa15e0da04c571567c1ec4da7d64064c4f3bb"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:silvered-weapon",
@@ -11697,8 +11802,29 @@
       "slug": "silvered-weapon",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/silvered-weapon.json",
       "filename": "equipSilveredWeapon.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Silvered Weapon.\nSubject: the exact magic item named above, type weapon, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Any Simple or Martial), Common*\n\nAn alchemical process has bonded silver to this magic weapon. When you score a Critical Hit with it against a creature that is shape-shifted, the weapon deals one additional die of damage.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Silvered Weapon.\nSubject: the exact magic item named above, type weapon, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Any Simple or Martial), Common*\n\nAn alchemical process has bonded silver to this magic weapon. When you score a Critical Hit with it against a creature that is shape-shifted, the weapon deals one additional die of damage.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-a6e0ac63-fc3d-44c9-baa9-fcfcd3d3ddcc.png",
+      "files": [
+        {
+          "path": "equipSilveredWeapon.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 14504,
+          "sha256": "d7abdcebfbc309b09dbaf043c99439ea2ab4ec37b79338123f421b2f39661f49"
+        },
+        {
+          "path": "large/equipSilveredWeapon.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 52534,
+          "sha256": "87b8bd6c6dac34c8ef13243ba14e43f4ac10a4b913747bae061e1f87c0eb20b6"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:slippers-of-spider-climbing",
@@ -11706,8 +11832,29 @@
       "slug": "slippers-of-spider-climbing",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/slippers-of-spider-climbing.json",
       "filename": "equipSlippersOfSpiderClimbing.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Slippers of Spider Climbing.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nWhile you wear these light shoes, you can move up, down, and across vertical surfaces and along\n\n,1-^t\n\n,'f\n\nceilings, while leaving your hands free. You have a Climb Speed equal to your Speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Slippers of Spider Climbing.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nWhile you wear these light shoes, you can move up, down, and across vertical surfaces and along\n\n,1-^t\n\n,'f\n\nceilings, while leaving your hands free. You have a Climb Speed equal to your Speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-9fb3852b-5a88-43c5-954a-216845e85548.png",
+      "files": [
+        {
+          "path": "equipSlippersOfSpiderClimbing.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25152,
+          "sha256": "b52a07d7c585cf765658b912891e3271c96cae0862065d16a4596a11af66910e"
+        },
+        {
+          "path": "large/equipSlippersOfSpiderClimbing.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 99570,
+          "sha256": "5b0822db8480259be952ef156efd590e09539c06cdd87c9e2603f6a7cbd90db5"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:smoldering-armor",
@@ -11715,8 +11862,29 @@
       "slug": "smoldering-armor",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/smoldering-armor.json",
       "filename": "equipSmolderingArmor.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Smoldering Armor.\nSubject: the exact magic item named above, type armor, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Any Heavy, Medium, or Light), Common*\n\nWisps of harmless, odorless smoke rise from this armor while it is worn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Smoldering Armor.\nSubject: the exact magic item named above, type armor, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Any Heavy, Medium, or Light), Common*\n\nWisps of harmless, odorless smoke rise from this armor while it is worn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-46b2d48d-fdab-415f-a2c0-9c701565b9cd.png",
+      "files": [
+        {
+          "path": "equipSmolderingArmor.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25172,
+          "sha256": "ee116cb0b7621c454e69b2cc54d1ab5e93b2898d053bfd480387ca9557e05f5f"
+        },
+        {
+          "path": "large/equipSmolderingArmor.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 94494,
+          "sha256": "c0ad2b34e0f3d72908ab1811f803da3098af399481d805c73e07c22ea05764f4"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:sovereign-glue",
@@ -11724,8 +11892,29 @@
       "slug": "sovereign-glue",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/sovereign-glue.json",
       "filename": "equipSovereignGlue.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Sovereign Glue.\nSubject: the exact magic item named above, type wondrous, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Legendary*\n\nThis viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in ajar or flask that has been coated inside with Oil of Slipperiness. When found, a container contains 1d6 + I ounces. One ounce ofthe glue can cover a l-foot square surface. Applying an ounce of Sovereign Glue takes a Utilize action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or Oil of Etherealness, or with a Wish spell.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Sovereign Glue.\nSubject: the exact magic item named above, type wondrous, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Legendary*\n\nThis viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in ajar or flask that has been coated inside with Oil of Slipperiness. When found, a container contains 1d6 + I ounces. One ounce ofthe glue can cover a l-foot square surface. Applying an ounce of Sovereign Glue takes a Utilize action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or Oil of Etherealness, or with a Wish spell.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-d892797e-612b-4e0c-a69f-0ccb148ffdff.png",
+      "files": [
+        {
+          "path": "equipSovereignGlue.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22316,
+          "sha256": "ca65cf191cfc41004b520d2f981dbfee5e06c30ca614198afc3821fc529fe80d"
+        },
+        {
+          "path": "large/equipSovereignGlue.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 85444,
+          "sha256": "ca795385d1ed4b40b8ac26fe8584185b3dd28bde41cb6e610046a23afafaf3fe"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spell-scroll-level-2",
@@ -11733,8 +11922,29 @@
       "slug": "spell-scroll-level-2",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spell-scroll-level-2.json",
       "filename": "equipSpellScrollLevel2.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 2).\nSubject: the exact magic item named above, type scroll, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Uncommon*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 2).\nSubject: the exact magic item named above, type scroll, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Uncommon*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-fa31f012-40bb-4597-a1c2-0b9720073acb.png",
+      "files": [
+        {
+          "path": "equipSpellScrollLevel2.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 23402,
+          "sha256": "b9030aaf8c427a22952f4939e66979ca331e130df5fd76d9ae2d89212cd88c3e"
+        },
+        {
+          "path": "large/equipSpellScrollLevel2.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 88834,
+          "sha256": "4e4cc22f4ed8be76f46a07ad54a703ffde7b6874c5c9d5305396fbfbfa9d1be5"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spell-scroll-level-3",
@@ -11742,8 +11952,29 @@
       "slug": "spell-scroll-level-3",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spell-scroll-level-3.json",
       "filename": "equipSpellScrollLevel3.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 3).\nSubject: the exact magic item named above, type scroll, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Uncommon*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 3).\nSubject: the exact magic item named above, type scroll, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Uncommon*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-05210e54-beff-48cc-acde-f2ea331b930d.png",
+      "files": [
+        {
+          "path": "equipSpellScrollLevel3.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22866,
+          "sha256": "b349a3309e7590629599b223655fabf9572e9dbe9ce214ed2e5afb610e8c10bf"
+        },
+        {
+          "path": "large/equipSpellScrollLevel3.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 86132,
+          "sha256": "dbd7d85bcf544ae5e72c9d13a53a4036339110e99964b40d368bf5aecd9f43cf"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spell-scroll-level-4",
@@ -11751,8 +11982,29 @@
       "slug": "spell-scroll-level-4",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spell-scroll-level-4.json",
       "filename": "equipSpellScrollLevel4.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 4).\nSubject: the exact magic item named above, type scroll, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 4).\nSubject: the exact magic item named above, type scroll, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b81fa6b6-2776-4e8e-adb1-356a2b81e478.png",
+      "files": [
+        {
+          "path": "equipSpellScrollLevel4.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25230,
+          "sha256": "652346163fcba761218e554bba9a9c1b1d7e12aac60789504c28ae27355412a0"
+        },
+        {
+          "path": "large/equipSpellScrollLevel4.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 98752,
+          "sha256": "70ed866ede5d3405cdd920d63dc4778b089bf913c622901141771f3f893bef3c"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spell-scroll-level-5",
@@ -11760,8 +12012,29 @@
       "slug": "spell-scroll-level-5",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spell-scroll-level-5.json",
       "filename": "equipSpellScrollLevel5.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 5).\nSubject: the exact magic item named above, type scroll, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 5).\nSubject: the exact magic item named above, type scroll, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-255edf44-f1de-4995-b0dd-0880cfadf78e.png",
+      "files": [
+        {
+          "path": "equipSpellScrollLevel5.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 24120,
+          "sha256": "33a1160d7bb5d2e7c16ff800362e4577434e47ed827e4d7b2d57d98b7e5197d8"
+        },
+        {
+          "path": "large/equipSpellScrollLevel5.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 94478,
+          "sha256": "97772c4835a00296381bef9b103e426f007cafac420ad2de7f32c56fd41ed6d6"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spell-scroll-level-6",
@@ -11769,8 +12042,29 @@
       "slug": "spell-scroll-level-6",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spell-scroll-level-6.json",
       "filename": "equipSpellScrollLevel6.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 6).\nSubject: the exact magic item named above, type scroll, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Very Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 6).\nSubject: the exact magic item named above, type scroll, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Very Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1284f1a8-6fa1-44f5-ad01-447a503198ed.png",
+      "files": [
+        {
+          "path": "equipSpellScrollLevel6.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 29054,
+          "sha256": "e0af7b86f7cb172575050ac4000135063e8f323e294f111891f145f9567fe57a"
+        },
+        {
+          "path": "large/equipSpellScrollLevel6.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 114838,
+          "sha256": "19df8deee6bf066035db769f748c8449d42d8903485eeac4b92bd3200c368baa"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spell-scroll-level-7",
@@ -11778,8 +12072,29 @@
       "slug": "spell-scroll-level-7",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spell-scroll-level-7.json",
       "filename": "equipSpellScrollLevel7.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 7).\nSubject: the exact magic item named above, type scroll, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Very Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 7).\nSubject: the exact magic item named above, type scroll, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Very Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e1dfddcf-fee6-4b4d-8775-45c659a6b562.png",
+      "files": [
+        {
+          "path": "equipSpellScrollLevel7.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 24710,
+          "sha256": "ff0b8bd0cd9857cd34727e01ccb59ed34ae54eab711f2dc287d9199b47c3f4fe"
+        },
+        {
+          "path": "large/equipSpellScrollLevel7.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 93408,
+          "sha256": "b68337a1f8120d11dae08cabf9267adaeae4b9319551d74268a81c9a3b0c5319"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spell-scroll-level-8",
@@ -11787,8 +12102,29 @@
       "slug": "spell-scroll-level-8",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spell-scroll-level-8.json",
       "filename": "equipSpellScrollLevel8.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 8).\nSubject: the exact magic item named above, type scroll, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Very Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 8).\nSubject: the exact magic item named above, type scroll, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Very Rare*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-75109152-7b86-41c9-8447-d75a109fbc89.png",
+      "files": [
+        {
+          "path": "equipSpellScrollLevel8.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25294,
+          "sha256": "94f43408489ebdbc97ca380e5d8a3aa17d6a09a22522ad967587541b5e9545af"
+        },
+        {
+          "path": "large/equipSpellScrollLevel8.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 95150,
+          "sha256": "5b3c0a6c4c40b38932a0ecb41e3562f270387dbb2c7d3b2ee54fdb8615960f9f"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spell-scroll-level-9",
@@ -11796,8 +12132,29 @@
       "slug": "spell-scroll-level-9",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spell-scroll-level-9.json",
       "filename": "equipSpellScrollLevel9.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 9).\nSubject: the exact magic item named above, type scroll, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Legendary*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Scroll (level 9).\nSubject: the exact magic item named above, type scroll, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Scroll, Legendary*\n\nA Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13\n\nCommon Uncommon 2 Uncommon 3 4 Rare Rare 17 5 Very Rare 6 17 Very Rare +.l0 7 Very Rare +.l0 8 +ll Legendary 9\n\nSttppeas or Sptoee CttnatNe\n\nSoveeetcu Gtue\n\nSpxepe op ANNtxttnttoN\n\n5\n\nlarFv utrcr\n\nCopying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 1O plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the SpellScroll is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e3879ea2-283a-4eb5-808c-e9b98a9b0401.png",
+      "files": [
+        {
+          "path": "equipSpellScrollLevel9.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25914,
+          "sha256": "50e4533e8dac3007b9078afd5314cb11e42e4db29b241612b9414f45cbbf6522"
+        },
+        {
+          "path": "large/equipSpellScrollLevel9.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 97062,
+          "sha256": "32ccfcc8774094d1fa658f88cd508e851b763ffc3a14611ac32d1ba5c823a842"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:spellguard-shield",
@@ -11805,8 +12162,29 @@
       "slug": "spellguard-shield",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/dmg-2024/items/magic/spellguard-shield.json",
       "filename": "equipSpellguardShield.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spellguard Shield.\nSubject: the exact magic item named above, type shield, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Very Rare (Requires Attunement)*\n\nWhile holding this Shield, you have Advantage on saving throws against spells and other magical effects, and spell attack rolls have Disadvantage against you.\n\n.?\\ Spett Sceott\n\n\\:./ t 11, *l'.'\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spellguard Shield.\nSubject: the exact magic item named above, type shield, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Very Rare (Requires Attunement)*\n\nWhile holding this Shield, you have Advantage on saving throws against spells and other magical effects, and spell attack rolls have Disadvantage against you.\n\n.?\\ Spett Sceott\n\n\\:./ t 11, *l'.'\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6596c8c8-a1bc-4547-b6f3-4324632afe00.png",
+      "files": [
+        {
+          "path": "equipSpellguardShield.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25406,
+          "sha256": "cd58cd323b0bb7ccc77df148eb8c05671a1dab794f13d0b1e3829dade8063ec4"
+        },
+        {
+          "path": "large/equipSpellguardShield.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 102784,
+          "sha256": "2683e8920c30daa34b4115e788be9c1e1562f27633cd94f06b40437c5d4f81f4"
+        }
+      ]
     },
     {
       "id": "dmg-2024:item:sphere-of-annihilation",
