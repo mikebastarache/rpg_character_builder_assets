@@ -1,0 +1,959 @@
+{
+  "spell_material_records": 82,
+  "distinct_component_names": 79,
+  "entries": [
+    {
+      "spell_id": "srd-5.2.1:spell:teleportation-circle",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/teleportation-circle.json",
+      "component": {
+        "words": [
+          "ink"
+        ],
+        "consumed": true,
+        "name": "Rare inks worth 50+ GP",
+        "cost": 50
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:identify",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/identify.json",
+      "component": {
+        "words": [
+          "pearl"
+        ],
+        "name": "Pearl worth 100+ GP",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:revivify",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/revivify.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Diamond worth 300+ GP",
+        "cost": 300
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:hallow",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/hallow.json",
+      "component": {
+        "words": [
+          "incense"
+        ],
+        "consumed": true,
+        "name": "Incense worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:summon-dragon",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/summon-dragon.json",
+      "component": {
+        "words": [
+          "dragon"
+        ],
+        "name": "Object engraved with a dragon worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:clairvoyance",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/clairvoyance.json",
+      "component": {
+        "words": [
+          "horn",
+          "glass eye"
+        ],
+        "name": "Jeweled horn worth 100+ GP",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:arcane-lock",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/arcane-lock.json",
+      "component": {
+        "words": [
+          "gold dust"
+        ],
+        "consumed": true,
+        "name": "Gold dust worth 25+ GP",
+        "cost": 25
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:guards-and-wards",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/guards-and-wards.json",
+      "component": {
+        "words": [
+          "silver rod"
+        ],
+        "name": "Silver rod worth 10+ GP",
+        "cost": 10
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:chromatic-orb",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/chromatic-orb.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "name": "Diamond worth 50+ GP",
+        "cost": 50
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:resurrection",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/resurrection.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Diamond worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:illusory-script",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/illusory-script.json",
+      "component": {
+        "words": [
+          "ink"
+        ],
+        "consumed": true,
+        "name": "Ink worth 10+ GP",
+        "cost": 10
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:imprisonment",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/imprisonment.json",
+      "component": {
+        "words": [
+          "statuette"
+        ],
+        "name": "Statuette of the target worth 5,000+ GP",
+        "cost": 5000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:secret-chest",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/secret-chest.json",
+      "component": {
+        "words": [
+          "chest"
+        ],
+        "name": "Chest of rare materials worth 5,000+ GP",
+        "cost": 5000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:secret-chest",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/secret-chest.json",
+      "component": {
+        "words": [
+          "replica"
+        ],
+        "name": "Tiny replica chest worth 50+ GP",
+        "cost": 50
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:greater-restoration",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/greater-restoration.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Diamond dust worth 100+ GP",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:magic-circle",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/magic-circle.json",
+      "component": {
+        "words": [
+          "silver",
+          "salt"
+        ],
+        "consumed": true,
+        "name": "Salt and powdered silver worth 100+ GP",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:raise-dead",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/raise-dead.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Diamond worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:forcecage",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/forcecage.json",
+      "component": {
+        "words": [
+          "ruby"
+        ],
+        "consumed": true,
+        "name": "Ruby dust worth 1,500+ GP",
+        "cost": 1500
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:contingency",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/contingency.json",
+      "component": {
+        "words": [
+          "statuette"
+        ],
+        "name": "Gem-encrusted statuette of yourself worth 1,500+ GP",
+        "cost": 1500
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:nondetection",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/nondetection.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Pinch of diamond dust worth 25+ GP",
+        "cost": 25
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:warding-bond",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/warding-bond.json",
+      "component": {
+        "words": [
+          "platinum ring"
+        ],
+        "name": "Pair of platinum rings worth 50+ GP each",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:gate",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/gate.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "name": "Diamond worth 5,000+ GP",
+        "cost": 5000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:divination",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/divination.json",
+      "component": {
+        "words": [
+          "incense"
+        ],
+        "consumed": true,
+        "name": "Incense worth 25+ GP",
+        "cost": 25
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:astral-projection",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/astral-projection.json",
+      "component": {
+        "words": [
+          "jacinth"
+        ],
+        "consumed": true,
+        "name": "Jacinth worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:astral-projection",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/astral-projection.json",
+      "component": {
+        "words": [
+          "silver bar",
+          "silver"
+        ],
+        "consumed": true,
+        "name": "Silver bar worth 100+ GP",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:symbol",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/symbol.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Powdered diamond worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:forbiddance",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/forbiddance.json",
+      "component": {
+        "words": [
+          "ruby"
+        ],
+        "name": "Ruby dust worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:arcane-sword",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/arcane-sword.json",
+      "component": {
+        "words": [
+          "miniature sword"
+        ],
+        "name": "Miniature sword worth 250+ GP",
+        "cost": 250
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:stoneskin",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/stoneskin.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Diamond dust worth 100+ GP",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:clone",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/clone.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Diamond worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:clone",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/clone.json",
+      "component": {
+        "words": [
+          "vessel"
+        ],
+        "name": "Sealable vessel worth 2,000+ GP",
+        "cost": 2000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:protection-from-evil-and-good",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/protection-from-evil-and-good.json",
+      "component": {
+        "words": [
+          "holy water"
+        ],
+        "consumed": true,
+        "name": "Holy Water",
+        "cost": 25,
+        "itemId": "srd-5.2.1:item:holy-water"
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:planar-binding",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/planar-binding.json",
+      "component": {
+        "words": [
+          "jewel"
+        ],
+        "consumed": true,
+        "name": "Jewel worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:magic-jar",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/magic-jar.json",
+      "component": {
+        "words": [
+          "gem",
+          "crystal",
+          "reliquary"
+        ],
+        "name": "Gem worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:glyph-of-warding",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/glyph-of-warding.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Powdered diamond worth 200+ GP",
+        "cost": 200
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:find-the-path",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/find-the-path.json",
+      "component": {
+        "words": [
+          "divination tool",
+          "card",
+          "rune"
+        ],
+        "name": "Divination tools worth 100+ GP",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:augury",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/augury.json",
+      "component": {
+        "words": [
+          "stick",
+          "bone",
+          "card",
+          "token"
+        ],
+        "name": "Divinatory tokens worth 25+ GP",
+        "cost": 25
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:true-strike",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/true-strike.json",
+      "component": {
+        "words": [
+          "@weapon"
+        ]
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:plane-shift",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/plane-shift.json",
+      "component": {
+        "words": [
+          "fork"
+        ],
+        "name": "Forked metal rod worth 250+ GP",
+        "cost": 250
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:legend-lore",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/legend-lore.json",
+      "component": {
+        "words": [
+          "incense"
+        ],
+        "consumed": true,
+        "name": "Incense worth 250+ GP",
+        "cost": 250
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:legend-lore",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/legend-lore.json",
+      "component": {
+        "words": [
+          "ivory"
+        ],
+        "name": "Four ivory strips worth 50+ GP each",
+        "cost": 200
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:scrying",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/scrying.json",
+      "component": {
+        "words": [
+          "crystal ball",
+          "mirror",
+          "font"
+        ],
+        "name": "Crystal ball worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:continual-flame",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/continual-flame.json",
+      "component": {
+        "words": [
+          "ruby"
+        ],
+        "consumed": true,
+        "name": "Ruby dust worth 50+ GP",
+        "cost": 50
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:simulacrum",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/simulacrum.json",
+      "component": {
+        "words": [
+          "ruby"
+        ],
+        "consumed": true,
+        "name": "Powdered ruby worth 1,500+ GP",
+        "cost": 1500
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:true-seeing",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/true-seeing.json",
+      "component": {
+        "words": [
+          "mushroom"
+        ],
+        "consumed": true,
+        "name": "Mushroom powder worth 25+ GP",
+        "cost": 25
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:heroes-feast",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/heroes-feast.json",
+      "component": {
+        "words": [
+          "bowl"
+        ],
+        "consumed": true,
+        "name": "Gem-encrusted bowl worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:programmed-illusion",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/programmed-illusion.json",
+      "component": {
+        "words": [
+          "jade"
+        ],
+        "name": "Jade dust worth 25+ GP",
+        "cost": 25
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:circle-of-death",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/circle-of-death.json",
+      "component": {
+        "words": [
+          "pearl"
+        ],
+        "name": "Powder of a crushed black pearl worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:reincarnate",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/reincarnate.json",
+      "component": {
+        "words": [
+          "rare oil"
+        ],
+        "consumed": true,
+        "name": "Rare oils worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:instant-summons",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/instant-summons.json",
+      "component": {
+        "words": [
+          "sapphire"
+        ],
+        "name": "Sapphire worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:project-image",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/project-image.json",
+      "component": {
+        "words": [
+          "statuette"
+        ],
+        "name": "Statuette of yourself worth 5+ GP",
+        "cost": 5
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:sequester",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/sequester.json",
+      "component": {
+        "words": [
+          "gem"
+        ],
+        "consumed": true,
+        "name": "Gem dust worth 5,000+ GP",
+        "cost": 5000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:magic-mouth",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/magic-mouth.json",
+      "component": {
+        "words": [
+          "jade"
+        ],
+        "consumed": true,
+        "name": "Jade dust worth 10+ GP",
+        "cost": 10
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:bless",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/bless.json",
+      "component": {
+        "words": [
+          "holy symbol"
+        ],
+        "name": "Holy Symbol (Amulet)",
+        "cost": 5,
+        "itemId": "srd-5.2.1:item:holy-symbol-amulet"
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:find-familiar",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/find-familiar.json",
+      "component": {
+        "words": [
+          "incense"
+        ],
+        "consumed": true,
+        "name": "Burning incense worth 10+ GP",
+        "cost": 10
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:gentle-repose",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/gentle-repose.json",
+      "component": {
+        "words": [
+          "@cp:2"
+        ],
+        "consumed": true
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:create-undead",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/create-undead.json",
+      "component": {
+        "words": [
+          "onyx"
+        ],
+        "name": "Black onyx stone worth 150+ GP",
+        "cost": 150
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:shapechange",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/shapechange.json",
+      "component": {
+        "words": [
+          "circlet"
+        ],
+        "name": "Jade circlet worth 1,500+ GP",
+        "cost": 1500
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:magnificent-mansion",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/magnificent-mansion.json",
+      "component": {
+        "words": [
+          "door"
+        ],
+        "name": "Miniature door worth 15+ GP",
+        "cost": 15
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:awaken",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/awaken.json",
+      "component": {
+        "words": [
+          "agate"
+        ],
+        "consumed": true,
+        "name": "Agate worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:true-resurrection",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/true-resurrection.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Diamonds worth 25,000+ GP",
+        "cost": 25000
+      }
+    },
+    {
+      "spell_id": "srd-5.2.1:spell:holy-aura",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/srd-5.2.1/spells/holy-aura.json",
+      "component": {
+        "words": [
+          "reliquary"
+        ],
+        "name": "Reliquary worth 1,000+ GP",
+        "cost": 1000
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:summon-elemental",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/summon-elemental.json",
+      "component": {
+        "words": [
+          "vial"
+        ],
+        "name": "Gold-inlaid vial worth 400+ GP",
+        "cost": 400
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:summon-aberration",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/summon-aberration.json",
+      "component": {
+        "words": [
+          "vial"
+        ],
+        "name": "Platinum-inlaid vial worth 400+ GP",
+        "cost": 400
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:tashas-bubbling-cauldron",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/tashas-bubbling-cauldron.json",
+      "component": {
+        "words": [
+          "ladle"
+        ],
+        "name": "Gilded ladle worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:summon-undead",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/summon-undead.json",
+      "component": {
+        "words": [
+          "skull"
+        ],
+        "name": "Gilded skull worth 300+ GP",
+        "cost": 300
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:summon-fiend",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/summon-fiend.json",
+      "component": {
+        "words": [
+          "vial"
+        ],
+        "name": "Bloody vial worth 600+ GP",
+        "cost": 600
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:summon-fey",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/summon-fey.json",
+      "component": {
+        "words": [
+          "flower"
+        ],
+        "name": "Gilded flower worth 300+ GP",
+        "cost": 300
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:summon-celestial",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/summon-celestial.json",
+      "component": {
+        "words": [
+          "reliquary"
+        ],
+        "name": "Reliquary worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:summon-beast",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/summon-beast.json",
+      "component": {
+        "words": [
+          "acorn"
+        ],
+        "name": "Gilded acorn worth 200+ GP",
+        "cost": 200
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:swift-quiver",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/swift-quiver.json",
+      "component": {
+        "words": [
+          "quiver"
+        ],
+        "name": "Quiver",
+        "cost": 1,
+        "itemId": "srd-5.2.1:item:quiver"
+      }
+    },
+    {
+      "spell_id": "phb-2024:spell:summon-construct",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/phb-2024/spells/summon-construct.json",
+      "component": {
+        "words": [
+          "lockbox"
+        ],
+        "name": "Lockbox worth 400+ GP",
+        "cost": 400
+      }
+    },
+    {
+      "spell_id": "ua-2025:spell:summon-astral-entity",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/ua-2025/spells/summon-astral-entity.json",
+      "component": {
+        "words": [
+          "gem",
+          "crystal"
+        ],
+        "name": "Gem worth 300+ GP",
+        "cost": 300
+      }
+    },
+    {
+      "spell_id": "ua-2025:spell:telekinetic-fling",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/ua-2025/spells/telekinetic-fling.json",
+      "component": {
+        "words": [
+          "arrow",
+          "bolt",
+          "bullet",
+          "needle"
+        ],
+        "name": "Arrows",
+        "cost": 1,
+        "itemId": "srd-5.2.1:item:arrows"
+      }
+    },
+    {
+      "spell_id": "au:spell:hindsight",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/spells/hindsight.json",
+      "component": {
+        "words": [
+          "hourglass"
+        ],
+        "consumed": true,
+        "name": "Tiny hourglass worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "au:spell:battle-familiar",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/spells/battle-familiar.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "name": "Diamond worth 25+ GP",
+        "cost": 25
+      }
+    },
+    {
+      "spell_id": "au:spell:invulnerability",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/spells/invulnerability.json",
+      "component": {
+        "words": [
+          "adamantine"
+        ],
+        "consumed": true,
+        "name": "Piece of adamantine worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "au:spell:iron-body",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/spells/iron-body.json",
+      "component": {
+        "words": [
+          "diamond"
+        ],
+        "consumed": true,
+        "name": "Diamond dust worth 250+ GP",
+        "cost": 250
+      }
+    },
+    {
+      "spell_id": "au:spell:summon-dinosaur",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/spells/summon-dinosaur.json",
+      "component": {
+        "words": [
+          "polished scale"
+        ],
+        "name": "Polished scale worth 600+ GP",
+        "cost": 600
+      }
+    },
+    {
+      "spell_id": "au:spell:dueling-ground",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/spells/dueling-ground.json",
+      "component": {
+        "words": [
+          "flag"
+        ],
+        "name": "Silk flag worth 100+ GP",
+        "cost": 100
+      }
+    },
+    {
+      "spell_id": "au:spell:summon-plant",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/spells/summon-plant.json",
+      "component": {
+        "words": [
+          "herbs"
+        ],
+        "name": "Herbs worth 500+ GP",
+        "cost": 500
+      }
+    },
+    {
+      "spell_id": "efa:spell:homunculus-servant",
+      "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/efa/spells/homunculus-servant.json",
+      "component": {
+        "words": [
+          "gem"
+        ],
+        "name": "Gem worth 100+ GP",
+        "cost": 100
+      }
+    }
+  ]
+}
