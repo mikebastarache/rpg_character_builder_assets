@@ -16512,8 +16512,29 @@
       "slug": "secret-keepers-circlet",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/secret-keepers-circlet.json",
       "filename": "equipSecretKeepersCirclet.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Secret Keeper's Circlet.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement)*\n\nThis circlet allows the wearer to wipe from their memory any knowledge of a specific deed or time in their life, making it useful for those who fear mages plumbing their minds with magic. While wearing this circlet, you can take a Magic action to specify a trigger such as \"after I leave this temple\" or \"when I cast the Animate Dead spell.\" For the next 24 hours, if that trigger occurs, the circlet erases your memories of everything from the time you chose the trigger until the trigger occurred. No magic short of a Wish spell can restore your memory of this time. Once you use this property, you can't use it again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Secret Keeper's Circlet.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement)*\n\nThis circlet allows the wearer to wipe from their memory any knowledge of a specific deed or time in their life, making it useful for those who fear mages plumbing their minds with magic. While wearing this circlet, you can take a Magic action to specify a trigger such as \"after I leave this temple\" or \"when I cast the Animate Dead spell.\" For the next 24 hours, if that trigger occurs, the circlet erases your memories of everything from the time you chose the trigger until the trigger occurred. No magic short of a Wish spell can restore your memory of this time. Once you use this property, you can't use it again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7c749f1d-f7fc-47d5-8a47-e04b23a1bf76.png",
+      "files": [
+        {
+          "path": "equipSecretKeepersCirclet.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21096,
+          "sha256": "3f5ddddc2a328a770e42640a56c1125bee61a10ab83de5050461937b268ee93f"
+        },
+        {
+          "path": "large/equipSecretKeepersCirclet.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 73522,
+          "sha256": "d0f62af0992e36c9f1a2c12bd785374c74b06c60aa6594c7a994bf24a300947c"
+        }
+      ]
     },
     {
       "id": "fr-aif:item:silver-harper-pin",
@@ -16521,8 +16542,29 @@
       "slug": "silver-harper-pin",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/fr-aif/items/magic/silver-harper-pin.json",
       "filename": "equipSilverHarperPin.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Silver Harper Pin.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nWhen you attune to this pin, choose a Harper persona (see the Forgotten Realms Player's Guide for examples), including an alignment and a creature type. While wearing this pin, you register as that persona when targeted by magic to determine your creature type, alignment, or location.\n\nThe type of pin determines its rarity and effects. Silver Harper Pin. When you attune to this pin, you can devise a general line of thought of 25 words or fewer. While you wear this pin, a creature that reads your thoughts detects your preprogrammed line of thought instead. A creature that takes the Study action while reading your thoughts makes a DC 13 Intelligence (Investigation) check. On a successful check, it becomes aware that the detected thoughts are preprogrammed.\n\nGolden Harper Pin. While wearing this pin, you can cast the Nondetection spell on yourself. The duration of this spell is permanent until you disable the effect (no action required), you remove the pin, or you are no longer attuned to the pin.\n\n**Silver Harper Pin.** Choose a preprogrammed line of thought of 25 words or fewer when attuning. While worn, thought readers detect that line instead of your thoughts. A reader taking the Study action can detect the deception with a DC 13 Intelligence (Investigation) check.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Silver Harper Pin.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nWhen you attune to this pin, choose a Harper persona (see the Forgotten Realms Player's Guide for examples), including an alignment and a creature type. While wearing this pin, you register as that persona when targeted by magic to determine your creature type, alignment, or location.\n\nThe type of pin determines its rarity and effects. Silver Harper Pin. When you attune to this pin, you can devise a general line of thought of 25 words or fewer. While you wear this pin, a creature that reads your thoughts detects your preprogrammed line of thought instead. A creature that takes the Study action while reading your thoughts makes a DC 13 Intelligence (Investigation) check. On a successful check, it becomes aware that the detected thoughts are preprogrammed.\n\nGolden Harper Pin. While wearing this pin, you can cast the Nondetection spell on yourself. The duration of this spell is permanent until you disable the effect (no action required), you remove the pin, or you are no longer attuned to the pin.\n\n**Silver Harper Pin.** Choose a preprogrammed line of thought of 25 words or fewer when attuning. While worn, thought readers detect that line instead of your thoughts. A reader taking the Study action can detect the deception with a DC 13 Intelligence (Investigation) check.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-cb3c0062-55a4-4301-ae40-e583d8dbc990.png",
+      "files": [
+        {
+          "path": "equipSilverHarperPin.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 40942,
+          "sha256": "301ebf40aa033245eea7fb7d546efc2d2bb115617a41fe8ed58f47e4e9c48bba"
+        },
+        {
+          "path": "large/equipSilverHarperPin.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 148014,
+          "sha256": "d7d0b9ac0355b49913f4504951ca1d9affb4d4c64ced21334dfaf0f58506d7fe"
+        }
+      ]
     },
     {
       "id": "au:item:somniferous-blossom-rod",
@@ -16530,8 +16572,29 @@
       "slug": "somniferous-blossom-rod",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/somniferous-blossom-rod.json",
       "filename": "equipSomniferousBlossomRod.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Somniferous Blossom Rod.\nSubject: the exact magic item named above, type rod, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Rod, Very Rare (Requires Attunement by a Spellcaster)*\n\nThis rod is made of intertwined, living plant stems.\n\nBudding (uncommon). Multicolored leaves decorate the rod's stems, and a few buds cluster near each end. While you hold the rod, you can cast Druidcraft or Plant Growth (Overgrowth only) from it. Once the rod has been used to cast Plant Growth, it can't be used to cast this spell again until the next dawn. While you hold the rod, as a Magic action, you can rejuvenate nonmagical plants in a 5-foot Cube you can see within 15 feet of yourself. The rejuvenated plants remain verdant for 1d4 days, after which they grow or wither as normal plants would.\n\nFlowering (rare). Both ends of the rod bear colorful, fragrant flowers. While you hold the rod, you can cast Insect Plague from it, using your spell save DC. When you do so, the insects appear as bumblebees. Once the rod has been used to cast this spell, it can't be used to cast this spell again until the next dawn.\n\nSomniferous (veryRare). Robust bursts of flowers grow along the rod's length. While you hold the rod, you can take a Magic action to expel a puff of sleep-inducing pollen in a 30-foot Emanation originating from you. Creatures of your choice in the Emanation must succeed on a DC 17 Constitution saving throw or have the Unconscious condition for 1 hour. Creatures that don't sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on the save. The effect ends on a target if it takes damage or a creature within 5 feet of it takes an action to shake it awake. Once the rod has produced this effect, it can't do so again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Somniferous Blossom Rod.\nSubject: the exact magic item named above, type rod, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Rod, Very Rare (Requires Attunement by a Spellcaster)*\n\nThis rod is made of intertwined, living plant stems.\n\nBudding (uncommon). Multicolored leaves decorate the rod's stems, and a few buds cluster near each end. While you hold the rod, you can cast Druidcraft or Plant Growth (Overgrowth only) from it. Once the rod has been used to cast Plant Growth, it can't be used to cast this spell again until the next dawn. While you hold the rod, as a Magic action, you can rejuvenate nonmagical plants in a 5-foot Cube you can see within 15 feet of yourself. The rejuvenated plants remain verdant for 1d4 days, after which they grow or wither as normal plants would.\n\nFlowering (rare). Both ends of the rod bear colorful, fragrant flowers. While you hold the rod, you can cast Insect Plague from it, using your spell save DC. When you do so, the insects appear as bumblebees. Once the rod has been used to cast this spell, it can't be used to cast this spell again until the next dawn.\n\nSomniferous (veryRare). Robust bursts of flowers grow along the rod's length. While you hold the rod, you can take a Magic action to expel a puff of sleep-inducing pollen in a 30-foot Emanation originating from you. Creatures of your choice in the Emanation must succeed on a DC 17 Constitution saving throw or have the Unconscious condition for 1 hour. Creatures that don't sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on the save. The effect ends on a target if it takes damage or a creature within 5 feet of it takes an action to shake it awake. Once the rod has produced this effect, it can't do so again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-fa833b4c-b099-4cff-a248-4da4dea21e81.png",
+      "files": [
+        {
+          "path": "equipSomniferousBlossomRod.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 19656,
+          "sha256": "55321ba89051812b5fdfa9ee8a70181c15c7c6bf1810f21ba155e08b651bec7f"
+        },
+        {
+          "path": "large/equipSomniferousBlossomRod.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 65876,
+          "sha256": "d7fcbb571792010df6c68556e8f4abf571a88c47b09ecf4345c4619596e1d473"
+        }
+      ]
     },
     {
       "id": "au:item:spell-component-ring",
@@ -16539,8 +16602,29 @@
       "slug": "spell-component-ring",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/spell-component-ring.json",
       "filename": "equipSpellComponentRing.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Component Ring.\nSubject: the exact magic item named above, type ring, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Ring, Common*\n\nThis steel ring has a discreet chamber lined with a mystical inscription. As a Magic action, choose one spell you have prepared that requires a Material component; the required Material component must neither have a cost specified nor be consumed by the spell. You store that spell's Material component in the ring's chamber. Whenever you cast the chosen spell, you don't need to have a hand free to access its Material component, provided you are wearing the ring. The ring can hold the Material component for one spell at a time.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Component Ring.\nSubject: the exact magic item named above, type ring, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Ring, Common*\n\nThis steel ring has a discreet chamber lined with a mystical inscription. As a Magic action, choose one spell you have prepared that requires a Material component; the required Material component must neither have a cost specified nor be consumed by the spell. You store that spell's Material component in the ring's chamber. Whenever you cast the chosen spell, you don't need to have a hand free to access its Material component, provided you are wearing the ring. The ring can hold the Material component for one spell at a time.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2c9ab676-f365-49f6-ad2b-489a341be412.png",
+      "files": [
+        {
+          "path": "equipSpellComponentRing.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21318,
+          "sha256": "645504edc6fbe77e5aad3d77f106e3566bd6d184d9b25315d9e7d436c442d82a"
+        },
+        {
+          "path": "large/equipSpellComponentRing.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 74878,
+          "sha256": "ee37b3a041e3aa9f85f1ce1036adcc4285758a3fbdc878db2145f2d3d5b49dcd"
+        }
+      ]
     },
     {
       "id": "au:item:spell-duelists-trophy",
@@ -16548,8 +16632,29 @@
       "slug": "spell-duelists-trophy",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/spell-duelists-trophy.json",
       "filename": "equipSpellDuelistsTrophy.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Duelist's Trophy.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement by a Spellcaster)*\n\nThis withered hand or talon is attached to a leather cord that can be worn like a necklace or bracelet. You gain the following benefits while wearing the trophy. Dispelling Touch. When you hit a creature with a melee spell attack, you can activate the trophy to cast the Dispel Magic spell as part of that attack, targeting the hit creature. Once this property has been used, it can't be used again until the next dawn. Helping Hand. When you cast a spell using a spell slot, you can cast it without any Somatic components. Mage Hand. You can cast the Mage Hand cantrip from the trophy.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell Duelist's Trophy.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement by a Spellcaster)*\n\nThis withered hand or talon is attached to a leather cord that can be worn like a necklace or bracelet. You gain the following benefits while wearing the trophy. Dispelling Touch. When you hit a creature with a melee spell attack, you can activate the trophy to cast the Dispel Magic spell as part of that attack, targeting the hit creature. Once this property has been used, it can't be used again until the next dawn. Helping Hand. When you cast a spell using a spell slot, you can cast it without any Somatic components. Mage Hand. You can cast the Mage Hand cantrip from the trophy.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c5bb0776-025d-416d-a06b-5d4608a37b2a.png",
+      "files": [
+        {
+          "path": "equipSpellDuelistsTrophy.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 27146,
+          "sha256": "ca1dded5a7ddc47abfb25371b7fb27655754334e64ee70054cd080db7e6655c7"
+        },
+        {
+          "path": "large/equipSpellDuelistsTrophy.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 91466,
+          "sha256": "c5d44730246dfb9ddfb3387e5fb389994d5af4a45b144128ace61f2914fb7d7e"
+        }
+      ]
     },
     {
       "id": "efa:item:spell-refueling-ring",
@@ -16557,8 +16662,29 @@
       "slug": "spell-refueling-ring",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/efa/items/magic/spell-refueling-ring.json",
       "filename": "equipSpellRefuelingRing.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell-Refueling Ring.\nSubject: the exact magic item named above, type ring, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Ring, Uncommon (Requires Attunement by a Spellcaster)*\n\nWhile wearing this ring, you can recover one expended spell slot as a Bonus Action. The recovered slot can be of level 3 or lower. Once used, the ring can\u2019t be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell-Refueling Ring.\nSubject: the exact magic item named above, type ring, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Ring, Uncommon (Requires Attunement by a Spellcaster)*\n\nWhile wearing this ring, you can recover one expended spell slot as a Bonus Action. The recovered slot can be of level 3 or lower. Once used, the ring can\u2019t be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5b9ce445-3100-4934-80e1-7e55537972b5.png",
+      "files": [
+        {
+          "path": "equipSpellRefuelingRing.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 30678,
+          "sha256": "4e4dc46f737e4038f765aa07b71510e914f8ba5f667ab769dbeebd251976e2a9"
+        },
+        {
+          "path": "large/equipSpellRefuelingRing.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 118826,
+          "sha256": "ca7796853afd30b73aba58b749c9ce89f4a6f0e7ba318208dccaca07e8b641cb"
+        }
+      ]
     },
     {
       "id": "au:item:spell-slingers-puppet",
@@ -16566,8 +16692,29 @@
       "slug": "spell-slingers-puppet",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/spell-slingers-puppet.json",
       "filename": "equipSpellSlingersPuppet.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell-Slinger's Puppet.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nAs a Bonus Action while holding this ventriloquist's doll, you can pull the cord on the doll's back to cause the doll to levitate to an unoccupied space you can see within 30 feet of yourself and hover there. While the doll hovers, you can take a Bonus Action to cause the doll to move up to 30 feet to another unoccupied space you can see within 30 feet of yourself. The doll hovers for 1 minute or until you end the effect as a Bonus Action. While the doll is within 30 feet of you, you can speak using the doll's mouth rather than your own. This allows you to, for instance, cast a spell with a Verbal component even if you can't speak.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Spell-Slinger's Puppet.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nAs a Bonus Action while holding this ventriloquist's doll, you can pull the cord on the doll's back to cause the doll to levitate to an unoccupied space you can see within 30 feet of yourself and hover there. While the doll hovers, you can take a Bonus Action to cause the doll to move up to 30 feet to another unoccupied space you can see within 30 feet of yourself. The doll hovers for 1 minute or until you end the effect as a Bonus Action. While the doll is within 30 feet of you, you can speak using the doll's mouth rather than your own. This allows you to, for instance, cast a spell with a Verbal component even if you can't speak.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-079c6943-16f2-4464-a8a4-767f335cbf0f.png",
+      "files": [
+        {
+          "path": "equipSpellSlingersPuppet.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25030,
+          "sha256": "6e511dbc5e28f52b7568a041325ad677e961dfc626f5fc3898a6f03058ccfecc"
+        },
+        {
+          "path": "large/equipSpellSlingersPuppet.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 94770,
+          "sha256": "cf2295b55a51e1bf22c015ab833a39429e5208f2edfb02555049974a3949ef7d"
+        }
+      ]
     },
     {
       "id": "au:item:staff-of-the-lost",
@@ -16575,8 +16722,29 @@
       "slug": "staff-of-the-lost",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/staff-of-the-lost.json",
       "filename": "equipStaffOfTheLost.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Staff of the Lost.\nSubject: the exact magic item named above, type staff, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Staff, Very Rare (Requires Attunement)*\n\nThis staff can be wielded as a magic Quarterstaff that grants a +1 bonus to attack rolls and damage rolls made with it. The staff has 3 charges. While holding the staff, you can expend 1 charge to cast either Maze (save DC 18) or Teleport from it. When the staff has no more charges remaining, it loses its magic and becomes a nonmagical Quarterstaff. Curse. This staff is cursed. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the staff, keeping it on your person at all times. While attuned to this staff, you never know which way is north, and you have Disadvantage on Wisdom (Survival) checks made to navigate. Additionally, whenever you expend a charge from the staff, roll 1d20. On a 1, 1d4 Minotaurs of Baphomet materialize, each appearing in an unoccupied space within 30 feet of you. The minotaurs begin combat with you immediately.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Staff of the Lost.\nSubject: the exact magic item named above, type staff, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Staff, Very Rare (Requires Attunement)*\n\nThis staff can be wielded as a magic Quarterstaff that grants a +1 bonus to attack rolls and damage rolls made with it. The staff has 3 charges. While holding the staff, you can expend 1 charge to cast either Maze (save DC 18) or Teleport from it. When the staff has no more charges remaining, it loses its magic and becomes a nonmagical Quarterstaff. Curse. This staff is cursed. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the staff, keeping it on your person at all times. While attuned to this staff, you never know which way is north, and you have Disadvantage on Wisdom (Survival) checks made to navigate. Additionally, whenever you expend a charge from the staff, roll 1d20. On a 1, 1d4 Minotaurs of Baphomet materialize, each appearing in an unoccupied space within 30 feet of you. The minotaurs begin combat with you immediately.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-10e3eab4-6762-4e81-8047-0ffb2c5c10dc.png",
+      "files": [
+        {
+          "path": "equipStaffOfTheLost.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 15368,
+          "sha256": "68b6f289c7f577f74409c8137e0e27e3ae238a41ed8ba17cde161775785c7f1a"
+        },
+        {
+          "path": "large/equipStaffOfTheLost.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 52106,
+          "sha256": "40a6626cc1dc47522a5d0378ae57e0c43c5943b01119eaa09f605da6bb804870"
+        }
+      ]
     },
     {
       "id": "au:item:sweeping-broom",
@@ -16584,8 +16752,29 @@
       "slug": "sweeping-broom",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/sweeping-broom.json",
       "filename": "equipSweepingBroom.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Sweeping Broom.\nSubject: the exact magic item named above, type wondrous, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Common*\n\nAs a Magic action, you can use this unassuming broom's command word, choosing a point you can see on the ground within 60 feet of yourself. The broom animates and sweeps dust and detritus from the ground in a 20-foot square centered on the chosen point. It sweeps that area until you take another Magic action to deactivate it.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Sweeping Broom.\nSubject: the exact magic item named above, type wondrous, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Common*\n\nAs a Magic action, you can use this unassuming broom's command word, choosing a point you can see on the ground within 60 feet of yourself. The broom animates and sweeps dust and detritus from the ground in a 20-foot square centered on the chosen point. It sweeps that area until you take another Magic action to deactivate it.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-34412ba9-ea71-40fb-a722-19a9326b07c2.png",
+      "files": [
+        {
+          "path": "equipSweepingBroom.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 15844,
+          "sha256": "a45caea41a78d31e94199498815dc3cf138dcbd5d0d17dfabb6a5579cfb807ba"
+        },
+        {
+          "path": "large/equipSweepingBroom.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 56986,
+          "sha256": "a1989610be0acd017c80580a1212d03585eab6ea1506f00c32414d955c73b833"
+        }
+      ]
     },
     {
       "id": "au:item:tarnished-idol-of-good-fortunes",
@@ -16593,8 +16782,29 @@
       "slug": "tarnished-idol-of-good-fortunes",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/tarnished-idol-of-good-fortunes.json",
       "filename": "equipTarnishedIdolOfGoodFortunes.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Tarnished Idol of Good Fortunes.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement)*\n\nThis idol resembles an elephant sitting on its haunches, smiling regally behind its uplifted trunk.\n\nBlemished (uncommon). The idol is made of tarnished bronze, with minor dings and dents scattered over its surface. You can cast the Augury spell from the idol. The idol speaks the omen aloud in response. Once the idol has been used to cast this spell, it can't be used to cast this spell again until the next dawn.\n\nTarnished (rare). The idol is made of gold, with a patina of dust settled into its crevices. While attuned to the idol, you gain a +1 bonus to your Armor Class. Additionally, while holding the idol, you can take a Magic action to touch a nonmagical trade bar or gemstone. The item is then transformed into coinage equivalent to its value. For example, if you take a Magic action to touch a 5-pound silver bar while holding the idol, the bar is transformed into 25 GP worth of coins.\n\nGolden (veryRare). The idol is made of gleaming gold, and the elephant's eyes are set with shining rubies. While holding the idol, you can cast Globe of Invulnerability from it. Once the idol has been used to cast this spell, it can't be used to cast this spell again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Tarnished Idol of Good Fortunes.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement)*\n\nThis idol resembles an elephant sitting on its haunches, smiling regally behind its uplifted trunk.\n\nBlemished (uncommon). The idol is made of tarnished bronze, with minor dings and dents scattered over its surface. You can cast the Augury spell from the idol. The idol speaks the omen aloud in response. Once the idol has been used to cast this spell, it can't be used to cast this spell again until the next dawn.\n\nTarnished (rare). The idol is made of gold, with a patina of dust settled into its crevices. While attuned to the idol, you gain a +1 bonus to your Armor Class. Additionally, while holding the idol, you can take a Magic action to touch a nonmagical trade bar or gemstone. The item is then transformed into coinage equivalent to its value. For example, if you take a Magic action to touch a 5-pound silver bar while holding the idol, the bar is transformed into 25 GP worth of coins.\n\nGolden (veryRare). The idol is made of gleaming gold, and the elephant's eyes are set with shining rubies. While holding the idol, you can cast Globe of Invulnerability from it. Once the idol has been used to cast this spell, it can't be used to cast this spell again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b41cbbd6-5093-4020-b501-74d1c7e58278.png",
+      "files": [
+        {
+          "path": "equipTarnishedIdolOfGoodFortunes.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25808,
+          "sha256": "aa84c25427f84f25756e7a27d45e35a0417d3c650afd597474595528f9f9ea39"
+        },
+        {
+          "path": "large/equipTarnishedIdolOfGoodFortunes.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 105074,
+          "sha256": "ba47ef082004e81f16c4ef1594790ef1212258004d424a705874d11cad84b644"
+        }
+      ]
     },
     {
       "id": "au:item:ten-keyholes-dagger",
@@ -16602,8 +16812,29 @@
       "slug": "ten-keyholes-dagger",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/ten-keyholes-dagger.json",
       "filename": "equipTenKeyholesDagger.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Ten Keyholes Dagger.\nSubject: the exact magic item named above, type weapon, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Dagger), Rare (Requires Attunement)*\n\nThe hilt of this magic weapon is adorned with ornate, decorative keyholes outlined in golden filigree.\n\nThree (uncommon). Three ornamental keyholes adorn the weapon's hilt. You have a +1 bonus to attack rolls and damage rolls made with this magic weapon. When you take the Attack action, you can transform this weapon into a Handaxe or Mace. It remains transformed in this way until the start of your next turn, at which point it reverts back to its Dagger form. Regardless of the weapon's form, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls; you must use the same modifier for both rolls.\n\nTen (rare). Ten ornamental keyholes adorn the weapon's hilt. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +2. Additionally, when you transform the weapon, you can now transform it into any Simple Melee weapon.\n\nMany (veryRare). Overlapping ornamental keyholes adorn the weapon's hilt in a dizzying pattern. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +3. When you transform the weapon, you can now also transform it into a Battleaxe, Longsword, Rapier, Scimitar, or Warhammer. Additionally, when you miss with an attack roll using this weapon, you can reroll the attack, potentially turning the miss into a hit. You must use the second roll. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Ten Keyholes Dagger.\nSubject: the exact magic item named above, type weapon, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Dagger), Rare (Requires Attunement)*\n\nThe hilt of this magic weapon is adorned with ornate, decorative keyholes outlined in golden filigree.\n\nThree (uncommon). Three ornamental keyholes adorn the weapon's hilt. You have a +1 bonus to attack rolls and damage rolls made with this magic weapon. When you take the Attack action, you can transform this weapon into a Handaxe or Mace. It remains transformed in this way until the start of your next turn, at which point it reverts back to its Dagger form. Regardless of the weapon's form, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls; you must use the same modifier for both rolls.\n\nTen (rare). Ten ornamental keyholes adorn the weapon's hilt. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +2. Additionally, when you transform the weapon, you can now transform it into any Simple Melee weapon.\n\nMany (veryRare). Overlapping ornamental keyholes adorn the weapon's hilt in a dizzying pattern. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +3. When you transform the weapon, you can now also transform it into a Battleaxe, Longsword, Rapier, Scimitar, or Warhammer. Additionally, when you miss with an attack roll using this weapon, you can reroll the attack, potentially turning the miss into a hit. You must use the second roll. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6451cc8a-4b3e-451f-986f-b098c12e1438.png",
+      "files": [
+        {
+          "path": "equipTenKeyholesDagger.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 14774,
+          "sha256": "ffffe7b962dc8bb714e34891cb80a403dcb9b66bade9f50f61e0e5fc31ee64a2"
+        },
+        {
+          "path": "large/equipTenKeyholesDagger.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 50652,
+          "sha256": "2e9fef233e379384755c613ed291641f0bced997a38b6de58a36e784024e29a3"
+        }
+      ]
     },
     {
       "id": "fr-hof:item:thayan-spell-tattoo",
@@ -16611,8 +16842,29 @@
       "slug": "thayan-spell-tattoo",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/fr-hof/items/magic/thayan-spell-tattoo.json",
       "filename": "equipThayanSpellTattoo.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Thayan Spell Tattoo.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nThis magical tattoo contains the essence of a level 1-3 spell chosen by the tattoo's creator. While the tattoo is on your body, you always have the associated spell prepared, and you can cast the spell using any spell slots you have of the appropriate level. If you have the Spellcasting or Pact Magic feature, the spell uses your spellcasting ability; otherwise, if the spell requires a saving throw or an attack roll, the spell save DC is 13 and the attack bonus is +5. If your Attunement to the tattoo ends, the tattoo vanishes.\n\nYou can also cast the spell once without a spell slot and spell components. Once the spell is cast in this way, the tattoo vanishes.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Thayan Spell Tattoo.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nThis magical tattoo contains the essence of a level 1-3 spell chosen by the tattoo's creator. While the tattoo is on your body, you always have the associated spell prepared, and you can cast the spell using any spell slots you have of the appropriate level. If you have the Spellcasting or Pact Magic feature, the spell uses your spellcasting ability; otherwise, if the spell requires a saving throw or an attack roll, the spell save DC is 13 and the attack bonus is +5. If your Attunement to the tattoo ends, the tattoo vanishes.\n\nYou can also cast the spell once without a spell slot and spell components. Once the spell is cast in this way, the tattoo vanishes.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-547ba740-06f2-4e7f-905f-c3464f2e7ff7.png",
+      "files": [
+        {
+          "path": "equipThayanSpellTattoo.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 26622,
+          "sha256": "06b64d8a5fd38db48c3b8eafb799f3d8dd9b473fb0f1d524deabc4241d0cb44b"
+        },
+        {
+          "path": "large/equipThayanSpellTattoo.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 106138,
+          "sha256": "4206c47d358a1f4cb39a18d45f5f86762836cea03121284943828fac64eb5085"
+        }
+      ]
     },
     {
       "id": "au:item:thespians-playbill",
