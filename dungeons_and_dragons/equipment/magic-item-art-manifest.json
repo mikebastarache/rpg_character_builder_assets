@@ -15612,8 +15612,29 @@
       "slug": "magewrights-gloves",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/magewrights-gloves.json",
       "filename": "equipMagewrightsGloves.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Magewright's Gloves.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nWhile you wear these gloves, you work as efficiently as two characters when determining how much time it takes to craft nonmagical items using any of the following tools: Alchemist's Supplies, Brewer's Supplies, Calligrapher's Supplies, Cartographer's Tools, Glassblower's Tools, or Jeweler's Tools.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Magewright's Gloves.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nWhile you wear these gloves, you work as efficiently as two characters when determining how much time it takes to craft nonmagical items using any of the following tools: Alchemist's Supplies, Brewer's Supplies, Calligrapher's Supplies, Cartographer's Tools, Glassblower's Tools, or Jeweler's Tools.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-02bbb06c-ee68-4e31-9c78-0a85410de076.png",
+      "files": [
+        {
+          "path": "equipMagewrightsGloves.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 28712,
+          "sha256": "503fefb7af9fda770a4881cfb9a835bfb89dba608dbaa338e2bce950317ea36d"
+        },
+        {
+          "path": "large/equipMagewrightsGloves.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 106982,
+          "sha256": "a7fa9b668932e3f87dc3810245077b9e613c2323d717fa658d8b040748143998"
+        }
+      ]
     },
     {
       "id": "efa:item:manifold-tool",
@@ -15621,8 +15642,29 @@
       "slug": "manifold-tool",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/efa/items/magic/manifold-tool.json",
       "filename": "equipManifoldTool.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Manifold Tool.\nSubject: the exact magic item named above, type wondrous, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Common (Requires Attunement)*\n\nThis tool takes the form of a wrench, a screwdriver, or another basic tool. As a Magic action, you can touch the item and transform it into a type of Artisan\u2019s Tools of your choice. Whatever form the tool takes, you have proficiency with it when you use it.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Manifold Tool.\nSubject: the exact magic item named above, type wondrous, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Common (Requires Attunement)*\n\nThis tool takes the form of a wrench, a screwdriver, or another basic tool. As a Magic action, you can touch the item and transform it into a type of Artisan\u2019s Tools of your choice. Whatever form the tool takes, you have proficiency with it when you use it.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-74d3cb03-102c-480c-9378-2d69d8a947e5.png",
+      "files": [
+        {
+          "path": "equipManifoldTool.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 14936,
+          "sha256": "6dafbdd1e668f6af7a693f5fa17d2a0095c7747dfe8865583c7d38915c619854"
+        },
+        {
+          "path": "large/equipManifoldTool.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 53754,
+          "sha256": "ab51614f3b4cbb7fa2f9098aaa4b0ec02e1f4ed6173c62e9e98b1b5764fba1ef"
+        }
+      ]
     },
     {
       "id": "au:item:many-keyholes-dagger",
@@ -15630,8 +15672,29 @@
       "slug": "many-keyholes-dagger",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/many-keyholes-dagger.json",
       "filename": "equipManyKeyholesDagger.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Many Keyholes Dagger.\nSubject: the exact magic item named above, type weapon, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Dagger), Very Rare (Requires Attunement)*\n\nThe hilt of this magic weapon is adorned with ornate, decorative keyholes outlined in golden filigree.\n\nThree (uncommon). Three ornamental keyholes adorn the weapon's hilt. You have a +1 bonus to attack rolls and damage rolls made with this magic weapon. When you take the Attack action, you can transform this weapon into a Handaxe or Mace. It remains transformed in this way until the start of your next turn, at which point it reverts back to its Dagger form. Regardless of the weapon's form, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls; you must use the same modifier for both rolls.\n\nTen (rare). Ten ornamental keyholes adorn the weapon's hilt. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +2. Additionally, when you transform the weapon, you can now transform it into any Simple Melee weapon.\n\nMany (veryRare). Overlapping ornamental keyholes adorn the weapon's hilt in a dizzying pattern. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +3. When you transform the weapon, you can now also transform it into a Battleaxe, Longsword, Rapier, Scimitar, or Warhammer. Additionally, when you miss with an attack roll using this weapon, you can reroll the attack, potentially turning the miss into a hit. You must use the second roll. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Many Keyholes Dagger.\nSubject: the exact magic item named above, type weapon, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Dagger), Very Rare (Requires Attunement)*\n\nThe hilt of this magic weapon is adorned with ornate, decorative keyholes outlined in golden filigree.\n\nThree (uncommon). Three ornamental keyholes adorn the weapon's hilt. You have a +1 bonus to attack rolls and damage rolls made with this magic weapon. When you take the Attack action, you can transform this weapon into a Handaxe or Mace. It remains transformed in this way until the start of your next turn, at which point it reverts back to its Dagger form. Regardless of the weapon's form, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls; you must use the same modifier for both rolls.\n\nTen (rare). Ten ornamental keyholes adorn the weapon's hilt. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +2. Additionally, when you transform the weapon, you can now transform it into any Simple Melee weapon.\n\nMany (veryRare). Overlapping ornamental keyholes adorn the weapon's hilt in a dizzying pattern. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +3. When you transform the weapon, you can now also transform it into a Battleaxe, Longsword, Rapier, Scimitar, or Warhammer. Additionally, when you miss with an attack roll using this weapon, you can reroll the attack, potentially turning the miss into a hit. You must use the second roll. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-36875231-ee5c-47ea-b279-23fd19e47cf8.png",
+      "files": [
+        {
+          "path": "equipManyKeyholesDagger.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 15532,
+          "sha256": "d0e795289b9d23584a01cd2be416d8d907cd0e9c045428b78d58d020ed1b5ce3"
+        },
+        {
+          "path": "large/equipManyKeyholesDagger.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 53772,
+          "sha256": "4617f41e87c84374c99eb62f7b8c23a06e6adde0c180e3ae33fa1be3a242d4ba"
+        }
+      ]
     },
     {
       "id": "au:item:martialists-quarterstaff",
@@ -15639,8 +15702,29 @@
       "slug": "martialists-quarterstaff",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/martialists-quarterstaff.json",
       "filename": "equipMartialistsQuarterstaff.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Martialist's Quarterstaff.\nSubject: the exact magic item named above, type weapon, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Quarterstaff), Uncommon (Requires Attunement)*\n\nThis magic Quarterstaff has 4 charges and regains 1d4 expended charges daily at dawn. It has the following additional properties. Searing Smite. You can expend 2 charges to cast the Searing Smite spell (DC 13). Throw. When you take the Attack action, you can expend 1 charge to imbue the staff with magical velocity. Until the end of your next turn, the staff gains the Thrown property, with a normal range of 20 feet and a long range of 60 feet, and immediately after you make a ranged attack with the weapon, it flies back to your hand. Trip. When you make a melee attack with this weapon, you can expend 1 charge to give yourself Advantage on the attack roll. If the attack hits, the target makes a DC 13 Strength saving throw. On a failed save, the target has the Prone condition.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Martialist's Quarterstaff.\nSubject: the exact magic item named above, type weapon, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Quarterstaff), Uncommon (Requires Attunement)*\n\nThis magic Quarterstaff has 4 charges and regains 1d4 expended charges daily at dawn. It has the following additional properties. Searing Smite. You can expend 2 charges to cast the Searing Smite spell (DC 13). Throw. When you take the Attack action, you can expend 1 charge to imbue the staff with magical velocity. Until the end of your next turn, the staff gains the Thrown property, with a normal range of 20 feet and a long range of 60 feet, and immediately after you make a ranged attack with the weapon, it flies back to your hand. Trip. When you make a melee attack with this weapon, you can expend 1 charge to give yourself Advantage on the attack roll. If the attack hits, the target makes a DC 13 Strength saving throw. On a failed save, the target has the Prone condition.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b4eb34d1-2139-4cce-bf24-f787f5a8a58d.png",
+      "files": [
+        {
+          "path": "equipMartialistsQuarterstaff.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 10888,
+          "sha256": "fc178a553aa24988a91e6bb77d40caac80e9b280b2c8294c65c174486a232481"
+        },
+        {
+          "path": "large/equipMartialistsQuarterstaff.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 34800,
+          "sha256": "33fd66c388c10e2f97d6cb862fa1712ba3bff40ea1681072387bbced9cc086b6"
+        }
+      ]
     },
     {
       "id": "efa:item:mind-sharpener",
@@ -15648,8 +15732,29 @@
       "slug": "mind-sharpener",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/efa/items/magic/mind-sharpener.json",
       "filename": "equipMindSharpener.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Mind Sharpener.\nSubject: the exact magic item named above, type ring, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Ring, Uncommon (Requires Attunement)*\n\nThe item has 4 charges. When you fail a Constitution saving throw to maintain Concentration, you can take a Reaction and expend 1 of the item\u2019s charges to succeed instead. The item regains 1d4 expended charges daily at dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Mind Sharpener.\nSubject: the exact magic item named above, type ring, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Ring, Uncommon (Requires Attunement)*\n\nThe item has 4 charges. When you fail a Constitution saving throw to maintain Concentration, you can take a Reaction and expend 1 of the item\u2019s charges to succeed instead. The item regains 1d4 expended charges daily at dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0e550a79-078e-4a33-bc06-eab791ca2947.png",
+      "files": [
+        {
+          "path": "equipMindSharpener.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 27144,
+          "sha256": "55d746b519b7d1051c0ee169d20f36903534a32520422437ed62c6e7774ae76d"
+        },
+        {
+          "path": "large/equipMindSharpener.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 102702,
+          "sha256": "667f9781f8823b78040c48e125efb866f47392622bb74d43b1457ebe53d2c3ad"
+        }
+      ]
     },
     {
       "id": "fr-aif:item:mobility-wonder",
@@ -15657,8 +15762,29 @@
       "slug": "mobility-wonder",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/fr-aif/items/magic/mobility-wonder.json",
       "filename": "equipMobilityWonder.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Mobility Wonder.\nSubject: the exact magic item named above, type wondrous, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Common*\n\nA Mechanical Wonder is a semi-autonomous object imbued with magical power. Mechanical Wonders vary greatly in size and form depending on their function.\n\nA Mechanical Wonder is a dormant object until activated. To activate a Mechanical Wonder, you must wind the wonder with a handheld key unique to that wonder. It takes 1 minute to wind a Mechanical Wonder. While you wind it, you must take the Utilize action each turn.\n\nOnce wound, a Mechanical Wonder remains activated for the duration specified in the wonder\u2019s description below.\n\nDomestic Wonder (Uncommon). A bipedal mechanical helper that resembles its creator's chosen species. When active, it is allied to the owner and their allies, acts just after its owner on the same Initiative, obeys verbal commands, and Dodges if not commanded. Destroyed at 0 HP. Winding activates it for 10 days.\n\nFlying Wonder (Common). Tiny flying construct ally. Acts immediately after owner on the same Initiative, obeys verbal commands, and Dodges in the absence of instructions; destroyed at 0 HP. Carries up to 100 pounds. Can assist with instrument or tinkering checks and can Dash.\n\nGyrocopter Wonder (Rare). A brassy, wagon-sized flying vehicle with a top propeller and eight spectral gliding cords. It requires one pilot and remains active for 8 hours after winding. A rider can use a Utilize action to attach or detach from a cord; attached riders glide 5 feet horizontally per 1 foot descended. Cords return if the rider moves more than 500 feet from the vehicle.\n\nMobility Wonder (Common). A strapped metal turtle-shell device worn on the back or flank. When wound, becomes a personal mobility device and increases the wearer's Speed to 30 feet. It cannot be removed by another creature without wearer consent.\n\nFull construct statistics for Domestic Wonder and Flying Wonder are recorded in magic.variants[].creatureStatBlock.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Mobility Wonder.\nSubject: the exact magic item named above, type wondrous, rarity common. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Common*\n\nA Mechanical Wonder is a semi-autonomous object imbued with magical power. Mechanical Wonders vary greatly in size and form depending on their function.\n\nA Mechanical Wonder is a dormant object until activated. To activate a Mechanical Wonder, you must wind the wonder with a handheld key unique to that wonder. It takes 1 minute to wind a Mechanical Wonder. While you wind it, you must take the Utilize action each turn.\n\nOnce wound, a Mechanical Wonder remains activated for the duration specified in the wonder\u2019s description below.\n\nDomestic Wonder (Uncommon). A bipedal mechanical helper that resembles its creator's chosen species. When active, it is allied to the owner and their allies, acts just after its owner on the same Initiative, obeys verbal commands, and Dodges if not commanded. Destroyed at 0 HP. Winding activates it for 10 days.\n\nFlying Wonder (Common). Tiny flying construct ally. Acts immediately after owner on the same Initiative, obeys verbal commands, and Dodges in the absence of instructions; destroyed at 0 HP. Carries up to 100 pounds. Can assist with instrument or tinkering checks and can Dash.\n\nGyrocopter Wonder (Rare). A brassy, wagon-sized flying vehicle with a top propeller and eight spectral gliding cords. It requires one pilot and remains active for 8 hours after winding. A rider can use a Utilize action to attach or detach from a cord; attached riders glide 5 feet horizontally per 1 foot descended. Cords return if the rider moves more than 500 feet from the vehicle.\n\nMobility Wonder (Common). A strapped metal turtle-shell device worn on the back or flank. When wound, becomes a personal mobility device and increases the wearer's Speed to 30 feet. It cannot be removed by another creature without wearer consent.\n\nFull construct statistics for Domestic Wonder and Flying Wonder are recorded in magic.variants[].creatureStatBlock.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e065c93a-ccd3-4411-971e-9ce5e1657eac.png",
+      "files": [
+        {
+          "path": "equipMobilityWonder.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 36254,
+          "sha256": "d55c6ac51ef098b08a367bec24367dc07033c4e2b7602ad684417e4f66786387"
+        },
+        {
+          "path": "large/equipMobilityWonder.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 136826,
+          "sha256": "b1f77bb7714463c7d391d9d386ceb1c1dab35846ac00bf0306dbafed66ba63e8"
+        }
+      ]
     },
     {
       "id": "au:item:namers-needle",
@@ -15666,8 +15792,29 @@
       "slug": "namers-needle",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/namers-needle.json",
       "filename": "equipNamersNeedle.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Namer's Needle.\nSubject: the exact magic item named above, type weapon, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Dagger), Rare*\n\nYou gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. Identify Target. When you hit a creature with an attack roll using this weapon, you can compel the target to reveal its identity. The target makes a DC 15 Wisdom saving throw. On a failed save, the target says or signs its name clearly and emphatically. On a successful save, the target is immune to this effect for the next 24 hours. If the creature can't speak or sign a language, it automatically succeeds on the save. Named Target. When you hit a creature with an attack roll using this weapon, you can say or sign the target's name clearly and emphatically to turn the hit into a Critical Hit. Once this property is used, it can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Namer's Needle.\nSubject: the exact magic item named above, type weapon, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Dagger), Rare*\n\nYou gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. Identify Target. When you hit a creature with an attack roll using this weapon, you can compel the target to reveal its identity. The target makes a DC 15 Wisdom saving throw. On a failed save, the target says or signs its name clearly and emphatically. On a successful save, the target is immune to this effect for the next 24 hours. If the creature can't speak or sign a language, it automatically succeeds on the save. Named Target. When you hit a creature with an attack roll using this weapon, you can say or sign the target's name clearly and emphatically to turn the hit into a Critical Hit. Once this property is used, it can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-60e669a0-e32b-4e86-bf33-1632135a9902.png",
+      "files": [
+        {
+          "path": "equipNamersNeedle.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 16812,
+          "sha256": "eab867ce8a336553d8071c9ce09cb2e63d1096263db6efdce4e4d03214e0f0f8"
+        },
+        {
+          "path": "large/equipNamersNeedle.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 55838,
+          "sha256": "b2d8e919df57c1500f32fb657ed163ee8b693a8892254fc9b8f2c9ac58e5a249"
+        }
+      ]
     },
     {
       "id": "au:item:necklace-of-the-beastly-familiar-azurite",
@@ -15675,8 +15822,29 @@
       "slug": "necklace-of-the-beastly-familiar-azurite",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/necklace-of-the-beastly-familiar-azurite.json",
       "filename": "equipNecklaceOfTheBeastlyFamiliarAzurite.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Azurite).\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Azurite).\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-d53351bc-cc40-4a94-954f-d63626a994a9.png",
+      "files": [
+        {
+          "path": "equipNecklaceOfTheBeastlyFamiliarAzurite.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 33432,
+          "sha256": "ffcf264ae96e94c41bcb6be3aaed33d6272633d3e74faea8abcd1467937982c2"
+        },
+        {
+          "path": "large/equipNecklaceOfTheBeastlyFamiliarAzurite.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 119464,
+          "sha256": "520f1fd8ab16f1832e428b3a020c997588a18b108ab288894fa125993f31dfbe"
+        }
+      ]
     },
     {
       "id": "au:item:necklace-of-the-beastly-familiar-chrysoprase",
@@ -15684,8 +15852,29 @@
       "slug": "necklace-of-the-beastly-familiar-chrysoprase",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/necklace-of-the-beastly-familiar-chrysoprase.json",
       "filename": "equipNecklaceOfTheBeastlyFamiliarChrysoprase.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Chrysoprase).\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Chrysoprase).\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f0ce9a69-91e2-40ce-87c5-c3ff8a6ab798.png",
+      "files": [
+        {
+          "path": "equipNecklaceOfTheBeastlyFamiliarChrysoprase.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 31152,
+          "sha256": "46dc739f872171493bb510d63cae8890b0a46b465ff71f10204ad45c8d1333ce"
+        },
+        {
+          "path": "large/equipNecklaceOfTheBeastlyFamiliarChrysoprase.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 108902,
+          "sha256": "48de527e4124a22fce1389af3a941fbf70cdb0405f2398af4141630ec221f33c"
+        }
+      ]
     },
     {
       "id": "au:item:necklace-of-the-beastly-familiar-fire-opal",
@@ -15693,8 +15882,29 @@
       "slug": "necklace-of-the-beastly-familiar-fire-opal",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/necklace-of-the-beastly-familiar-fire-opal.json",
       "filename": "equipNecklaceOfTheBeastlyFamiliarFireOpal.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Fire opal).\nSubject: the exact magic item named above, type wondrous, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Legendary (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Fire opal).\nSubject: the exact magic item named above, type wondrous, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Legendary (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-77048ef4-66ed-4ff7-8f41-a7c4a3ad74c5.png",
+      "files": [
+        {
+          "path": "equipNecklaceOfTheBeastlyFamiliarFireOpal.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 35400,
+          "sha256": "e8c548e891d802d8077d3c79c6542653a31bf3ba28fc21b7a33740ba1f772242"
+        },
+        {
+          "path": "large/equipNecklaceOfTheBeastlyFamiliarFireOpal.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 125398,
+          "sha256": "d0adf4ee637a1f0825b04ff4170c55d61d1193e82206de4cf170723c82401a97"
+        }
+      ]
     },
     {
       "id": "au:item:necklace-of-the-beastly-familiar-topaz",
@@ -15702,8 +15912,29 @@
       "slug": "necklace-of-the-beastly-familiar-topaz",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/necklace-of-the-beastly-familiar-topaz.json",
       "filename": "equipNecklaceOfTheBeastlyFamiliarTopaz.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Topaz).\nSubject: the exact magic item named above, type wondrous, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Very Rare (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Topaz).\nSubject: the exact magic item named above, type wondrous, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Very Rare (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-f372e407-7666-49f9-9e38-06a5b37ae50d.png",
+      "files": [
+        {
+          "path": "equipNecklaceOfTheBeastlyFamiliarTopaz.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 32446,
+          "sha256": "cbab1af609b12324785bdc6d3a87024641177264a95dcae20d0a14dca65a1041"
+        },
+        {
+          "path": "large/equipNecklaceOfTheBeastlyFamiliarTopaz.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 111292,
+          "sha256": "f6d173509d5ee19eeaf07bcd9d70280cc48b8575367f932754894ee561de0a0a"
+        }
+      ]
     },
     {
       "id": "au:item:necklace-of-the-beastly-familiar-zircon",
@@ -15711,8 +15942,29 @@
       "slug": "necklace-of-the-beastly-familiar-zircon",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/necklace-of-the-beastly-familiar-zircon.json",
       "filename": "equipNecklaceOfTheBeastlyFamiliarZircon.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Zircon).\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Necklace of the Beastly Familiar (Zircon).\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement by a Spellcaster)*\n\nThis bejeweled necklace comes with a matching charm that can be worn by your familiar. A variety of these necklaces exist, each set with a different kind of gemstone. Familiar. While wearing this necklace, you can cast the Find Familiar spell from it. Once the necklace has been used to cast this spell, it can't be used to cast it again until the next dawn. Beast Transformation. While your familiar is within 60 feet of you, you can take a Magic action to activate the necklace. Your familiar shape-shifts into a Beast form for 10 minutes. The type of gemstone in the necklace determines the Beast form (see the table below). While your familiar is transformed, its stat block is replaced by the stat block of the Beast form, but it retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. Equipment the familiar is wearing or carrying doesn't change size or shape to match the Beast form, and any equipment that the Beast form can't wear or carry falls to the ground. Your familiar gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the transformation ends. The transformation ends early on your familiar if it has no Temporary Hit Points left.\n\nGemstone, rarity, and Beast form: Azurite (uncommon, Giant Octopus); Chrysoprase (rare, Giant Scorpion); Zircon (rare, Hippopotamus); Topaz (veryRare, Mammoth); Fire opal (legendary, Tyrannosaurus Rex).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b91acd88-395d-4d6e-ab95-072d16e7b2fd.png",
+      "files": [
+        {
+          "path": "equipNecklaceOfTheBeastlyFamiliarZircon.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 31220,
+          "sha256": "ee70c4f1ce4c275ba05e2b0c50b5f39ebf2c1ea4097b326dc2f04e4ab32f1c0c"
+        },
+        {
+          "path": "large/equipNecklaceOfTheBeastlyFamiliarZircon.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 107842,
+          "sha256": "a4aad6e2cf0d2eb98bd08c48f3f3853b2cfaba4310e6c06ac37ca6af7ab42f41"
+        }
+      ]
     },
     {
       "id": "au:item:ominous-staff-of-skulls",
@@ -15720,8 +15972,29 @@
       "slug": "ominous-staff-of-skulls",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/ominous-staff-of-skulls.json",
       "filename": "equipOminousStaffOfSkulls.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Ominous Staff of Skulls.\nSubject: the exact magic item named above, type staff, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Staff, Uncommon (Requires Attunement by a Spellcaster)*\n\nThis staff is made of polished, interlocking bones. Runes are carved along its length.\n\nOminous (uncommon). A skull adorns the top of the staff. While you hold the staff, you can cast Chill Touch from it, using your spell attack bonus. Additionally, you have Advantage on Charisma (Intimidation) checks made while holding the staff, and the staff's eye sockets glow a disquieting green, shedding Dim Light in a 5-foot radius.\n\nChattering (rare). Several skulls fused together adorn the top of the staff. When a creature you can see within 30 feet of you makes an attack roll, you can take a Reaction to impose Disadvantage on that roll, as the skulls' eyes glow green and their teeth chatter unnervingly.\n\nPulverizing (veryRare). The entire staff is made of fused skulls. While you hold the staff, you can take a Magic action to point the staff at a Humanoid you can see. That creature makes a DC 17 Constitution saving throw. On a failed save, the creature takes 10d8 Necrotic damage and has the Prone condition as it's crushed from the inside. On a successful save, the creature takes half as much damage only. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Ominous Staff of Skulls.\nSubject: the exact magic item named above, type staff, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Staff, Uncommon (Requires Attunement by a Spellcaster)*\n\nThis staff is made of polished, interlocking bones. Runes are carved along its length.\n\nOminous (uncommon). A skull adorns the top of the staff. While you hold the staff, you can cast Chill Touch from it, using your spell attack bonus. Additionally, you have Advantage on Charisma (Intimidation) checks made while holding the staff, and the staff's eye sockets glow a disquieting green, shedding Dim Light in a 5-foot radius.\n\nChattering (rare). Several skulls fused together adorn the top of the staff. When a creature you can see within 30 feet of you makes an attack roll, you can take a Reaction to impose Disadvantage on that roll, as the skulls' eyes glow green and their teeth chatter unnervingly.\n\nPulverizing (veryRare). The entire staff is made of fused skulls. While you hold the staff, you can take a Magic action to point the staff at a Humanoid you can see. That creature makes a DC 17 Constitution saving throw. On a failed save, the creature takes 10d8 Necrotic damage and has the Prone condition as it's crushed from the inside. On a successful save, the creature takes half as much damage only. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c245a291-99fc-44c1-80b6-16543eb23ab0.png",
+      "files": [
+        {
+          "path": "equipOminousStaffOfSkulls.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 14082,
+          "sha256": "688737df3db1d6eb3899a163813f457c58f01b35fc2be23e3d828227734bb5c4"
+        },
+        {
+          "path": "large/equipOminousStaffOfSkulls.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 45612,
+          "sha256": "80e3fb32cf9225d3b3684ac40a4850908328590c4fa964d648997a4e6dd38f6d"
+        }
+      ]
     },
     {
       "id": "fr-aif:item:orb-of-damara",
@@ -15729,8 +16002,29 @@
       "slug": "orb-of-damara",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/fr-aif/items/magic/orb-of-damara.json",
       "filename": "equipOrbOfDamara.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Orb of Damara.\nSubject: the exact magic item named above, type wondrous, rarity artifact. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Artifact (Requires Attunement)*\n\nA wizard named Damara created this orb while devising a way to become a dragon. Aided by a mysterious magician (actually an aspect of Tiamat in disguise), Damara eventually created an Artifact that would enable him to achieve his dream. Yet the potential power of his creation terrified Damara so much that he dared not use the orb. Instead, the wizard entombed himself with the Artifact to seal it away,\n\nThe Orb of Damara is about 6 inches in diameter and is made of a glassy, iridescent material that's like obsidian but incredibly hard. If held to one\u2019s own lips with the intention of consuming it, the orb shrinks to the size of a grape. Properties of the Orb. While attuned to the orb, you gain the following benefits:\n\nDragon\u2019s Breath. You can take a Magic action to exhale a 15-foot Cone. When you do, choose Acid, Cold, Fire, Lightning, or Poison. Each creature in the Cone makes a DC 18 Dexterity saving throw, taking 6d6 damage of the chosen type on a failed save or half as much damage on a successful one. Fear Aura. You exude a terrifying aura in a 20-foot\n\nEmanation while you don\u2019t have the Incapacitated condition. You can take a Magic action to disable or enable this aura. Any enemy that starts its turn in the aura must succeed on a DC 18 Wisdom saving throw or have the Frightened condition until the start of its next turn. A creature that succeeds on this save is immune to the aura's effects for 24 hours. Flight. You have a Fly Speed of 60 feet and can hover.\n\nRandom Properties. The Artifact has the following random properties (see chapter 7 of the Dungeon Master\u2019s Guide):\n\n+ 2 minor beneficial properties\n\n- 2 minor detrimental properties\n\nSpellcasting. The orb has 6 charges and regains 1d4 + 2 expended charges daily at dawn. While attuned to the orb, you can cast one of the spells on the following table from it (+10 spell attack modifier, spell save DC 18). The table indicates how many charges you must expend to cast the spell.\n\nSpell Charge Cost\n\nDisguise Self 0\n\nFire Shield 2\n\nHold Person 1\n\nSee Invisibility 1\n\nSummon Dragon (level 9 version) 4\n\nDragon Transformation. If you swallow the orb, you transform into an adult chromatic dragon under the DM's control. The type of chromatic dragon depends on your alignment and personality and is left to the DM to decide. The transformation is permanent, but if the dragon is slain, its body reverts to its original form and the orb reappears outside its body.\n\nDestroying the Orb. If an Ancient Gold Dragon willingly swallows the orb, the orb and the dragon are both destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Orb of Damara.\nSubject: the exact magic item named above, type wondrous, rarity artifact. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Artifact (Requires Attunement)*\n\nA wizard named Damara created this orb while devising a way to become a dragon. Aided by a mysterious magician (actually an aspect of Tiamat in disguise), Damara eventually created an Artifact that would enable him to achieve his dream. Yet the potential power of his creation terrified Damara so much that he dared not use the orb. Instead, the wizard entombed himself with the Artifact to seal it away,\n\nThe Orb of Damara is about 6 inches in diameter and is made of a glassy, iridescent material that's like obsidian but incredibly hard. If held to one\u2019s own lips with the intention of consuming it, the orb shrinks to the size of a grape. Properties of the Orb. While attuned to the orb, you gain the following benefits:\n\nDragon\u2019s Breath. You can take a Magic action to exhale a 15-foot Cone. When you do, choose Acid, Cold, Fire, Lightning, or Poison. Each creature in the Cone makes a DC 18 Dexterity saving throw, taking 6d6 damage of the chosen type on a failed save or half as much damage on a successful one. Fear Aura. You exude a terrifying aura in a 20-foot\n\nEmanation while you don\u2019t have the Incapacitated condition. You can take a Magic action to disable or enable this aura. Any enemy that starts its turn in the aura must succeed on a DC 18 Wisdom saving throw or have the Frightened condition until the start of its next turn. A creature that succeeds on this save is immune to the aura's effects for 24 hours. Flight. You have a Fly Speed of 60 feet and can hover.\n\nRandom Properties. The Artifact has the following random properties (see chapter 7 of the Dungeon Master\u2019s Guide):\n\n+ 2 minor beneficial properties\n\n- 2 minor detrimental properties\n\nSpellcasting. The orb has 6 charges and regains 1d4 + 2 expended charges daily at dawn. While attuned to the orb, you can cast one of the spells on the following table from it (+10 spell attack modifier, spell save DC 18). The table indicates how many charges you must expend to cast the spell.\n\nSpell Charge Cost\n\nDisguise Self 0\n\nFire Shield 2\n\nHold Person 1\n\nSee Invisibility 1\n\nSummon Dragon (level 9 version) 4\n\nDragon Transformation. If you swallow the orb, you transform into an adult chromatic dragon under the DM's control. The type of chromatic dragon depends on your alignment and personality and is left to the DM to decide. The transformation is permanent, but if the dragon is slain, its body reverts to its original form and the orb reappears outside its body.\n\nDestroying the Orb. If an Ancient Gold Dragon willingly swallows the orb, the orb and the dragon are both destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-49237dd9-56b0-42dc-94f4-529c1bfb8c1d.png",
+      "files": [
+        {
+          "path": "equipOrbOfDamara.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 30612,
+          "sha256": "8322fe7d05f4659fdde0c41696cb4d75d3cef84a419cfafa1d3aba8c66d3a1da"
+        },
+        {
+          "path": "large/equipOrbOfDamara.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 119948,
+          "sha256": "60710dd2de2b181f7f3f921b29110afb6c9f52d0fdd54939cf3fc5dd77fb053c"
+        }
+      ]
     },
     {
       "id": "au:item:orb-of-divination-detection",
@@ -15738,8 +16032,29 @@
       "slug": "orb-of-divination-detection",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/orb-of-divination-detection.json",
       "filename": "equipOrbOfDivinationDetection.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Orb of Divination Detection.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nThis glass orb is a useful defense against meddlesome mages and magic-wielding spies. Detect Divination. When you are targeted by a spell from the Divination school, the orb glows bright green for the spell's duration. Spellcasting Focus. This orb can be used as an Arcane Focus.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Orb of Divination Detection.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nThis glass orb is a useful defense against meddlesome mages and magic-wielding spies. Detect Divination. When you are targeted by a spell from the Divination school, the orb glows bright green for the spell's duration. Spellcasting Focus. This orb can be used as an Arcane Focus.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-32807b3c-945f-4b09-9740-45d1f8503587.png",
+      "files": [
+        {
+          "path": "equipOrbOfDivinationDetection.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 23414,
+          "sha256": "cf1ebe29fc7f7314b9fce0a254b797b0a29fc0dd7d0281d48cdab13fbd585604"
+        },
+        {
+          "path": "large/equipOrbOfDivinationDetection.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 89746,
+          "sha256": "cfc198e291bdd5edc841c2c5f4711b62747dfdfbf0f38c200ce8616bbf14587b"
+        }
+      ]
     },
     {
       "id": "au:item:orb-of-sorcery",
@@ -15747,8 +16062,29 @@
       "slug": "orb-of-sorcery",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/orb-of-sorcery.json",
       "filename": "equipOrbOfSorcery.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Orb of Sorcery.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement by a Sorcerer)*\n\nRibbons of varicolored light swirl inside this magical glass orb. Sorcerous Reservoir. While holding this orb, you can take a Magic action to regain up to 2 expended Sorcery Points. Once this property is used, it can't be used again until the next dawn. Spellcasting Focus. You can use the orb as a Spellcasting Focus for your Sorcerer spells.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Orb of Sorcery.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement by a Sorcerer)*\n\nRibbons of varicolored light swirl inside this magical glass orb. Sorcerous Reservoir. While holding this orb, you can take a Magic action to regain up to 2 expended Sorcery Points. Once this property is used, it can't be used again until the next dawn. Spellcasting Focus. You can use the orb as a Spellcasting Focus for your Sorcerer spells.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7ed7010c-13b7-4584-aa79-eab02c185236.png",
+      "files": [
+        {
+          "path": "equipOrbOfSorcery.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22488,
+          "sha256": "3cd554cf3d3d637315ae095b115a6d9c263fb6c20b0d1d525ff3f80db369c702"
+        },
+        {
+          "path": "large/equipOrbOfSorcery.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 82016,
+          "sha256": "2f2ee32064b9b69ad3190d66dc756dc6f150bb90009cc846005b41dccac83bef"
+        }
+      ]
     },
     {
       "id": "au:item:potion-of-dragons-breath-black",
@@ -15756,8 +16092,29 @@
       "slug": "potion-of-dragons-breath-black",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/potion-of-dragons-breath-black.json",
       "filename": "equipPotionOfDragonsBreathBlack.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (Black).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (Black).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7072fb0c-1da2-4069-bd06-730c0055cae0.png",
+      "files": [
+        {
+          "path": "equipPotionOfDragonsBreathBlack.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21432,
+          "sha256": "f72de1893608ef8b8bedbfa7f0f5067a2aa1204327b4418dcc1e76854a3de6ca"
+        },
+        {
+          "path": "large/equipPotionOfDragonsBreathBlack.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 82808,
+          "sha256": "f5802b717cfb07c0e96eecd9b9be51dc2ceac0965d890e9a04f5d6dc85f012ac"
+        }
+      ]
     },
     {
       "id": "au:item:potion-of-dragons-breath-blue",
@@ -15765,8 +16122,29 @@
       "slug": "potion-of-dragons-breath-blue",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/potion-of-dragons-breath-blue.json",
       "filename": "equipPotionOfDragonsBreathBlue.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (Blue).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (Blue).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-46580a38-bcc6-44e3-8bb1-177fa46bbc95.png",
+      "files": [
+        {
+          "path": "equipPotionOfDragonsBreathBlue.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25914,
+          "sha256": "c9512b6b1b249acfeed63fba39307e3c3b6d624d4a7044c355a2a5a3c9fccb68"
+        },
+        {
+          "path": "large/equipPotionOfDragonsBreathBlue.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 100852,
+          "sha256": "3c143946df472b4a5ac1ecd80c2e5873c39e8fd26379813d9552cea10260005b"
+        }
+      ]
     },
     {
       "id": "au:item:potion-of-dragons-breath-green",
@@ -15774,8 +16152,29 @@
       "slug": "potion-of-dragons-breath-green",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/potion-of-dragons-breath-green.json",
       "filename": "equipPotionOfDragonsBreathGreen.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (Green).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (Green).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1b360625-04ba-457e-a96a-44c4deefdd85.png",
+      "files": [
+        {
+          "path": "equipPotionOfDragonsBreathGreen.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22832,
+          "sha256": "e4735b92d2a88d06f74f46bf695c5edac1a08f5adb26aaa7828288c2d9fcd8df"
+        },
+        {
+          "path": "large/equipPotionOfDragonsBreathGreen.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 89540,
+          "sha256": "3f87efc609862d0930cda65176df05c7f35421063f8efb275e63b2d0a10015e3"
+        }
+      ]
     },
     {
       "id": "au:item:potion-of-dragons-breath-red",
@@ -15783,8 +16182,29 @@
       "slug": "potion-of-dragons-breath-red",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/potion-of-dragons-breath-red.json",
       "filename": "equipPotionOfDragonsBreathRed.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (Red).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (Red).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0b5b3cac-c10c-4c44-ab80-0c16df569255.png",
+      "files": [
+        {
+          "path": "equipPotionOfDragonsBreathRed.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21872,
+          "sha256": "cb01f0c0d48e94c28e1b1c173f44ccce902aca0b26540580408d5c62d74cfe97"
+        },
+        {
+          "path": "large/equipPotionOfDragonsBreathRed.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 85542,
+          "sha256": "539632ad87678b2265d4d042dc9bd84c06027e77d2a5852f1bf9aad34e8847ad"
+        }
+      ]
     },
     {
       "id": "au:item:potion-of-dragons-breath-white",
@@ -15792,8 +16212,29 @@
       "slug": "potion-of-dragons-breath-white",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/potion-of-dragons-breath-white.json",
       "filename": "equipPotionOfDragonsBreathWhite.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (White).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Dragon's Breath (White).\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nWhen you drink this potion, you gain the effect of the Dragon's Breath spell for 1 minute (save DC 13, no Concentration required). The damage type associated with that spell is determined by the color of the potion when the potion was created, as shown in the table below. Light catches off the glittery liquid inside this potion, which is made from the pulverized scale of a chromatic dragon. Color ** Damage Type\n\nPotion color and damage type: Black (acid); Blue (lightning); Green (poison); Red (fire); White (cold).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c7728bbc-e883-45c7-afa6-aca415361e14.png",
+      "files": [
+        {
+          "path": "equipPotionOfDragonsBreathWhite.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 20314,
+          "sha256": "882fb5d0aad62e07149a2b779bb21c6a05c2e668573877fe1415774e1fe774e2"
+        },
+        {
+          "path": "large/equipPotionOfDragonsBreathWhite.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 80046,
+          "sha256": "f5458310f4e41151b2a2ad412938de7cabb64a4bb7138035becde5ab25c7c8f6"
+        }
+      ]
     },
     {
       "id": "au:item:potion-of-tirelessness",
@@ -15801,8 +16242,29 @@
       "slug": "potion-of-tirelessness",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/potion-of-tirelessness.json",
       "filename": "equipPotionOfTirelessness.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Tirelessness.\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nAfter you drink this potion, you don't need to sleep, and magic can't put you to sleep. This effect lasts 24 hours. For the duration, you can finish a Long Rest in 4 hours if you spend those hours in a state of quiet focus, during which you retain consciousness This pale red potion is as thick as molasses, yet it slides out of the bottle as readily as oil.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Potion of Tirelessness.\nSubject: the exact magic item named above, type potion, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Potion, Uncommon*\n\nAfter you drink this potion, you don't need to sleep, and magic can't put you to sleep. This effect lasts 24 hours. For the duration, you can finish a Long Rest in 4 hours if you spend those hours in a state of quiet focus, during which you retain consciousness This pale red potion is as thick as molasses, yet it slides out of the bottle as readily as oil.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-dbd8c4d7-50b1-42db-bd4a-f979689272f3.png",
+      "files": [
+        {
+          "path": "equipPotionOfTirelessness.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22842,
+          "sha256": "4f5500f16bf3ad8b04e327fede8587baaeb9e2cd1d2059c7ad53822c7c72375c"
+        },
+        {
+          "path": "large/equipPotionOfTirelessness.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 86780,
+          "sha256": "f48c770789385a16d6cad0d4c9aaadeea8ba72a6057cc85d8776a457d75c289b"
+        }
+      ]
     },
     {
       "id": "au:item:prismatic-rune",
@@ -15810,8 +16272,29 @@
       "slug": "prismatic-rune",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/prismatic-rune.json",
       "filename": "equipPrismaticRune.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Prismatic Rune.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement by a Spellcaster)*\n\nA magical rune is etched on this small stone made of multicolored quartz. When you finish a Long Rest, choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. The rune is imbued with the chosen damage type until you finish another Long Rest. Charges. The rune has 6 charges and regains 1d6 expended charges daily at dawn. When you cast a spell that deals damage, you can expend 1 charge to change the spell's damage type to the damage type chosen for the rune.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Prismatic Rune.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement by a Spellcaster)*\n\nA magical rune is etched on this small stone made of multicolored quartz. When you finish a Long Rest, choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. The rune is imbued with the chosen damage type until you finish another Long Rest. Charges. The rune has 6 charges and regains 1d6 expended charges daily at dawn. When you cast a spell that deals damage, you can expend 1 charge to change the spell's damage type to the damage type chosen for the rune.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-dd21f181-768c-4e8b-bfa9-32e4623b7f28.png",
+      "files": [
+        {
+          "path": "equipPrismaticRune.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 26074,
+          "sha256": "0af92eedb40eca65406d8ed51fa5bda9502b070d0f55d3e088cc949ab51bd738"
+        },
+        {
+          "path": "large/equipPrismaticRune.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 110066,
+          "sha256": "36d4ea75d0ea96ffdd038536778b091e7eb345ad5a40327d07ebddef03789347"
+        }
+      ]
     },
     {
       "id": "au:item:pulverizing-staff-of-skulls",
@@ -15819,8 +16302,29 @@
       "slug": "pulverizing-staff-of-skulls",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/pulverizing-staff-of-skulls.json",
       "filename": "equipPulverizingStaffOfSkulls.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Pulverizing Staff of Skulls.\nSubject: the exact magic item named above, type staff, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Staff, Very Rare (Requires Attunement by a Spellcaster)*\n\nThis staff is made of polished, interlocking bones. Runes are carved along its length.\n\nOminous (uncommon). A skull adorns the top of the staff. While you hold the staff, you can cast Chill Touch from it, using your spell attack bonus. Additionally, you have Advantage on Charisma (Intimidation) checks made while holding the staff, and the staff's eye sockets glow a disquieting green, shedding Dim Light in a 5-foot radius.\n\nChattering (rare). Several skulls fused together adorn the top of the staff. When a creature you can see within 30 feet of you makes an attack roll, you can take a Reaction to impose Disadvantage on that roll, as the skulls' eyes glow green and their teeth chatter unnervingly.\n\nPulverizing (veryRare). The entire staff is made of fused skulls. While you hold the staff, you can take a Magic action to point the staff at a Humanoid you can see. That creature makes a DC 17 Constitution saving throw. On a failed save, the creature takes 10d8 Necrotic damage and has the Prone condition as it's crushed from the inside. On a successful save, the creature takes half as much damage only. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Pulverizing Staff of Skulls.\nSubject: the exact magic item named above, type staff, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Staff, Very Rare (Requires Attunement by a Spellcaster)*\n\nThis staff is made of polished, interlocking bones. Runes are carved along its length.\n\nOminous (uncommon). A skull adorns the top of the staff. While you hold the staff, you can cast Chill Touch from it, using your spell attack bonus. Additionally, you have Advantage on Charisma (Intimidation) checks made while holding the staff, and the staff's eye sockets glow a disquieting green, shedding Dim Light in a 5-foot radius.\n\nChattering (rare). Several skulls fused together adorn the top of the staff. When a creature you can see within 30 feet of you makes an attack roll, you can take a Reaction to impose Disadvantage on that roll, as the skulls' eyes glow green and their teeth chatter unnervingly.\n\nPulverizing (veryRare). The entire staff is made of fused skulls. While you hold the staff, you can take a Magic action to point the staff at a Humanoid you can see. That creature makes a DC 17 Constitution saving throw. On a failed save, the creature takes 10d8 Necrotic damage and has the Prone condition as it's crushed from the inside. On a successful save, the creature takes half as much damage only. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c2ecb5f5-2a59-4d32-8895-4890c432789b.png",
+      "files": [
+        {
+          "path": "equipPulverizingStaffOfSkulls.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 13050,
+          "sha256": "1947ba5b92a737fc7bf73e4faffbca671a53e7179d9aa0934824a2d4227f2b14"
+        },
+        {
+          "path": "large/equipPulverizingStaffOfSkulls.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 44568,
+          "sha256": "3b1fbf9e3d76dba1bc83399a44e731fb3df4ea4abbdfcc11690ef6d41de34a2a"
+        }
+      ]
     },
     {
       "id": "au:item:queen-ehlissas-marvelous-nightingale",
@@ -15828,8 +16332,29 @@
       "slug": "queen-ehlissas-marvelous-nightingale",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/queen-ehlissas-marvelous-nightingale.json",
       "filename": "equipQueenEhlissasMarvelousNightingale.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Queen Ehlissa's Marvelous Nightingale.\nSubject: the exact magic item named above, type wondrous, rarity artifact. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Artifact (Requires Attunement)*\n\nQueen Ehlissa's Marvelous Nightingale is named for its first owner, a queen from the eastern Flanaess in the world of Greyhawk. Its origin is unknown, but one legend holds that it was made to console the queen when a beloved pet songbird met its unfortunate end. This mechanical songbird has crystal eyes, golden feathers, and a small windup key on its back. As a Magic action, you can cause the bird to spring to life for 10 minutes, during which time it sings a beautiful melody audible within 300 feet, or you can revert the bird to its mechanical form. When the nightingale becomes mechanical again, it can't come to life again for 1 hour. Ensemble Casting. The nightingale has 6 charges and regains 1d6 + 1 expended charges daily at dawn. As a Bonus Action while the nightingale is singing and within 60 feet of you, you can expend charges to cast one of the spells on the table below from the nightingale (save DC 18). The table shows the number of charges you must expend to cast the spell. Spell Charge Cost Aura of Truth. While the nightingale sings, the effect of a Zone of Truth spell (save DC 18) fills a 15-foot Emanation originating from the nightingale. While attuned to the nightingale, you know which creatures succeed on or fail the saving throw against this effect. Counterspell. While the nightingale sings, you can take a Reaction to cast Counterspell (save DC 18) in response to that spell's trigger. Once this property is used, it can't be used again until the next dawn. Random Properties. The Artifact has the following random properties (see the \"Artifacts\" section in the Dungeon Master's Guide): \u2022 2 minor beneficial properties \u2022 1 major beneficial property \u2022 1 minor detrimental property Destroying the Nightingale. The nightingale is destroyed if it is released into a whirlwind in Limbo.\n\nSpells and charge costs: Calm Emotions (1); Compulsion (3); Delayed Blast Fireball (6); Detect Evil and Good (0); Greater Restoration (4); Prismatic Spray (6); Slow (2); Speak with Animals (0).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Queen Ehlissa's Marvelous Nightingale.\nSubject: the exact magic item named above, type wondrous, rarity artifact. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Artifact (Requires Attunement)*\n\nQueen Ehlissa's Marvelous Nightingale is named for its first owner, a queen from the eastern Flanaess in the world of Greyhawk. Its origin is unknown, but one legend holds that it was made to console the queen when a beloved pet songbird met its unfortunate end. This mechanical songbird has crystal eyes, golden feathers, and a small windup key on its back. As a Magic action, you can cause the bird to spring to life for 10 minutes, during which time it sings a beautiful melody audible within 300 feet, or you can revert the bird to its mechanical form. When the nightingale becomes mechanical again, it can't come to life again for 1 hour. Ensemble Casting. The nightingale has 6 charges and regains 1d6 + 1 expended charges daily at dawn. As a Bonus Action while the nightingale is singing and within 60 feet of you, you can expend charges to cast one of the spells on the table below from the nightingale (save DC 18). The table shows the number of charges you must expend to cast the spell. Spell Charge Cost Aura of Truth. While the nightingale sings, the effect of a Zone of Truth spell (save DC 18) fills a 15-foot Emanation originating from the nightingale. While attuned to the nightingale, you know which creatures succeed on or fail the saving throw against this effect. Counterspell. While the nightingale sings, you can take a Reaction to cast Counterspell (save DC 18) in response to that spell's trigger. Once this property is used, it can't be used again until the next dawn. Random Properties. The Artifact has the following random properties (see the \"Artifacts\" section in the Dungeon Master's Guide): \u2022 2 minor beneficial properties \u2022 1 major beneficial property \u2022 1 minor detrimental property Destroying the Nightingale. The nightingale is destroyed if it is released into a whirlwind in Limbo.\n\nSpells and charge costs: Calm Emotions (1); Compulsion (3); Delayed Blast Fireball (6); Detect Evil and Good (0); Greater Restoration (4); Prismatic Spray (6); Slow (2); Speak with Animals (0).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5f6a5005-1a68-488a-8763-b95a0f130c02.png",
+      "files": [
+        {
+          "path": "equipQueenEhlissasMarvelousNightingale.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 28478,
+          "sha256": "6e7a38f4ec2b55802d6ce2407fb07a3a5f0c630568068be02ad44e257fa58c93"
+        },
+        {
+          "path": "large/equipQueenEhlissasMarvelousNightingale.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 105946,
+          "sha256": "1cea7eef49a0d64b46c97377d767a41b3d20bfc2b2c8c3f0e9f564f43f2a58ba"
+        }
+      ]
     },
     {
       "id": "efa:item:repeating-shot",
@@ -15837,8 +16362,29 @@
       "slug": "repeating-shot",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/efa/items/magic/repeating-shot.json",
       "filename": "equipRepeatingShot.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Repeating Shot.\nSubject: the exact magic item named above, type weapon, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Any Simple or Martial with the Ammunition Property), Uncommon (Requires Attunement)*\n\nThis magic weapon grants a +1 bonus to attack and damage rolls made with it when it\u2019s used to make a ranged attack, and it ignores the Loading property if it has that property. If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack roll with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Repeating Shot.\nSubject: the exact magic item named above, type weapon, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Any Simple or Martial with the Ammunition Property), Uncommon (Requires Attunement)*\n\nThis magic weapon grants a +1 bonus to attack and damage rolls made with it when it\u2019s used to make a ranged attack, and it ignores the Loading property if it has that property. If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack roll with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-8bc04143-a52a-4f98-9d0c-2b8a245ccbf4.png",
+      "files": [
+        {
+          "path": "equipRepeatingShot.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 24358,
+          "sha256": "51dbdb4cfc3a80095b79fb08cc0799e0d1116331e8c885a91e539e0e31771f52"
+        },
+        {
+          "path": "large/equipRepeatingShot.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 85870,
+          "sha256": "9f2d08f340f85d8c5e040c19e7aa9c89abb6a1c0c970a1737f01c399c2b6f41f"
+        }
+      ]
     },
     {
       "id": "efa:item:repulsion-shield",
@@ -15846,8 +16392,29 @@
       "slug": "repulsion-shield",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/efa/items/magic/repulsion-shield.json",
       "filename": "equipRepulsionShield.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Repulsion Shield.\nSubject: the exact magic item named above, type shield, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Uncommon*\n\nYou gain a +1 bonus to Armor Class while wielding this shield. The shield has 4 charges. While holding it, when a Large or smaller creature within 5 feet of you hits you with a melee attack roll, you can take a Reaction to expend 1 of the shield\u2019s charges and push the attacker up to 15 feet straight away. The shield regains 1d4 expended charges daily at dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Repulsion Shield.\nSubject: the exact magic item named above, type shield, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Shield), Uncommon*\n\nYou gain a +1 bonus to Armor Class while wielding this shield. The shield has 4 charges. While holding it, when a Large or smaller creature within 5 feet of you hits you with a melee attack roll, you can take a Reaction to expend 1 of the shield\u2019s charges and push the attacker up to 15 feet straight away. The shield regains 1d4 expended charges daily at dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-52f95a96-3950-45aa-b913-ca4b34c7af1f.png",
+      "files": [
+        {
+          "path": "equipRepulsionShield.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22690,
+          "sha256": "c8d706798d104f56f4c5bb53f68d80bad954ab22b1937d2a7b5fcc478a1921c1"
+        },
+        {
+          "path": "large/equipRepulsionShield.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 93046,
+          "sha256": "d96ea3dc37c46ec8b45da573583ad3160b232ae0a22d795bdd8b13a49b968c09"
+        }
+      ]
     },
     {
       "id": "efa:item:returning-weapon",
@@ -15855,8 +16422,29 @@
       "slug": "returning-weapon",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/efa/items/magic/returning-weapon.json",
       "filename": "equipReturningWeapon.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Returning Weapon.\nSubject: the exact magic item named above, type weapon, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Any Simple or Martial with the Thrown Property), Uncommon*\n\nThis magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Returning Weapon.\nSubject: the exact magic item named above, type weapon, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Any Simple or Martial with the Thrown Property), Uncommon*\n\nThis magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-cd29c585-094e-4a8c-a359-abc0e942f344.png",
+      "files": [
+        {
+          "path": "equipReturningWeapon.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 19268,
+          "sha256": "0d2839d6993142a28d209a2e99326f72911d6cb9dc260b89bd221a7aef4c9de6"
+        },
+        {
+          "path": "large/equipReturningWeapon.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 67376,
+          "sha256": "5c93c854333b3341b013db63616f276b8dbf77821545d2bd27b2fd4c5d97bf2d"
+        }
+      ]
     },
     {
       "id": "au:item:ring-of-dedicated-focus",
@@ -15864,8 +16452,29 @@
       "slug": "ring-of-dedicated-focus",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/ring-of-dedicated-focus.json",
       "filename": "equipRingOfDedicatedFocus.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Ring of Dedicated Focus.\nSubject: the exact magic item named above, type ring, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Ring, Uncommon (Requires Attunement)*\n\nThe magical spike on the side of this ring allows you to sharpen your focus at a moment's notice. When you fail a Constitution saving throw to maintain Concentration, you can roll up to two of your unexpended Hit Dice and add the total rolled to your save, potentially turning the failure into a success. The rolled Hit Dice are then expended.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Ring of Dedicated Focus.\nSubject: the exact magic item named above, type ring, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Ring, Uncommon (Requires Attunement)*\n\nThe magical spike on the side of this ring allows you to sharpen your focus at a moment's notice. When you fail a Constitution saving throw to maintain Concentration, you can roll up to two of your unexpended Hit Dice and add the total rolled to your save, potentially turning the failure into a success. The rolled Hit Dice are then expended.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-4c75b843-9fd7-4a5b-a342-f19e98a45590.png",
+      "files": [
+        {
+          "path": "equipRingOfDedicatedFocus.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 27720,
+          "sha256": "7841b1bdb4e134213150a3c4d3ce4b294d356d86e9db8de0a483fbcda6d07f07"
+        },
+        {
+          "path": "large/equipRingOfDedicatedFocus.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 109730,
+          "sha256": "04979bcdc3102392e9a3ee91267766481e8c13798481f50f1c2fce181241c3b8"
+        }
+      ]
     },
     {
       "id": "au:item:scholars-anchoring-bangle",
@@ -15873,8 +16482,29 @@
       "slug": "scholars-anchoring-bangle",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/scholars-anchoring-bangle.json",
       "filename": "equipScholarsAnchoringBangle.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Scholar's Anchoring Bangle.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement)*\n\nThis heavy magical bracelet inures your mind against potential distractions. While wearing this bracelet, you gain the following benefits. Deep Knowledge. When you take the Study action and make an Intelligence check using a skill in which you have proficiency, you can treat a d20 roll of 9 or lower as a 10. Single-Minded Focus. When you fail a Constitution saving throw to maintain Concentration, you can take a Reaction to succeed instead. Once you use this property, it can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Scholar's Anchoring Bangle.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare (Requires Attunement)*\n\nThis heavy magical bracelet inures your mind against potential distractions. While wearing this bracelet, you gain the following benefits. Deep Knowledge. When you take the Study action and make an Intelligence check using a skill in which you have proficiency, you can treat a d20 roll of 9 or lower as a 10. Single-Minded Focus. When you fail a Constitution saving throw to maintain Concentration, you can take a Reaction to succeed instead. Once you use this property, it can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e8df7437-e8c6-43fb-83eb-e5db599e86ee.png",
+      "files": [
+        {
+          "path": "equipScholarsAnchoringBangle.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 24826,
+          "sha256": "4e1d1eeabc478e02e7359e618d603a22bd2e342be09745b1bdffc5f0fbf1914a"
+        },
+        {
+          "path": "large/equipScholarsAnchoringBangle.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 96950,
+          "sha256": "98a5c69927cbdc576a5ec963a35aafd887551d06ada26ba2ca8af1bc25a7fec1"
+        }
+      ]
     },
     {
       "id": "au:item:secret-keepers-circlet",
