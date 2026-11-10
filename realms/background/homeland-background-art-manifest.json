@@ -1,0 +1,151 @@
+{
+  "generator": "built-in image_gen",
+  "style": "Realms monochrome ink and graphite engraving",
+  "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/realms/background/",
+  "items": [
+    {
+      "race": "human",
+      "location": "Rivermark Citadel",
+      "region": "Verdant Basin",
+      "filename": "humanBG.jpg",
+      "prompt": "Use case: stylized-concept. Asset: original Realms fantasy homeland background. Create a single ultrawide 16:9 landscape, requested final size 2560 by 1440. Subject: Rivermark Citadel, homeland of the human, in Verdant Basin. Scene: A vast lived-in human stone citadel with battlements and clustered medieval rooftops rising where two broad rivers meet. Arched stone bridges connect the city to rolling fertile farmland and terraced fields; the distant basin is ringed by soft wooded hills. River reflections, reeds and a winding path anchor the foreground. Style: match the existing Realms artwork: intricate traditional black ink and graphite fantasy book illustration, finely engraved crosshatching and stippling, rich charcoal shadows and delicate silver-gray highlights on clean white paper. Strictly black, white and neutral grayscale, absolutely no color or sepia. Match the attached landscape references in their sweeping environmental composition, atmospheric depth and believable detailed scenery, translated into the Realms monochrome engraved style. Wide establishing vista with foreground, middle ground and distant horizon; detailed natural framing near the outer edges, important buildings fully visible, open visual breathing room toward the middle for interface overlays. Full bleed rectangular landscape, no decorative border, panels, text, labels, letters, watermark or logo. Environment only, no prominent people or portraits. Give this homeland its own recognizable architecture and terrain. Render a polished cohesive landscape with fine detail and clear tonal depth.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-399aef5a-6f38-4499-8722-6c7399d4ccb0.png",
+      "source_size": [
+        1672,
+        941
+      ],
+      "size": [
+        2560,
+        1440
+      ],
+      "bytes": 1123975,
+      "sha256": "a7f827794fa8ffb0a91b2c5ef5c6df498683363f3262c4e8791262a7e9e73a68"
+    },
+    {
+      "race": "dwarf",
+      "location": "Ironhold Deep",
+      "region": "Ironspine Mountains",
+      "filename": "dwarfBG.jpg",
+      "prompt": "Use case: stylized-concept. Asset: original Realms fantasy homeland background. Create a single ultrawide 16:9 landscape, requested final size 2560 by 1440. Subject: Ironhold Deep, homeland of the dwarf, in Ironspine Mountains. Scene: An immense dwarven mountain stronghold carved directly into a sheer rock face beneath towering jagged peaks. Monumental geometric gates, terraces hewn into stone and covered bridges span a deep chasm. Small forge vents send pale smoke into the mountain air. Rough foreground boulders, weathered steps, distant snowy ridgelines and layered rock strata convey extraordinary scale. Style: match the existing Realms artwork: intricate traditional black ink and graphite fantasy book illustration, finely engraved crosshatching and stippling, rich charcoal shadows and delicate silver-gray highlights on clean white paper. Strictly black, white and neutral grayscale, absolutely no color or sepia. Match the attached landscape references in their sweeping environmental composition, atmospheric depth and believable detailed scenery, translated into the Realms monochrome engraved style. Wide establishing vista with foreground, middle ground and distant horizon; detailed natural framing near the outer edges, important buildings fully visible, open visual breathing room toward the middle for interface overlays. Full bleed rectangular landscape, no decorative border, panels, text, labels, letters, watermark or logo. Environment only, no prominent people or portraits. Give this homeland its own recognizable architecture and terrain. Render a polished cohesive landscape with fine detail and clear tonal depth.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e06deba7-60e0-478e-8bf9-5187e57850ce.png",
+      "source_size": [
+        1672,
+        941
+      ],
+      "size": [
+        2560,
+        1440
+      ],
+      "bytes": 1063435,
+      "sha256": "6af44bffe2bf8699165d2dec3efb7fb899d1a6cb17940b0519f9ee08524470d2"
+    },
+    {
+      "race": "elf",
+      "location": "Sylvandar Glade",
+      "region": "Whisperwood Expanse",
+      "filename": "elfBG.jpg",
+      "prompt": "Use case: stylized-concept. Asset: original Realms fantasy homeland background. Create a single ultrawide 16:9 landscape, requested final size 2560 by 1440. Subject: Sylvandar Glade, homeland of the elf, in Whisperwood Expanse. Scene: An ancient elven woodland sanctuary in a vast glade of immense living trees. Slender graceful timber halls and organic arched walkways nestle among trunks and leafy canopies; a clear stream winds past moss-covered stones and delicate footbridges. Ferns, exposed roots, hanging branches and shafts of pale light create quiet depth. Style: match the existing Realms artwork: intricate traditional black ink and graphite fantasy book illustration, finely engraved crosshatching and stippling, rich charcoal shadows and delicate silver-gray highlights on clean white paper. Strictly black, white and neutral grayscale, absolutely no color or sepia. Match the attached landscape references in their sweeping environmental composition, atmospheric depth and believable detailed scenery, translated into the Realms monochrome engraved style. Wide establishing vista with foreground, middle ground and distant horizon; detailed natural framing near the outer edges, important buildings fully visible, open visual breathing room toward the middle for interface overlays. Full bleed rectangular landscape, no decorative border, panels, text, labels, letters, watermark or logo. Environment only, no prominent people or portraits. Give this homeland its own recognizable architecture and terrain. Render a polished cohesive landscape with fine detail and clear tonal depth.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3adf711e-aeca-4b1d-8452-26bc18c43ae0.png",
+      "source_size": [
+        1672,
+        941
+      ],
+      "size": [
+        2560,
+        1440
+      ],
+      "bytes": 1168399,
+      "sha256": "db18fff95abb80949f8c09da0c76b8aecb128fc784d2e20dc3d107c128a2f8fb"
+    },
+    {
+      "race": "orc",
+      "location": "Thunderpeak Warcamp",
+      "region": "Bloodsteppes",
+      "filename": "orcBG.jpg",
+      "prompt": "Use case: stylized-concept. Asset: original Realms fantasy homeland background. Create a single ultrawide 16:9 landscape, requested final size 2560 by 1440. Subject: Thunderpeak Warcamp, homeland of the orc, in Bloodsteppes. Scene: A formidable orcish warcamp spreads across an exposed high steppe beneath a rugged thunder-crowned mountain. Thick timber palisades, sturdy hide-roofed longhouses, watchtowers, rope lashings and a broad fortified gate form a practical powerful settlement. Wind sweeps grasses across the foreground; storm clouds roll over distant open plains. No battle, gore or skull decorations. Style: match the existing Realms artwork: intricate traditional black ink and graphite fantasy book illustration, finely engraved crosshatching and stippling, rich charcoal shadows and delicate silver-gray highlights on clean white paper. Strictly black, white and neutral grayscale, absolutely no color or sepia. Match the attached landscape references in their sweeping environmental composition, atmospheric depth and believable detailed scenery, translated into the Realms monochrome engraved style. Wide establishing vista with foreground, middle ground and distant horizon; detailed natural framing near the outer edges, important buildings fully visible, open visual breathing room toward the middle for interface overlays. Full bleed rectangular landscape, no decorative border, panels, text, labels, letters, watermark or logo. Environment only, no prominent people or portraits. Give this homeland its own recognizable architecture and terrain. Render a polished cohesive landscape with fine detail and clear tonal depth.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e529efd5-e699-4a8e-9a1e-fddd8589fa59.png",
+      "source_size": [
+        1672,
+        941
+      ],
+      "size": [
+        2560,
+        1440
+      ],
+      "bytes": 1018911,
+      "sha256": "4a213ab2a47377ca321870804d97f7c1f2a10ef38561df65fcd59027d1f898d2"
+    },
+    {
+      "race": "vaelkin",
+      "location": "Veilcross Haven",
+      "region": "Woodland-River Borderlands",
+      "filename": "vaelkinBG.jpg",
+      "prompt": "Use case: stylized-concept. Asset: original Realms fantasy homeland background. Create a single ultrawide 16:9 landscape, requested final size 2560 by 1440. Subject: Veilcross Haven, homeland of the vaelkin, in Woodland-River Borderlands. Scene: A welcoming borderland haven where a winding river meets an old forest. Riverbank cottages blend solid stone lower walls, timber upper stories and graceful woodland craft. Curved footbridges, a riverside quay and sheltered forest paths weave between buildings and mature trees. Calm water and reeds in the foreground, treetops and misty river bends beyond; architecture suggesting two traditions meeting. Style: match the existing Realms artwork: intricate traditional black ink and graphite fantasy book illustration, finely engraved crosshatching and stippling, rich charcoal shadows and delicate silver-gray highlights on clean white paper. Strictly black, white and neutral grayscale, absolutely no color or sepia. Match the attached landscape references in their sweeping environmental composition, atmospheric depth and believable detailed scenery, translated into the Realms monochrome engraved style. Wide establishing vista with foreground, middle ground and distant horizon; detailed natural framing near the outer edges, important buildings fully visible, open visual breathing room toward the middle for interface overlays. Full bleed rectangular landscape, no decorative border, panels, text, labels, letters, watermark or logo. Environment only, no prominent people or portraits. Give this homeland its own recognizable architecture and terrain. Render a polished cohesive landscape with fine detail and clear tonal depth.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7da69d52-3a30-40af-9dd6-9253cca31091.png",
+      "source_size": [
+        1672,
+        941
+      ],
+      "size": [
+        2560,
+        1440
+      ],
+      "bytes": 1164934,
+      "sha256": "7f7fe0df9c022fc4f74cde2e3d5f014160618334d91dec54aa3a40996f98e831"
+    },
+    {
+      "race": "vorshkin",
+      "location": "Bloodriver Forge",
+      "region": "River Gorges and Border Badlands",
+      "filename": "vorshkinBG.jpg",
+      "prompt": "Use case: stylized-concept. Asset: original Realms fantasy homeland background. Create a single ultrawide 16:9 landscape, requested final size 2560 by 1440. Subject: Bloodriver Forge, homeland of the vorshkin, in River Gorges and Border Badlands. Scene: A rugged forge settlement built across the banks of a powerful river cutting through immense eroded badland gorges. Heavy masonry foundries, timber workshops, waterwheels and stout suspension bridges cling to ledges and join the canyon walls. Chimneys release pale smoke. Rocky foreground overlooks rapids, stratified cliffs and distant broken mesas; monumental industrial medieval craft, no modern machinery. Style: match the existing Realms artwork: intricate traditional black ink and graphite fantasy book illustration, finely engraved crosshatching and stippling, rich charcoal shadows and delicate silver-gray highlights on clean white paper. Strictly black, white and neutral grayscale, absolutely no color or sepia. Match the attached landscape references in their sweeping environmental composition, atmospheric depth and believable detailed scenery, translated into the Realms monochrome engraved style. Wide establishing vista with foreground, middle ground and distant horizon; detailed natural framing near the outer edges, important buildings fully visible, open visual breathing room toward the middle for interface overlays. Full bleed rectangular landscape, no decorative border, panels, text, labels, letters, watermark or logo. Environment only, no prominent people or portraits. Give this homeland its own recognizable architecture and terrain. Render a polished cohesive landscape with fine detail and clear tonal depth.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7d15fa00-65c3-4ce9-b9a9-e3bbfa4b3c7d.png",
+      "source_size": [
+        1672,
+        941
+      ],
+      "size": [
+        2560,
+        1440
+      ],
+      "bytes": 1088630,
+      "sha256": "12bdcadd4ba7c5261f263a6485efe5aab3607a238856c83b084bda6603a992fc"
+    },
+    {
+      "race": "wildblood",
+      "location": "Stormveil Bastion",
+      "region": "Highland Frontier",
+      "filename": "wildbloodBG.jpg",
+      "prompt": "Use case: stylized-concept. Asset: original Realms fantasy homeland background. Create a single ultrawide 16:9 landscape, requested final size 2560 by 1440. Subject: Stormveil Bastion, homeland of the wildblood, in Highland Frontier. Scene: A remote frontier bastion crowns a windswept crag in a broad wild highland valley. Weathered stone curtain walls and rugged timber halls blend into the rock, with a steep track leading toward a fortified gate. Heather, tussock grass and a rushing stream fill the foreground; layered ridges, a distant waterfall, cloud-wrapped mountains and a clearing storm give a fierce untamed feeling. Style: match the existing Realms artwork: intricate traditional black ink and graphite fantasy book illustration, finely engraved crosshatching and stippling, rich charcoal shadows and delicate silver-gray highlights on clean white paper. Strictly black, white and neutral grayscale, absolutely no color or sepia. Match the attached landscape references in their sweeping environmental composition, atmospheric depth and believable detailed scenery, translated into the Realms monochrome engraved style. Wide establishing vista with foreground, middle ground and distant horizon; detailed natural framing near the outer edges, important buildings fully visible, open visual breathing room toward the middle for interface overlays. Full bleed rectangular landscape, no decorative border, panels, text, labels, letters, watermark or logo. Environment only, no prominent people or portraits. Give this homeland its own recognizable architecture and terrain. Render a polished cohesive landscape with fine detail and clear tonal depth.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7f32a7fe-fbad-4a58-b04a-4908c95c43c8.png",
+      "source_size": [
+        1672,
+        941
+      ],
+      "size": [
+        2560,
+        1440
+      ],
+      "bytes": 1106124,
+      "sha256": "a8830038d5ea00ed53cde5bcb4c4b185712106ff656b2a2745f8dc396a516342"
+    },
+    {
+      "race": "cambion",
+      "location": "Shadowfen Spire",
+      "region": "Shadowfen Marshes",
+      "filename": "cambionBG.jpg",
+      "prompt": "Use case: stylized-concept. Asset: original Realms fantasy homeland background. Create a single ultrawide 16:9 landscape, requested final size 2560 by 1440. Subject: Shadowfen Spire, homeland of the cambion, in Shadowfen Marshes. Scene: A tall elegant dark stone spire and a small fortified settlement rise from a rocky island in an immense ancient marsh. Pointed archways, narrow windows and graceful austere buttresses shape the architecture. An old stone causeway crosses still pools and reed beds; twisted willows, trailing moss and tangled roots frame the foreground. Low mist reveals distant wetlands and pale moonlit clouds; mysterious and dignified rather than horror. No demons, gore or skulls. Style: match the existing Realms artwork: intricate traditional black ink and graphite fantasy book illustration, finely engraved crosshatching and stippling, rich charcoal shadows and delicate silver-gray highlights on clean white paper. Strictly black, white and neutral grayscale, absolutely no color or sepia. Match the attached landscape references in their sweeping environmental composition, atmospheric depth and believable detailed scenery, translated into the Realms monochrome engraved style. Wide establishing vista with foreground, middle ground and distant horizon; detailed natural framing near the outer edges, important buildings fully visible, open visual breathing room toward the middle for interface overlays. Full bleed rectangular landscape, no decorative border, panels, text, labels, letters, watermark or logo. Environment only, no prominent people or portraits. Give this homeland its own recognizable architecture and terrain. Render a polished cohesive landscape with fine detail and clear tonal depth.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2796c4af-d265-4a0b-8666-5efbddba56c5.png",
+      "source_size": [
+        1672,
+        941
+      ],
+      "size": [
+        2560,
+        1440
+      ],
+      "bytes": 1063482,
+      "sha256": "9a91f145bfc51707f56e1ab69d7d4fae5b30ad6b5f492360bac77b7c91eb743d"
+    }
+  ]
+}
