@@ -16872,8 +16872,29 @@
       "slug": "thespians-playbill",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/thespians-playbill.json",
       "filename": "equipThespiansPlaybill.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Thespian's Playbill.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nWhile holding this magical theater program, whenever you take the Study action and make an Intelligence check, you gain a bonus to the check equal to your Charisma modifier (minimum of +1).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Thespian's Playbill.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nWhile holding this magical theater program, whenever you take the Study action and make an Intelligence check, you gain a bonus to the check equal to your Charisma modifier (minimum of +1).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-b6dcdf52-87a8-492a-a8ba-198c565356e3.png",
+      "files": [
+        {
+          "path": "equipThespiansPlaybill.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 29150,
+          "sha256": "a442f57d39ebbee282c1b1109fb57f33c485cc204b1b49a42a09ec8f7514c49c"
+        },
+        {
+          "path": "large/equipThespiansPlaybill.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 119648,
+          "sha256": "42646eb16deab1591f0fdf9c2352699e57e2113f5cfa9096415feabff7510d7f"
+        }
+      ]
     },
     {
       "id": "au:item:thiefs-thimble",
@@ -16881,8 +16902,29 @@
       "slug": "thiefs-thimble",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/thiefs-thimble.json",
       "filename": "equipThiefsThimble.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Thief's Thimble.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nThis magic thimble aids thieves in foiling traps. While wearing this thimble, if you trigger a trap and take damage, the thimble takes the damage instead. The thimble has 30 Hit Points. If the thimble is reduced to 0 Hit Points, it breaks, and you take any remaining damage.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Thief's Thimble.\nSubject: the exact magic item named above, type wondrous, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Uncommon (Requires Attunement)*\n\nThis magic thimble aids thieves in foiling traps. While wearing this thimble, if you trigger a trap and take damage, the thimble takes the damage instead. The thimble has 30 Hit Points. If the thimble is reduced to 0 Hit Points, it breaks, and you take any remaining damage.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-52b8277b-623d-4820-b67a-42a38da61ea9.png",
+      "files": [
+        {
+          "path": "equipThiefsThimble.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 28418,
+          "sha256": "0bb00e89feae9707a6d924e569de6656958b20f95ef79c6375a03dae78e58798"
+        },
+        {
+          "path": "large/equipThiefsThimble.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 115882,
+          "sha256": "d51636d643ca56b6575652657acadea2131d8fea00f8425ee12fb11500cda61e"
+        }
+      ]
     },
     {
       "id": "au:item:three-keyholes-dagger",
@@ -16890,8 +16932,29 @@
       "slug": "three-keyholes-dagger",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/three-keyholes-dagger.json",
       "filename": "equipThreeKeyholesDagger.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Three Keyholes Dagger.\nSubject: the exact magic item named above, type weapon, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Dagger), Uncommon (Requires Attunement)*\n\nThe hilt of this magic weapon is adorned with ornate, decorative keyholes outlined in golden filigree.\n\nThree (uncommon). Three ornamental keyholes adorn the weapon's hilt. You have a +1 bonus to attack rolls and damage rolls made with this magic weapon. When you take the Attack action, you can transform this weapon into a Handaxe or Mace. It remains transformed in this way until the start of your next turn, at which point it reverts back to its Dagger form. Regardless of the weapon's form, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls; you must use the same modifier for both rolls.\n\nTen (rare). Ten ornamental keyholes adorn the weapon's hilt. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +2. Additionally, when you transform the weapon, you can now transform it into any Simple Melee weapon.\n\nMany (veryRare). Overlapping ornamental keyholes adorn the weapon's hilt in a dizzying pattern. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +3. When you transform the weapon, you can now also transform it into a Battleaxe, Longsword, Rapier, Scimitar, or Warhammer. Additionally, when you miss with an attack roll using this weapon, you can reroll the attack, potentially turning the miss into a hit. You must use the second roll. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Three Keyholes Dagger.\nSubject: the exact magic item named above, type weapon, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Weapon (Dagger), Uncommon (Requires Attunement)*\n\nThe hilt of this magic weapon is adorned with ornate, decorative keyholes outlined in golden filigree.\n\nThree (uncommon). Three ornamental keyholes adorn the weapon's hilt. You have a +1 bonus to attack rolls and damage rolls made with this magic weapon. When you take the Attack action, you can transform this weapon into a Handaxe or Mace. It remains transformed in this way until the start of your next turn, at which point it reverts back to its Dagger form. Regardless of the weapon's form, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls; you must use the same modifier for both rolls.\n\nTen (rare). Ten ornamental keyholes adorn the weapon's hilt. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +2. Additionally, when you transform the weapon, you can now transform it into any Simple Melee weapon.\n\nMany (veryRare). Overlapping ornamental keyholes adorn the weapon's hilt in a dizzying pattern. Your bonus to attack rolls and damage rolls made with this magic weapon increases to +3. When you transform the weapon, you can now also transform it into a Battleaxe, Longsword, Rapier, Scimitar, or Warhammer. Additionally, when you miss with an attack roll using this weapon, you can reroll the attack, potentially turning the miss into a hit. You must use the second roll. Once used, this property can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-557c8fa8-72c6-4df5-8ee7-089945c0b99f.png",
+      "files": [
+        {
+          "path": "equipThreeKeyholesDagger.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 17178,
+          "sha256": "93bf1d88ce52ea4cc6e4f4234b24694dc70b6085743bdb827cf885b0d837b92e"
+        },
+        {
+          "path": "large/equipThreeKeyholesDagger.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 61082,
+          "sha256": "befbdcaac48f6fac5a5c3d790163ea1d645b419aacb9b9a78549ebae27126476"
+        }
+      ]
     },
     {
       "id": "fr-aif:item:tome-of-the-dragon",
@@ -16899,8 +16962,29 @@
       "slug": "tome-of-the-dragon",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/fr-aif/items/magic/tome-of-the-dragon.json",
       "filename": "equipTomeOfTheDragon.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Tome of the Dragon.\nSubject: the exact magic item named above, type wondrous, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Legendary*\n\nThis heavy tome is bound in dragonhide and reinforced with thick bands of cold iron. The original copies were made by wyrmspeakers of the Cult of the Dragon and bear that cult\u2019s symbol on their cover. The Tome of the Dragon contains the secret ritual to transform a dragon or a dead dragon\u2019s body into a dracolich.\n\nTo decipher and use the Tome of the Dragon, you must be either a spellcaster with at least two level 5 spell slots or a Dragon. A single assistant (or more, at the DM\u2019s discretion) can help you conduct the ritual, so long as that assistant also meets the requirements to use the tome.\n\nTo create a dracolich using a Tome of the Dragon, you must have continuous access to the body of an adult or ancient dragon (either living or dead), as well as 80,000 GP worth of supplies (which includes a gem that will serve as the anchor for the dracolich\u2019s spirit). While you have the necessary materials, you must conduct a ritual that lasts 180 days divided by the number of creatures conducting the ritual. During the ritual, you and any assistants must work without interruption, resting no more than 8 hours per day. If you are a Dragon, the cost of supplies and the ritual\u2019s duration are halved.\n\nWhen the ritual is complete, the tome explodes with violet light, dealing 12d6 Necrotic damage to you and each assistant. If this damage reduces a creature to 0 Hit Points, the creature is killed and immediately reanimates as a Zombie under the DM's control.\n\nAt the end of the ritual, the target transforms into a Dracolich. If the ritual\u2019s target was a living dragon, that dragon dies instantly, and its spirit is transferred to the gem supplied for the ritual. If the target was a dead dragon's body, the body reanimates, and the gem is inhabited by an evil dragon spirit from the Outer Planes. The dracolich is under no obligation toward its creators and acts according to its nature.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Tome of the Dragon.\nSubject: the exact magic item named above, type wondrous, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Legendary*\n\nThis heavy tome is bound in dragonhide and reinforced with thick bands of cold iron. The original copies were made by wyrmspeakers of the Cult of the Dragon and bear that cult\u2019s symbol on their cover. The Tome of the Dragon contains the secret ritual to transform a dragon or a dead dragon\u2019s body into a dracolich.\n\nTo decipher and use the Tome of the Dragon, you must be either a spellcaster with at least two level 5 spell slots or a Dragon. A single assistant (or more, at the DM\u2019s discretion) can help you conduct the ritual, so long as that assistant also meets the requirements to use the tome.\n\nTo create a dracolich using a Tome of the Dragon, you must have continuous access to the body of an adult or ancient dragon (either living or dead), as well as 80,000 GP worth of supplies (which includes a gem that will serve as the anchor for the dracolich\u2019s spirit). While you have the necessary materials, you must conduct a ritual that lasts 180 days divided by the number of creatures conducting the ritual. During the ritual, you and any assistants must work without interruption, resting no more than 8 hours per day. If you are a Dragon, the cost of supplies and the ritual\u2019s duration are halved.\n\nWhen the ritual is complete, the tome explodes with violet light, dealing 12d6 Necrotic damage to you and each assistant. If this damage reduces a creature to 0 Hit Points, the creature is killed and immediately reanimates as a Zombie under the DM's control.\n\nAt the end of the ritual, the target transforms into a Dracolich. If the ritual\u2019s target was a living dragon, that dragon dies instantly, and its spirit is transferred to the gem supplied for the ritual. If the target was a dead dragon's body, the body reanimates, and the gem is inhabited by an evil dragon spirit from the Outer Planes. The dracolich is under no obligation toward its creators and acts according to its nature.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-a15ef295-de2f-457c-b358-db34dfee59f2.png",
+      "files": [
+        {
+          "path": "equipTomeOfTheDragon.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 27882,
+          "sha256": "318d05334335b1c5148f89eb84d27a4475f6f70e9ef80152478cc48f11ffc43b"
+        },
+        {
+          "path": "large/equipTomeOfTheDragon.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 115202,
+          "sha256": "4356ac779dbf2ce46840c04e9f5163004f17e595941d32ab29d4f95b10305c4f"
+        }
+      ]
     },
     {
       "id": "au:item:tramontane-armor",
@@ -16908,8 +16992,29 @@
       "slug": "tramontane-armor",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/tramontane-armor.json",
       "filename": "equipTramontaneArmor.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Tramontane Armor.\nSubject: the exact magic item named above, type armor, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Any Light or Medium), Very Rare (Requires Attunement)*\n\nYou gain a +1 bonus to Armor Class while wearing this armor. The armor is enchanted to look like a scholarly or priestly robe. Mountain Walker: While you're wearing this armor, Difficult Terrain composed of heavy snow, ice, rubble, or undergrowth doesn't cost you extra movement. Grasping Tendrils. As a Magic action, you can activate the armor, causing the hems of its sleeves and body to extend into ribbonlike tendrils. As a Bonus Action while the armor is active, you can force each creature of your choice in a 20-foot Emanation originating from you to make a DC 15 Strength saving throw. On a failed save, a creature has the Grappled condition (escape DC 15) and is pulled up to 20 feet straight toward you. The armor remains active for 1 minute or until you take another Magic action to deactivate it. Once you activate the armor, it can't be activated again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Tramontane Armor.\nSubject: the exact magic item named above, type armor, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Armor (Any Light or Medium), Very Rare (Requires Attunement)*\n\nYou gain a +1 bonus to Armor Class while wearing this armor. The armor is enchanted to look like a scholarly or priestly robe. Mountain Walker: While you're wearing this armor, Difficult Terrain composed of heavy snow, ice, rubble, or undergrowth doesn't cost you extra movement. Grasping Tendrils. As a Magic action, you can activate the armor, causing the hems of its sleeves and body to extend into ribbonlike tendrils. As a Bonus Action while the armor is active, you can force each creature of your choice in a 20-foot Emanation originating from you to make a DC 15 Strength saving throw. On a failed save, a creature has the Grappled condition (escape DC 15) and is pulled up to 20 feet straight toward you. The armor remains active for 1 minute or until you take another Magic action to deactivate it. Once you activate the armor, it can't be activated again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1ab5404a-c9b9-472c-9196-8fab5de16d27.png",
+      "files": [
+        {
+          "path": "equipTramontaneArmor.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 39440,
+          "sha256": "081c603475c7de2e39c74eea0521810b725b9362d722a1a2adcf23291b624f1e"
+        },
+        {
+          "path": "large/equipTramontaneArmor.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 147724,
+          "sha256": "9e70102a2f0f8d47bd22f5e0674e02890d58444e99495683431e3c3f34254f1a"
+        }
+      ]
     },
     {
       "id": "au:item:travelers-pearl",
@@ -16917,8 +17022,29 @@
       "slug": "travelers-pearl",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/travelers-pearl.json",
       "filename": "equipTravelersPearl.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Traveler's Pearl.\nSubject: the exact magic item named above, type wondrous, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Legendary (Requires Attunement)*\n\nBy using a command word while holding this pearl, you can cast the Teleport spell from it. Once this property is used, it can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Traveler's Pearl.\nSubject: the exact magic item named above, type wondrous, rarity legendary. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Legendary (Requires Attunement)*\n\nBy using a command word while holding this pearl, you can cast the Teleport spell from it. Once this property is used, it can't be used again until the next dawn.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-84fe200a-ce50-4304-bb39-eae273d6706f.png",
+      "files": [
+        {
+          "path": "equipTravelersPearl.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25852,
+          "sha256": "4b81d468f70ebda0959c52f69cf468969d8ef37afc18142bcb53e4bd51a4870b"
+        },
+        {
+          "path": "large/equipTravelersPearl.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 99366,
+          "sha256": "23f7615c8fecc7d510eba856fd727055051a5afcc75290c1c57f36cce0e93dd3"
+        }
+      ]
     },
     {
       "id": "au:item:universal-pantograph",
@@ -16926,8 +17052,29 @@
       "slug": "universal-pantograph",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/universal-pantograph.json",
       "filename": "equipUniversalPantograph.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Universal Pantograph.\nSubject: the exact magic item named above, type wondrous, rarity artifact. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Artifact*\n\nThis cubical box measures 2 feet on each side. It appears to be made of oak and bound in silver, and its surface is engraved with motifs of marionettes and laughing children. When a nonmagical item is placed in the box and the lid is closed, a perfect duplicate of the item appears next to the box. Clone. As a Magic action, you can cause the pantograph to grow large enough for a Medium creature to crouch within. You can revert the pantograph to its normal size as a Magic action, harmlessly shunting anything that can't fit inside to the nearest unoccupied space. When a creature is inside the pantograph, you can close the pantograph's lid and sprinkle the pantograph with diamond dust worth at least 100 GP. If you do, the diamond dust is consumed, and you cast the Clone spell, targeting the creature inside the pantograph. After the spell's casting time is finished, the creature is harmlessly shunted from the pantograph, and the pantograph's lid then can't be opened for 120 days, during which time the duplicate from the spell grows within. Once the clone is finished forming, it is harmlessly shunted from the pantograph, and the pantograph returns to its original size. A clone created by the pantograph doesn't need to be contained within a vessel and endures indefinitely while inert. Destroying the Pantograph. If the pantograph doesn't contain a clone, it is destroyed after being submerged in a bog in the Feywild for 999 years.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Universal Pantograph.\nSubject: the exact magic item named above, type wondrous, rarity artifact. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Artifact*\n\nThis cubical box measures 2 feet on each side. It appears to be made of oak and bound in silver, and its surface is engraved with motifs of marionettes and laughing children. When a nonmagical item is placed in the box and the lid is closed, a perfect duplicate of the item appears next to the box. Clone. As a Magic action, you can cause the pantograph to grow large enough for a Medium creature to crouch within. You can revert the pantograph to its normal size as a Magic action, harmlessly shunting anything that can't fit inside to the nearest unoccupied space. When a creature is inside the pantograph, you can close the pantograph's lid and sprinkle the pantograph with diamond dust worth at least 100 GP. If you do, the diamond dust is consumed, and you cast the Clone spell, targeting the creature inside the pantograph. After the spell's casting time is finished, the creature is harmlessly shunted from the pantograph, and the pantograph's lid then can't be opened for 120 days, during which time the duplicate from the spell grows within. Once the clone is finished forming, it is harmlessly shunted from the pantograph, and the pantograph returns to its original size. A clone created by the pantograph doesn't need to be contained within a vessel and endures indefinitely while inert. Destroying the Pantograph. If the pantograph doesn't contain a clone, it is destroyed after being submerged in a bog in the Feywild for 999 years.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5b28a695-bcee-4ad5-a3b3-8c3b3df2b99d.png",
+      "files": [
+        {
+          "path": "equipUniversalPantograph.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 34512,
+          "sha256": "a61da0e717e55811f54ea828d24b9e17406d88abf20e5da27c26b216e6a050a8"
+        },
+        {
+          "path": "large/equipUniversalPantograph.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 144174,
+          "sha256": "df670a079068075c69e421ca5456cf1c44da0981b6439c4ebd41db036a1aead3"
+        }
+      ]
     },
     {
       "id": "au:item:wand-of-freshness",
@@ -16935,8 +17082,29 @@
       "slug": "wand-of-freshness",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/wand-of-freshness.json",
       "filename": "equipWandOfFreshness.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Wand of Freshness.\nSubject: the exact magic item named above, type wand, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wand, Uncommon*\n\nThis wand has 4 charges and regains 1d4 + 1 expended charges daily at dawn. While holding it, you can expend 1 charge to cast the Purify Food and Drink spell from it.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Wand of Freshness.\nSubject: the exact magic item named above, type wand, rarity uncommon. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wand, Uncommon*\n\nThis wand has 4 charges and regains 1d4 + 1 expended charges daily at dawn. While holding it, you can expend 1 charge to cast the Purify Food and Drink spell from it.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-4de911ae-18b4-44dd-9693-625bd8bfef70.png",
+      "files": [
+        {
+          "path": "equipWandOfFreshness.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 10846,
+          "sha256": "002190d7c6ae62f3b5ce7fffbf549d41438118bb4de493881b3c448f61aa9c25"
+        },
+        {
+          "path": "large/equipWandOfFreshness.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 34952,
+          "sha256": "2dd89321293619de4ed5345b2331ff434bf1113171752803bad8f2452260846b"
+        }
+      ]
     },
     {
       "id": "au:item:wand-of-slumber",
@@ -16944,8 +17112,29 @@
       "slug": "wand-of-slumber",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/wand-of-slumber.json",
       "filename": "equipWandOfSlumber.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Wand of Slumber.\nSubject: the exact magic item named above, type wand, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wand, Rare (Requires Attunement)*\n\nThis wand has 7 charges. While holding it, you can cast one of the spells on the following table from it. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand crumbles into sand and is destroyed.\n\nSpells and charge costs: Catnap (3); Sleep (1).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Wand of Slumber.\nSubject: the exact magic item named above, type wand, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wand, Rare (Requires Attunement)*\n\nThis wand has 7 charges. While holding it, you can cast one of the spells on the following table from it. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand crumbles into sand and is destroyed.\n\nSpells and charge costs: Catnap (3); Sleep (1).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7e4d1f90-0b43-4ac9-bb8d-8cf9fd7697b3.png",
+      "files": [
+        {
+          "path": "equipWandOfSlumber.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 15036,
+          "sha256": "635fcf338cf4fdd4c41d1949dca69b2da144af1d134875ca2f31e614373be11e"
+        },
+        {
+          "path": "large/equipWandOfSlumber.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 48664,
+          "sha256": "b13a8af3387cf3ecf0cf75bb0c24b40da3b518de923653b94b93e97b1ddbf048"
+        }
+      ]
     },
     {
       "id": "au:item:wand-of-teeth",
@@ -16953,8 +17142,29 @@
       "slug": "wand-of-teeth",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/wand-of-teeth.json",
       "filename": "equipWandOfTeeth.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Wand of Teeth.\nSubject: the exact magic item named above, type wand, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wand, Rare*\n\nThis wand has 10 charges. While holding it, you can take a Magic action to expend up to 3 charges to spray a wave of sharp, spectral teeth in the direction you point it. Each creature in a 30-foot Cone makes a DC 15 Dexterity saving throw. Roll a number of d8s equal to the number of charges expended. On a failed save, a creature takes Piercing damage equal to the total rolled and has the Poisoned condition until the start of your next turn; on a successful save, a creature takes half as much damage only. Regaining Charges. The wand regains 1d10 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand explodes into harmless splinters and is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Wand of Teeth.\nSubject: the exact magic item named above, type wand, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wand, Rare*\n\nThis wand has 10 charges. While holding it, you can take a Magic action to expend up to 3 charges to spray a wave of sharp, spectral teeth in the direction you point it. Each creature in a 30-foot Cone makes a DC 15 Dexterity saving throw. Roll a number of d8s equal to the number of charges expended. On a failed save, a creature takes Piercing damage equal to the total rolled and has the Poisoned condition until the start of your next turn; on a successful save, a creature takes half as much damage only. Regaining Charges. The wand regains 1d10 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand explodes into harmless splinters and is destroyed.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-a0d288ba-10fa-4c20-90d5-99ce1f6a2fc0.png",
+      "files": [
+        {
+          "path": "equipWandOfTeeth.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 17878,
+          "sha256": "c0bb94a3464a508020281f013775cc2b1b7463de6dbf13d541274bd15b566dff"
+        },
+        {
+          "path": "large/equipWandOfTeeth.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 63912,
+          "sha256": "208bd4af262b1194fe660d898d8746bf36333fe21f08fa59e781b4b7c51a2288"
+        }
+      ]
     },
     {
       "id": "fr-hof:item:windskiff",
@@ -16962,8 +17172,29 @@
       "slug": "windskiff",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/fr-hof/items/magic/windskiff.json",
       "filename": "equipWindskiff.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Windskiff.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare*\n\nThis small piece of jewelry has 3 charges and regains all expended charges daily at dawn. While you are holding it, you can take a Magic action to expend 1 charge, which causes the jewelry to transform into a sail-powered personal vehicle. The vehicle is roughly the size and shape of a household door with a 10-foot-tall sail extending from one side. After 1 hour or until you use the item's command word (no action required), the transformation ends and the Windskiff reverts to its jewelry form.\n\nIn vehicle form, a Windskiff is a Medium object with the following statistics: AC 12, HP 30, and Speed 40 ft. The Windskiff hovers a few inches above whatever surface it is on and can glide; it moves 5 feet horizontally for every 1 foot it descends in the air. A Windskiff and its riders take no damage from falling.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Windskiff.\nSubject: the exact magic item named above, type wondrous, rarity rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Rare*\n\nThis small piece of jewelry has 3 charges and regains all expended charges daily at dawn. While you are holding it, you can take a Magic action to expend 1 charge, which causes the jewelry to transform into a sail-powered personal vehicle. The vehicle is roughly the size and shape of a household door with a 10-foot-tall sail extending from one side. After 1 hour or until you use the item's command word (no action required), the transformation ends and the Windskiff reverts to its jewelry form.\n\nIn vehicle form, a Windskiff is a Medium object with the following statistics: AC 12, HP 30, and Speed 40 ft. The Windskiff hovers a few inches above whatever surface it is on and can glide; it moves 5 feet horizontally for every 1 foot it descends in the air. A Windskiff and its riders take no damage from falling.\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ab2c72e9-e7ae-49de-9ff0-5e3c8de784b0.png",
+      "files": [
+        {
+          "path": "equipWindskiff.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 29614,
+          "sha256": "686baa18ca54114a879c2600bec7f8aad7c69424bd3b785809236315b496b89f"
+        },
+        {
+          "path": "large/equipWindskiff.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 110094,
+          "sha256": "1da177cf10c8c5ce3553d2236fc3e479e71291b6fd20d5d50f5e450b7c3daca2"
+        }
+      ]
     },
     {
       "id": "au:item:workshop-wrecker",
@@ -16971,8 +17202,29 @@
       "slug": "workshop-wrecker",
       "source_json": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2024/content/src/au/items/magic/workshop-wrecker.json",
       "filename": "equipWorkshopWrecker.webp",
-      "status": "pending",
-      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Workshop Wrecker.\nSubject: the exact magic item named above, type wondrous, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Very Rare*\n\nWhen this 3-inch-diameter metal ball is activated as a Magic action, it moves at a rapid speed, bouncing off walls and defying any attempts to capture it. The ball remains active for 1 minute or until you deactivate it by using a command word while within 30 feet of it (no action required). Once the ball is used, it can't be used again until the next dawn. When you activate the ball and at the beginning of each of your turns while the ball is active, each creature in the area makes a Dexterity saving throw, taking Bludgeoning damage on a failed save. The save DC and amount of damage dealt depend on the approximate size of the area in which the ball is active, as shown on the following table. Bludgeoning Area Save DC Damage A nonmagical object that isn't being worn or carried also takes the damage if it is in the area. In confined areas larger than a 100-foot Cube, the amount of damage caused by the ball is negligible. If the ball is activated in an unconfined area, it flies off in a random direction at a rate of 300 feet per round.\n\nArea, saving throw DC, and bludgeoning damage: 15-foot Cube (DC 18, 6d6 + 5 damage); 30-foot Cube (DC 17, 4d6 + 4 damage); 50-foot Cube (DC 15, 2d6 + 2 damage); 100-foot Cube (DC 14, 1d6 + 1 damage).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks."
+      "status": "complete",
+      "prompt": "Use case: stylized-concept.\nAsset type: isolated fantasy equipment illustration with true transparent background.\nPrimary request: create one original detailed inventory artwork of Workshop Wrecker.\nSubject: the exact magic item named above, type wondrous, rarity very rare. Show its distinctive physical form and materials clearly. If its name specifies a color, gemstone, material, element, number, variant or potency, depict that exact variant. Use the supplied item description for physical cues; prose rules and alternatives are context only, not words to print. For generic weapon or armor entries, choose a representative medieval form.\nItem description for visual context: *Wondrous Item, Very Rare*\n\nWhen this 3-inch-diameter metal ball is activated as a Magic action, it moves at a rapid speed, bouncing off walls and defying any attempts to capture it. The ball remains active for 1 minute or until you deactivate it by using a command word while within 30 feet of it (no action required). Once the ball is used, it can't be used again until the next dawn. When you activate the ball and at the beginning of each of your turns while the ball is active, each creature in the area makes a Dexterity saving throw, taking Bludgeoning damage on a failed save. The save DC and amount of damage dealt depend on the approximate size of the area in which the ball is active, as shown on the following table. Bludgeoning Area Save DC Damage A nonmagical object that isn't being worn or carried also takes the damage if it is in the area. In confined areas larger than a 100-foot Cube, the amount of damage caused by the ball is negligible. If the ball is activated in an unconfined area, it flies off in a random direction at a rate of 300 feet per round.\n\nArea, saving throw DC, and bludgeoning damage: 15-foot Cube (DC 18, 6d6 + 5 damage); 30-foot Cube (DC 17, 4d6 + 4 damage); 50-foot Cube (DC 15, 2d6 + 2 damage); 100-foot Cube (DC 14, 1d6 + 1 damage).\nStyle/medium: hand-painted realistic fantasy equipment art, fine brush texture, crisp silhouette, worn leather, patinated brass and silver, carved wood, richly textured cloth, jewel-like glass. Match an established earthy medieval inventory set; give enchantments restrained colored highlights appropriate to the item.\nComposition: single isolated object or coherent set intrinsic to this item, fully visible, centered square canvas, three-quarter view with 8 percent breathing room on every edge; large readable subject. No people, no hands holding it, no scenery, no floor, no pedestal, no cast background shadow, no border, no frame, no caption, no lettering, no logo, no watermark. Actual transparent alpha surrounding the item, not a checkerboard painted into the image. Self-contained subtle glow only if relevant. Do not include unrelated objects or a scene illustrating the rules. Clothing and armor displayed as empty garments without mannequin or wearer. Books and scrolls use abstract unreadable marks.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-bbbb1f61-577f-4cbf-a2c6-6718dd347644.png",
+      "files": [
+        {
+          "path": "equipWorkshopWrecker.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 30952,
+          "sha256": "cf4e43ce6c90cbbead95909502c4157bdb9232bb08b2789c594ccac5ec0e32d3"
+        },
+        {
+          "path": "large/equipWorkshopWrecker.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 129584,
+          "sha256": "7d54096566fdce1f13c1af9641ab2e101c5b1aa3083b588cc420f5852c84c87d"
+        }
+      ]
     }
   ]
 }
