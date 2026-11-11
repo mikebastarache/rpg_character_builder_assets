@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "filename": "default.webp",
+  "dimensions": [
+    2560,
+    1440
+  ],
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2e5091ef-21e0-4c7c-b8cf-f71dcd2aa543.png",
+  "prompt": "Use case: stylized-concept. Asset: full-bleed landscape scene background for a One Ring tabletop fantasy interface, 16:9 composition, intended export 2560x1440. Create an original evocative wintry expedition landscape inspired by the attached reference's visual language. An immense weathered early-medieval stone bridge spans a steep snow-filled mountain ravine, surrounded by broken ancient ramparts and looming cliff faces. Three tiny cloaked travelers with walking staffs cross its high parapet, dwarfed by the landscape; a distant layered valley opens through the bridge arch. Windblown snow sweeps diagonally across dark jagged stone. The mood is quiet, perilous and epic, a journey into an old forgotten realm. Match the reference's expressive painterly fantasy book illustration: broad angular gouache and dry-brush strokes, scratched gritty paper textures, rough broken edges, strongly simplified graphic shapes with atmospheric depth, beautiful selective architectural detail. Not photorealistic, not a glossy 3D render. Palette: muted icy blue, slate, deep blue-black, pale gray snow, a restrained sliver of warm ivory dawn along the far horizon. Wide cinematic environmental composition, bridge and distant travelers near the upper middle third, misty spacious ravine in the lower middle allowing readable interface overlay, dark natural rock framing at the outer edges. Complete coherent artwork from edge to edge including the bottom; do not reproduce the attachment's black cutoff or screen artifacts. No black bars, blank strip, border, title, typography, watermark, logo or user interface. No prominent foreground heads or crowds. Preserve the reference's monumental sense of scale and textured brushwork while creating new architecture and landscape."
+}

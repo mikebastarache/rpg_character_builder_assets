@@ -1,0 +1,1542 @@
+{
+  "generator": "built-in image_gen",
+  "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/the_one_ring/equipment",
+  "items": [
+    {
+      "id": "dagger",
+      "name": "Dagger",
+      "group": "weapons",
+      "design": "A modest practical straight double-edged belt dagger, small plain crossguard, narrow pointed blade and wrapped grip.",
+      "filename": "equipDagger.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Dagger. Subject design: A modest practical straight double-edged belt dagger, small plain crossguard, narrow pointed blade and wrapped grip. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-8c791955-c2eb-4b6d-bd21-b4ab8b5d78a2.png",
+      "files": [
+        {
+          "path": "equipDagger.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 9394,
+          "quality": 88,
+          "sha256": "8897f208137b175541cae1aeaa8ed9def37b718fa1a2610cacf19efb181c3a06"
+        },
+        {
+          "path": "large/equipDagger.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 28586,
+          "quality": 88,
+          "sha256": "e48ced6751400810d117ded9e9f1f45a8b73df6d2c0204d3b429449458be2b10"
+        }
+      ]
+    },
+    {
+      "id": "cudgel",
+      "name": "Cudgel",
+      "group": "weapons",
+      "design": "A short one-handed wooden cudgel, naturally knotted hardwood with a simple wrapped grip. Smaller and lighter than a club.",
+      "filename": "equipCudgel.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Cudgel. Subject design: A short one-handed wooden cudgel, naturally knotted hardwood with a simple wrapped grip. Smaller and lighter than a club. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-25bf4934-b176-44c8-b810-d5d75e4727d6.png",
+      "files": [
+        {
+          "path": "equipCudgel.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 11136,
+          "quality": 88,
+          "sha256": "310b5dbd857703a15860652b0392d274fddef2ae22e751d624a8d2acf15eac54"
+        },
+        {
+          "path": "large/equipCudgel.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 36152,
+          "quality": 88,
+          "sha256": "dbaaf302402d1c5d0466ad87b5b1aaba1afd4572bba4c4c5acda63ca6b5b5db1"
+        }
+      ]
+    },
+    {
+      "id": "club",
+      "name": "Club",
+      "group": "weapons",
+      "design": "A substantial heavy hardwood club, thick rounded striking end and plain leather-wrapped handle, a few functional iron reinforcing bands.",
+      "filename": "equipClub.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Club. Subject design: A substantial heavy hardwood club, thick rounded striking end and plain leather-wrapped handle, a few functional iron reinforcing bands. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-457a599a-366d-42e2-926f-582ded6a9613.png",
+      "files": [
+        {
+          "path": "equipClub.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 12582,
+          "quality": 88,
+          "sha256": "48d8a4a730c8e1af9a8d09e4d1cec191aa239f624f515059e098fc9a68e13c2d"
+        },
+        {
+          "path": "large/equipClub.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 42486,
+          "quality": 88,
+          "sha256": "9f76ab7a78ed1d6ab939a58db13f87923af599fc2d8582009f38c0ae017d8d9a"
+        }
+      ]
+    },
+    {
+      "id": "short-sword",
+      "name": "Short Sword",
+      "group": "weapons",
+      "design": "A compact straight double-edged short sword, broad tapering blade, restrained guard and simple round pommel. A short close-combat blade, clearly smaller in proportions than a sword.",
+      "filename": "equipShortSword.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Short Sword. Subject design: A compact straight double-edged short sword, broad tapering blade, restrained guard and simple round pommel. A short close-combat blade, clearly smaller in proportions than a sword. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-bcc55517-5f9a-4ec5-a570-3a5168d51661.png",
+      "files": [
+        {
+          "path": "equipShortSword.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 10144,
+          "quality": 88,
+          "sha256": "bafef42acdb36bba4a01406e6067b4306602b29b9027fc7893a5c204bbadba98"
+        },
+        {
+          "path": "large/equipShortSword.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 32732,
+          "quality": 88,
+          "sha256": "614b672894a72304d93e2f2dcf5fcf03f080fa3e1b2b6b07c58327bfddef9210"
+        }
+      ]
+    },
+    {
+      "id": "sword",
+      "name": "Sword",
+      "group": "weapons",
+      "design": "A one-handed straight double-edged sword, long tapering blade with a central fuller, modest crossguard, leather-wrapped grip, small round pommel. Slender and restrained, like the sword in the supplied reference.",
+      "filename": "equipSword.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Sword. Subject design: A one-handed straight double-edged sword, long tapering blade with a central fuller, modest crossguard, leather-wrapped grip, small round pommel. Slender and restrained, like the sword in the supplied reference. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c1711c9a-6ead-4163-bebe-9ed210dd9329.png",
+      "files": [
+        {
+          "path": "equipSword.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 7820,
+          "quality": 88,
+          "sha256": "189f0065b8f6c74c8b9ba3b996039ab227a640a5b5e754eb0cccf05e3b3eab3e"
+        },
+        {
+          "path": "large/equipSword.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 22312,
+          "quality": 88,
+          "sha256": "019687412d7f99fbda55741605da44a276be202bd19b22cb065079a6e402da57"
+        }
+      ]
+    },
+    {
+      "id": "long-sword",
+      "name": "Long Sword",
+      "group": "weapons",
+      "design": "A long straight double-edged sword, slender tapering blade and extended hand-and-a-half hilt, modest round pommel and finely crafted plain guard. Longer proportions than a one-handed sword.",
+      "filename": "equipLongSword.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Long Sword. Subject design: A long straight double-edged sword, slender tapering blade and extended hand-and-a-half hilt, modest round pommel and finely crafted plain guard. Longer proportions than a one-handed sword. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6571dadd-5432-44e2-ba6a-9838d33195db.png",
+      "files": [
+        {
+          "path": "equipLongSword.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 7924,
+          "quality": 88,
+          "sha256": "172b2154ced8745f49f1970c99bac25a05fe89e29c5d9b5da158d3d8e5489ee1"
+        },
+        {
+          "path": "large/equipLongSword.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 22696,
+          "quality": 88,
+          "sha256": "a1c81e71537e42fbc2c24e202208e48b36a58708587db0e697b335bb2b97ae60"
+        }
+      ]
+    },
+    {
+      "id": "short-spear",
+      "name": "Short Spear",
+      "group": "weapons",
+      "design": "A light throwing spear with a slim wooden shaft, compact leaf-shaped iron head and simple socket. Minimal decoration.",
+      "filename": "equipShortSpear.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Short Spear. Subject design: A light throwing spear with a slim wooden shaft, compact leaf-shaped iron head and simple socket. Minimal decoration. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3383cfc1-8b68-42c9-90a5-9587a896a1d0.png",
+      "files": [
+        {
+          "path": "equipShortSpear.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 7092,
+          "quality": 88,
+          "sha256": "daea3972fb46f740033790892da0553e546ba7c4b4ecfd18f8df80869d6d9fef"
+        },
+        {
+          "path": "large/equipShortSpear.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 22132,
+          "quality": 88,
+          "sha256": "420a2e9fbb5af684a6f5da8a8ab588abefbc6aadbbe3b2c523ef7b5c31d0a883"
+        }
+      ]
+    },
+    {
+      "id": "spear",
+      "name": "Spear",
+      "group": "weapons",
+      "design": "A sturdy straight wooden spear with a medium leaf-shaped iron head and clean functional socket. A versatile field weapon with restrained craftsmanship.",
+      "filename": "equipSpear.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Spear. Subject design: A sturdy straight wooden spear with a medium leaf-shaped iron head and clean functional socket. A versatile field weapon with restrained craftsmanship. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-fe6b8289-b805-427c-a74f-fc3a2df8c335.png",
+      "files": [
+        {
+          "path": "equipSpear.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 6682,
+          "quality": 88,
+          "sha256": "e7193e5ad2ba54d7e56bef958d685443360325cb90c716c1f55386de20ebd34e"
+        },
+        {
+          "path": "large/equipSpear.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 19306,
+          "quality": 88,
+          "sha256": "47c18b2d8db68fc49a206f1518d4acd9751d51ed4c50e8755d4a2b37d28f8957"
+        }
+      ]
+    },
+    {
+      "id": "great-spear",
+      "name": "Great Spear",
+      "group": "weapons",
+      "design": "A long two-handed spear, extended wood shaft and broad elongated pointed iron head with a small transverse stop below the socket, inspired by the supplied spear reference.",
+      "filename": "equipGreatSpear.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Great Spear. Subject design: A long two-handed spear, extended wood shaft and broad elongated pointed iron head with a small transverse stop below the socket, inspired by the supplied spear reference. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7bd00c5b-21c9-4a88-81bf-2877e848a777.png",
+      "files": [
+        {
+          "path": "equipGreatSpear.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 6548,
+          "quality": 88,
+          "sha256": "51c574868898b4e659d10cf358cdd002588ab597e80be95cba0d8bba888fc5c2"
+        },
+        {
+          "path": "large/equipGreatSpear.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 18882,
+          "quality": 88,
+          "sha256": "b2bcf7839867da060bf68c21200589fb58f02c552ca0168aa12c111ef8e1a3f6"
+        }
+      ]
+    },
+    {
+      "id": "axe",
+      "name": "Axe",
+      "group": "weapons",
+      "design": "A practical one-handed bearded fighting axe, slightly curved wood handle and modest single iron cutting head, like the first axe in the reference.",
+      "filename": "equipAxe.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Axe. Subject design: A practical one-handed bearded fighting axe, slightly curved wood handle and modest single iron cutting head, like the first axe in the reference. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-dc97f2a3-99a3-485f-9790-4dc7d222844b.png",
+      "files": [
+        {
+          "path": "equipAxe.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 12084,
+          "quality": 88,
+          "sha256": "86af7bf500dc77c58bd285f6294b5875313940f9a729c65a3ce4e27ab700c94a"
+        },
+        {
+          "path": "large/equipAxe.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 38616,
+          "quality": 88,
+          "sha256": "1c1fb5159b385fe108a3f97dad25056680eae9376d25a45921fb6f76cea95205"
+        }
+      ]
+    },
+    {
+      "id": "long-hafted-axe",
+      "name": "Long-hafted Axe",
+      "group": "weapons",
+      "design": "A long straight haft carrying a single angular bearded iron axe head, functional socket and short leather grip. Entire long haft visible.",
+      "filename": "equipLongHaftedAxe.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Long-hafted Axe. Subject design: A long straight haft carrying a single angular bearded iron axe head, functional socket and short leather grip. Entire long haft visible. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e799394e-7711-42a5-b628-5e7a62763c0c.png",
+      "files": [
+        {
+          "path": "equipLongHaftedAxe.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 8788,
+          "quality": 88,
+          "sha256": "7b473155797f1ffcee9dfb77bf2832cccf64817b82cdc417f10298d5f101224a"
+        },
+        {
+          "path": "large/equipLongHaftedAxe.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 25626,
+          "quality": 88,
+          "sha256": "9bf36f6d12e3210ff5aaccea20f2bcb07086e96ecb4bb469692e128e25341778"
+        }
+      ]
+    },
+    {
+      "id": "great-axe",
+      "name": "Great Axe",
+      "group": "weapons",
+      "design": "A heavy two-handed axe with a broad sweeping crescent cutting edge, elongated wooden haft and simple forged socket. Grounded traditional craftsmanship, not an oversized fantasy weapon.",
+      "filename": "equipGreatAxe.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Great Axe. Subject design: A heavy two-handed axe with a broad sweeping crescent cutting edge, elongated wooden haft and simple forged socket. Grounded traditional craftsmanship, not an oversized fantasy weapon. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-a2ce489c-76e3-4bef-a655-b489e9c0c6e8.png",
+      "files": [
+        {
+          "path": "equipGreatAxe.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 12922,
+          "quality": 88,
+          "sha256": "c2a2447f4c887dc37ff559a208dd6c45277b0e54cb75ebe3fd8cb120de07afb4"
+        },
+        {
+          "path": "large/equipGreatAxe.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 41982,
+          "quality": 88,
+          "sha256": "28f022c62f28acc3628d46122790c88327876bbb143e6e1335453229002decf7"
+        }
+      ]
+    },
+    {
+      "id": "mattock",
+      "name": "Mattock",
+      "group": "weapons",
+      "design": "A two-handed mattock with a gently curved iron pick on one side of the head and a broad spade-like adze blade on the other, long wooden haft with restrained geometric carving near the grip. Match the structure of the supplied mattock reference.",
+      "filename": "equipMattock.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Mattock. Subject design: A two-handed mattock with a gently curved iron pick on one side of the head and a broad spade-like adze blade on the other, long wooden haft with restrained geometric carving near the grip. Match the structure of the supplied mattock reference. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-8a815176-dd11-4789-9106-af69d1cdc57f.png",
+      "files": [
+        {
+          "path": "equipMattock.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 10864,
+          "quality": 88,
+          "sha256": "a4500aa2ea33178460469e4885113fc1ce2a81efab01004f56fa32d5a832d79d"
+        },
+        {
+          "path": "large/equipMattock.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 32312,
+          "quality": 88,
+          "sha256": "97f46436ada310b978c860291e361f56a6d78aaa2d1928e685891c4276081de1"
+        }
+      ]
+    },
+    {
+      "id": "bow",
+      "name": "Bow",
+      "group": "weapons",
+      "design": "A simple short wooden hunting bow, gently recurved tips, thin clearly visible string, modest leather grip, no arrows.",
+      "filename": "equipBow.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Bow. Subject design: A simple short wooden hunting bow, gently recurved tips, thin clearly visible string, modest leather grip, no arrows. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-10d0b0dc-85b1-43a9-8f9b-b74f07aa2ada.png",
+      "files": [
+        {
+          "path": "equipBow.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 14718,
+          "quality": 88,
+          "sha256": "a78a4dc5eb32b6f447e2b7c4ab5c8615ab940c0490a03034ef8b35f6bc2ab712"
+        },
+        {
+          "path": "large/equipBow.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 47900,
+          "quality": 88,
+          "sha256": "a7013d4cf14675d5645dfe2358894831e4ce63373c0d74f47a967cad37cd74de"
+        }
+      ]
+    },
+    {
+      "id": "great-bow",
+      "name": "Great Bow",
+      "group": "weapons",
+      "design": "A tall powerful longbow, long graceful wooden limbs, string and reinforced leather grip. Clearly taller and heavier than the hunting bow, no arrows.",
+      "filename": "equipGreatBow.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Great Bow. Subject design: A tall powerful longbow, long graceful wooden limbs, string and reinforced leather grip. Clearly taller and heavier than the hunting bow, no arrows. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-84bc1463-acd0-4e8f-81e2-0df2a420ada0.png",
+      "files": [
+        {
+          "path": "equipGreatBow.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 10840,
+          "quality": 88,
+          "sha256": "608db272b394778eee589a40b173b98ba5b81b13ba3e2ef258951cdc1450eef8"
+        },
+        {
+          "path": "large/equipGreatBow.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 31776,
+          "quality": 88,
+          "sha256": "1692919306d9fcf7a6537361cd641db217040588a959e671b95ecd2946bd7a16"
+        }
+      ]
+    },
+    {
+      "id": "leather-shirt",
+      "name": "Leather Shirt",
+      "group": "armour",
+      "design": "An empty waist-length sleeveless shirt of layered cured leather, practical stitched panels and simple fastening straps, no wearer or mannequin.",
+      "filename": "equipLeatherShirt.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Leather Shirt. Subject design: An empty waist-length sleeveless shirt of layered cured leather, practical stitched panels and simple fastening straps, no wearer or mannequin. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-50d7fa46-5e7f-429d-be76-54e23df86748.png",
+      "files": [
+        {
+          "path": "equipLeatherShirt.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 17728,
+          "quality": 88,
+          "sha256": "f9d45649fe189401ba5e308b0deba525ac57f1e0cebbb8199daec928a80c61a4"
+        },
+        {
+          "path": "large/equipLeatherShirt.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 70072,
+          "quality": 88,
+          "sha256": "bf985ef83818af8985d67d00db403c78cdc390e39d86e598a74f427ebec1fe30"
+        }
+      ]
+    },
+    {
+      "id": "leather-corslet",
+      "name": "Leather Corslet",
+      "group": "armour",
+      "design": "An empty close-fitting hardened leather corslet with long sleeves and hip-length protection, carefully sewn layered hides, no wearer or mannequin.",
+      "filename": "equipLeatherCorslet.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Leather Corslet. Subject design: An empty close-fitting hardened leather corslet with long sleeves and hip-length protection, carefully sewn layered hides, no wearer or mannequin. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-fff40c5e-4956-492e-9961-eda10d6dbc28.png",
+      "files": [
+        {
+          "path": "equipLeatherCorslet.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 23768,
+          "quality": 88,
+          "sha256": "cfbde79f49bf8e133c5643ce958ba05c83ce08beeec3f9c49ba560e0fc221ba7"
+        },
+        {
+          "path": "large/equipLeatherCorslet.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 92078,
+          "quality": 88,
+          "sha256": "66331c6bf930ebea498b6ab7c0d05a24fd4aaf2b255742dca4d3ad40d966ddbb"
+        }
+      ]
+    },
+    {
+      "id": "mail-shirt",
+      "name": "Mail-shirt",
+      "group": "armour",
+      "design": "An empty waist-length short-sleeved mail shirt, fine interlocking iron rings, believable drape and simple neckline, no wearer or mannequin.",
+      "filename": "equipMailShirt.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Mail-shirt. Subject design: An empty waist-length short-sleeved mail shirt, fine interlocking iron rings, believable drape and simple neckline, no wearer or mannequin. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-de6c49aa-3b8f-4f2b-82fe-3048ef7d335f.png",
+      "files": [
+        {
+          "path": "equipMailShirt.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 29578,
+          "quality": 86,
+          "sha256": "b8c63538bda78ce895d1e094f524eccaeb2cdf234554ba5c8bb80e50650b2a79"
+        },
+        {
+          "path": "large/equipMailShirt.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 126716,
+          "quality": 88,
+          "sha256": "955e76c79ace3c77c9d9aaeec02ce51edae9d4a0da5c219e672071a818ab85e6"
+        }
+      ]
+    },
+    {
+      "id": "coat-of-mail",
+      "name": "Coat of Mail",
+      "group": "armour",
+      "design": "An empty long-sleeved knee-length coat of mail, fine interlocking iron rings and a split lower hem, believable drape, no wearer or mannequin.",
+      "filename": "equipCoatOfMail.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Coat of Mail. Subject design: An empty long-sleeved knee-length coat of mail, fine interlocking iron rings and a split lower hem, believable drape, no wearer or mannequin. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6fdc3a37-a29a-4cec-a5ba-c2dbf619fa7a.png",
+      "files": [
+        {
+          "path": "equipCoatOfMail.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22268,
+          "quality": 88,
+          "sha256": "7844bbc949894ce6ffa0a097f0954682c36a0df85c8d54ef6c079def233c1004"
+        },
+        {
+          "path": "large/equipCoatOfMail.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 89228,
+          "quality": 88,
+          "sha256": "c6df24a391a563d374cdcef47a5c625bcdc75dcd0bad83a0fe3d9e26ac1e853c"
+        }
+      ]
+    },
+    {
+      "id": "helm",
+      "name": "Helm",
+      "group": "helms",
+      "design": "A modest early medieval rounded iron helmet with a nasal guard and close-fitting cheek guards, subtle engraved trim, empty helmet, no head.",
+      "filename": "equipHelm.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Helm. Subject design: A modest early medieval rounded iron helmet with a nasal guard and close-fitting cheek guards, subtle engraved trim, empty helmet, no head. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-be8643a0-bc50-4a9d-9498-6d73938519b8.png",
+      "files": [
+        {
+          "path": "equipHelm.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 19540,
+          "quality": 88,
+          "sha256": "aa1c61515303afa30a1e1c042a6e2ce9f4044cf965cd515af3e382c892721581"
+        },
+        {
+          "path": "large/equipHelm.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 82228,
+          "quality": 88,
+          "sha256": "b606e6b6dfb808db83e35f0fb6885c7a60ee61fb2ab7983df4666e9923f01256"
+        }
+      ]
+    },
+    {
+      "id": "buckler",
+      "name": "Buckler",
+      "group": "shields",
+      "design": "A small circular wooden buckler with visible board grain, simple leather-covered rim and protruding round iron boss.",
+      "filename": "equipBuckler.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Buckler. Subject design: A small circular wooden buckler with visible board grain, simple leather-covered rim and protruding round iron boss. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-5d7dbc65-ffdd-4d7e-8662-c17955ff4a57.png",
+      "files": [
+        {
+          "path": "equipBuckler.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25958,
+          "quality": 88,
+          "sha256": "3cab70c679c45172d9067c9fb7bee2dd885beaffb04fe90f734daad8b88e27a2"
+        },
+        {
+          "path": "large/equipBuckler.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 113216,
+          "quality": 88,
+          "sha256": "1318208bb384e71bbdfed2e034b2f4d55b471b3e1c64c2bdf112b917cd905612"
+        }
+      ]
+    },
+    {
+      "id": "shield",
+      "name": "Shield",
+      "group": "shields",
+      "design": "A medium round wooden shield with leather facing, a large central iron boss and simple lightly engraved edging. No heraldic letters or writing.",
+      "filename": "equipShield.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Shield. Subject design: A medium round wooden shield with leather facing, a large central iron boss and simple lightly engraved edging. No heraldic letters or writing. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-1beec529-b417-4913-a8ff-2ca606554621.png",
+      "files": [
+        {
+          "path": "equipShield.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 29066,
+          "quality": 88,
+          "sha256": "5f250195b5561fcb653fa47cda3ddafc13fe3185e53bdb2a4da99e31c7cc128f"
+        },
+        {
+          "path": "large/equipShield.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 122392,
+          "quality": 88,
+          "sha256": "f1a8098c37b1da94dd7466dfd578ac3695870ee8fe4f3b43f1875d2f29c431dd"
+        }
+      ]
+    },
+    {
+      "id": "great-shield",
+      "name": "Great Shield",
+      "group": "shields",
+      "design": "A large sturdy tall kite-shaped shield, wood covered in worn leather, iron boss and restrained reinforcing rim, no heraldic text.",
+      "filename": "equipGreatShield.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Great Shield. Subject design: A large sturdy tall kite-shaped shield, wood covered in worn leather, iron boss and restrained reinforcing rim, no heraldic text. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-664bd716-18ac-46ec-8a51-1d9b2c244c00.png",
+      "files": [
+        {
+          "path": "equipGreatShield.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 13198,
+          "quality": 88,
+          "sha256": "76436a26729517168ed74cd558e9a39a0f34815bd72b1e48eefc62e76633d831"
+        },
+        {
+          "path": "large/equipGreatShield.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 50126,
+          "quality": 88,
+          "sha256": "e87d96c720066fb3496dd8547285847cf1c4bf81825941d96a31f9d591e158ac"
+        }
+      ]
+    },
+    {
+      "id": "skinning-knife",
+      "name": "Skinning Knife",
+      "group": "usefulItems",
+      "design": "A small curved steel skinning knife with a plain bone handle, practical hunting tool distinct from the straight dagger.",
+      "filename": "equipSkinningKnife.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Skinning Knife. Subject design: A small curved steel skinning knife with a plain bone handle, practical hunting tool distinct from the straight dagger. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-17dac4b0-15eb-4b5b-832d-a15144535aa1.png",
+      "files": [
+        {
+          "path": "equipSkinningKnife.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 9182,
+          "quality": 88,
+          "sha256": "15b28126c2b8c13d82962af3f53ad4cd112859aea08b047987455bf8e26db26a"
+        },
+        {
+          "path": "large/equipSkinningKnife.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 28202,
+          "quality": 88,
+          "sha256": "f2c569bf95dc1376cdd9ae3be12084732776a68f079311319f2c94e42c116923"
+        }
+      ]
+    },
+    {
+      "id": "salt-box",
+      "name": "Salt Box",
+      "group": "usefulItems",
+      "design": "A small lidded wooden box partly open to reveal coarse salt crystals, simple travel cooking supply.",
+      "filename": "equipSaltBox.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Salt Box. Subject design: A small lidded wooden box partly open to reveal coarse salt crystals, simple travel cooking supply. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-7529b486-a33f-4381-89a9-62ccc155eaff.png",
+      "files": [
+        {
+          "path": "equipSaltBox.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 26688,
+          "quality": 88,
+          "sha256": "81a1a0ef461e0cbc953b4726e8762e1c6fae61205789db11cb3d2deca498a7f2"
+        },
+        {
+          "path": "large/equipSaltBox.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 109776,
+          "quality": 88,
+          "sha256": "4671bd9a5f8ead4135422d3a84aaf5a84e4a483a5c4478d9ff003ec974886716"
+        }
+      ]
+    },
+    {
+      "id": "rope-and-grappling-hook",
+      "name": "Rope and Grappling Hook",
+      "group": "usefulItems",
+      "design": "A compact coil of good hemp climbing rope attached to a simple forged iron four-pronged grappling hook.",
+      "filename": "equipRopeAndGrapplingHook.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Rope and Grappling Hook. Subject design: A compact coil of good hemp climbing rope attached to a simple forged iron four-pronged grappling hook. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-c83d7329-1a2c-4b5b-af29-89b63d23422b.png",
+      "files": [
+        {
+          "path": "equipRopeAndGrapplingHook.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 16206,
+          "quality": 88,
+          "sha256": "4a37881b95073c2da2d52d8831c9e0702b4e0c105ff9a3eed7f588c4cef4a251"
+        },
+        {
+          "path": "large/equipRopeAndGrapplingHook.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 52814,
+          "quality": 88,
+          "sha256": "79e67066c22d02244a1f06b8d1de8ee0b52cf62c8dece47b5b7e2fa2593e53f1"
+        }
+      ]
+    },
+    {
+      "id": "windproof-lantern",
+      "name": "Windproof Lantern",
+      "group": "usefulItems",
+      "design": "A small hooded medieval wind-proof iron lantern with a hinged door, protected glass panes and carrying handle, unlit.",
+      "filename": "equipWindproofLantern.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Windproof Lantern. Subject design: A small hooded medieval wind-proof iron lantern with a hinged door, protected glass panes and carrying handle, unlit. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-9c98d298-298f-4580-a79a-c70a2968c5ec.png",
+      "files": [
+        {
+          "path": "equipWindproofLantern.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 16782,
+          "quality": 88,
+          "sha256": "387029122aeb18aabad29c54d8b5609c8716d43de68988660b6295960c3042fa"
+        },
+        {
+          "path": "large/equipWindproofLantern.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 61470,
+          "quality": 88,
+          "sha256": "cc9cc345d6a1112d939ea2682fb138d5ef84bca98517f9998697a311a43dc926"
+        }
+      ]
+    },
+    {
+      "id": "musical-instrument",
+      "name": "Musical Instrument",
+      "group": "usefulItems",
+      "design": "A finely crafted small travel lute with a rounded wooden body, carved sound hole, slender neck and delicate visible strings.",
+      "filename": "equipMusicalInstrument.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Musical Instrument. Subject design: A finely crafted small travel lute with a rounded wooden body, carved sound hole, slender neck and delicate visible strings. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-599e254d-6e95-4780-89ff-92eac7ad87d9.png",
+      "files": [
+        {
+          "path": "equipMusicalInstrument.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 14620,
+          "quality": 88,
+          "sha256": "872898d1bede223aaf613eb5cb81c568d3dc585147ff5d6b7ba9bd5e7b808426"
+        },
+        {
+          "path": "large/equipMusicalInstrument.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 52414,
+          "quality": 88,
+          "sha256": "db3b050cf626b195752896e5bc806a282f75aea1c8246dffbff53604543bdef9"
+        }
+      ]
+    },
+    {
+      "id": "soothing-balm",
+      "name": "Soothing Balm",
+      "group": "usefulItems",
+      "design": "A small stoppered ceramic ointment pot with its lid beside it, a dab of balm visible, a tiny plain wood applicator.",
+      "filename": "equipSoothingBalm.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Soothing Balm. Subject design: A small stoppered ceramic ointment pot with its lid beside it, a dab of balm visible, a tiny plain wood applicator. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-53d1fcc4-e9c2-43da-95f0-722dd3c54130.png",
+      "files": [
+        {
+          "path": "equipSoothingBalm.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 20866,
+          "quality": 88,
+          "sha256": "18f40a573c1bae81135b9bfa6543151563bb0ce3ef00607e053f2c0ed69424ef"
+        },
+        {
+          "path": "large/equipSoothingBalm.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 81398,
+          "quality": 88,
+          "sha256": "6dca4883b7f101b6c4132bb041794b429067d6101f8719c6d32e624159413021"
+        }
+      ]
+    },
+    {
+      "id": "fine-clothing",
+      "name": "Fine Clothing",
+      "group": "usefulItems",
+      "design": "An elegant folded wool tunic and draped mantle with subtle embroidered edging, fine early medieval clothing, no body or mannequin.",
+      "filename": "equipFineClothing.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Fine Clothing. Subject design: An elegant folded wool tunic and draped mantle with subtle embroidered edging, fine early medieval clothing, no body or mannequin. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-698cd777-337a-488d-ab57-52305fdf69ef.png",
+      "files": [
+        {
+          "path": "equipFineClothing.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22092,
+          "quality": 88,
+          "sha256": "6c28bcbf1db869a92ddb33e125409a3ea9592efcf83043a7f4f55451111caf3b"
+        },
+        {
+          "path": "large/equipFineClothing.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 93956,
+          "quality": 88,
+          "sha256": "a1d7303fc9905edb51d3a40c27b302c5b374dbe8ad0ec0f063583080a37536f3"
+        }
+      ]
+    },
+    {
+      "id": "pearl-earrings",
+      "name": "Pearl Earrings",
+      "group": "usefulItems",
+      "design": "A pair of delicately worked small silver earrings, each carrying a single pale pearl, simple fine craftsmanship.",
+      "filename": "equipPearlEarrings.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Pearl Earrings. Subject design: A pair of delicately worked small silver earrings, each carrying a single pale pearl, simple fine craftsmanship. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-0ee03606-ce52-4e86-8f9a-63a8afc5ff8b.png",
+      "files": [
+        {
+          "path": "equipPearlEarrings.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 29056,
+          "quality": 88,
+          "sha256": "690c6c6072dcdb9d2c9690e9631660b6dc20a77fbe5dd7ba850867cc55446d4b"
+        },
+        {
+          "path": "large/equipPearlEarrings.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 108190,
+          "quality": 88,
+          "sha256": "e464b370e2de7e5fb932949fd2bbd8378ad9dff8bfe6b15821df8f9ddc9f8f39"
+        }
+      ]
+    },
+    {
+      "id": "strengthening-liquor",
+      "name": "Strengthening Liquor",
+      "group": "usefulItems",
+      "design": "A small old-fashioned stoppered stoneware spirits flask in a simple woven sleeve, travel liquor, no label.",
+      "filename": "equipStrengtheningLiquor.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Strengthening Liquor. Subject design: A small old-fashioned stoppered stoneware spirits flask in a simple woven sleeve, travel liquor, no label. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-582d1a0f-2c2a-4c06-9fd4-0bf9ee108446.png",
+      "files": [
+        {
+          "path": "equipStrengtheningLiquor.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 19528,
+          "quality": 88,
+          "sha256": "515ed37ad21e4b9062bd07af8b7401fade54bf6983fffa53e7b7de2596823c90"
+        },
+        {
+          "path": "large/equipStrengtheningLiquor.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 71282,
+          "quality": 88,
+          "sha256": "07763e120a3e3a515fc75167e38a4a2502ae2e948efe5da9092fe27b934636a8"
+        }
+      ]
+    },
+    {
+      "id": "sunstone",
+      "name": "Sunstone",
+      "group": "usefulItems",
+      "design": "A naturally translucent faceted calcite navigation sunstone, small hand-sized irregular clear crystal with fine visible internal planes, no magical aura.",
+      "filename": "equipSunstone.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Sunstone. Subject design: A naturally translucent faceted calcite navigation sunstone, small hand-sized irregular clear crystal with fine visible internal planes, no magical aura. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-545fad2c-8256-4ff3-b43e-afe9b9173f1a.png",
+      "files": [
+        {
+          "path": "equipSunstone.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21664,
+          "quality": 88,
+          "sha256": "e87a8d22e402956397d02ee6c9671f7e291474a164eff37c349f0f7736ffbb92"
+        },
+        {
+          "path": "large/equipSunstone.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 91004,
+          "quality": 88,
+          "sha256": "cf8fc63f6b251dbd0ea6c8184aeeda3ccae8a681260beb76b16f032fe9ddae2a"
+        }
+      ]
+    },
+    {
+      "id": "fine-pipe",
+      "name": "Fine Pipe",
+      "group": "usefulItems",
+      "design": "A finely carved long-stem wooden smoking pipe with a small deep bowl, restrained leaf carving, unlit, no smoke.",
+      "filename": "equipFinePipe.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Fine Pipe. Subject design: A finely carved long-stem wooden smoking pipe with a small deep bowl, restrained leaf carving, unlit, no smoke. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-a49faf11-4aa8-44ed-859b-5461e3b55e0c.png",
+      "files": [
+        {
+          "path": "equipFinePipe.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 8868,
+          "quality": 88,
+          "sha256": "e9f4c2f577905b15a3e0b275dae9c7d6e6ae37ce0268e9ca6c52b0a4ef5cb5f3"
+        },
+        {
+          "path": "large/equipFinePipe.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 26536,
+          "quality": 88,
+          "sha256": "7ac6e4ad1617db9890eaa6e0fb187a4128d6ae1b6b72ad8aa5c0caaa516b8bd7"
+        }
+      ]
+    },
+    {
+      "id": "maps",
+      "name": "Maps",
+      "group": "usefulItems",
+      "design": "A rolled map tied with twine beside a partly unfurled parchment showing subtle unlabeled hills and rivers, no text, no compass lettering.",
+      "filename": "equipMaps.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Maps. Subject design: A rolled map tied with twine beside a partly unfurled parchment showing subtle unlabeled hills and rivers, no text, no compass lettering. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-cf10b67b-7941-4461-bade-cf40cf5e3467.png",
+      "files": [
+        {
+          "path": "equipMaps.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 15558,
+          "quality": 88,
+          "sha256": "4de68d69b9438148a702b8e1103d512bbc9da0f5d8e35d9fdd51708c900b1ecf"
+        },
+        {
+          "path": "large/equipMaps.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 62622,
+          "quality": 88,
+          "sha256": "aa62c8bb05f1e7422861f82968ecd15829dac62b959a17921e693e71bef51ccf"
+        }
+      ]
+    },
+    {
+      "id": "stonecarving-tools",
+      "name": "Stonecarving Tools",
+      "group": "usefulItems",
+      "design": "A compact set of small iron stonecarving chisels and a simple wooden mallet arranged on a partly opened leather tool roll.",
+      "filename": "equipStonecarvingTools.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Stonecarving Tools. Subject design: A compact set of small iron stonecarving chisels and a simple wooden mallet arranged on a partly opened leather tool roll. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3cbe61e6-3507-4453-bc0e-d6c8a966ead8.png",
+      "files": [
+        {
+          "path": "equipStonecarvingTools.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22578,
+          "quality": 88,
+          "sha256": "0b955b56f6575a2ea6eedd06eeaac5fd1c4af92e5525d3892cca6c9e055e7b67"
+        },
+        {
+          "path": "large/equipStonecarvingTools.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 91698,
+          "quality": 88,
+          "sha256": "ee4b01d07bf4c4126e8a9e8a24fb320df88ced1c8f1634d21ad4c921a3cb0694"
+        }
+      ]
+    },
+    {
+      "id": "boots",
+      "name": "Boots",
+      "group": "travellingGear",
+      "design": "A pair of sturdy worn leather travelling boots, simple early medieval stitching and ties.",
+      "filename": "equipBoots.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Boots. Subject design: A pair of sturdy worn leather travelling boots, simple early medieval stitching and ties. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2bec6d80-67c6-4e05-b432-d670699c2f0f.png",
+      "files": [
+        {
+          "path": "equipBoots.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 24548,
+          "quality": 88,
+          "sha256": "922f64cc742a38500a8c26f3c809729316a108a39fb0054805fc27e460164b32"
+        },
+        {
+          "path": "large/equipBoots.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 96860,
+          "quality": 88,
+          "sha256": "e98986cbfd574b5909cd60ffd081a5bea0c5554f1ff0a7bbd55a08deb941dd53"
+        }
+      ]
+    },
+    {
+      "id": "winter-jacket",
+      "name": "Winter Jacket",
+      "group": "travellingGear",
+      "design": "A folded thick padded wool winter jacket, simple ties and worn hem, empty garment, no body.",
+      "filename": "equipWinterJacket.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Winter Jacket. Subject design: A folded thick padded wool winter jacket, simple ties and worn hem, empty garment, no body. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-822a136a-a8b6-4a1c-986e-1411dd5b731b.png",
+      "files": [
+        {
+          "path": "equipWinterJacket.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21184,
+          "quality": 88,
+          "sha256": "9f6539f4e54873d22290bf92d3385c8ce85c32cd1348e21f452c7b8b02a11c7c"
+        },
+        {
+          "path": "large/equipWinterJacket.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 86014,
+          "quality": 88,
+          "sha256": "329fc856d5b77ae774894186e8e8dea4f751a91f44a14a7e2eacc0cd4adeab18"
+        }
+      ]
+    },
+    {
+      "id": "fur-lined-cloak",
+      "name": "Fur-lined Cloak",
+      "group": "travellingGear",
+      "design": "A heavy travel cloak with visible soft fur lining and a simple round clasp, draped as an empty garment, no body.",
+      "filename": "equipFurLinedCloak.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Fur-lined Cloak. Subject design: A heavy travel cloak with visible soft fur lining and a simple round clasp, draped as an empty garment, no body. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-9d9d6aa4-965c-4213-bd71-fc65fa70e26e.png",
+      "files": [
+        {
+          "path": "equipFurLinedCloak.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 16608,
+          "quality": 88,
+          "sha256": "df70afa8cdad87abbf9e260fba807f5608719aa7f6be622a7af480ec802a45b0"
+        },
+        {
+          "path": "large/equipFurLinedCloak.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 68352,
+          "quality": 88,
+          "sha256": "fa72a6fa3f823e97bee2c200efb48874e424ed35b5208305e9338a2381984d68"
+        }
+      ]
+    },
+    {
+      "id": "woollen-hose",
+      "name": "Woollen Hose",
+      "group": "travellingGear",
+      "design": "A neatly folded pair of thick woollen hose or medieval travelling trousers, simple ties and stitched cloth, no wearer.",
+      "filename": "equipWoollenHose.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Woollen Hose. Subject design: A neatly folded pair of thick woollen hose or medieval travelling trousers, simple ties and stitched cloth, no wearer. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e7f7c8c8-24ec-427b-b06b-9775c795269b.png",
+      "files": [
+        {
+          "path": "equipWoollenHose.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 19364,
+          "quality": 88,
+          "sha256": "50cb550b18fb5bb874b43ec0d90337f01b8954fcc3a9b478f1ca7c9d9e53861d"
+        },
+        {
+          "path": "large/equipWoollenHose.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 77740,
+          "quality": 88,
+          "sha256": "830d3e52572e1053b9fe3d623d52a9651cb19c768099a76ea981b933a20ee814"
+        }
+      ]
+    },
+    {
+      "id": "blanket",
+      "name": "Blanket",
+      "group": "travellingGear",
+      "design": "A rolled thick wool travelling blanket tied with two plain leather straps, subtle woven texture.",
+      "filename": "equipBlanket.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Blanket. Subject design: A rolled thick wool travelling blanket tied with two plain leather straps, subtle woven texture. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-3f066417-1e99-4803-b884-8b8296cf96fa.png",
+      "files": [
+        {
+          "path": "equipBlanket.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 18076,
+          "quality": 88,
+          "sha256": "946b57de31ae100b7d454d89058f7453843cd1fcf9809f860ebaf8c3d56f7d12"
+        },
+        {
+          "path": "large/equipBlanket.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 71648,
+          "quality": 88,
+          "sha256": "290d30bd4e3c4275baf8493cf7e8861d541bcbb8f4cc0ccfc0da81df482d9857"
+        }
+      ]
+    },
+    {
+      "id": "light-clothing",
+      "name": "Light Clothing",
+      "group": "travellingGear",
+      "design": "A folded lightweight linen tunic and simple summer trousers, practical early medieval travelling clothes, no body.",
+      "filename": "equipLightClothing.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Light Clothing. Subject design: A folded lightweight linen tunic and simple summer trousers, practical early medieval travelling clothes, no body. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-98a89fb9-4439-4497-9106-d57d00f8ae63.png",
+      "files": [
+        {
+          "path": "equipLightClothing.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 21150,
+          "quality": 88,
+          "sha256": "df7b49ed186926f28ee66edfeb5560baccb1ee135b1fa719ca4a5d5e95b191f7"
+        },
+        {
+          "path": "large/equipLightClothing.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 84716,
+          "quality": 88,
+          "sha256": "e260eec3ddd297aa5cf1084f8d5e2013ba459b6f78de39afd2298620202f997c"
+        }
+      ]
+    },
+    {
+      "id": "light-cloak",
+      "name": "Light Cloak",
+      "group": "travellingGear",
+      "design": "A light wool travel cloak with a modest clasp, loosely folded to show its thinner flowing fabric, empty garment, no person.",
+      "filename": "equipLightCloak.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Light Cloak. Subject design: A light wool travel cloak with a modest clasp, loosely folded to show its thinner flowing fabric, empty garment, no person. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ad1b3912-f6eb-49d2-bd0a-a123923588ce.png",
+      "files": [
+        {
+          "path": "equipLightCloak.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 17138,
+          "quality": 88,
+          "sha256": "92cfc7455e60cfbbf3fc0b0475763110101f7af8634d346e243bcbe158a6cab9"
+        },
+        {
+          "path": "large/equipLightCloak.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 71084,
+          "quality": 88,
+          "sha256": "99c88a54a7d66de046aeb7aa043c4c95462f3243a12f427a8d5a754180145885"
+        }
+      ]
+    },
+    {
+      "id": "hobbit-pony",
+      "name": "Hobbit Pony",
+      "group": "mounts",
+      "design": "A sturdy small pony in three-quarter side view wearing a practical pack saddle with modest saddlebags, complete animal including all four hooves, calm natural pose, no rider or surroundings.",
+      "filename": "equipHobbitPony.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Hobbit Pony. Subject design: A sturdy small pony in three-quarter side view wearing a practical pack saddle with modest saddlebags, complete animal including all four hooves, calm natural pose, no rider or surroundings. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-78e7a976-ddd6-439f-89e9-9150b63208d7.png",
+      "files": [
+        {
+          "path": "equipHobbitPony.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 29408,
+          "quality": 88,
+          "sha256": "5bf9d5bc74ff9dff8b5f0cb9234a19a84ec7ffc4d9075d95af153ba76011787c"
+        },
+        {
+          "path": "large/equipHobbitPony.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 107788,
+          "quality": 88,
+          "sha256": "ca461bf4f2dbc96f41086989491598a08d6dd5f76aa8441df6f70dff7de4919e"
+        }
+      ]
+    },
+    {
+      "id": "horse",
+      "name": "Horse",
+      "group": "mounts",
+      "design": "A full-sized practical travelling horse in three-quarter side view with simple saddle and modest saddlebags, complete animal including all four hooves, calm natural pose, no rider or surroundings.",
+      "filename": "equipHorse.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Horse. Subject design: A full-sized practical travelling horse in three-quarter side view with simple saddle and modest saddlebags, complete animal including all four hooves, calm natural pose, no rider or surroundings. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-936fc4d8-4245-47e9-b2d6-74dcd3dac4bc.png",
+      "files": [
+        {
+          "path": "equipHorse.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 26244,
+          "quality": 88,
+          "sha256": "1f99ca195fe60016e04d16868fec9a0edd4c008aa9fd2ca7c28536b0b517aaf4"
+        },
+        {
+          "path": "large/equipHorse.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 90554,
+          "quality": 88,
+          "sha256": "7d8666be6d682b4743b1c0b35d3b5487da027153754813036670cc7f8b65e4d5"
+        }
+      ]
+    },
+    {
+      "id": "hammer",
+      "name": "Hammer",
+      "group": "usefulItems",
+      "design": "A small practical forged iron hand hammer with a straight wood handle, plain early medieval tool.",
+      "filename": "equipHammer.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Hammer. Subject design: A small practical forged iron hand hammer with a straight wood handle, plain early medieval tool. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-de979633-1e8a-47d3-a4d3-46fa0a729103.png",
+      "files": [
+        {
+          "path": "equipHammer.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 22808,
+          "quality": 88,
+          "sha256": "738ad5297eb150bf17753c02ad186d33b46993b8f98af029fa30c8f854b0082c"
+        },
+        {
+          "path": "large/equipHammer.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 83254,
+          "quality": 88,
+          "sha256": "39c2a5afbf177fe8080c0ad972f4f78c150474cba5f2ecf64ee7678a00adec9e"
+        }
+      ]
+    },
+    {
+      "id": "pickaxe",
+      "name": "Pickaxe",
+      "group": "usefulItems",
+      "design": "A sturdy iron digging pickaxe with a narrow pointed head and long plain wooden handle, utilitarian miner tool distinct from the broad-bladed mattock.",
+      "filename": "equipPickaxe.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Pickaxe. Subject design: A sturdy iron digging pickaxe with a narrow pointed head and long plain wooden handle, utilitarian miner tool distinct from the broad-bladed mattock. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-6cead92a-66be-4553-a96e-e0e7ef1290a5.png",
+      "files": [
+        {
+          "path": "equipPickaxe.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 13404,
+          "quality": 88,
+          "sha256": "e51e45bf18b45ba2f1b4bd017d0f9f97f5d2b8cad06d98b98bdc2ec5811c0c56"
+        },
+        {
+          "path": "large/equipPickaxe.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 46094,
+          "quality": 88,
+          "sha256": "ba9b27d1058fcc493478c4e2a73f3b148ab77414c8c0a2f1c81d108314f3cc75"
+        }
+      ]
+    },
+    {
+      "id": "flint-and-steel",
+      "name": "Flint and Steel",
+      "group": "usefulItems",
+      "design": "A simple curved iron fire striker and a chipped flint stone beside a small open leather tinder pouch, compact arrangement, no flame.",
+      "filename": "equipFlintAndSteel.webp",
+      "status": "complete",
+      "prompt": "Use case: stylized-concept. Original equipment illustration: Flint and Steel. Subject design: A simple curved iron fire striker and a chipped flint stone beside a small open leather tinder pouch, compact arrangement, no flame. Style reference: match the two attached One Ring equipment illustrations: delicate fine graphite pencil lines, light dry-pencil hatching, subtle muted warm-gray shading, airy hand-drawn book illustration with understated natural materials. Restrained historical early medieval craftsmanship, slender believable proportions, small tasteful details. Not the previous Realms heavy dark engraving. Single isolated item or its specified small set, square composition, whole silhouette visible with clear margins, diagonal pose for long weapons so all tips and handles fit. Transparent alpha background, all surrounding empty space truly transparent. No parchment rectangle, paper texture outside the object, scenery, table, ground shadow, decorative border, red frame, card layout, label, words, letters, watermark or logo. No hands, people or mannequin. No bright colors, glowing magic, heavy black outline, ornate spikes, oversized fantasy forms or modern materials. Fine pencil strokes and light natural neutral-to-warm graphite tones only, matching the reference art. Keep silhouette readable at 300 pixels. Render an original object, not a scan or reproduction of the reference sheet.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-2339eca4-9650-4158-b521-efc59d2b14a1.png",
+      "files": [
+        {
+          "path": "equipFlintAndSteel.webp",
+          "size": [
+            300,
+            300
+          ],
+          "bytes": 25160,
+          "quality": 88,
+          "sha256": "ced6dfce460cb4491aa2a667594b939899f6f10ccf2abaa1d8f793b212f3bdf4"
+        },
+        {
+          "path": "large/equipFlintAndSteel.webp",
+          "size": [
+            640,
+            640
+          ],
+          "bytes": 93174,
+          "quality": 88,
+          "sha256": "1ff4ddd1e3ca1371e837202edd2ddf87562212e80d563eb1b543b176cbb07cb1"
+        }
+      ]
+    }
+  ]
+}
