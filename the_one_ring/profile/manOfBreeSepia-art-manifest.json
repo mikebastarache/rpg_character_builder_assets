@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "filename": "manOfBreeSepia.webp",
+  "dimensions": [
+    640,
+    640
+  ],
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ad22406b-d25b-47cc-8551-44a6cb153f31.png",
+  "prompt": "Use case: stylized-concept. Create a square waist-up character profile of ONE original adult human man of Bree for The One Ring. Match the approved portraits' warm brown fine linework and medium-density layered hatching on pale ivory paper. The recent Hobbit portrait is a STYLE reference only; make this a clearly distinct human character with different clothing, face and pose.\nSubject: a sturdy middle-aged village man, broad human face, straight ears, slightly receding short untidy hair, modest side whiskers and a short mustache, kind watchful eyes, faint smile and weather lines. A grounded innkeeper or local tradesman's everyday appearance. Plain collared linen shirt under a buttoned work waistcoat and simple wool jacket, neckerchief loosely tied at neck. No ranger cloak or hobbit leaf clasp. Three-quarter view, shoulders naturally relaxed, one hand tucked casually into a waistcoat pocket. Centered readable head with margin for avatar cropping.\nStyle: traditional storybook character drawing in reddish umber and muted dark brown pencil and fine pen, subtly irregular fine contours, expressive moderately simplified facial planes. Shade using visible short curved hatching and selective crosshatching beneath brow and chin, in hair, jacket folds and overlapping garments. Deep brown shadow pockets contrast with broad unmarked pale-paper highlights. Moderate descriptive detail on seams, buttons and cloth folds. Natural illustrated anatomy, neither photorealistic portrait nor sparse cartoon outline. Very light warm cream paper, almost blank background with a few faint hatch strokes near shoulders fading away.\nNo scenery, text, border, watermark, full color, gray graphite wash, smooth blended shading, skin pores, thick marker outlines or solid flat color fills. One single human only. Square composition intended 640x640 WebP profile asset.",
+  "styleReference": "Approved warm brown hatched character portraits."
+}
