@@ -1,0 +1,17 @@
+{
+  "generator": "built-in image_gen",
+  "filename": "speciesZentraediFemale.webp",
+  "dimensions": [
+    300,
+    300
+  ],
+  "large": {
+    "filename": "large/speciesZentraediFemale.webp",
+    "dimensions": [
+      640,
+      640
+    ]
+  },
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-d79cdcb3-8115-44a0-b0a3-a1cda2b8131d.png",
+  "prompt": "Create ONE original adult FEMALE ZENTRAEDI species profile portrait for the Robotech RPG, a matching companion to the recent male Zentraedi and human portraits. Square 1:1 chest-up composition, similar character scale, full hair silhouette with a little margin for avatar crop. Colorful polished classic mecha anime character art: clean dark ink contours, expressive anime eyes, grouped hair locks, clear cel shadow planes and restrained soft highlights. Not photographic or CGI.\nA capable adult alien humanoid woman around thirty, light warm skin with a subtle cool lilac undertone, short layered periwinkle-violet hair with a swept fringe, expressive deep violet eyes, defined cheekbones, focused confident expression with a faint restrained smile. Clearly adult and professional, natural humanlike ears without long elf points. Original identity inspired by user's attached female Zentraedi reference, not a direct duplicate. Practical red high-collared uniform with dark center panel, restrained gold piping and navy high-collared shoulder cape fastened with simple round clasps. Head uncovered, no helmet, face clearly readable. Comfortable professional fit, no exaggerated anatomy.\nSubdued violet/navy alien ship interior background with faint cyan circular instrument glow matching male portrait, much less detailed than face and clothing. Rich controlled colors, cool shadows, consistent clean line weight. No other people, text, logos, readable insignia, border, watermark, signature, UI or photographic texture. Intended exports 300x300 WebP profile and 640x640 large version."
+}

@@ -1,0 +1,17 @@
+{
+  "generator": "built-in image_gen",
+  "filename": "speciesHumanMale.webp",
+  "dimensions": [
+    300,
+    300
+  ],
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-e3acad30-8ccb-457b-a91b-6437fd1a6789.png",
+  "prompt": "Create ONE original adult male human species profile portrait for a Robotech RPG character builder. Square 1:1 waist-up portrait with head and shoulders dominant, generous margin around hair for avatar cropping. Style reference: the user's attached Robotech character illustrations, colorful polished classic mecha anime RPG art, clean dark ink contours, expressive slightly angular face, large but proportionate anime eyes, sharply grouped hair locks, clear cel shadow planes softened by restrained painted highlights. No photographic or 3D rendering.\nOriginal man about thirty, medium warm complexion, short swept dark brown hair with a few unruly locks, brown eyes, clean-shaven jaw, confident approachable slight smile, three-quarter view looking toward viewer. Practical white and slate-blue high-collared space-service uniform with restrained red piping, simple shoulder panels, plain undersuit visible at collar. Relaxed upright bearing, one forearm partly visible at lower frame, hands not prominent. Distinct original identity rather than copying a named series character. Human ears and ordinary anatomy, no alien traits, no helmet hiding face.\nSubdued softly drawn navy-blue ship interior background with one faint cyan monitor glow, much less detailed than subject, face clearly readable. Saturated controlled color, natural warm skin tones, cool blue shadows, crisp contours and readable cloth folds. No text, logos, readable rank badges, border, watermark, signature or UI. ONE character only. Square intended final 640x640 WebP.",
+  "large": {
+    "filename": "large/speciesHumanMale.webp",
+    "dimensions": [
+      640,
+      640
+    ]
+  }
+}
