@@ -1,0 +1,21 @@
+{
+  "prompt": "Use case: compositing. Create a cohesive landscape 16:9 Robotech human species header from the FIVE supplied character references. Exactly five distinct adult characters, three men and two women, in one balanced waist-to-hip-up group portrait. Preserve each reference character's face, hairstyle, build, clothes, equipment, colors and recognizable design with exceptional fidelity. Left: dark purple-black spiky-haired young male pilot wearing the white/pink flight suit with magenta center stripe, brown chest harness and gold belt buckle, holding his white-and-blue helmet over his shoulder. Next: large stocky muscular man with shaggy brown hair, sideburns and yellow headband, olive short-sleeve shirt and brown wrist cuffs, holding his gray futuristic rifle across his chest. Center: stern medium-length brown-haired blue-eyed male in pale mint uniform with bright blue breastplate, pointed blue shoulder extensions, green epaulettes and green belt buckle. Next: upbeat short golden-bob-haired woman in white/light lavender suit with red breastplate, pointed red shoulders, red cuffs and blue shoulder details, fist near chest. Right: long flowing golden-haired woman with blue eyes, fitted red and slate-gray suit, rounded gray shoulder pieces, red forearm bands, long gray gloves and blue belt. Natural slight overlap while keeping every face and identifying outfit visible. Clean polished anime illustration matching the references, crisp dark outlines, softly shaded saturated colors. Pure white background with only very faint pale cyan hexagon clusters in corners and a thin pale cyan technical perimeter border, consistent with other Robotech species headers. No scenery, no labels, no typography, no page fragments, no individual portrait boxes. Do not change outfits or swap colors, do not duplicate characters, do not blend their bodies or faces together. Keep all heads and held equipment within the frame, comfortable margins for a 1280x720 header export.",
+  "references": [
+    "/Users/mikebastarache/Desktop/Screenshot 2026-11-13 at 3.42.59\u202fPM.png",
+    "/Users/mikebastarache/Desktop/Screenshot 2026-11-13 at 3.45.18\u202fPM.png",
+    "/Users/mikebastarache/Desktop/Screenshot 2026-11-13 at 3.45.47\u202fPM.png",
+    "/Users/mikebastarache/Desktop/Screenshot 2026-11-13 at 3.46.52\u202fPM.png",
+    "/Users/mikebastarache/Desktop/Screenshot 2026-11-13 at 3.47.16\u202fPM.png"
+  ],
+  "generated": "/Users/mikebastarache/.codex/generated_images/01a1b229-3e46-7182-9413-9be8a84b6142/exec-ca6c907e-db4f-4e02-90e1-d5357787fa17.png",
+  "mode": "built-in image_gen",
+  "dimensions": [
+    1280,
+    720
+  ],
+  "format": "WebP",
+  "date": "2026-11-13",
+  "output": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/robotech/species_header/speciesHeaderHumanGroup.webp",
+  "bytes": 152094,
+  "quality": 85
+}
