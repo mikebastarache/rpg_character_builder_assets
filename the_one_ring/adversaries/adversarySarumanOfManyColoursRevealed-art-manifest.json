@@ -1,0 +1,15 @@
+{
+  "name": "Saruman of Many Colours, Revealed",
+  "id": "tor2e:adversary:saruman-of-many-colours-revealed",
+  "slug": "saruman-of-many-colours-revealed",
+  "category": "adversaries",
+  "filename": "adversarySarumanOfManyColoursRevealed.webp",
+  "prompt": "Use case: stylized-concept. Original illustration for a fantasy tabletop RPG asset collection. Match the five supplied patron reference illustrations: fine warm sepia pencil and pen contours, natural expressive anatomy, visible directional hatching and selective crosshatching, deep umber shadow pockets, broad ivory highlights, detailed cloth folds and grouped hair locks. Warm near-white ivory paper background, softly fading vignette edges, generous blank margins. Traditional illustrated fantasy book drawing, no full color, no photographic rendering, no thick cartoon outlines. Vertical 2:3 portrait, full subject and all props inside frame. No text, letters, titles, borders, signatures or watermarks.\nSubject: Saruman of Many Colours, Revealed. Original illustrated interpretation of an elderly fictional wizard: tall slender man, long straight white hair and beard, penetrating eyes, austere and proud expression, finely woven layered robes with a subtle faceted pattern conveyed exclusively through sepia hatching. Holds a plain tall staff, other hand lifted in a commanding speaking gesture. Full body, faint stone tower arch suggested behind, main subject isolated on ivory paper. No actor likeness, no photography, no battle, no other figures. Reference images provide drawing style only.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-52db4755-bbfb-4282-8324-d8d2c567ce80.png",
+  "sourceReference": "Hands of the White Wizard p. 140",
+  "generator": "built-in image_gen",
+  "dimensions": [
+    1000,
+    1500
+  ]
+}

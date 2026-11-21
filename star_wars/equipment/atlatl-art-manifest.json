@@ -1,0 +1,15 @@
+{
+  "id": "star-wars-saga:weapon:atlatl",
+  "type": "weapon",
+  "slug": "atlatl",
+  "name": "Atlatl",
+  "filename": "atlatl.webp",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: square 1024x1024 equipment inventory illustration, one item on a genuinely TRANSPARENT alpha background. Style references: the painted character artwork INSIDE the supplied Star Wars class cards, not their graphic frames. Hand-painted tabletop science-fiction illustration with confident clean silhouettes, subtle brush texture, softly blended yet structured shading, restrained edge contours, warm highlights and cool plum-blue shadows, muted cinematic colors. Believable materials, worn utilitarian retro-futuristic Star Wars design. Match the references' illustrative rendering, not photography, a 3D product render or cartoon icon. Object completely visible centered within generous transparent margins. Slight three-quarter product view where useful, elongated objects may angle diagonally to fit. No opaque background, no white rectangle, no checkerboard pattern painted into the image, no floor, ground plane, cast shadow outside the object, scenic backdrop, display pedestal, card border, UI frame, text, letters, branding, numbers or watermark. No characters, body parts, hands or visible mannequin; clothing and armour presented as empty garments with natural volume. Keep transparency through holes and between separate components. Emissive lights confined to the object with subtle semitransparent glow.\nSubject: Atlatl. Category: weapon.\nVisual specification: A short Gungan energy-ball throwing lever, carved organic-looking handle and shallow spoon-like throwing cradle at its far end. One handheld launch stick, no person.\nA fictional Star Wars inventory prop at rest, not firing, no combat, no exploded or disassembled views.\nKeep a visually clear silhouette, complete object and every required accessory inside the canvas. Transparent background is essential.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-75b51c16-a38a-47ec-8f10-ab497c7b40a8.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentPixelFraction": 0.851
+}

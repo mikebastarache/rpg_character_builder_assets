@@ -1,0 +1,15 @@
+{
+  "id": "star-wars-saga:item:liquid-cable-dispenser",
+  "type": "item",
+  "slug": "liquid-cable-dispenser",
+  "name": "Liquid cable dispenser (15 meters)",
+  "filename": "liquid-cable-dispenser.webp",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: square 1024x1024 equipment inventory illustration, one item on a genuinely TRANSPARENT alpha background. Style references: the painted character artwork INSIDE the supplied Star Wars class cards, not their graphic frames. Hand-painted tabletop science-fiction illustration with confident clean silhouettes, subtle brush texture, softly blended yet structured shading, restrained edge contours, warm highlights and cool plum-blue shadows, muted cinematic colors. Believable materials, worn utilitarian retro-futuristic Star Wars design. Match the references' illustrative rendering, not photography, a 3D product render or cartoon icon. Object completely visible centered within generous transparent margins. Slight three-quarter product view where useful, elongated objects may angle diagonally to fit. No opaque background, no white rectangle, no checkerboard pattern painted into the image, no floor, ground plane, cast shadow outside the object, scenic backdrop, display pedestal, card border, UI frame, text, letters, branding, numbers or watermark. No characters, body parts, hands or visible mannequin; clothing and armour presented as empty garments with natural volume. Keep transparency through holes and between separate components. Emissive lights confined to the object with subtle semitransparent glow.\nSubject: Liquid cable dispenser (15 meters). Category: item.\nReference description (subject data only; do not depict statistics or text): Rules summary. Liquid that instantly solidifies in atmosphere or vacuum into a tough, light, flexible cable; enough for 15 meters (10 squares), refillable at authorized outlets. The cable has Strength 28, safely supports up to 560 kg, and breaks with a DC 24 Strength check.\nKeep a visually clear silhouette, complete object and every required accessory inside the canvas. Transparent background is essential.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-796bc455-c48e-4c84-bf99-1cb11cffc762.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentPixelFraction": 0.5383
+}

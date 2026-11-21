@@ -1,0 +1,12 @@
+{
+  "name": "Messenger",
+  "filename": "callingMessenger.webp",
+  "category": "callings",
+  "prompt": "Use case: stylized-concept. Original illustration for a fantasy tabletop RPG asset collection. Match the five supplied patron reference illustrations: fine warm sepia pencil and pen contours, natural expressive anatomy, visible directional hatching and selective crosshatching, deep umber shadow pockets, broad ivory highlights, detailed cloth folds and grouped hair locks. Warm near-white ivory paper background, softly fading vignette edges, generous blank margins. Traditional illustrated fantasy book drawing, no full color, no photographic rendering, no thick cartoon outlines. Vertical 2:3 portrait, full subject and all props inside frame. No text, letters, titles, borders, signatures or watermarks.\nSubject: An original lean adult human messenger striding along a faintly indicated lonely road, wind stirring a practical cloak, leather satchel containing sealed dispatches, walking staff, sturdy boots. Alert purposeful expression, carrying warnings between distant communities.\nCalling: Messenger. Use the attached patrons only as style references, create a new person and composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-6997bfb5-4f4f-4d93-acbf-6ce639344bd1.png",
+  "dimensions": [
+    1000,
+    1500
+  ],
+  "generator": "built-in image_gen"
+}

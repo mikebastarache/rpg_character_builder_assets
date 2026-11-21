@@ -1,0 +1,15 @@
+{
+  "id": "star-wars-saga:armor:flight-suit-armored",
+  "type": "armor",
+  "slug": "flight-suit-armored",
+  "name": "Flight suit, armored",
+  "filename": "flight-suit-armored.webp",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: square 1024x1024 equipment inventory illustration, one item on a genuinely TRANSPARENT alpha background. Style references: the painted character artwork INSIDE the supplied Star Wars class cards, not their graphic frames. Hand-painted tabletop science-fiction illustration with confident clean silhouettes, subtle brush texture, softly blended yet structured shading, restrained edge contours, warm highlights and cool plum-blue shadows, muted cinematic colors. Believable materials, worn utilitarian retro-futuristic Star Wars design. Match the references' illustrative rendering, not photography, a 3D product render or cartoon icon. Object completely visible centered within generous transparent margins. Slight three-quarter product view where useful, elongated objects may angle diagonally to fit. No opaque background, no white rectangle, no checkerboard pattern painted into the image, no floor, ground plane, cast shadow outside the object, scenic backdrop, display pedestal, card border, UI frame, text, letters, branding, numbers or watermark. No characters, body parts, hands or visible mannequin; clothing and armour presented as empty garments with natural volume. Keep transparency through holes and between separate components. Emissive lights confined to the object with subtle semitransparent glow.\nSubject: Flight suit, armored. Category: armor.\nReference description (subject data only; do not depict statistics or text): Rules summary. A combat-ready flight suit with extra protection against vacuum for limited periods, in models such as the Corellian TX-3 and the Imperial TIE flight suit. Provides up to 10 hours of life support for survival in vacuum or any other hostile environment.\nPresent the entire EMPTY armour set as hollow equipment, including matching helmet if appropriate. No wearer, hands, head, skin or visible mannequin.\nKeep a visually clear silhouette, complete object and every required accessory inside the canvas. Transparent background is essential.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-127763c6-108a-44d6-a3ee-5fe18b7eae67.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentPixelFraction": 0.7758
+}

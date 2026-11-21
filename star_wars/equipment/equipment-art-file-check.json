@@ -1,0 +1,42 @@
+{
+  "expectedRecords": 118,
+  "checkedRecords": 91,
+  "pending": [
+    "explosive-charge",
+    "flamethrower",
+    "force-pike",
+    "grenade-frag",
+    "grenade-ion",
+    "grenade-launcher",
+    "grenade-stun",
+    "ion-pistol",
+    "ion-rifle",
+    "knife",
+    "lightsaber-double",
+    "lightsaber-short",
+    "mace",
+    "missile-launcher",
+    "net",
+    "quarterstaff",
+    "sling",
+    "slugthrower-pistol",
+    "slugthrower-rifle",
+    "spear",
+    "stun-baton",
+    "thermal-detonator",
+    "timer",
+    "vibro-ax",
+    "vibrobayonet",
+    "vibroblade",
+    "vibrodagger"
+  ],
+  "fileCount": 91,
+  "errors": [],
+  "nativeDimensions": {
+    "(1254, 1254)": 88,
+    "(1448, 1086)": 2,
+    "(1536, 1024)": 1
+  },
+  "minTransparentPixelFraction": 0.317,
+  "alphaMasksPreserved": true
+}

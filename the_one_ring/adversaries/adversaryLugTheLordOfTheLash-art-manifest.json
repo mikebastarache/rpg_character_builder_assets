@@ -1,0 +1,15 @@
+{
+  "name": "Lug, the Lord of the Lash",
+  "id": "tor2e:adversary:lug-the-lord-of-the-lash",
+  "slug": "lug-the-lord-of-the-lash",
+  "category": "adversaries",
+  "filename": "adversaryLugTheLordOfTheLash.webp",
+  "prompt": "Use case: stylized-concept. Original illustration for a fantasy tabletop RPG asset collection. Match the five supplied patron reference illustrations: fine warm sepia pencil and pen contours, natural expressive anatomy, visible directional hatching and selective crosshatching, deep umber shadow pockets, broad ivory highlights, detailed cloth folds and grouped hair locks. Warm near-white ivory paper background, softly fading vignette edges, generous blank margins. Traditional illustrated fantasy book drawing, no full color, no photographic rendering, no thick cartoon outlines. Vertical 2:3 portrait, full subject and all props inside frame. No text, letters, titles, borders, signatures or watermarks.\nSubject: Lug, the Lord of the Lash. A cruel ORC overseer of a black warship's rowers: visibly inhuman Orc face, broad flat nose, heavy brow, tusked teeth, pointed ears, sinewy hunched body. He is NOT a human soldier. He grips a long clearly visible coiled leather WHIP in one hand, its lash trailing across the ground. Other hand rests on a short curved sword at his belt. Practical dark rough leather and pieces of battered mail, ragged cloak, heavy boots. Stand on a faintly indicated ship deck beside a rowing bench; no other people. Full body, threatening expression, all of the whip inside the frame. Use references ONLY for sepia pencil illustration style. No bow or arrows, no heraldic eye symbols, no text.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-35bf5653-4537-48de-803d-632c11584284.png",
+  "sourceReference": "Ruins of the Lost Realm p. 37",
+  "generator": "built-in image_gen",
+  "dimensions": [
+    1000,
+    1500
+  ]
+}

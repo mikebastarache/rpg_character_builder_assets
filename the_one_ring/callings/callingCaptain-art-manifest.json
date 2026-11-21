@@ -1,0 +1,12 @@
+{
+  "name": "Captain",
+  "filename": "callingCaptain.webp",
+  "category": "callings",
+  "prompt": "Use case: stylized-concept. Original illustration for a fantasy tabletop RPG asset collection. Match the five supplied patron reference illustrations: fine warm sepia pencil and pen contours, natural expressive anatomy, visible directional hatching and selective crosshatching, deep umber shadow pockets, broad ivory highlights, detailed cloth folds and grouped hair locks. Warm near-white ivory paper background, softly fading vignette edges, generous blank margins. Traditional illustrated fantasy book drawing, no full color, no photographic rendering, no thick cartoon outlines. Vertical 2:3 portrait, full subject and all props inside frame. No text, letters, titles, borders, signatures or watermarks.\nSubject: An original adult human captain in practical mail and a worn travelling cloak, calmly giving an open-handed direction to companions just suggested behind them. Upright trustworthy posture, sheathed sword, no crown. Lead through trust and judgement, not intimidation.\nCalling: Captain. Use the attached patrons only as style references, create a new person and composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-30f7f7aa-64b1-4849-8d05-eaec53fcf2cf.png",
+  "dimensions": [
+    1000,
+    1500
+  ],
+  "generator": "built-in image_gen"
+}

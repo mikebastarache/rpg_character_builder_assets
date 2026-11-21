@@ -1,0 +1,12 @@
+{
+  "name": "Scholar",
+  "filename": "callingScholar.webp",
+  "category": "callings",
+  "prompt": "Use case: stylized-concept. Original illustration for a fantasy tabletop RPG asset collection. Match the five supplied patron reference illustrations: fine warm sepia pencil and pen contours, natural expressive anatomy, visible directional hatching and selective crosshatching, deep umber shadow pockets, broad ivory highlights, detailed cloth folds and grouped hair locks. Warm near-white ivory paper background, softly fading vignette edges, generous blank margins. Traditional illustrated fantasy book drawing, no full color, no photographic rendering, no thick cartoon outlines. Vertical 2:3 portrait, full subject and all props inside frame. No text, letters, titles, borders, signatures or watermarks.\nSubject: An original elderly hobbit scholar with curly hair and expressive thoughtful face, studying a yellowed map spread over an open old book on a simple stone ledge. Practical travel clothes, satchel, rolled scroll. Knowledge, curiosity and wonder, no magical glow.\nCalling: Scholar. Use the attached patrons only as style references, create a new person and composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-53936d2a-a775-4be2-a4c7-60383cb23400.png",
+  "dimensions": [
+    1000,
+    1500
+  ],
+  "generator": "built-in image_gen"
+}

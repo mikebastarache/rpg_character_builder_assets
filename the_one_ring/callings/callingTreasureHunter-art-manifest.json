@@ -1,0 +1,12 @@
+{
+  "name": "TreasureHunter",
+  "filename": "callingTreasureHunter.webp",
+  "category": "callings",
+  "prompt": "Use case: stylized-concept. Original illustration for a fantasy tabletop RPG asset collection. Match the five supplied patron reference illustrations: fine warm sepia pencil and pen contours, natural expressive anatomy, visible directional hatching and selective crosshatching, deep umber shadow pockets, broad ivory highlights, detailed cloth folds and grouped hair locks. Warm near-white ivory paper background, softly fading vignette edges, generous blank margins. Traditional illustrated fantasy book drawing, no full color, no photographic rendering, no thick cartoon outlines. Vertical 2:3 portrait, full subject and all props inside frame. No text, letters, titles, borders, signatures or watermarks.\nSubject: An original adult dwarven treasure hunter kneeling beside an ancient partially open stone coffer, examining a recovered carved jewel with an attentive face. Hood lowered, sturdy travel clothes, small lantern and a coil of rope, faint ruined arch behind. Recovery of lost heritage rather than ostentatious wealth.\nCalling: TreasureHunter. Use the attached patrons only as style references, create a new person and composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-006a92ad-f13f-44d1-82e8-7d6938101b2e.png",
+  "dimensions": [
+    1000,
+    1500
+  ],
+  "generator": "built-in image_gen"
+}

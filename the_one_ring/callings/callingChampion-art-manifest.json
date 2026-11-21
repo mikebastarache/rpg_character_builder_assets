@@ -1,0 +1,12 @@
+{
+  "name": "Champion",
+  "filename": "callingChampion.webp",
+  "category": "callings",
+  "prompt": "Use case: stylized-concept. Original illustration for a fantasy tabletop RPG asset collection. Match the five supplied patron reference illustrations: fine warm sepia pencil and pen contours, natural expressive anatomy, visible directional hatching and selective crosshatching, deep umber shadow pockets, broad ivory highlights, detailed cloth folds and grouped hair locks. Warm near-white ivory paper background, softly fading vignette edges, generous blank margins. Traditional illustrated fantasy book drawing, no full color, no photographic rendering, no thick cartoon outlines. Vertical 2:3 portrait, full subject and all props inside frame. No text, letters, titles, borders, signatures or watermarks.\nSubject: An original adult dwarven woman champion with braided hair, resolute expression, mail armour and travelling cloak, gripping a battle axe and round shield, full body poised to confront danger. Courageous warrior, grounded equipment, no combat gore.\nCalling: Champion. Use the attached patrons only as style references, create a new person and composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a1febb-50d0-7311-9db1-5a81194f47cd/exec-ee4e98ab-51a2-457b-80d0-3c32624b30b2.png",
+  "dimensions": [
+    1000,
+    1500
+  ],
+  "generator": "built-in image_gen"
+}

@@ -1,0 +1,63 @@
+{
+  "generator": "built-in image_gen",
+  "expectedRecords": 118,
+  "distinctImagesGenerated": 88,
+  "completedRecords": 91,
+  "pending": [
+    "explosive-charge",
+    "flamethrower",
+    "force-pike",
+    "grenade-frag",
+    "grenade-ion",
+    "grenade-launcher",
+    "grenade-stun",
+    "ion-pistol",
+    "ion-rifle",
+    "knife",
+    "lightsaber-double",
+    "lightsaber-short",
+    "mace",
+    "missile-launcher",
+    "net",
+    "quarterstaff",
+    "sling",
+    "slugthrower-pistol",
+    "slugthrower-rifle",
+    "spear",
+    "stun-baton",
+    "thermal-detonator",
+    "timer",
+    "vibro-ax",
+    "vibrobayonet",
+    "vibroblade",
+    "vibrodagger"
+  ],
+  "errors": [],
+  "sharedArtwork": {
+    "combat-gloves-small": "combat-gloves-medium",
+    "holster": "holster-hip",
+    "targeting-scope": "targeting-scope-standard"
+  },
+  "background": "transparent alpha",
+  "style": "Hand-painted science-fiction tabletop illustration, muted colors, warm highlights, cool plum-blue shadows, subtle brushwork, clean silhouettes; reference card frames excluded.",
+  "excludedNonEquipment": [
+    "unarmed-medium",
+    "unarmed-small"
+  ],
+  "includedTypes": [
+    "weapon",
+    "armor",
+    "item"
+  ],
+  "status": "incomplete",
+  "stopReason": "image_generation_usage_limit",
+  "limitReset": "2026-11-22T06:49:47-04:00",
+  "completedByType": {
+    "armor": 11,
+    "item": 55,
+    "weapon": 25
+  },
+  "pendingByType": {
+    "weapon": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "generator": "built-in image_gen",
+  "callingsCreated": 5,
+  "existingEquipment": 48,
+  "adversaryRecords": 89,
+  "adversaryImagesCreated": 89,
+  "distinctAdversariesGenerated": 86,
+  "sharedArtwork": {
+    "the-watcher-in-the-water-hands": "the-watcher-in-the-water-moria",
+    "usapthon-hands": "usapthon-ruins",
+    "zoril-hands": "zoril-ruins"
+  },
+  "pending": [],
+  "dimensions": [
+    1000,
+    1500
+  ],
+  "styleAnalysis": {
+    "medium": "sepia pencil and fine pen on warm ivory paper",
+    "linework": "fine expressive contours, directional hatching and selective crosshatching",
+    "values": "deep umber recesses and broad pale highlights",
+    "composition": "isolated subjects, faint scenery, softly fading edges, generous margins",
+    "texture": "grouped hair locks, cloth folds, restrained material detail"
+  },
+  "equipmentFilesVerified": 96
+}
