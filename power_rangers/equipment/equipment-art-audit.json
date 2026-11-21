@@ -1,0 +1,1931 @@
+{
+  "game": "power-rangers",
+  "assetFolder": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/equipment",
+  "status": "blocked_by_image_generation_usage_limit",
+  "generator": "built-in image_gen",
+  "transparent_background": true,
+  "limitReset": "2026-11-22T06:49:47-04:00",
+  "catalogRecords": 149,
+  "existingMatchCount": 37,
+  "missingRecordCount": 111,
+  "excludedCount": 1,
+  "missingEquipmentRecords": 76,
+  "missingUpgradeRecords": 35,
+  "missingByCategory": {
+    "gear": 14,
+    "upgrade": 35,
+    "weapon": 44,
+    "vehicle": 7,
+    "armor": 6,
+    "kit": 3,
+    "megazord": 2
+  },
+  "existingMatches": [
+    {
+      "id": "power-rangers:item:artillatron-turbozord",
+      "slug": "artillatron-turbozord",
+      "name": "Artillatron Turbozord",
+      "category": "zord",
+      "page": 152,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/artillatron_turbozord.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:black-battle-borg",
+      "slug": "black-battle-borg",
+      "name": "Black Battle Borg",
+      "category": "zord",
+      "page": 146,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/black_battle_borg.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:blue-battle-borg",
+      "slug": "blue-battle-borg",
+      "name": "Blue Battle Borg",
+      "category": "zord",
+      "page": 147,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/blue_battle_borg.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:desert-thunder-turbozord",
+      "slug": "desert-thunder-turbozord",
+      "name": "Desert Thunder Turbozord",
+      "category": "zord",
+      "page": 151,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/turbo_desert_thunder.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:dino-megazord",
+      "slug": "dino-megazord",
+      "name": "Dino Megazord",
+      "category": "megazord",
+      "page": 144,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/dino_megazord.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:dragon-megazord",
+      "slug": "dragon-megazord",
+      "name": "Dragon Megazord",
+      "category": "megazord",
+      "page": 145,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/the_dragon_megazord.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:dragonzord",
+      "slug": "dragonzord",
+      "name": "Dragonzord",
+      "category": "zord",
+      "page": 144,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/dragonzord.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:dune-star-turbozord",
+      "slug": "dune-star-turbozord",
+      "name": "Dune Star Turbozord",
+      "category": "zord",
+      "page": 151,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/turbo_dune_star.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:mastodon-dinozord",
+      "slug": "mastodon-dinozord",
+      "name": "Mastodon Dinozord",
+      "category": "zord",
+      "page": 142,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/dinozord_mastodon.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:mega-tigerzord",
+      "slug": "mega-tigerzord",
+      "name": "Mega Tigerzord",
+      "category": "megazord",
+      "page": 146,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/the_mega_tigerzord.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:mega-v1",
+      "slug": "mega-v1",
+      "name": "Mega-V1",
+      "category": "zord",
+      "page": 152,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/mega_v1.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:mega-v2",
+      "slug": "mega-v2",
+      "name": "Mega-V2",
+      "category": "zord",
+      "page": 152,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/mega_v2.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:mega-v3",
+      "slug": "mega-v3",
+      "name": "Mega-V3",
+      "category": "zord",
+      "page": 153,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/mega_v3.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:mega-v4",
+      "slug": "mega-v4",
+      "name": "Mega-V4",
+      "category": "zord",
+      "page": 153,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/mega_v4.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:mega-v5",
+      "slug": "mega-v5",
+      "name": "Mega-V5",
+      "category": "zord",
+      "page": 153,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/mega_v5.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:mega-winger",
+      "slug": "mega-winger",
+      "name": "Mega Winger",
+      "category": "zord",
+      "page": 153,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/mega_winger.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:megatank",
+      "slug": "megatank",
+      "name": "Megatank",
+      "category": "vehicle",
+      "page": 126,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/megatank.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:mountain-blaster-turbozord",
+      "slug": "mountain-blaster-turbozord",
+      "name": "Mountain Blaster Turbozord",
+      "category": "zord",
+      "page": 150,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/turbo_mountain_blaster.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:pterodactyl-dinozord",
+      "slug": "pterodactyl-dinozord",
+      "name": "Pterodactyl Dinozord",
+      "category": "zord",
+      "page": 143,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/dinozord_pterodactyl.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:radbug",
+      "slug": "radbug",
+      "name": "RadBug",
+      "category": "vehicle",
+      "page": 127,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/radbug.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:red-battle-borg",
+      "slug": "red-battle-borg",
+      "name": "Red Battle Borg",
+      "category": "zord",
+      "page": 146,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/red_battle_borg.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:red-lightning-turbozord",
+      "slug": "red-lightning-turbozord",
+      "name": "Red Lightning Turbozord",
+      "category": "zord",
+      "page": 150,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/red_lightning_turbozord.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:robo-racer",
+      "slug": "robo-racer",
+      "name": "Robo Racer",
+      "category": "zord",
+      "page": 152,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/robo_racer.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:sabretooth-tiger-dinozord",
+      "slug": "sabretooth-tiger-dinozord",
+      "name": "Sabretooth Tiger Dinozord",
+      "category": "zord",
+      "page": 143,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/dinozord_sabretooth.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:triceratops-dinozord",
+      "slug": "triceratops-dinozord",
+      "name": "Triceratops Dinozord",
+      "category": "zord",
+      "page": 142,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/dinozord_triceratops.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:turbo-megazord",
+      "slug": "turbo-megazord",
+      "name": "Turbo Megazord",
+      "category": "megazord",
+      "page": 151,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/turbo_megazord.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:tyrannosaurus-dinozord",
+      "slug": "tyrannosaurus-dinozord",
+      "name": "Tyrannosaurus Dinozord",
+      "category": "zord",
+      "page": 141,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/dinozord_tyrannosaurus.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:white-battle-borg",
+      "slug": "white-battle-borg",
+      "name": "White Battle Borg",
+      "category": "zord",
+      "page": 146,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/white_battle_borg.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:white-tigerzord",
+      "slug": "white-tigerzord",
+      "name": "White Tigerzord",
+      "category": "zord",
+      "page": 145,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/white_tigerzord.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:wind-chaser-turbozord",
+      "slug": "wind-chaser-turbozord",
+      "name": "Wind Chaser Turbozord",
+      "category": "zord",
+      "page": 151,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/turbo_wind_chaser.jpg",
+      "matchBasis": "explicit filename alias"
+    },
+    {
+      "id": "power-rangers:item:yellow-battle-borg",
+      "slug": "yellow-battle-borg",
+      "name": "Yellow Battle Borg",
+      "category": "zord",
+      "page": 147,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/yellow_battle_borg.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:zeo-artillery-tank",
+      "slug": "zeo-artillery-tank",
+      "name": "Zeo Artillery Tank",
+      "category": "zord",
+      "page": 149,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/zeo_artillery_tank.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:zeo-cannon-lander",
+      "slug": "zeo-cannon-lander",
+      "name": "Zeo Cannon Lander",
+      "category": "zord",
+      "page": 149,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/zeo_cannon_lander.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:zeo-megazord",
+      "slug": "zeo-megazord",
+      "name": "Zeo Megazord",
+      "category": "megazord",
+      "page": 150,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/zeo_megazord.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:zeo-sky-phoenix",
+      "slug": "zeo-sky-phoenix",
+      "name": "Zeo Sky Phoenix",
+      "category": "zord",
+      "page": 150,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/zeo_sky_phoenix.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:zeo-sphinx",
+      "slug": "zeo-sphinx",
+      "name": "Zeo Sphinx",
+      "category": "zord",
+      "page": 149,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/zeo_sphinx.jpg",
+      "matchBasis": "normalized filename"
+    },
+    {
+      "id": "power-rangers:item:zeo-taurus",
+      "slug": "zeo-taurus",
+      "name": "Zeo Taurus",
+      "category": "zord",
+      "page": 149,
+      "existingImage": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/vehicles/zeo_taurus.jpg",
+      "matchBasis": "normalized filename"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "power-rangers:item:brawling",
+      "slug": "brawling",
+      "name": "Brawling",
+      "category": "weapon",
+      "page": 108,
+      "reason": "Unarmed attack entry, not a separate equipment object."
+    }
+  ],
+  "notes": [
+    "Existing images are preserved; filename matches are an inventory audit, not a full visual identity review.",
+    "Existing images may have opaque backgrounds; this queue concerns missing art only.",
+    "Upgrades are queued separately from base equipment, using representative hardware or equipment concepts."
+  ],
+  "pending": [
+    {
+      "id": "power-rangers:item:acid",
+      "slug": "acid",
+      "name": "Acid",
+      "category": "gear",
+      "page": 120,
+      "filename": "acid.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Acid. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:acid"
+      }
+    },
+    {
+      "id": "power-rangers:item:aerodynamic",
+      "slug": "aerodynamic",
+      "name": "Aerodynamic",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "aerodynamic.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Aerodynamic. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:aerodynamic"
+      }
+    },
+    {
+      "id": "power-rangers:item:amphibious",
+      "slug": "amphibious",
+      "name": "Amphibious",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "amphibious.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Amphibious. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:amphibious"
+      }
+    },
+    {
+      "id": "power-rangers:item:anti-sonic-foam-gun",
+      "slug": "anti-sonic-foam-gun",
+      "name": "Anti-Sonic Foam Gun",
+      "category": "weapon",
+      "page": 112,
+      "filename": "anti-sonic-foam-gun.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Anti-Sonic Foam Gun. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:anti-sonic-foam-gun"
+      }
+    },
+    {
+      "id": "power-rangers:item:astro-axe",
+      "slug": "astro-axe",
+      "name": "Astro Axe",
+      "category": "weapon",
+      "page": 110,
+      "filename": "astro-axe.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Astro Axe. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:astro-axe"
+      }
+    },
+    {
+      "id": "power-rangers:item:astro-blaster",
+      "slug": "astro-blaster",
+      "name": "Astro Blaster",
+      "category": "weapon",
+      "page": 110,
+      "filename": "astro-blaster.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Astro Blaster. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:astro-blaster"
+      }
+    },
+    {
+      "id": "power-rangers:item:auto-blaster",
+      "slug": "auto-blaster",
+      "name": "Auto Blaster",
+      "category": "weapon",
+      "page": 108,
+      "filename": "auto-blaster.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Auto Blaster. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:auto-blaster"
+      }
+    },
+    {
+      "id": "power-rangers:item:automated",
+      "slug": "automated",
+      "name": "Automated",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "automated.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Automated. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:automated"
+      }
+    },
+    {
+      "id": "power-rangers:item:automount",
+      "slug": "automount",
+      "name": "Automount",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "automount.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Automount. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:automount"
+      }
+    },
+    {
+      "id": "power-rangers:item:balanced-grip",
+      "slug": "balanced-grip",
+      "name": "Balanced Grip",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "balanced-grip.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Balanced Grip. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:balanced-grip"
+      }
+    },
+    {
+      "id": "power-rangers:item:battle-bike",
+      "slug": "battle-bike",
+      "name": "Battle Bike",
+      "category": "vehicle",
+      "page": 124,
+      "filename": "battle-bike.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Battle Bike. Category: vehicle. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:battle-bike"
+      }
+    },
+    {
+      "id": "power-rangers:item:bewildering",
+      "slug": "bewildering",
+      "name": "Bewildering",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "bewildering.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Bewildering. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:bewildering"
+      }
+    },
+    {
+      "id": "power-rangers:item:binoculars",
+      "slug": "binoculars",
+      "name": "Binoculars",
+      "category": "gear",
+      "page": 120,
+      "filename": "binoculars.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Binoculars. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:binoculars"
+      }
+    },
+    {
+      "id": "power-rangers:item:blade-blaster",
+      "slug": "blade-blaster",
+      "name": "Blade Blaster",
+      "category": "weapon",
+      "page": 108,
+      "filename": "blade-blaster.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Blade Blaster. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:blade-blaster"
+      }
+    },
+    {
+      "id": "power-rangers:item:blazing",
+      "slug": "blazing",
+      "name": "Blazing",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "blazing.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Blazing. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:blazing"
+      }
+    },
+    {
+      "id": "power-rangers:item:book",
+      "slug": "book",
+      "name": "Book",
+      "category": "gear",
+      "page": 120,
+      "filename": "book.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Book. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:book"
+      }
+    },
+    {
+      "id": "power-rangers:item:caltrops",
+      "slug": "caltrops",
+      "name": "Caltrops",
+      "category": "gear",
+      "page": 120,
+      "filename": "caltrops.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Caltrops. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:caltrops"
+      }
+    },
+    {
+      "id": "power-rangers:item:candle",
+      "slug": "candle",
+      "name": "Candle",
+      "category": "gear",
+      "page": 120,
+      "filename": "candle.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Candle. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:candle"
+      }
+    },
+    {
+      "id": "power-rangers:item:chain",
+      "slug": "chain",
+      "name": "Chain",
+      "category": "gear",
+      "page": 120,
+      "filename": "chain.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Chain. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:chain"
+      }
+    },
+    {
+      "id": "power-rangers:item:climbers-kit",
+      "slug": "climbers-kit",
+      "name": "Climber’s Kit",
+      "category": "gear",
+      "page": 120,
+      "filename": "climbers-kit.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Climber’s Kit. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:climbers-kit"
+      }
+    },
+    {
+      "id": "power-rangers:item:close-combat-bludgeon",
+      "slug": "close-combat-bludgeon",
+      "name": "Close combat bludgeon",
+      "category": "weapon",
+      "page": 112,
+      "filename": "close-combat-bludgeon.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Close combat bludgeon. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:close-combat-bludgeon"
+      }
+    },
+    {
+      "id": "power-rangers:item:close-combat-heavy-blade",
+      "slug": "close-combat-heavy-blade",
+      "name": "Close combat heavy blade",
+      "category": "weapon",
+      "page": 112,
+      "filename": "close-combat-heavy-blade.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Close combat heavy blade. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:close-combat-heavy-blade"
+      }
+    },
+    {
+      "id": "power-rangers:item:clothes",
+      "slug": "clothes",
+      "name": "Clothes",
+      "category": "armor",
+      "page": 119,
+      "filename": "clothes.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Clothes. Category: armor.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:clothes"
+      }
+    },
+    {
+      "id": "power-rangers:item:computer-tablet",
+      "slug": "computer-tablet",
+      "name": "Computer Tablet",
+      "category": "gear",
+      "page": 120,
+      "filename": "computer-tablet.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Computer Tablet. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:computer-tablet"
+      }
+    },
+    {
+      "id": "power-rangers:item:concussion-grenade",
+      "slug": "concussion-grenade",
+      "name": "Concussion Grenade",
+      "category": "weapon",
+      "page": 112,
+      "filename": "concussion-grenade.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Concussion Grenade. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:concussion-grenade"
+      }
+    },
+    {
+      "id": "power-rangers:item:corrosive-tip",
+      "slug": "corrosive-tip",
+      "name": "Corrosive Tip",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "corrosive-tip.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Corrosive Tip. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:corrosive-tip"
+      }
+    },
+    {
+      "id": "power-rangers:item:crowbar",
+      "slug": "crowbar",
+      "name": "Crowbar",
+      "category": "gear",
+      "page": 120,
+      "filename": "crowbar.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Crowbar. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:crowbar"
+      }
+    },
+    {
+      "id": "power-rangers:item:cryo-tank",
+      "slug": "cryo-tank",
+      "name": "Cryo Tank",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "cryo-tank.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Cryo Tank. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:cryo-tank"
+      }
+    },
+    {
+      "id": "power-rangers:item:detonator-bomb",
+      "slug": "detonator-bomb",
+      "name": "Detonator Bomb",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "detonator-bomb.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Detonator Bomb. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:detonator-bomb"
+      }
+    },
+    {
+      "id": "power-rangers:item:engineering-kit",
+      "slug": "engineering-kit",
+      "name": "Engineering Kit",
+      "category": "kit",
+      "page": 121,
+      "filename": "engineering-kit.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Engineering Kit. Category: kit.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:engineering-kit"
+      }
+    },
+    {
+      "id": "power-rangers:item:eruptive",
+      "slug": "eruptive",
+      "name": "Eruptive",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "eruptive.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Eruptive. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:eruptive"
+      }
+    },
+    {
+      "id": "power-rangers:item:extended",
+      "slug": "extended",
+      "name": "Extended",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "extended.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Extended. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:extended"
+      }
+    },
+    {
+      "id": "power-rangers:item:flashlight",
+      "slug": "flashlight",
+      "name": "Flashlight",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "flashlight.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Flashlight. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:flashlight"
+      }
+    },
+    {
+      "id": "power-rangers:item:frigid",
+      "slug": "frigid",
+      "name": "Frigid",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "frigid.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Frigid. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:frigid"
+      }
+    },
+    {
+      "id": "power-rangers:item:galaxy-glider",
+      "slug": "galaxy-glider",
+      "name": "Galaxy Glider",
+      "category": "vehicle",
+      "page": 125,
+      "filename": "galaxy-glider.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Galaxy Glider. Category: vehicle. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:galaxy-glider"
+      }
+    },
+    {
+      "id": "power-rangers:item:gear-flashlight",
+      "slug": "gear-flashlight",
+      "name": "Flashlight",
+      "category": "gear",
+      "page": 120,
+      "filename": "gear-flashlight.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Flashlight. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:gear-flashlight"
+      }
+    },
+    {
+      "id": "power-rangers:item:golden-power-staff",
+      "slug": "golden-power-staff",
+      "name": "Golden Power Staff",
+      "category": "weapon",
+      "page": 110,
+      "filename": "golden-power-staff.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Golden Power Staff. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:golden-power-staff"
+      }
+    },
+    {
+      "id": "power-rangers:item:grappler",
+      "slug": "grappler",
+      "name": "Grappler",
+      "category": "weapon",
+      "page": 112,
+      "filename": "grappler.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Grappler. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:grappler"
+      }
+    },
+    {
+      "id": "power-rangers:item:grenade",
+      "slug": "grenade",
+      "name": "Grenade",
+      "category": "weapon",
+      "page": 112,
+      "filename": "grenade.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Grenade. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:grenade"
+      }
+    },
+    {
+      "id": "power-rangers:item:ignition-tank",
+      "slug": "ignition-tank",
+      "name": "Ignition Tank",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "ignition-tank.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Ignition Tank. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:ignition-tank"
+      }
+    },
+    {
+      "id": "power-rangers:item:in-space-armor",
+      "slug": "in-space-armor",
+      "name": "In Space Armor",
+      "category": "armor",
+      "page": 119,
+      "filename": "in-space-armor.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: In Space Armor. Category: armor.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:in-space-armor"
+      }
+    },
+    {
+      "id": "power-rangers:item:large-thrown-weapon",
+      "slug": "large-thrown-weapon",
+      "name": "Large thrown weapon",
+      "category": "weapon",
+      "page": 112,
+      "filename": "large-thrown-weapon.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Large thrown weapon. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:large-thrown-weapon"
+      }
+    },
+    {
+      "id": "power-rangers:item:lightning-cruiser",
+      "slug": "lightning-cruiser",
+      "name": "Lightning Cruiser",
+      "category": "vehicle",
+      "page": 125,
+      "filename": "lightning-cruiser.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Lightning Cruiser. Category: vehicle. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:lightning-cruiser"
+      }
+    },
+    {
+      "id": "power-rangers:item:lock",
+      "slug": "lock",
+      "name": "Lock",
+      "category": "gear",
+      "page": 120,
+      "filename": "lock.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Lock. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:lock"
+      }
+    },
+    {
+      "id": "power-rangers:item:lunar-lance",
+      "slug": "lunar-lance",
+      "name": "Lunar Lance",
+      "category": "weapon",
+      "page": 110,
+      "filename": "lunar-lance.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Lunar Lance. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:lunar-lance"
+      }
+    },
+    {
+      "id": "power-rangers:item:manipulative",
+      "slug": "manipulative",
+      "name": "Manipulative",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "manipulative.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Manipulative. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:manipulative"
+      }
+    },
+    {
+      "id": "power-rangers:item:martial-arts-long-blade",
+      "slug": "martial-arts-long-blade",
+      "name": "Martial Arts long blade",
+      "category": "weapon",
+      "page": 112,
+      "filename": "martial-arts-long-blade.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Martial Arts long blade. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:martial-arts-long-blade"
+      }
+    },
+    {
+      "id": "power-rangers:item:martial-arts-long-bludgeon",
+      "slug": "martial-arts-long-bludgeon",
+      "name": "Martial Arts long bludgeon",
+      "category": "weapon",
+      "page": 112,
+      "filename": "martial-arts-long-bludgeon.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Martial Arts long bludgeon. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:martial-arts-long-bludgeon"
+      }
+    },
+    {
+      "id": "power-rangers:item:martial-arts-medium-blade",
+      "slug": "martial-arts-medium-blade",
+      "name": "Martial Arts medium blade",
+      "category": "weapon",
+      "page": 112,
+      "filename": "martial-arts-medium-blade.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Martial Arts medium blade. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:martial-arts-medium-blade"
+      }
+    },
+    {
+      "id": "power-rangers:item:martial-arts-short-projectile",
+      "slug": "martial-arts-short-projectile",
+      "name": "Martial Arts short projectile",
+      "category": "weapon",
+      "page": 112,
+      "filename": "martial-arts-short-projectile.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Martial Arts short projectile. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:martial-arts-short-projectile"
+      }
+    },
+    {
+      "id": "power-rangers:item:med-kit",
+      "slug": "med-kit",
+      "name": "Med Kit",
+      "category": "kit",
+      "page": 121,
+      "filename": "med-kit.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Med Kit. Category: kit.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:med-kit"
+      }
+    },
+    {
+      "id": "power-rangers:item:metallic-body-armor",
+      "slug": "metallic-body-armor",
+      "name": "Metallic Body Armor",
+      "category": "armor",
+      "page": 119,
+      "filename": "metallic-body-armor.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Metallic Body Armor. Category: armor.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:metallic-body-armor"
+      }
+    },
+    {
+      "id": "power-rangers:item:mighty-morphin-armor",
+      "slug": "mighty-morphin-armor",
+      "name": "Mighty Morphin Armor",
+      "category": "armor",
+      "page": 119,
+      "filename": "mighty-morphin-armor.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Mighty Morphin Armor. Category: armor.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:mighty-morphin-armor"
+      }
+    },
+    {
+      "id": "power-rangers:item:ninja-megafalconzord",
+      "slug": "ninja-megafalconzord",
+      "name": "Ninja MegaFalconzord",
+      "category": "megazord",
+      "page": 147,
+      "filename": "ninja-megafalconzord.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Ninja MegaFalconzord. Category: megazord. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:ninja-megafalconzord"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-axe",
+      "slug": "power-axe",
+      "name": "Power Axe",
+      "category": "weapon",
+      "page": 108,
+      "filename": "power-axe.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Axe. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-axe"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-blaster",
+      "slug": "power-blaster",
+      "name": "Power Blaster",
+      "category": "weapon",
+      "page": 108,
+      "filename": "power-blaster.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Blaster. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-blaster"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-bow",
+      "slug": "power-bow",
+      "name": "Power Bow",
+      "category": "weapon",
+      "page": 108,
+      "filename": "power-bow.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Bow. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-bow"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-boxes",
+      "slug": "power-boxes",
+      "name": "Power Boxes",
+      "category": "kit",
+      "page": 121,
+      "filename": "power-boxes.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Boxes. Category: kit.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-boxes"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-cannon",
+      "slug": "power-cannon",
+      "name": "Power Cannon",
+      "category": "weapon",
+      "page": 112,
+      "filename": "power-cannon.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Cannon. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-cannon"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-daggers",
+      "slug": "power-daggers",
+      "name": "Power Daggers",
+      "category": "weapon",
+      "page": 110,
+      "filename": "power-daggers.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Daggers. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-daggers"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-lance",
+      "slug": "power-lance",
+      "name": "Power Lance",
+      "category": "weapon",
+      "page": 108,
+      "filename": "power-lance.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Lance. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-lance"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-morpher",
+      "slug": "power-morpher",
+      "name": "Power Morpher",
+      "category": "gear",
+      "page": 120,
+      "filename": "power-morpher.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Morpher. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-morpher"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-sword",
+      "slug": "power-sword",
+      "name": "Power Sword",
+      "category": "weapon",
+      "page": 108,
+      "filename": "power-sword.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Sword. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-sword"
+      }
+    },
+    {
+      "id": "power-rangers:item:power-weapon-element-damage-assignment",
+      "slug": "power-weapon-element-damage-assignment",
+      "name": "Power Weapon Element Damage Assignment",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "power-weapon-element-damage-assignment.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Power Weapon Element Damage Assignment. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:power-weapon-element-damage-assignment"
+      }
+    },
+    {
+      "id": "power-rangers:item:proximity-bomb",
+      "slug": "proximity-bomb",
+      "name": "Proximity Bomb",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "proximity-bomb.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Proximity Bomb. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:proximity-bomb"
+      }
+    },
+    {
+      "id": "power-rangers:item:quake-maker",
+      "slug": "quake-maker",
+      "name": "Quake Maker",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "quake-maker.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Quake Maker. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:quake-maker"
+      }
+    },
+    {
+      "id": "power-rangers:item:radiant",
+      "slug": "radiant",
+      "name": "Radiant",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "radiant.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Radiant. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:radiant"
+      }
+    },
+    {
+      "id": "power-rangers:item:ranged-short-projectile",
+      "slug": "ranged-short-projectile",
+      "name": "Ranged short projectile",
+      "category": "weapon",
+      "page": 112,
+      "filename": "ranged-short-projectile.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Ranged short projectile. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:ranged-short-projectile"
+      }
+    },
+    {
+      "id": "power-rangers:item:ray-generator",
+      "slug": "ray-generator",
+      "name": "Ray Generator",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "ray-generator.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Ray Generator. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:ray-generator"
+      }
+    },
+    {
+      "id": "power-rangers:item:refined-grip",
+      "slug": "refined-grip",
+      "name": "Refined Grip",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "refined-grip.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Refined Grip. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:refined-grip"
+      }
+    },
+    {
+      "id": "power-rangers:item:reinforced-grip",
+      "slug": "reinforced-grip",
+      "name": "Reinforced Grip",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "reinforced-grip.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Reinforced Grip. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:reinforced-grip"
+      }
+    },
+    {
+      "id": "power-rangers:item:rope",
+      "slug": "rope",
+      "name": "Rope",
+      "category": "gear",
+      "page": 121,
+      "filename": "rope.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Rope. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:rope"
+      }
+    },
+    {
+      "id": "power-rangers:item:rumbling",
+      "slug": "rumbling",
+      "name": "Rumbling",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "rumbling.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Rumbling. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:rumbling"
+      }
+    },
+    {
+      "id": "power-rangers:item:satellite-stunner",
+      "slug": "satellite-stunner",
+      "name": "Satellite Stunner",
+      "category": "weapon",
+      "page": 110,
+      "filename": "satellite-stunner.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Satellite Stunner. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:satellite-stunner"
+      }
+    },
+    {
+      "id": "power-rangers:item:scary",
+      "slug": "scary",
+      "name": "Scary",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "scary.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Scary. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:scary"
+      }
+    },
+    {
+      "id": "power-rangers:item:scope",
+      "slug": "scope",
+      "name": "Scope",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "scope.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Scope. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:scope"
+      }
+    },
+    {
+      "id": "power-rangers:item:seeking",
+      "slug": "seeking",
+      "name": "Seeking",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "seeking.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Seeking. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:seeking"
+      }
+    },
+    {
+      "id": "power-rangers:item:shark-cycles",
+      "slug": "shark-cycles",
+      "name": "Shark Cycles",
+      "category": "vehicle",
+      "page": 129,
+      "filename": "shark-cycles.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Shark Cycles. Category: vehicle. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:shark-cycles"
+      }
+    },
+    {
+      "id": "power-rangers:item:small-thrown-weapon",
+      "slug": "small-thrown-weapon",
+      "name": "Small thrown weapon",
+      "category": "weapon",
+      "page": 112,
+      "filename": "small-thrown-weapon.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Small thrown weapon. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:small-thrown-weapon"
+      }
+    },
+    {
+      "id": "power-rangers:item:smart-scope",
+      "slug": "smart-scope",
+      "name": "Smart Scope",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "smart-scope.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Smart Scope. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:smart-scope"
+      }
+    },
+    {
+      "id": "power-rangers:item:smasher",
+      "slug": "smasher",
+      "name": "Smasher",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "smasher.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Smasher. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:smasher"
+      }
+    },
+    {
+      "id": "power-rangers:item:spiral-saber",
+      "slug": "spiral-saber",
+      "name": "Spiral Saber",
+      "category": "weapon",
+      "page": 110,
+      "filename": "spiral-saber.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Spiral Saber. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:spiral-saber"
+      }
+    },
+    {
+      "id": "power-rangers:item:star-slinger",
+      "slug": "star-slinger",
+      "name": "Star Slinger",
+      "category": "weapon",
+      "page": 110,
+      "filename": "star-slinger.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Star Slinger. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:star-slinger"
+      }
+    },
+    {
+      "id": "power-rangers:item:storm-blaster",
+      "slug": "storm-blaster",
+      "name": "Storm Blaster",
+      "category": "vehicle",
+      "page": 128,
+      "filename": "storm-blaster.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Storm Blaster. Category: vehicle. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:storm-blaster"
+      }
+    },
+    {
+      "id": "power-rangers:item:strike",
+      "slug": "strike",
+      "name": "Strike",
+      "category": "weapon",
+      "page": 108,
+      "filename": "strike.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Strike. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:strike"
+      }
+    },
+    {
+      "id": "power-rangers:item:swift",
+      "slug": "swift",
+      "name": "Swift",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "swift.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Swift. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:swift"
+      }
+    },
+    {
+      "id": "power-rangers:item:tasing",
+      "slug": "tasing",
+      "name": "Tasing",
+      "category": "upgrade",
+      "page": 117,
+      "filename": "tasing.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Tasing. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:tasing"
+      }
+    },
+    {
+      "id": "power-rangers:item:thunder-slinger",
+      "slug": "thunder-slinger",
+      "name": "Thunder Slinger",
+      "category": "weapon",
+      "page": 110,
+      "filename": "thunder-slinger.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Thunder Slinger. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:thunder-slinger"
+      }
+    },
+    {
+      "id": "power-rangers:item:time-bomb",
+      "slug": "time-bomb",
+      "name": "Time Bomb",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "time-bomb.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Time Bomb. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:time-bomb"
+      }
+    },
+    {
+      "id": "power-rangers:item:turbo-armor",
+      "slug": "turbo-armor",
+      "name": "Turbo Armor",
+      "category": "armor",
+      "page": 119,
+      "filename": "turbo-armor.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Turbo Armor. Category: armor.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:turbo-armor"
+      }
+    },
+    {
+      "id": "power-rangers:item:turbo-blade",
+      "slug": "turbo-blade",
+      "name": "Turbo Blade",
+      "category": "weapon",
+      "page": 108,
+      "filename": "turbo-blade.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Turbo Blade. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:turbo-blade"
+      }
+    },
+    {
+      "id": "power-rangers:item:turbo-carts",
+      "slug": "turbo-carts",
+      "name": "Turbo Carts",
+      "category": "vehicle",
+      "page": 129,
+      "filename": "turbo-carts.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Turbo Carts. Category: vehicle. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:turbo-carts"
+      }
+    },
+    {
+      "id": "power-rangers:item:turbo-hand-blasters",
+      "slug": "turbo-hand-blasters",
+      "name": "Turbo Hand Blasters",
+      "category": "weapon",
+      "page": 110,
+      "filename": "turbo-hand-blasters.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Turbo Hand Blasters. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:turbo-hand-blasters"
+      }
+    },
+    {
+      "id": "power-rangers:item:turbo-lightning-sword",
+      "slug": "turbo-lightning-sword",
+      "name": "Turbo Lightning Sword",
+      "category": "weapon",
+      "page": 110,
+      "filename": "turbo-lightning-sword.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Turbo Lightning Sword. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:turbo-lightning-sword"
+      }
+    },
+    {
+      "id": "power-rangers:item:turbo-star-chargers",
+      "slug": "turbo-star-chargers",
+      "name": "Turbo Star Chargers",
+      "category": "weapon",
+      "page": 110,
+      "filename": "turbo-star-chargers.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Turbo Star Chargers. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:turbo-star-chargers"
+      }
+    },
+    {
+      "id": "power-rangers:item:turbo-thunder-canon",
+      "slug": "turbo-thunder-canon",
+      "name": "Turbo Thunder Canon",
+      "category": "weapon",
+      "page": 110,
+      "filename": "turbo-thunder-canon.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Turbo Thunder Canon. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:turbo-thunder-canon"
+      }
+    },
+    {
+      "id": "power-rangers:item:turbo-wind-fire",
+      "slug": "turbo-wind-fire",
+      "name": "Turbo Wind Fire",
+      "category": "weapon",
+      "page": 110,
+      "filename": "turbo-wind-fire.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Turbo Wind Fire. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:turbo-wind-fire"
+      }
+    },
+    {
+      "id": "power-rangers:item:voltage-tank",
+      "slug": "voltage-tank",
+      "name": "Voltage tank",
+      "category": "upgrade",
+      "page": 118,
+      "filename": "voltage-tank.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Voltage tank. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:voltage-tank"
+      }
+    },
+    {
+      "id": "power-rangers:item:waterproof",
+      "slug": "waterproof",
+      "name": "Waterproof",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "waterproof.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Waterproof. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:waterproof"
+      }
+    },
+    {
+      "id": "power-rangers:item:weatherproof",
+      "slug": "weatherproof",
+      "name": "Weatherproof",
+      "category": "upgrade",
+      "page": 116,
+      "filename": "weatherproof.webp",
+      "artKind": "upgrade visualization",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Weatherproof. Category: upgrade. Depict a representative inert attachment, module or modified equipment piece communicating this upgrade; avoid instructional diagrams.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:weatherproof"
+      }
+    },
+    {
+      "id": "power-rangers:item:winged-megavoyager",
+      "slug": "winged-megavoyager",
+      "name": "Winged MegaVoyager",
+      "category": "megazord",
+      "page": 154,
+      "filename": "winged-megavoyager.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Winged MegaVoyager. Category: megazord. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:winged-megavoyager"
+      }
+    },
+    {
+      "id": "power-rangers:item:wrist-communicator",
+      "slug": "wrist-communicator",
+      "name": "Wrist Communicator",
+      "category": "gear",
+      "page": 121,
+      "filename": "wrist-communicator.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Wrist Communicator. Category: gear.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:wrist-communicator"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-armor",
+      "slug": "zeo-armor",
+      "name": "Zeo Armor",
+      "category": "armor",
+      "page": 119,
+      "filename": "zeo-armor.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Armor. Category: armor.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-armor"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-cannon",
+      "slug": "zeo-cannon",
+      "name": "Zeo Cannon",
+      "category": "weapon",
+      "page": 112,
+      "filename": "zeo-cannon.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Cannon. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-cannon"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-jet-cycles",
+      "slug": "zeo-jet-cycles",
+      "name": "Zeo Jet Cycles",
+      "category": "vehicle",
+      "page": 130,
+      "filename": "zeo-jet-cycles.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Jet Cycles. Category: vehicle. Show the complete unoccupied vehicle or machine, no pilot, crew or battlefield.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-jet-cycles"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-laser-pistols",
+      "slug": "zeo-laser-pistols",
+      "name": "Zeo Laser Pistols",
+      "category": "weapon",
+      "page": 108,
+      "filename": "zeo-laser-pistols.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Laser Pistols. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-laser-pistols"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-power-axes",
+      "slug": "zeo-power-axes",
+      "name": "Zeo Power Axes",
+      "category": "weapon",
+      "page": 110,
+      "filename": "zeo-power-axes.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Power Axes. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-power-axes"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-power-clubs",
+      "slug": "zeo-power-clubs",
+      "name": "Zeo Power Clubs",
+      "category": "weapon",
+      "page": 110,
+      "filename": "zeo-power-clubs.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Power Clubs. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-power-clubs"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-power-pod-sword",
+      "slug": "zeo-power-pod-sword",
+      "name": "Zeo Power Pod Sword",
+      "category": "weapon",
+      "page": 110,
+      "filename": "zeo-power-pod-sword.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Power Pod Sword. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-power-pod-sword"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-power-sword",
+      "slug": "zeo-power-sword",
+      "name": "Zeo Power Sword",
+      "category": "weapon",
+      "page": 110,
+      "filename": "zeo-power-sword.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Power Sword. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-power-sword"
+      }
+    },
+    {
+      "id": "power-rangers:item:zeo-power-tonfas",
+      "slug": "zeo-power-tonfas",
+      "name": "Zeo Power Tonfas",
+      "category": "weapon",
+      "page": 110,
+      "filename": "zeo-power-tonfas.webp",
+      "artKind": "equipment illustration",
+      "prompt": "Use case: stylized-concept. Isolated equipment inventory illustration on a genuinely transparent alpha background. Complete object fully inside generous margins, three-quarter view where appropriate. No text, labels, branding, card border, scene, floor or ground shadow. No human wearer, operator, hands or visible mannequin; empty garments and armour only. Preserve transparency through openings and around glow. For fictional weapons show only the inert exterior, no combat, firing, exposed internals, functional diagrams or assembly instructions.\nStyle: Polished painted Power Rangers comic-book illustration: clean strong contours, saturated Ranger colors, dimensional metal highlights, sculpted heroic prop forms, crisp black and silver accents, restrained energy glow.\nSubject: Zeo Power Tonfas. Category: weapon.",
+      "descriptionSource": {
+        "pack": "/Users/mikebastarache/htdocs/dnd_character_builder/public/content/power-rangers/power-rangers.json",
+        "entityId": "power-rangers:item:zeo-power-tonfas"
+      }
+    }
+  ],
+  "generatedThisRun": 0,
+  "styleReference": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/power_rangers/roles/red_ranger.jpg"
+}
