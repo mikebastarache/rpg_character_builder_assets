@@ -1,0 +1,869 @@
+{
+  "date": "2026-11-23",
+  "created": 70,
+  "coveredEntries": 116,
+  "pendingEntries": 7,
+  "entries": [
+    {
+      "id": "star-wars-saga:species:advozse",
+      "name": "Advozse",
+      "image": "species/advozse.webp",
+      "profile": "profiles/advozse.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:aleena",
+      "name": "Aleena",
+      "image": "species/aleena.webp",
+      "profile": "profiles/aleena.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:altiri",
+      "name": "Altiri",
+      "image": "species/altiri.webp",
+      "profile": "profiles/altiri.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:anarrian",
+      "name": "Anarrian",
+      "image": "species/anarrian.webp",
+      "profile": "profiles/anarrian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:anzati",
+      "name": "Anzati",
+      "image": "species/anzati.webp",
+      "profile": "profiles/anzati.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:aqualish",
+      "name": "Aqualish",
+      "image": "species/Aqualish.webp",
+      "profile": "profiles/Aqualish.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:arkanian",
+      "name": "Arkanian",
+      "image": "species/Arkanian.webp",
+      "profile": "profiles/Arkanian.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:arkanian-offshoot",
+      "name": "Arkanian Offshoot",
+      "image": "species/arkanian-offshoot.webp",
+      "profile": "profiles/arkanian-offshoot.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:balosar",
+      "name": "Balosar",
+      "image": "species/balosar.webp",
+      "profile": "profiles/balosar.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:barabel",
+      "name": "Barabel",
+      "image": "species/barabel.webp",
+      "profile": "profiles/barabel.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:bith",
+      "name": "Bith",
+      "image": "species/Bith.webp",
+      "profile": "profiles/Bith.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:blood-carver",
+      "name": "Blood Carver",
+      "image": "species/blood-carver.webp",
+      "profile": "profiles/blood-carver.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:bothan",
+      "name": "Bothan",
+      "image": "species/Bothan.webp",
+      "profile": "profiles/Bothan.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:caamasi",
+      "name": "Caamasi",
+      "image": "species/caamasi.webp",
+      "profile": "profiles/caamasi.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:cathar",
+      "name": "Cathar",
+      "image": "species/cathar.webp",
+      "profile": "profiles/cathar.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:celegian",
+      "name": "Celegian",
+      "image": "species/celegian.webp",
+      "profile": "profiles/celegian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:cerean",
+      "name": "Cerean",
+      "image": "species/Cerean.webp",
+      "profile": "profiles/Cerean.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:chadra-fan",
+      "name": "Chadra-Fan",
+      "image": "species/chadra-fan.webp",
+      "profile": "profiles/chadra-fan.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:chagrian",
+      "name": "Chagrian",
+      "image": "species/chagrian.webp",
+      "profile": "profiles/chagrian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:chiss",
+      "name": "Chiss",
+      "image": "species/Chiss.webp",
+      "profile": "profiles/Chiss.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:chistori",
+      "name": "Chistori",
+      "image": "species/chistori.webp",
+      "profile": "profiles/chistori.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:clawdite",
+      "name": "Clawdite",
+      "image": "species/clawdite.webp",
+      "profile": "profiles/clawdite.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:codru-ji",
+      "name": "Codru-Ji",
+      "image": "species/codru-ji.webp",
+      "profile": "profiles/codru-ji.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:dashade",
+      "name": "Dashade",
+      "status": "pending",
+      "image": null,
+      "profile": null
+    },
+    {
+      "id": "star-wars-saga:species:defel",
+      "name": "Defel",
+      "image": "species/defel.webp",
+      "profile": "profiles/defel.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:devaronian",
+      "name": "Devaronian",
+      "image": "species/Devaronian.webp",
+      "profile": "profiles/Devaronian.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:draethos",
+      "name": "Draethos",
+      "image": "species/draethos.webp",
+      "profile": "profiles/draethos.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:dug",
+      "name": "Dug",
+      "image": "species/Dug.webp",
+      "profile": "profiles/Dug.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:duros",
+      "name": "Duros",
+      "image": "species/Duros.webp",
+      "profile": "profiles/Duros.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:ebruchi",
+      "name": "Ebruchi",
+      "image": "species/ebruchi.webp",
+      "profile": "profiles/ebruchi.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:elomin",
+      "name": "Elomin",
+      "image": "species/elomin.webp",
+      "profile": "profiles/elomin.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:ewok",
+      "name": "Ewok",
+      "image": "species/Ewok-large.webp",
+      "profile": "profiles/Ewok-large.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:falleen",
+      "name": "Falleen",
+      "image": "species/falleen.webp",
+      "profile": "profiles/falleen.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:feeorin",
+      "name": "Feeorin",
+      "image": "species/feeorin.webp",
+      "profile": "profiles/feeorin.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:felucian",
+      "name": "Felucian",
+      "image": "species/felucian.webp",
+      "profile": "profiles/felucian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:fosh",
+      "name": "Fosh",
+      "image": "species/fosh.webp",
+      "profile": "profiles/fosh.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:gamorrean",
+      "name": "Gamorrean",
+      "image": "species/Gamorrean.webp",
+      "profile": "profiles/Gamorrean.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:gand",
+      "name": "Gand",
+      "image": "species/Gand.webp",
+      "profile": "profiles/Gand.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:gen-dai",
+      "name": "Gen'Dai",
+      "image": "species/gen-dai.webp",
+      "profile": "profiles/gen-dai.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:geonosian",
+      "name": "Geonosian",
+      "image": "species/Geonosian.webp",
+      "profile": "profiles/Geonosian.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:givin",
+      "name": "Givin",
+      "image": "species/givin.webp",
+      "profile": "profiles/givin.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:gotal",
+      "name": "Gotal",
+      "image": "species/gotal.webp",
+      "profile": "profiles/gotal.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:gran",
+      "name": "Gran",
+      "image": "species/Gran.webp",
+      "profile": "profiles/Gran.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:gungan",
+      "name": "Gungan",
+      "image": "species/Gungan.webp",
+      "profile": "profiles/Gungan.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:herglic",
+      "name": "Herglic",
+      "image": "species/herglic.webp",
+      "profile": "profiles/herglic.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:houk",
+      "name": "Houk",
+      "status": "pending",
+      "image": null,
+      "profile": null
+    },
+    {
+      "id": "star-wars-saga:species:human",
+      "name": "Human",
+      "image": "species/Human.webp",
+      "profile": "profiles/Human.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:hutt",
+      "name": "Hutt",
+      "image": "species/Hutt.webp",
+      "profile": "profiles/Hutt.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:iktotchi",
+      "name": "Iktotchi",
+      "image": "species/Iktotchi.webp",
+      "profile": "profiles/Iktotchi.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:ishi-tib",
+      "name": "Ishi Tib",
+      "image": "species/Ishi_Tib.webp",
+      "profile": "profiles/Ishi_Tib.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:ithorian",
+      "name": "Ithorian",
+      "image": "species/Ithorian.webp",
+      "profile": "profiles/Ithorian.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:jawa",
+      "name": "Jawa",
+      "image": "species/Jawa.webp",
+      "profile": "profiles/Jawa.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:kaleesh",
+      "name": "Kaleesh",
+      "image": "species/kaleesh.webp",
+      "profile": "profiles/kaleesh.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:kaminoan",
+      "name": "Kaminoan",
+      "image": "species/Kaminoan.webp",
+      "profile": "profiles/Kaminoan.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:kel-dor",
+      "name": "Kel Dor",
+      "image": "species/Kel_Dor.webp",
+      "profile": "profiles/Kel_Dor.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:kerkoiden",
+      "name": "Kerkoiden",
+      "image": "species/kerkoiden.webp",
+      "profile": "profiles/kerkoiden.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:khil",
+      "name": "Khil",
+      "image": "species/khil.webp",
+      "profile": "profiles/khil.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:killik",
+      "name": "Killik",
+      "status": "pending",
+      "image": null,
+      "profile": null
+    },
+    {
+      "id": "star-wars-saga:species:kissai",
+      "name": "Kissai",
+      "image": "species/kissai.webp",
+      "profile": "profiles/kissai.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:klatooinian",
+      "name": "Klatooinian",
+      "status": "pending",
+      "image": null,
+      "profile": null
+    },
+    {
+      "id": "star-wars-saga:species:krevaaki",
+      "name": "Krevaaki",
+      "image": "species/krevaaki.webp",
+      "profile": "profiles/krevaaki.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:lugubraa",
+      "name": "Lugubraa",
+      "image": "species/lugubraa.webp",
+      "profile": "profiles/lugubraa.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:lurmen",
+      "name": "Lurmen",
+      "status": "pending",
+      "image": null,
+      "profile": null
+    },
+    {
+      "id": "star-wars-saga:species:mantellian-savrip",
+      "name": "Mantellian Savrip",
+      "image": "species/mantellian-savrip.webp",
+      "profile": "profiles/mantellian-savrip.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:massassi",
+      "name": "Massassi",
+      "image": "species/massassi.webp",
+      "profile": "profiles/massassi.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:miraluka",
+      "name": "Miraluka",
+      "image": "species/miraluka.webp",
+      "profile": "profiles/miraluka.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:mon-calamari",
+      "name": "Mon Calamari",
+      "image": "species/Mon_Calamari.webp",
+      "profile": "profiles/Mon_Calamari.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:mrlssi",
+      "name": "Mrlssi",
+      "image": "species/mrlssi.webp",
+      "profile": "profiles/mrlssi.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:nagai",
+      "name": "Nagai",
+      "image": "species/nagai.webp",
+      "profile": "profiles/nagai.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:nautolan",
+      "name": "Nautolan",
+      "image": "species/Nautolan-0.webp",
+      "profile": "profiles/Nautolan-0.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:near-human",
+      "name": "Near-Human",
+      "image": "species/near-human.webp",
+      "profile": "profiles/near-human.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:neimoidian",
+      "name": "Neimoidian",
+      "image": "species/Neimoidian.webp",
+      "profile": "profiles/Neimoidian.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:neimoidian-intrigue",
+      "name": "Neimoidian (Galaxy of Intrigue)",
+      "image": "species/Neimoidian.webp",
+      "profile": "profiles/Neimoidian.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:nelvaanian",
+      "name": "Nelvaanian",
+      "image": "species/nelvaanian.webp",
+      "profile": "profiles/nelvaanian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:nikto",
+      "name": "Nikto",
+      "image": "species/Nikto.webp",
+      "profile": "profiles/Nikto.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:noghri",
+      "name": "Noghri",
+      "image": "species/Noghri.webp",
+      "profile": "profiles/Noghri.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:nosaurian",
+      "name": "Nosaurian",
+      "image": "species/nosaurian.webp",
+      "profile": "profiles/nosaurian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:nyriaanan",
+      "name": "Near Human (Nyriaan Native/Nyriaanan)",
+      "image": "species/nyriaanan.webp",
+      "profile": "profiles/nyriaanan.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:oreenian",
+      "name": "O'reenian",
+      "image": "species/oreenian.webp",
+      "profile": "profiles/oreenian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:pa-lowick",
+      "name": "Pa'lowick",
+      "image": "species/Pa%27lowick.webp",
+      "profile": "profiles/Pa%27lowick.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:quarren",
+      "name": "Quarren",
+      "image": "species/Quarren.webp",
+      "profile": "profiles/Quarren.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:rakata",
+      "name": "Rakata",
+      "status": "pending",
+      "image": null,
+      "profile": null
+    },
+    {
+      "id": "star-wars-saga:species:rodian",
+      "name": "Rodian",
+      "image": "species/Rodian.webp",
+      "profile": "profiles/Rodian.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:ryn",
+      "name": "Ryn",
+      "image": "species/ryn.webp",
+      "profile": "profiles/ryn.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:sakiyan",
+      "name": "Sakiyan",
+      "image": "species/sakiyan.webp",
+      "profile": "profiles/sakiyan.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:selkath",
+      "name": "Selkath",
+      "status": "pending",
+      "image": null,
+      "profile": null
+    },
+    {
+      "id": "star-wars-saga:species:shistavanen",
+      "name": "Shistavanen",
+      "image": "species/shistavanen.webp",
+      "profile": "profiles/shistavanen.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:sluissi",
+      "name": "Sluissi",
+      "image": "species/sluissi.webp",
+      "profile": "profiles/sluissi.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:snivvian",
+      "name": "Snivvian",
+      "image": "species/snivvian.webp",
+      "profile": "profiles/snivvian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:sorcerer-of-rhand",
+      "name": "Sorcerer of Rhand",
+      "image": "species/sorcerer-of-rhand.webp",
+      "profile": "profiles/sorcerer-of-rhand.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:squib",
+      "name": "Squib",
+      "image": "species/squib.webp",
+      "profile": "profiles/squib.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:ssi-ruuk",
+      "name": "Ssi-ruuk",
+      "image": "species/ssi-ruuk.webp",
+      "profile": "profiles/ssi-ruuk.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:sullustan",
+      "name": "Sullustan",
+      "image": "species/Sullustan.webp",
+      "profile": "profiles/Sullustan.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:talz",
+      "name": "Talz",
+      "image": "species/Talz.webp",
+      "profile": "profiles/Talz.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:taung",
+      "name": "Taung",
+      "image": "species/taung.webp",
+      "profile": "profiles/taung.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:thakwaash",
+      "name": "Thakwaash",
+      "image": "species/thakwaash.webp",
+      "profile": "profiles/thakwaash.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:tof",
+      "name": "Tof",
+      "image": "species/tof.webp",
+      "profile": "profiles/tof.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:togorian",
+      "name": "Togorian",
+      "image": "species/togorian.webp",
+      "profile": "profiles/togorian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:togruta",
+      "name": "Togruta",
+      "image": "species/Togruta.webp",
+      "profile": "profiles/Togruta.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:toydarian",
+      "name": "Toydarian",
+      "image": "species/Toydarian1.webp",
+      "profile": "profiles/Toydarian1.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:trandoshan",
+      "name": "Trandoshan",
+      "image": "species/Trandoshan.webp",
+      "profile": "profiles/Trandoshan.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:trianii",
+      "name": "Trianii",
+      "image": "species/trianii.webp",
+      "profile": "profiles/trianii.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:twilek",
+      "name": "Twi'lek",
+      "image": "species/Twi%27lek.webp",
+      "profile": "profiles/Twi%27lek.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:ubese",
+      "name": "Ubese",
+      "image": "species/ubese.webp",
+      "profile": "profiles/ubese.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:umbaran",
+      "name": "Umbaran",
+      "image": "species/umbaran.webp",
+      "profile": "profiles/umbaran.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:utai",
+      "name": "Utai",
+      "image": "species/Utai.webp",
+      "profile": "profiles/Utai.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:vagaari",
+      "name": "Vagaari",
+      "image": "species/vagaari.webp",
+      "profile": "profiles/vagaari.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:vahla",
+      "name": "Vahla",
+      "image": "species/vahla.webp",
+      "profile": "profiles/vahla.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:verpine",
+      "name": "Verpine",
+      "image": "species/verpine.webp",
+      "profile": "profiles/verpine.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:vultan",
+      "name": "Vultan",
+      "image": "species/vultan.webp",
+      "profile": "profiles/vultan.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:vurk",
+      "name": "Vurk",
+      "image": "species/vurk.webp",
+      "profile": "profiles/vurk.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:weequay",
+      "name": "Weequay",
+      "image": "species/Weequay.webp",
+      "profile": "profiles/Weequay.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:whiphid",
+      "name": "Whiphid",
+      "image": "species/Whiphid.webp",
+      "profile": "profiles/Whiphid.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:wookiee",
+      "name": "Wookiee",
+      "image": "species/Wookiee.webp",
+      "profile": "profiles/Wookiee.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:wroonian",
+      "name": "Wroonian",
+      "image": "species/wroonian.webp",
+      "profile": "profiles/wroonian.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:yarkora",
+      "name": "Yarkora",
+      "image": "species/Yarkora.webp",
+      "profile": "profiles/Yarkora.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:yevetha",
+      "name": "Yevetha",
+      "image": "species/yevetha.webp",
+      "profile": "profiles/yevetha.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:yuuzhan-vong",
+      "name": "Yuuzhan Vong",
+      "image": "species/Yuuzhan_Vong-1.webp",
+      "profile": "profiles/Yuuzhan_Vong-1.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:yuuzhan-vong-legacy",
+      "name": "Yuuzhan Vong (Legacy Era)",
+      "image": "species/Yuuzhan_Vong-1.webp",
+      "profile": "profiles/Yuuzhan_Vong-1.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:yuzzem",
+      "name": "Yuzzem",
+      "image": "species/yuzzem.webp",
+      "profile": "profiles/yuzzem.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:zabrak",
+      "name": "Zabrak",
+      "image": "species/Zabrak.webp",
+      "profile": "profiles/Zabrak.webp",
+      "status": "existing"
+    },
+    {
+      "id": "star-wars-saga:species:zeltron",
+      "name": "Zeltron",
+      "image": "species/zeltron.webp",
+      "profile": "profiles/zeltron.webp",
+      "status": "created"
+    },
+    {
+      "id": "star-wars-saga:species:zygerrian",
+      "name": "Zygerrian",
+      "image": "species/zygerrian.webp",
+      "profile": "profiles/zygerrian.webp",
+      "status": "created"
+    }
+  ]
+}

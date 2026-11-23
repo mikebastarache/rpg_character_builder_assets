@@ -1,0 +1,33 @@
+{
+  "id": "star-wars-saga:species:draethos",
+  "name": "Draethos",
+  "filename": "draethos.webp",
+  "profile": "../profiles/draethos.webp",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: background-extraction. Input image 1 is the EDIT TARGET. Remove only the painted gray-green studio backdrop, the floor, and the external ground/contact shadow. Deliver the exact same complete character as a clean cutout on a genuinely TRANSPARENT alpha background. Preserve the existing character identity, anatomy, face, clothing, colors, brushwork, pose, proportions, accessories and framing. Do not redraw, restyle, reposition or crop the character. Preserve small features and soft natural edges; remove background in openings between limbs and clothing. Keep every part of the figure and its attached accessories. No solid backdrop, no checkerboard drawn into the image, no replacement scenery, no border or text. Retain portrait aspect ratio 2:3 and the same canvas composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-37bc0c48-7963-4eec-ad74-4d0f12e4c2a4.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "profileDimensions": [
+    512,
+    512
+  ],
+  "profileCrop": [
+    133,
+    0,
+    890,
+    757
+  ],
+  "generationPrompt": "Use case: stylized-concept. Asset type: a single individual Star Wars RPG species illustration, portrait canvas 1024x1536. Primary request: one representative adult of the specified species, an original character, never copy a prior character. Style/medium: hand-painted illustrated tabletop science-fiction sourcebook, realistic anatomy with visible brushwork and selective fine ink contours, muted cinematic colors, warm highlights and cool shadows, believable worn retro-futuristic clothing. Composition: a single complete full-body figure in relaxed three-quarter pose, centered, entire head, hands, feet, tail or antennae as applicable inside the frame with generous margins; face visible near upper center. Backdrop: plain subtle light warm gray-green studio wash, softly lit with faint grounding shadow. Not a scenic environment. Clothing must vary appropriately between species and characters, not a repeated outfit: practical modest civilian or adventuring attire appropriate to the described culture and anatomy. No weapon needed. Constraints: precisely follow the stated species anatomy. Do NOT add head-tails, horns, tendrils, animal ears or extra arms unless explicitly in the physical description. No other beings, no text, no labels, no letters, no logos, no watermark, no card frame. \nSubject: Draethos.\nPhysical description (reference data only): A lipless mouth giving the illusion of a large overbite; tightly muscled humanoid bodies covered in scaly skin from violet to mauve to gray; clawlike hands that add to a skeletal look.",
+  "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-665fcb52-3e61-42b1-9bc5-f294faaeb04a.png",
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.713231,
+  "cornerAlpha": [
+    0,
+    0,
+    0,
+    0
+  ]
+}

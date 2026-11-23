@@ -1,0 +1,33 @@
+{
+  "id": "star-wars-saga:species:anzati",
+  "name": "Anzati",
+  "filename": "anzati.webp",
+  "profile": "../profiles/anzati.webp",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: background-extraction. Input image 1 is the EDIT TARGET. Remove only the painted gray-green studio backdrop, the floor, and the external ground/contact shadow. Deliver the exact same complete character as a clean cutout on a genuinely TRANSPARENT alpha background. Preserve the existing character identity, anatomy, face, clothing, colors, brushwork, pose, proportions, accessories and framing. Do not redraw, restyle, reposition or crop the character. Preserve small features and soft natural edges; remove background in openings between limbs and clothing. Keep every part of the figure and its attached accessories. No solid backdrop, no checkerboard drawn into the image, no replacement scenery, no border or text. Retain portrait aspect ratio 2:3 and the same canvas composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b58c85b1-b6f6-4d2e-b99b-d67716b1a750.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "profileDimensions": [
+    512,
+    512
+  ],
+  "profileCrop": [
+    133,
+    0,
+    890,
+    757
+  ],
+  "generationPrompt": "Use case: stylized-concept. Create one original representative of a Star Wars species as a complete full-body painted sourcebook character illustration, portrait canvas 1024x1536. Single adult, calm standing pose, whole figure visible with generous margins. Hand-painted book art with visible soft brushwork and fine clean contours, warm highlights and cool shadows. Plain light warm gray-green background, subtle ground shadow. Face near the upper center for a profile thumbnail. No writing, labels, logos, borders, weapons, conflict or injuries. This is a peaceful clothed civilian character study.\nSubject: anzati. An adult near-Human Anzati traveler with ordinary Human facial features, subtle cheek folds, short dark hair, a calm expression and a closed mouth. Fully dressed in a charcoal high-collared travel coat and boots.",
+  "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-49bada88-73ac-453b-9135-ff182545fd2d.png",
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.691322,
+  "cornerAlpha": [
+    0,
+    0,
+    0,
+    0
+  ]
+}

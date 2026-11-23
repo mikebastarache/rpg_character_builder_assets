@@ -1,0 +1,33 @@
+{
+  "id": "star-wars-saga:species:taung",
+  "name": "Taung",
+  "filename": "taung.webp",
+  "profile": "../profiles/taung.webp",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: background-extraction. Input image 1 is the EDIT TARGET. Remove only the painted gray-green studio backdrop, the floor, and the external ground/contact shadow. Deliver the exact same complete character as a clean cutout on a genuinely TRANSPARENT alpha background. Preserve the existing character identity, anatomy, face, clothing, colors, brushwork, pose, proportions, accessories and framing. Do not redraw, restyle, reposition or crop the character. Preserve small features and soft natural edges; remove background in openings between limbs and clothing. Keep every part of the figure and its attached accessories. No solid backdrop, no checkerboard drawn into the image, no replacement scenery, no border or text. Retain portrait aspect ratio 2:3 and the same canvas composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5dfd8d3f-8df2-4a82-9a9f-f63a74b94185.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "profileDimensions": [
+    512,
+    512
+  ],
+  "profileCrop": [
+    133,
+    0,
+    890,
+    757
+  ],
+  "generationPrompt": "Use case: stylized-concept. Create one original representative of a Star Wars species as a complete full-body painted sourcebook character illustration, portrait canvas 1024x1536. Single adult, calm standing pose, whole figure visible with generous margins. Hand-painted book art with visible soft brushwork and fine clean contours, warm highlights and cool shadows. Plain light warm gray-green background, subtle ground shadow. Face near the upper center for a profile thumbnail. No writing, labels, logos, borders, weapons, conflict or injuries. This is a peaceful clothed civilian character study.\nSubject: taung. An adult Taung traveler: broadly Human-proportioned gray-skinned humanoid, a distinctive natural angular ridged face resembling the geometry of a Mandalorian helmet visor, visible natural face rather than a worn helmet. Fully clothed in a plain slate-gray long-sleeved travel suit and boots. Calm unarmed pose.",
+  "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5b4713d2-6959-4479-96bf-35563ed3d1cb.png",
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.715181,
+  "cornerAlpha": [
+    0,
+    0,
+    0,
+    0
+  ]
+}

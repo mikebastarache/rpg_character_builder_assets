@@ -1,0 +1,33 @@
+{
+  "id": "star-wars-saga:species:balosar",
+  "name": "Balosar",
+  "filename": "balosar.webp",
+  "profile": "../profiles/balosar.webp",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: background-extraction. Input image 1 is the EDIT TARGET. Remove only the painted gray-green studio backdrop, the floor, and the external ground/contact shadow. Deliver the exact same complete character as a clean cutout on a genuinely TRANSPARENT alpha background. Preserve the existing character identity, anatomy, face, clothing, colors, brushwork, pose, proportions, accessories and framing. Do not redraw, restyle, reposition or crop the character. Preserve small features and soft natural edges; remove background in openings between limbs and clothing. Keep every part of the figure and its attached accessories. No solid backdrop, no checkerboard drawn into the image, no replacement scenery, no border or text. Retain portrait aspect ratio 2:3 and the same canvas composition.",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7aff49cd-240c-4e09-b077-3d97ac5049e5.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "profileDimensions": [
+    512,
+    512
+  ],
+  "profileCrop": [
+    133,
+    0,
+    890,
+    757
+  ],
+  "generationPrompt": "Use case: stylized-concept. Create one original representative of a Star Wars species as a complete full-body painted sourcebook character illustration, portrait canvas 1024x1536. Single adult, calm standing pose, whole figure visible with generous margins. Hand-painted book art with visible soft brushwork and fine clean contours, warm highlights and cool shadows. Plain light warm gray-green background, subtle ground shadow. Face near the upper center for a profile thumbnail. No writing, labels, logos, borders, weapons, conflict or injuries. This is a peaceful clothed civilian character study.\nSubject: balosar. An adult Balosar civilian: Human-looking face and body, dark wavy hair, exactly two long slender flexible antennapalps emerging from the forehead above the eyebrows, both clearly visible and extended upward. These are thin soft sensory feelers, not horns. Fully dressed in a teal flight coverall and boots.",
+  "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e4312c90-48cb-4b44-80c0-39fd780a89dc.png",
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.738328,
+  "cornerAlpha": [
+    0,
+    0,
+    0,
+    0
+  ]
+}

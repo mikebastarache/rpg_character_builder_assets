@@ -1,0 +1,47 @@
+{
+  "pendingCount": 7,
+  "entries": [
+    {
+      "id": "star-wars-saga:species:dashade",
+      "name": "Dashade",
+      "slug": "dashade",
+      "reason": "Built-in image_gen rejected both the original and simplified peaceful civilian requests."
+    },
+    {
+      "id": "star-wars-saga:species:houk",
+      "name": "Houk",
+      "slug": "houk",
+      "reason": "Built-in image_gen rejected both the original and simplified peaceful civilian requests."
+    },
+    {
+      "id": "star-wars-saga:species:killik",
+      "name": "Killik",
+      "slug": "killik",
+      "reason": "Built-in image_gen rejected both the original and simplified peaceful civilian requests."
+    },
+    {
+      "id": "star-wars-saga:species:klatooinian",
+      "name": "Klatooinian",
+      "slug": "klatooinian",
+      "reason": "Built-in image_gen rejected both the original and simplified peaceful civilian requests."
+    },
+    {
+      "id": "star-wars-saga:species:lurmen",
+      "name": "Lurmen",
+      "slug": "lurmen",
+      "reason": "Built-in image_gen rejected both the original and simplified peaceful civilian requests."
+    },
+    {
+      "id": "star-wars-saga:species:rakata",
+      "name": "Rakata",
+      "slug": "rakata",
+      "reason": "Built-in image_gen rejected both the original and simplified peaceful civilian requests."
+    },
+    {
+      "id": "star-wars-saga:species:selkath",
+      "name": "Selkath",
+      "slug": "selkath",
+      "reason": "Built-in image_gen rejected both the original and simplified peaceful civilian requests."
+    }
+  ]
+}

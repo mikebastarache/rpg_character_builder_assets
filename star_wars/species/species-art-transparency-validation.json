@@ -1,0 +1,1127 @@
+{
+  "updatedSpecies": 70,
+  "updatedProfiles": 70,
+  "validation": "Every WebP has an alpha channel and fully transparent background pixels.",
+  "files": [
+    {
+      "file": "species/advozse.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.664503
+    },
+    {
+      "file": "profiles/advozse.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.51651
+    },
+    {
+      "file": "species/aleena.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.651401
+    },
+    {
+      "file": "profiles/aleena.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.538467
+    },
+    {
+      "file": "species/altiri.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.758633
+    },
+    {
+      "file": "profiles/altiri.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.662148
+    },
+    {
+      "file": "species/anarrian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.680643
+    },
+    {
+      "file": "profiles/anarrian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.531944
+    },
+    {
+      "file": "species/anzati.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.691322
+    },
+    {
+      "file": "profiles/anzati.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.599079
+    },
+    {
+      "file": "species/arkanian-offshoot.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.710885
+    },
+    {
+      "file": "profiles/arkanian-offshoot.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.582825
+    },
+    {
+      "file": "species/balosar.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.738328
+    },
+    {
+      "file": "profiles/balosar.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.638119
+    },
+    {
+      "file": "species/barabel.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.610823
+    },
+    {
+      "file": "profiles/barabel.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.449066
+    },
+    {
+      "file": "species/blood-carver.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.784283
+    },
+    {
+      "file": "profiles/blood-carver.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.645893
+    },
+    {
+      "file": "species/caamasi.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.699402
+    },
+    {
+      "file": "profiles/caamasi.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.550678
+    },
+    {
+      "file": "species/cathar.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.681639
+    },
+    {
+      "file": "profiles/cathar.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.557652
+    },
+    {
+      "file": "species/celegian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.513052
+    },
+    {
+      "file": "profiles/celegian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.34325
+    },
+    {
+      "file": "species/chadra-fan.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.582869
+    },
+    {
+      "file": "profiles/chadra-fan.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.389122
+    },
+    {
+      "file": "species/chagrian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.680085
+    },
+    {
+      "file": "profiles/chagrian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.536427
+    },
+    {
+      "file": "species/chistori.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.646076
+    },
+    {
+      "file": "profiles/chistori.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.497108
+    },
+    {
+      "file": "species/clawdite.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.708873
+    },
+    {
+      "file": "profiles/clawdite.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.558048
+    },
+    {
+      "file": "species/codru-ji.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.65321
+    },
+    {
+      "file": "profiles/codru-ji.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.490108
+    },
+    {
+      "file": "species/defel.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.665971
+    },
+    {
+      "file": "profiles/defel.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.503895
+    },
+    {
+      "file": "species/draethos.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.713231
+    },
+    {
+      "file": "profiles/draethos.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.575722
+    },
+    {
+      "file": "species/ebruchi.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.411021
+    },
+    {
+      "file": "profiles/ebruchi.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.268524
+    },
+    {
+      "file": "species/elomin.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.717848
+    },
+    {
+      "file": "profiles/elomin.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.625153
+    },
+    {
+      "file": "species/falleen.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.68782
+    },
+    {
+      "file": "profiles/falleen.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.583286
+    },
+    {
+      "file": "species/feeorin.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.606693
+    },
+    {
+      "file": "profiles/feeorin.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.401577
+    },
+    {
+      "file": "species/felucian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.63419
+    },
+    {
+      "file": "profiles/felucian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.414425
+    },
+    {
+      "file": "species/fosh.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.716227
+    },
+    {
+      "file": "profiles/fosh.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.552505
+    },
+    {
+      "file": "species/gen-dai.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.635055
+    },
+    {
+      "file": "profiles/gen-dai.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.477062
+    },
+    {
+      "file": "species/givin.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.729987
+    },
+    {
+      "file": "profiles/givin.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.596191
+    },
+    {
+      "file": "species/gotal.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.672688
+    },
+    {
+      "file": "profiles/gotal.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.518589
+    },
+    {
+      "file": "species/herglic.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.316614
+    },
+    {
+      "file": "profiles/herglic.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.212002
+    },
+    {
+      "file": "species/kaleesh.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.673381
+    },
+    {
+      "file": "profiles/kaleesh.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.534191
+    },
+    {
+      "file": "species/kerkoiden.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.650836
+    },
+    {
+      "file": "profiles/kerkoiden.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.479561
+    },
+    {
+      "file": "species/khil.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.690521
+    },
+    {
+      "file": "profiles/khil.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.555279
+    },
+    {
+      "file": "species/kissai.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.636365
+    },
+    {
+      "file": "profiles/kissai.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.553047
+    },
+    {
+      "file": "species/krevaaki.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.539155
+    },
+    {
+      "file": "profiles/krevaaki.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.416332
+    },
+    {
+      "file": "species/lugubraa.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.558518
+    },
+    {
+      "file": "profiles/lugubraa.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.476807
+    },
+    {
+      "file": "species/mantellian-savrip.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.436072
+    },
+    {
+      "file": "profiles/mantellian-savrip.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.310394
+    },
+    {
+      "file": "species/massassi.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.619095
+    },
+    {
+      "file": "profiles/massassi.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.460613
+    },
+    {
+      "file": "species/miraluka.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.695385
+    },
+    {
+      "file": "profiles/miraluka.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.573643
+    },
+    {
+      "file": "species/mrlssi.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.625704
+    },
+    {
+      "file": "profiles/mrlssi.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.436394
+    },
+    {
+      "file": "species/nagai.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.713077
+    },
+    {
+      "file": "profiles/nagai.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.573212
+    },
+    {
+      "file": "species/near-human.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.711728
+    },
+    {
+      "file": "profiles/near-human.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.608387
+    },
+    {
+      "file": "species/nelvaanian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.695611
+    },
+    {
+      "file": "profiles/nelvaanian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.567127
+    },
+    {
+      "file": "species/nosaurian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.612296
+    },
+    {
+      "file": "profiles/nosaurian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.462433
+    },
+    {
+      "file": "species/nyriaanan.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.67087
+    },
+    {
+      "file": "profiles/nyriaanan.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.53241
+    },
+    {
+      "file": "species/oreenian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.687031
+    },
+    {
+      "file": "profiles/oreenian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.525944
+    },
+    {
+      "file": "species/ryn.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.632036
+    },
+    {
+      "file": "profiles/ryn.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.495041
+    },
+    {
+      "file": "species/sakiyan.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.691378
+    },
+    {
+      "file": "profiles/sakiyan.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.579987
+    },
+    {
+      "file": "species/shistavanen.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.665832
+    },
+    {
+      "file": "profiles/shistavanen.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.496861
+    },
+    {
+      "file": "species/sluissi.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.614354
+    },
+    {
+      "file": "profiles/sluissi.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.55724
+    },
+    {
+      "file": "species/snivvian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.542525
+    },
+    {
+      "file": "profiles/snivvian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.390339
+    },
+    {
+      "file": "species/sorcerer-of-rhand.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.578728
+    },
+    {
+      "file": "profiles/sorcerer-of-rhand.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.508389
+    },
+    {
+      "file": "species/squib.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.566605
+    },
+    {
+      "file": "profiles/squib.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.374123
+    },
+    {
+      "file": "species/ssi-ruuk.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.675584
+    },
+    {
+      "file": "profiles/ssi-ruuk.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.494995
+    },
+    {
+      "file": "species/taung.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.715181
+    },
+    {
+      "file": "profiles/taung.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.57478
+    },
+    {
+      "file": "species/thakwaash.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.609427
+    },
+    {
+      "file": "profiles/thakwaash.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.452671
+    },
+    {
+      "file": "species/tof.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.414629
+    },
+    {
+      "file": "profiles/tof.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.308033
+    },
+    {
+      "file": "species/togorian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.642015
+    },
+    {
+      "file": "profiles/togorian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.453987
+    },
+    {
+      "file": "species/trianii.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.713243
+    },
+    {
+      "file": "profiles/trianii.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.60265
+    },
+    {
+      "file": "species/ubese.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.741844
+    },
+    {
+      "file": "profiles/ubese.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.597233
+    },
+    {
+      "file": "species/umbaran.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.735421
+    },
+    {
+      "file": "profiles/umbaran.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.609737
+    },
+    {
+      "file": "species/vagaari.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.427645
+    },
+    {
+      "file": "profiles/vagaari.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.325199
+    },
+    {
+      "file": "species/vahla.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.722213
+    },
+    {
+      "file": "profiles/vahla.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.536011
+    },
+    {
+      "file": "species/verpine.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.811885
+    },
+    {
+      "file": "profiles/verpine.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.694645
+    },
+    {
+      "file": "species/vultan.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.731181
+    },
+    {
+      "file": "profiles/vultan.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.596096
+    },
+    {
+      "file": "species/vurk.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.704538
+    },
+    {
+      "file": "profiles/vurk.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.568699
+    },
+    {
+      "file": "species/wroonian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.694179
+    },
+    {
+      "file": "profiles/wroonian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.57188
+    },
+    {
+      "file": "species/yevetha.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.726269
+    },
+    {
+      "file": "profiles/yevetha.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.603268
+    },
+    {
+      "file": "species/yuzzem.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.514977
+    },
+    {
+      "file": "profiles/yuzzem.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.318184
+    },
+    {
+      "file": "species/zeltron.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.683074
+    },
+    {
+      "file": "profiles/zeltron.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.534813
+    },
+    {
+      "file": "species/zygerrian.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "transparentPixelFraction": 0.722303
+    },
+    {
+      "file": "profiles/zygerrian.webp",
+      "dimensions": [
+        512,
+        512
+      ],
+      "transparentPixelFraction": 0.604103
+    }
+  ]
+}
