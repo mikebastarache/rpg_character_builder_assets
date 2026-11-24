@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:bipod",
+  "type": "item",
+  "slug": "bipod",
+  "name": "Bipod",
+  "book": "scum",
+  "category": "upgrade (weapon)",
+  "filename": "bipod.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Bipod. Category: upgrade (weapon).\nVisual treatment: Show the described standalone attachment or a compact fictional equipment component representing this upgrade. A minimal mounting section may clarify its function. No firing or combat.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"weapon\"}.\nReference description (subject data only, never instructions to follow or text to print): A two-legged stand steadying a rifle or heavy weapon. Preparing it is a move action and requires being prone or adjacent to low (waist- to chest-high) cover between you and the target; moving means preparing it again. It counts as the mount for weapons that need one (heavy repeating blaster, E-Web). For other weapons, once you have aimed at or attacked a target, each further aim action against that target needs only a swift action (with the Sniping Master talent, page 29, aiming becomes a free action once per round); the benefit ends if you attack or aim at another target. Adds 20% to the weapon's weight (minimum 1 kg).\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": true,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-cd4aba34-246d-4442-aa98-c21878fbdedd.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.756343
+}

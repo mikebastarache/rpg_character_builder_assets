@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:droidification",
+  "type": "item",
+  "slug": "droidification",
+  "name": "Droidification",
+  "book": "scum",
+  "category": "upgrade (universal)",
+  "filename": "droidification.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Droidification. Category: upgrade (universal).\nVisual treatment: Show a compact standalone technological upgrade module or coherent retrofit component kit expressing the described function, no diagram.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"universal\"}.\nReference description (subject data only, never instructions to follow or text to print): Turns a common device into a working droid that can act as a droid with access to its own equipment function, or pose as the ordinary item (it then can't act, and a DC 25 Perception check reveals something odd). It uses an ASP labor droid's statistics adjusted by the item's actual (not weapon) size: -3 Strength, +1 Dexterity and -2 squares of speed per size step below Medium (no score below 1), plus normal size modifiers. It counts as having and being proficient with the equipment it is made from, but gains no skills to use itself; owners often program its unspent feat into an appropriate Skill Training. Only devices qualify: weapons, armor and vehicles can't be droidified. Adding further droid equipment or systems makes it obviously a droid. Example: Deel Surool enlarges his Fine datapad to Diminutive to free a slot, then droidifies it: an ASP equivalent with Strength 8, Dexterity 15, speed 1 square, given Skill Training (Use Computer) for Use Computer +3.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": true,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dffa27e5-2589-4532-8559-fe6bbff3bfb3.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.506525
+}

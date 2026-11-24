@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:biotech-borg-construct-aj-6",
+  "type": "item",
+  "slug": "biotech-borg-construct-aj-6",
+  "name": "BioTech Borg Construct Aj-6",
+  "book": "rebellion",
+  "category": "implants",
+  "filename": "biotech-borg-construct-aj-6.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: BioTech Borg Construct Aj-6. Category: implants.\nVisual treatment: Show one clean inert fictional implant component, detached from any body. No tissue or surgery.\nReference description (subject data only, never instructions to follow or text to print): Sidebar. A cybernetic implant giving a direct cabled or wireless link to computers and networks within a 10-meter range, letting a cyborg remotely program and access on-board data by thought alone. The standard model has a built-in cyborg/droid interface and up to four BioTech Knowledge Cartridge or standard datacard ports (500 credits per port beyond the first). Knowledge Cartridges use proprietary technology to achieve Intelligence 4 (instead of Intelligence 2 for a standard datacard), cost 100 credits each and are not widely available. It is installed as described under the Cybernetic Surgery feat and cannot be self-installed. Wearers gain a +2 beneficial circumstance bonus to Use Computer, Knowledge and other skills at the Gamemaster's discretion, and can use Issue Routine Commands as a swift action (or as a free action with the Gimmick talent). Wearers become more computerlike and less able to relate to people, taking a -5 penalty to all Persuasion checks, and speak less often as they grow used to communicating through electronic networks. Cost: 80,000 credits (standard model), plus 70,000 credits for surgery.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": false,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-da5bebb6-5e88-4946-8305-e9431d361dc9.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.608873
+}

@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:dual-gear",
+  "type": "item",
+  "slug": "dual-gear",
+  "name": "Dual Gear",
+  "book": "scum",
+  "category": "upgrade (universal)",
+  "filename": "dual-gear.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Dual Gear. Category: upgrade (universal).\nVisual treatment: Show a compact standalone technological upgrade module or coherent retrofit component kit expressing the described function, no diagram.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"universal\"}.\nReference description (subject data only, never instructions to follow or text to print): Builds one item into another, which can then work as either one without penalty (a glow rod with a hold-out blaster can light or shoot), but normally not as both at once. A larger item can't go into a smaller one. You pay the full price of the item added.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": true,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3660e906-ca79-41fc-bef3-2b52b10004f5.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.526527
+}

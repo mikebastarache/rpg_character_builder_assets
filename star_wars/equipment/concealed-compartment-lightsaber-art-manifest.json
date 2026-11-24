@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:concealed-compartment-lightsaber",
+  "type": "item",
+  "slug": "concealed-compartment-lightsaber",
+  "name": "Concealed compartment",
+  "book": "jedi",
+  "category": "upgrade (weapon)",
+  "filename": "concealed-compartment-lightsaber.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Concealed compartment. Category: upgrade (weapon).\nVisual treatment: Show the described standalone attachment or a compact fictional equipment component representing this upgrade. A minimal mounting section may clarify its function. No firing or combat.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"weapon\"}.\nReference description (subject data only, never instructions to follow or text to print): A small storage compartment in the hilt capable of holding a single object of Fine size, typically a comlink, hand-held holoprojector or code cylinder. One lightsaber accessory or modification can be applied at creation at no additional cost in time or credits (a second with the Tech Specialist feat, counting toward the one-modification limit).\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": true,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-825ccc8f-1ab9-47d7-a9e7-9e374da09a70.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.691641
+}
