@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:holoshroud",
+  "type": "item",
+  "slug": "holoshroud",
+  "name": "Holoshroud",
+  "book": "scum",
+  "category": "upgrade (armor)",
+  "filename": "holoshroud.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Holoshroud. Category: upgrade (armor).\nVisual treatment: Show the standalone armor attachment, protective panel or compatible wearable component described. No person or mannequin.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"armor\"}.\nReference description (subject data only, never instructions to follow or text to print): Linked holoprojectors cover the armor and wearer with a moving holographic image. It stores one image of the armor's basic size and shape (generally humanoid); changing it takes an hour and a DC 20 Use Computer check. It gives a +10 equipment bonus on Stealth checks to conceal items under the image and on Deception checks to create a deceptive appearance matching it. An observer who spends a full-round action searching the wearer gains +10 circumstance bonus on the opposed Perception check, and since the image has no touch, sound or smell, observers with the scent trait or a sensor pack also gain +10. It runs 20 rounds (in any increments) on a standard energy cell, so suits often add extra power source or internal generator; turning it on or off is a swift action.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": true,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-15f59629-b7a9-4027-ae3b-3e9ae72b081e.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.460474
+}

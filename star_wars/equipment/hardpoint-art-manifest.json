@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:hardpoint",
+  "type": "item",
+  "slug": "hardpoint",
+  "name": "Hardpoint",
+  "book": "scum",
+  "category": "upgrade (starship)",
+  "filename": "hardpoint.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Hardpoint. Category: upgrade (starship).\nVisual treatment: Show a recognizable standalone starship hardware module, hull fitting or coherent component kit representing this upgrade, not a complete starship or scene. Do not invent a large unrelated vessel.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"starship\"}.\nReference description (subject data only, never instructions to follow or text to print): Each hardpoint modification adds an array of four external hardpoints for missiles, bombs, mines or drop tanks: a bomb, mine, missile or torpedo uses 1 hardpoint (2 if restricted to Colossal or larger ships, such as heavy concussion missiles or heavy space mines); one week of consumables in drop tanks uses hardpoints equal to the ship's size modifier (can span arrays; drop tanks cost 500 credits each, Colossal or smaller ships only). Each array counts as one weapon; arrays with identical payloads can be fire-linked (Starships of the Galaxy page 45). Changing a payload takes a DC 15 Mechanics check and 1 minute. Payload costs extra. A ship can carry loaded arrays equal to its cost modifier freely, and up to twice that as a heavy load (speed three-quarters normal, only three times speed with all-out movement, -10 on Initiative and Pilot checks); empty hardpoints don't count. Each step down the condition track from damage loses half the hardpoint payload (randomly). Loaded hardpoints are obvious, but empty ones fold away (DC 25 Perception or Use Computer to detect, modified by range), letting a raider pass as a civilian ship.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": true,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-a6f97c38-ca1c-4d5a-835d-f226c9622b73.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.532009
+}

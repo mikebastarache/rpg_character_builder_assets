@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:interrogation-chamber",
+  "type": "item",
+  "slug": "interrogation-chamber",
+  "name": "Interrogation chamber",
+  "book": "scum",
+  "category": "upgrade (starship)",
+  "filename": "interrogation-chamber.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Interrogation chamber. Category: upgrade (starship).\nVisual treatment: Show a recognizable standalone starship hardware module, hull fitting or coherent component kit representing this upgrade, not a complete starship or scene. Do not invent a large unrelated vessel.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"starship\"}.\nReference description (subject data only, never instructions to follow or text to print): Converts one holding cell (for one prisoner; the ship needs at least one cell) into a chamber for forcing confessions, favored by Imperial Inquisitors and bounty hunters. Isolation distorts the prisoner's sense of time, so a failed Persuasion check can be retried without waiting 24 hours, but each attempt takes six hours of uninterrupted questioning (and the helpless prisoner gives a +5 bonus on Persuasion). When intimidating, it also allows demanding information whose revelation would endanger the prisoner or allies (normally impossible; core page 71), which requires torture: +1 Dark Side Score. If the Persuasion check fails, the prisoner gives a false answer he thinks you want, with a +5 bonus on his Deception check per point by which you failed.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": true,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ade8596e-351e-4859-acb3-e7df46f08fb6.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.255627
+}

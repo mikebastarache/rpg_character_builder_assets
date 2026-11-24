@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:leisuremech-personal-droid",
+  "type": "item",
+  "slug": "leisuremech-personal-droid",
+  "name": "LeisureMech Personal Droid",
+  "book": "droids",
+  "category": "droid",
+  "filename": "leisuremech-personal-droid.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: LeisureMech Personal Droid. Category: droid.\nVisual treatment: Show the complete described fictional droid, a single machine, no organic person or setting.\nReference description (subject data only, never instructions to follow or text to print): LeisureMech Enterprises' lightweight personal assistant droid (\"PD\" or \"Petey\"), worn on the shoulder or in specialized holsters (at additional cost). It records every fact about its owner's life, keeps the owner's financial records and tracks all transactions, and can hold simple conversations and play games such as sabacc and pazaak. See Personal Droids.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": false,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-611420d9-8cdd-4aa4-bba2-6713a88f8be1.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.604066
+}

@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:ion-charger",
+  "type": "item",
+  "slug": "ion-charger",
+  "name": "Ion charger",
+  "book": "scum",
+  "category": "upgrade (weapon)",
+  "filename": "ion-charger.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Ion charger. Category: upgrade (weapon).\nVisual treatment: Show the described standalone attachment or a compact fictional equipment component representing this upgrade. A minimal mounting section may clarify its function. No firing or combat.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"weapon\"}.\nReference description (subject data only, never instructions to follow or text to print): A light ion field around a melee weapon flares when it hits, adding 2d6 ion damage to its normal damage. Feats and maneuvers that add damage (such as Rapid Strike) increase only the weapon's base damage, not the ion damage. Common on vibroblades, where it is called an 'ionite edge'.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": true,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dbaecc91-9e61-4e04-80ba-3577b132fdf6.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.609361
+}

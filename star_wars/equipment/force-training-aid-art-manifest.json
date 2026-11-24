@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:force-training-aid",
+  "type": "item",
+  "slug": "force-training-aid",
+  "name": "Force training aid",
+  "book": "jedi",
+  "category": "tools",
+  "filename": "force-training-aid.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Force training aid. Category: tools.\nVisual treatment: Show the single described item or coherent kit as an isolated inventory prop.\nReference description (subject data only, never instructions to follow or text to print): Young Jedi use many training aids, some like toys and puzzles, others clearing the mind to aid concentration; most are abandoned by the time an apprentice becomes a Padawan. Each focuses on one of the basic uses of the Use the Force skill. Any character untrained in the skill can spend 1 hour training with a Force training aid; for the next 24 hours, the character can use any one \"trained only\" aspect of the Use the Force skill as though he or she were trained in the skill. Force training aids confer no bonus on Use the Force checks.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": false,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4475e10c-67b0-46b8-b381-6cafbcaa4377.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.357652
+}

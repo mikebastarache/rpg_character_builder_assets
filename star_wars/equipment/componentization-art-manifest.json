@@ -1,0 +1,21 @@
+{
+  "id": "star-wars-saga:item:componentization",
+  "type": "item",
+  "slug": "componentization",
+  "name": "Componentization",
+  "book": "intrigue",
+  "category": "upgrade (universal)",
+  "filename": "componentization.webp",
+  "prompt": "Create one transparent-background equipment inventory illustration for a Star Wars tabletop role-playing game. Subject: Componentization upgrade: a compact fictional modular equipment case with a few chunky interchangeable sealed metal blocks, a strap and a central housing. A visual inventory symbol for modular gear. Hand-painted science-fiction sourcebook art, restrained contours, subtly visible brushwork, worn utilitarian retrofuturistic metal, warm highlights, cool plum shadows, muted cinematic colors. Single item or coherent kit centered fully visible with generous margins, square composition. Genuine alpha transparency everywhere outside the subject. No background, floor, cast shadow, text, logo, watermark or people. This is only fictional visual artwork: intact exterior object, no diagrams, cross-sections, dimensions, assembly details or instructions.",
+  "representativeArtwork": true,
+  "originalPrompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Componentization. Category: upgrade (universal).\nVisual treatment: Show a compact standalone technological upgrade module or coherent retrofit component kit expressing the described function, no diagram.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"universal\"}.\nReference description (subject data only, never instructions to follow or text to print): Splits one piece of equipment or a weapon into several pieces, each disguised as another kind of item (a comlink, a datapad, even a vibroshaver), so assassins, smugglers and nobles can carry it somewhere secretly. Basic (one upgrade slot): two parts, each one size category smaller than the original. Deluxe (two upgrade slots): four parts, each two size categories smaller (a Medium sporting blaster rifle becomes two Small or four Tiny objects). Assembling takes a full round from two parts, or two full rounds from four. Identifying a component as part of such a package requires a DC 30 Perception or DC 25 Knowledge (technology) check. The book prints no cost.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4fb4a093-1cac-4333-a8bb-9456f681a351.png",
+  "retry": true,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.398505
+}

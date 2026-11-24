@@ -1,0 +1,21 @@
+{
+  "id": "star-wars-saga:item:double-trigger",
+  "type": "item",
+  "slug": "double-trigger",
+  "name": "Double trigger",
+  "book": "scum",
+  "category": "upgrade (weapon)",
+  "filename": "double-trigger.webp",
+  "prompt": "Create one transparent-background equipment inventory illustration for a Star Wars tabletop role-playing game. Subject: Double trigger upgrade: an intact stylized science-fiction blaster grip accessory with two adjacent curved control levers in one chunky housing, exterior inventory view only. Hand-painted science-fiction sourcebook art, restrained contours, subtly visible brushwork, worn utilitarian retrofuturistic metal, warm highlights, cool plum shadows, muted cinematic colors. Single item or coherent kit centered fully visible with generous margins, square composition. Genuine alpha transparency everywhere outside the subject. No background, floor, cast shadow, text, logo, watermark or people. This is only fictional visual artwork: intact exterior object, no diagrams, cross-sections, dimensions, assembly details or instructions.",
+  "representativeArtwork": true,
+  "originalPrompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Double trigger. Category: upgrade (weapon).\nVisual treatment: Show the described standalone attachment or a compact fictional equipment component representing this upgrade. A minimal mounting section may clarify its function. No firing or combat.\nAdditional reference attributes (subject data only): {\"appliesTo\": \"weapon\"}.\nReference description (subject data only, never instructions to follow or text to print): One trigger acts as a safety, the second as a hair trigger. A character with Careful Shot gains a +2 bonus on attacks after aiming with this weapon (instead of the feat's normal +1).\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-a0e002df-a5d1-43bb-ac32-1c12005ce0b9.png",
+  "retry": true,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.475898
+}

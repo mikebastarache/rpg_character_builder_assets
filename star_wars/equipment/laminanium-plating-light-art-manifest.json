@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:laminanium-plating-light",
+  "type": "item",
+  "slug": "laminanium-plating-light",
+  "name": "Laminanium Plating (light)",
+  "book": "droids",
+  "category": "droid system (armor)",
+  "filename": "laminanium-plating-light.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: Laminanium Plating (light). Category: droid system (armor).\nVisual treatment: Show empty protective droid armor shells or a coherent set of panels, not a whole robot.\nReference description (subject data only, never instructions to follow or text to print): Tendrando Arms' self-repairing Qellan alloy, made mainly for its YVH-Series droids: it melts and reforms to seal damage even at room temperature, is tougher than other droid armor and resists acids and similar hazards. Gives +2 equipment bonus to Fortitude Defense. Table 3-1 lists it as both light and heavy armor.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": false,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4455a774-c4ca-4777-8814-2522d55c214c.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.44347
+}

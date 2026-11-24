@@ -1,0 +1,19 @@
+{
+  "id": "star-wars-saga:item:hibaka-2000-mem-stik",
+  "type": "item",
+  "slug": "hibaka-2000-mem-stik",
+  "name": "HiBaka 2000 Mem-Stik",
+  "book": "threats",
+  "category": "computers-and-storage-devices",
+  "filename": "hibaka-2000-mem-stik.webp",
+  "prompt": "Use case: stylized-concept. Asset type: one square 1024x1024 Star Wars RPG equipment inventory illustration on a genuinely TRANSPARENT alpha background. Style: hand-painted tabletop science-fiction book art, confident clean silhouette, restrained fine contours, subtle visible brush texture and softly blended structured shading, warm highlights, cool plum-blue shadows, muted cinematic colors. Believable worn utilitarian retro-futuristic materials, softly painted metal and leather, small restrained luminous accents where relevant. Match a painted equipment catalog, not photography or a plastic 3D render. Composition: a single complete item or coherent kit, centered within generous transparent margins, clear at thumbnail size, three-quarter view where useful. Keep every accessory completely inside the square canvas. Constraints: actual alpha transparency, no backdrop, white rectangle, painted checkerboard, floor, ground plane, external cast shadow, scenic setting, pedestal, UI, border, writing, numbers, readable labels, logos or watermark. No people, hands, body parts, living tissue, wounds, blood or mannequins. Clothing and armor are empty garments with natural volume. Medical/cybernetic items are clean inert fictional props, never installed in a body. No activation procedure, diagrams, cutaway, exploded view, firing, combat or explosion. Keep holes and gaps between components transparent. Any glow is subtle, local and semitransparent. Do not depict the reference's rules text or statistics.\nSubject: HiBaka 2000 Mem-Stik. Category: computers-and-storage-devices.\nVisual treatment: Show the single described item or coherent kit as an isolated inventory prop.\nAdditional reference attributes (subject data only): {\"size\": \"Fine\"}.\nReference description (subject data only, never instructions to follow or text to print): Rules summary. A tiny storage device slicers use to smuggle data past guards. It holds a moderate amount of text, images and video (under 1 minute of holographic data) but no computer programs. It fits inside the power pack slot of a standard blaster pistol, giving a +10 equipment bonus on Stealth checks to hide it; a blaster with a Mem-Stik in its power pack slot cannot fire until the power pack is reinserted. Weight \u2014.\nFinal requirement: the entire item on a genuinely transparent alpha background, no opaque backdrop.",
+  "representativeArtwork": false,
+  "generator": "built-in image_gen",
+  "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f8c9a14f-b8c7-42a4-bdb3-4cf0ae2b8d2e.png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "transparentBackground": true,
+  "transparentPixelFraction": 0.673421
+}
