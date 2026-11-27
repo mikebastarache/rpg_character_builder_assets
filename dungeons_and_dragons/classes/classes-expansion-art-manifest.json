@@ -1,0 +1,121 @@
+{
+  "generator": "built-in image_gen",
+  "requested": 6,
+  "completed": 6,
+  "items": [
+    {
+      "id": "ua:class:gunslinger",
+      "slug": "gunslinger",
+      "name": "Gunslinger",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/ua/classes/gunslinger.json",
+      "filename": "classGunslinger.webp",
+      "prompt": "Use case: stylized-concept. Create an original fantasy CLASS CARD, vertical portrait 2:3, matching the two supplied existing class cards. Images 1 and 2 are STYLE AND LAYOUT references only: antique golden rectangular frame, engraved corner filigree, arched interior, richly colored textured painterly fantasy scenery, strong nearly black full-body hero silhouette with dramatic rim light. Original character and scenery. Subject: An adult female human frontier sharpshooter in a weathered long coat and wide-brimmed hat, antique fantasy pistol held safely pointing down, a long rifle slung on her back, standing in a windswept frontier canyon town. Copper sunset and dusty violet shadows. No modern firearms or firing. Keep the complete character and important props within the frame, recognizable class silhouette, dark foreground and vivid atmospheric background. Bottom cream parchment title plaque exactly like the references. Text (verbatim): \"GUNSLINGER\" in bold black classical serif capitals, correctly spelled and legible. No other writing, no watermark, no photorealism. Match the references' border proportions and title treatment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classWizard.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classFighter.webp"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2466df3d-29a0-4d01-9c2f-788c297f90f6.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "b0183a839a8c070003d0e3998d4e339b3f659255dc0dda1f4df79b03bd80f4ac"
+    },
+    {
+      "id": "ua:class:rune-scribe",
+      "slug": "rune-scribe",
+      "name": "Rune Scribe",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/ua/classes/rune-scribe.json",
+      "filename": "classRuneScribe.webp",
+      "prompt": "Use case: stylized-concept. Create an original fantasy CLASS CARD, vertical portrait 2:3, matching the two supplied existing class cards. Images 1 and 2 are STYLE AND LAYOUT references only: antique golden rectangular frame, engraved corner filigree, arched interior, richly colored textured painterly fantasy scenery, strong nearly black full-body hero silhouette with dramatic rim light. Original character and scenery. Subject: An adult male dwarf master of ancient runes, dark scholarly cloak, holding a carved stone tablet while primal luminous amber and blue abstract sigils circle one raised hand, immense giant-carved standing stones in a misty valley. Keep the complete character and important props within the frame, recognizable class silhouette, dark foreground and vivid atmospheric background. Bottom cream parchment title plaque exactly like the references. Text (verbatim): \"RUNE SCRIBE\" in bold black classical serif capitals, correctly spelled and legible. No other writing, no watermark, no photorealism. Match the references' border proportions and title treatment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classWizard.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classFighter.webp"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7b1911a4-c883-48dd-a92a-3839728db4b1.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "c19f0e690196a295b8246102cd868664e3c755525f23f61e1b05bd26e79e5f14"
+    },
+    {
+      "id": "ua:class:mystic",
+      "slug": "mystic",
+      "name": "Mystic",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/ua/classes/mystic.json",
+      "filename": "classMystic.webp",
+      "prompt": "Use case: stylized-concept. Create an original fantasy CLASS CARD, vertical portrait 2:3, matching the two supplied existing class cards. Images 1 and 2 are STYLE AND LAYOUT references only: antique golden rectangular frame, engraved corner filigree, arched interior, richly colored textured painterly fantasy scenery, strong nearly black full-body hero silhouette with dramatic rim light. Original character and scenery. Subject: An adult female elf psionic adept in practical layered travel robes and light armor, levitating small stones around an open hand through mental focus, a restrained violet psychic halo, distant crystalline monastery and deep indigo sky. Keep the complete character and important props within the frame, recognizable class silhouette, dark foreground and vivid atmospheric background. Bottom cream parchment title plaque exactly like the references. Text (verbatim): \"MYSTIC\" in bold black classical serif capitals, correctly spelled and legible. No other writing, no watermark, no photorealism. Match the references' border proportions and title treatment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classWizard.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classFighter.webp"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-582be398-4bc4-443d-a9e6-a92739cff29d.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "3bcae1a7cded18bf5fd2c07483eee70ea2bb21b2e29dc95ad4638ba92154954e"
+    },
+    {
+      "id": "hoto:class:kensai",
+      "slug": "kensai",
+      "name": "Kensai",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/hoto/classes/kensai.json",
+      "filename": "classKensai.webp",
+      "prompt": "Use case: stylized-concept. Create an original fantasy CLASS CARD, vertical portrait 2:3, matching the two supplied existing class cards. Images 1 and 2 are STYLE AND LAYOUT references only: antique golden rectangular frame, engraved corner filigree, arched interior, richly colored textured painterly fantasy scenery, strong nearly black full-body hero silhouette with dramatic rim light. Original character and scenery. Subject: An adult male human sword saint in simple layered traditional robes and light armor, holding a curved sword in a poised disciplined two-handed stance, autumn maple leaves swirling in a moonlit temple courtyard. Crimson and pale gold highlights. Keep the complete character and important props within the frame, recognizable class silhouette, dark foreground and vivid atmospheric background. Bottom cream parchment title plaque exactly like the references. Text (verbatim): \"KENSAI\" in bold black classical serif capitals, correctly spelled and legible. No other writing, no watermark, no photorealism. Match the references' border proportions and title treatment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classWizard.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classFighter.webp"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6ced64ff-63a3-47b4-8e2d-2a73735e645a.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "f75f9be9632787b08d5aee4e373d9954d9211e503ec827b616dc271d5fe207f6"
+    },
+    {
+      "id": "hoto:class:shogun",
+      "slug": "shogun",
+      "name": "Shogun",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/hoto/classes/shogun.json",
+      "filename": "classShogun.webp",
+      "prompt": "Use case: stylized-concept. Create an original fantasy CLASS CARD, vertical portrait 2:3, matching the two supplied existing class cards. Images 1 and 2 are STYLE AND LAYOUT references only: antique golden rectangular frame, engraved corner filigree, arched interior, richly colored textured painterly fantasy scenery, strong nearly black full-body hero silhouette with dramatic rim light. Original character and scenery. Subject: An adult female human battlefield commander in ornate traditional lamellar armor, beast-mask helmet, holding a folded war fan while surveying distant tiny banners from a fortress terrace. Emerald dusk and blazing amber sky. Keep the complete character and important props within the frame, recognizable class silhouette, dark foreground and vivid atmospheric background. Bottom cream parchment title plaque exactly like the references. Text (verbatim): \"SHOGUN\" in bold black classical serif capitals, correctly spelled and legible. No other writing, no watermark, no photorealism. Match the references' border proportions and title treatment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classWizard.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classFighter.webp"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5f16ba72-a33e-4bf9-8041-c0128c75ac64.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "67adfb8492a86f44b6bb5b4e41020ff8f0d573ae0fe10d7946300ab39f17fd0c"
+    },
+    {
+      "id": "gith:class:githyanki-knight",
+      "slug": "githyanki-knight",
+      "name": "Githyanki Knight",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/gith/classes/githyanki-knight.json",
+      "filename": "classGithyankiKnight.webp",
+      "prompt": "Use case: stylized-concept. Create an original fantasy CLASS CARD, vertical portrait 2:3, matching the two supplied existing class cards. Images 1 and 2 are STYLE AND LAYOUT references only: antique golden rectangular frame, engraved corner filigree, arched interior, richly colored textured painterly fantasy scenery, strong nearly black full-body hero silhouette with dramatic rim light. Original character and scenery. Subject: An adult female githyanki knight with angular yellow-green features and pointed ears, ornate spiked fantasy armor, a massive silver greatsword held upright with both hands and a subtle psychic glow. Floating stone fortress fragments in the silver Astral Sea, crimson and violet clouds. Keep the complete character and important props within the frame, recognizable class silhouette, dark foreground and vivid atmospheric background. Bottom cream parchment title plaque exactly like the references. Text (verbatim): \"GITHYANKI KNIGHT\" in bold black classical serif capitals, correctly spelled and legible. No other writing, no watermark, no photorealism. Match the references' border proportions and title treatment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classWizard.webp",
+        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/classes/classFighter.webp"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9fcd1deb-bc9a-4746-880c-6827a49d463d.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "b82ff305c5a6a27763fb52ddbe8608e730ddf1e45c2f7422b77054e07d134127"
+    }
+  ]
+}
