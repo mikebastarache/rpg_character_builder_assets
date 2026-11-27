@@ -1,0 +1,1988 @@
+{
+  "generator": "built-in image_gen",
+  "requestedUnique": 2040,
+  "completed": 116,
+  "remaining": 1924,
+  "completedCore": 116,
+  "requestedCore": 116,
+  "images": [
+    {
+      "slug": "aarakocra",
+      "name": "Aarakocra",
+      "filename": "aarakocra.webp",
+      "entityIds": [
+        "mm:monster:aarakocra"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-0f13ab6f-0add-40ce-9309-616e865d47ea.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "f6ff748b625991f5b8465542f4ea47dc009535fb4d529d802467c27f0c2efed7",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/aarakocra.json"
+    },
+    {
+      "slug": "abominable-yeti",
+      "name": "Abominable Yeti",
+      "filename": "abominable-yeti.webp",
+      "entityIds": [
+        "mm:monster:abominable-yeti"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-84743b26-2a75-4535-ab51-1d031e327c1a.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "fa8c78aabf734e1512391df4ce208e8949b4517a236c8ce9fcf521fab22a859d",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/abominable-yeti.json"
+    },
+    {
+      "slug": "adult-blue-dracolich",
+      "name": "Adult Blue Dracolich",
+      "filename": "adult-blue-dracolich.webp",
+      "entityIds": [
+        "mm:monster:adult-blue-dracolich"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-eb54f034-13fa-4649-bcf2-464826098be8.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "eeed2587b4835c7e2364dd90951dc0e4083d244112a59fabcf513df1fbfb89d2",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/adult-blue-dracolich.json"
+    },
+    {
+      "slug": "arcanaloth",
+      "name": "Arcanaloth",
+      "filename": "arcanaloth.webp",
+      "entityIds": [
+        "mm:monster:arcanaloth"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-28cfcfec-e7f9-46d7-a93c-51c262353e34.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "7a80a2c460a0646004f40d2d78450037e114003f49a21a048fe003da9270d2dc",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/arcanaloth.json"
+    },
+    {
+      "slug": "banshee",
+      "name": "Banshee",
+      "filename": "banshee.webp",
+      "entityIds": [
+        "mm:monster:banshee"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4de16a73-053e-44b2-9183-b8026f477eea.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "9964fa3c93da69ad2d2b6f4f8e768f6d9f8233f67eb367c524ca401a6b5f479f",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/banshee.json"
+    },
+    {
+      "slug": "barlgura",
+      "name": "Barlgura",
+      "filename": "barlgura.webp",
+      "entityIds": [
+        "mm:monster:barlgura"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-1a7bab38-abec-40cd-8c0b-f429ab0718b4.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "fe3a7d0a50ff7c7699f0ceeba00bdfdb75411c87514f9e4e7d6ccee5e075c887",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/barlgura.json"
+    },
+    {
+      "slug": "beholder-zombie",
+      "name": "Beholder Zombie",
+      "filename": "beholder-zombie.webp",
+      "entityIds": [
+        "mm:monster:beholder-zombie"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-94c2dc00-ebc1-481a-a0a3-aeb587398519.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "d36d3049acd9369f245c12f10f35011e28a1e276e157b3c39dae3dc397a159eb",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/beholder-zombie.json"
+    },
+    {
+      "slug": "beholder",
+      "name": "Beholder",
+      "filename": "beholder.webp",
+      "entityIds": [
+        "mm:monster:beholder"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-858fdf7e-525f-4614-94b7-d7fc1275a033.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "71255850d073c0f3ecdf8cfd56537339f409be020a21c9deeeaa5c9f510096b8",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/beholder.json"
+    },
+    {
+      "slug": "blue-slaad",
+      "name": "Blue Slaad",
+      "filename": "blue-slaad.webp",
+      "entityIds": [
+        "mm:monster:blue-slaad"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2400c828-1c1f-41ba-9131-83ac4910b55e.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "6411b6b3620f227a386257381f325dda63449e1afcd4205dfbbcac86dbbbec8f",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/blue-slaad.json"
+    },
+    {
+      "slug": "bone-naga",
+      "name": "Bone Naga",
+      "filename": "bone-naga.webp",
+      "entityIds": [
+        "mm:monster:bone-naga"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b6518d84-5a73-441f-a73c-c38b745c8cf8.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "b5f798795ee83fcb5770fd06e7dd9b86d560569ee1a69078825e2019e82918c6",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/bone-naga.json"
+    },
+    {
+      "slug": "bugbear-chief",
+      "name": "Bugbear Chief",
+      "filename": "bugbear-chief.webp",
+      "entityIds": [
+        "mm:monster:bugbear-chief"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-8046ebdf-9035-4ac8-838e-c4d5126ad331.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "6583218bd5123e2fce0dc21938a7f0a0df79dea8036436b9941d8dd1258b15aa",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/bugbear-chief.json"
+    },
+    {
+      "slug": "bullywug-bog-sage",
+      "name": "Bullywug Bog Sage",
+      "filename": "bullywug-bog-sage.webp",
+      "entityIds": [
+        "uhlh:monster:bullywug-bog-sage"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e9bf7ff6-eb0f-42e3-b4d0-47a74f096240.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "03abd70bb9833cefe887e18a30873c596b1d2b6625bea06cedcb619635d3767b",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/bullywug-bog-sage.json"
+    },
+    {
+      "slug": "bullywug-warrior",
+      "name": "Bullywug Warrior",
+      "filename": "bullywug-warrior.webp",
+      "entityIds": [
+        "uhlh:monster:bullywug-warrior"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7c8da1ec-bad1-4f88-8a35-6b7bd196cecf.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "d03401a4c15a61a8d34b85405501ddcae28c090fe02c233526abe846e452a12c",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/bullywug-warrior.json"
+    },
+    {
+      "slug": "bullywug",
+      "name": "Bullywug",
+      "filename": "bullywug.webp",
+      "entityIds": [
+        "mm:monster:bullywug"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-c57e4454-3e01-44fc-9655-5f4af6aec885.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "a58736db5503b00a7a701e4aef6e1e2c4792a82db01755513afdf0a58531bfb5",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/bullywug.json"
+    },
+    {
+      "slug": "cambion",
+      "name": "Cambion",
+      "filename": "cambion.webp",
+      "entityIds": [
+        "mm:monster:cambion"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-db1bb696-7acb-446a-9f11-531702d4d214.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "99b984934b928a489c989bc1f257a795f387f9cb83898da538d8688595a5830a",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/cambion.json"
+    },
+    {
+      "slug": "carrion-crawler",
+      "name": "Carrion Crawler",
+      "filename": "carrion-crawler.webp",
+      "entityIds": [
+        "mm:monster:carrion-crawler"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dd0ce833-7190-426f-b7d7-3718cfe393ae.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "22cdb316815d4f42e841eced00a90e41164fd4225951461208efb7b3c92b270e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/carrion-crawler.json"
+    },
+    {
+      "slug": "chasme",
+      "name": "Chasme",
+      "filename": "chasme.webp",
+      "entityIds": [
+        "mm:monster:chasme"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-75a4ec6c-8538-4031-8f41-0e6636688f74.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "2c360e5179eeca2b756a98a688ce632507a92e3a0fa7ded7e6985c6533146fd1",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/chasme.json"
+    },
+    {
+      "slug": "crawling-claw",
+      "name": "Crawling Claw",
+      "filename": "crawling-claw.webp",
+      "entityIds": [
+        "mm:monster:crawling-claw"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b1840e80-72f1-4164-8846-428f88a331ff.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "9943ca3b84cf3aa11ae70d3f54ef2d553616555912cc6e89e43ec2e4a2bbb09c",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/crawling-claw.json"
+    },
+    {
+      "slug": "cyclops",
+      "name": "Cyclops",
+      "filename": "cyclops.webp",
+      "entityIds": [
+        "mm:monster:cyclops"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-fed83b1f-13cc-4790-ae9a-e68a1f5dc1a2.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "5fdfd5b5694ba590f1edbfea46e6f6633487a5c024c805d5d38774603b7b1f98",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/cyclops.json"
+    },
+    {
+      "slug": "dao",
+      "name": "Dao",
+      "filename": "dao.webp",
+      "entityIds": [
+        "mm:monster:dao"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-59a5cf2f-f93e-4cd2-be10-8b6e14414a11.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "0502f921ae8f672c41d90794573188cb85e3462e072dd7c00738faac05a3c109",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/dao.json"
+    },
+    {
+      "slug": "death-knight",
+      "name": "Death Knight",
+      "filename": "death-knight.webp",
+      "entityIds": [
+        "mm:monster:death-knight"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-24a12983-5840-4006-ad41-a6912435569b.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "fe57c448154dab37e88088934422b2de432ec458979055569b7c69be529ec0b9",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/death-knight.json"
+    },
+    {
+      "slug": "death-slaad",
+      "name": "Death Slaad",
+      "filename": "death-slaad.webp",
+      "entityIds": [
+        "mm:monster:death-slaad"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2783e9d3-5257-4633-ba5b-c250286509d5.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "facf83605a025ed39b4917c11541e629b9970601112ef2d0aefd159228199d3e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/death-slaad.json"
+    },
+    {
+      "slug": "death-tyrant",
+      "name": "Death Tyrant",
+      "filename": "death-tyrant.webp",
+      "entityIds": [
+        "mm:monster:death-tyrant"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-0dde3d65-f3c2-40ce-b539-c8958e9ea123.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "58469b815ac81ae25dbbfec24c9f77d4f0450edd6d397aed988a1153163a66a8",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/death-tyrant.json"
+    },
+    {
+      "slug": "deep-gnome-svirfneblin",
+      "name": "Deep Gnome (Svirfneblin)",
+      "filename": "deep-gnome-svirfneblin.webp",
+      "entityIds": [
+        "mm:monster:deep-gnome-svirfneblin"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7565c2fa-4f0e-49f9-8b6b-c668e46133d9.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "9120280f014aefc34c498a3e861cf7056042d67804b9281da148243714fe7a4b",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/deep-gnome-svirfneblin.json"
+    },
+    {
+      "slug": "demilich",
+      "name": "Demilich",
+      "filename": "demilich.webp",
+      "entityIds": [
+        "mm:monster:demilich"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ffc0cdee-572b-4b0d-a5a4-e451bc970453.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "50b07dfe273cd397b00fc69e1e7704823f9b813f40cd65cab7e9b370148f387e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/demilich.json"
+    },
+    {
+      "slug": "displacer-beast",
+      "name": "Displacer Beast",
+      "filename": "displacer-beast.webp",
+      "entityIds": [
+        "mm:monster:displacer-beast"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-06e81cdc-e0b2-4ebe-b3bd-e6a8e62fb506.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "3d8108dd0d5dc95e879828ed98a104cfa10b727171c1d4920c9c26560e948545",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/displacer-beast.json"
+    },
+    {
+      "slug": "drow-elite-warrior",
+      "name": "Drow Elite Warrior",
+      "filename": "drow-elite-warrior.webp",
+      "entityIds": [
+        "mm:monster:drow-elite-warrior"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dbcbd63b-62b5-4822-bda3-fa639fde1871.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "f6f5e542cc8ceae50cf2f3bc741315b8cc67323ac08a96c87526b934d333e54a",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/drow-elite-warrior.json"
+    },
+    {
+      "slug": "drow-mage",
+      "name": "Drow Mage",
+      "filename": "drow-mage.webp",
+      "entityIds": [
+        "mm:monster:drow-mage"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e14dbacb-ce78-4b37-80c4-d78932beaaf2.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "468c6092a321b347ec8c03be4dd0b2ac766786d9672a99b05a2883ec1e5a7332",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/drow-mage.json"
+    },
+    {
+      "slug": "drow-priestess-of-lolth",
+      "name": "Drow Priestess of Lolth",
+      "filename": "drow-priestess-of-lolth.webp",
+      "entityIds": [
+        "mm:monster:drow-priestess-of-lolth"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4fdb893a-6333-46bb-9ec9-d85a87bdf7f4.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "cb460679fa268abf818007e721249d00606632d42c094bb56e4efd4a41686026",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/drow-priestess-of-lolth.json"
+    },
+    {
+      "slug": "drow",
+      "name": "Drow",
+      "filename": "drow.webp",
+      "entityIds": [
+        "mm:monster:drow"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-81b18b8a-b494-412f-bb69-d075f63c3dbc.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "0b4328da52e8fe04ee1ce5530226ffe92ec7526867db8975c5f48c3ed96502ef",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/drow.json"
+    },
+    {
+      "slug": "duergar",
+      "name": "Duergar",
+      "filename": "duergar.webp",
+      "entityIds": [
+        "mm:monster:duergar"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-05c35e66-0828-4549-9e78-a89678edd1af.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "0f8b4f2dcae1ab8e212fe51f296b32489fe6e508c7587eb179722baef2b7b594",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/duergar.json"
+    },
+    {
+      "slug": "duodrone",
+      "name": "Duodrone",
+      "filename": "duodrone.webp",
+      "entityIds": [
+        "mm:monster:duodrone"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e83f3a68-9c30-45d7-b79f-e2bd6ba59f2e.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "64334dc35a3b03455d96eecdd07d71f2f37ae5565694ec396bbc99c3896bdc36",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/duodrone.json"
+    },
+    {
+      "slug": "empyrean",
+      "name": "Empyrean",
+      "filename": "empyrean.webp",
+      "entityIds": [
+        "mm:monster:empyrean"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-81af73d1-6161-46e4-b35f-a3e96f6638c4.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "5329b8589856686482e6da90777d208ac9204acb55ab0ca38fdfc1337e30775d",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/empyrean.json"
+    },
+    {
+      "slug": "faerie-dragon",
+      "name": "Faerie Dragon",
+      "filename": "faerie-dragon.webp",
+      "entityIds": [
+        "mm:monster:faerie-dragon"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-c3ba2a86-0336-4e1d-96c0-0ebf0dfd58dc.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "6bce51af85fc176380595b478ed4b582052ad72b4a0e650f79702022974f7078",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/faerie-dragon.json"
+    },
+    {
+      "slug": "fire-snake",
+      "name": "Fire Snake",
+      "filename": "fire-snake.webp",
+      "entityIds": [
+        "mm:monster:fire-snake"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-c3d8dce3-39f8-4530-a114-3982a6a94f5b.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "71789c815ea117a4ef87a8b54198a6e4aae890c0a7dbf8b9de91ddb7fed4617f",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/fire-snake.json"
+    },
+    {
+      "slug": "flameskull",
+      "name": "Flameskull",
+      "filename": "flameskull.webp",
+      "entityIds": [
+        "mm:monster:flameskull",
+        "lmop:monster:flameskull"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-27da32d2-89a9-4683-961b-bcb256fc5828.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "9baff78c40f39eb847fb5e266208955f78e149e71161c7cee22756a5f1affe2e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/flameskull.json"
+    },
+    {
+      "slug": "flumph",
+      "name": "Flumph",
+      "filename": "flumph.webp",
+      "entityIds": [
+        "mm:monster:flumph"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6abb8fce-ad18-40e4-af21-36eb72b221ab.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "103f89561ae964c58e43406b1e26549bececb62ab0d051793d15fa729d5b89bc",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/flumph.json"
+    },
+    {
+      "slug": "fomorian",
+      "name": "Fomorian",
+      "filename": "fomorian.webp",
+      "entityIds": [
+        "mm:monster:fomorian"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f51474e0-349c-499e-89b3-55bd864fc6d5.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "30ac756843073c7496cf4504b819faaa03e9c6f0ead21cd6b2320eadcdd81b8c",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/fomorian.json"
+    },
+    {
+      "slug": "galeb-duhr",
+      "name": "Galeb Duhr",
+      "filename": "galeb-duhr.webp",
+      "entityIds": [
+        "mm:monster:galeb-duhr"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-c8ee8198-06c7-40fe-8443-2cad4801fd51.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "048150445d845d0e0d51140fb846324932ff13ba02ff53eb8944c1ad6c56f9b9",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/galeb-duhr.json"
+    },
+    {
+      "slug": "gas-spore",
+      "name": "Gas Spore",
+      "filename": "gas-spore.webp",
+      "entityIds": [
+        "mm:monster:gas-spore"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-841e5ca0-56f3-4f57-b0b1-2016bc0a9a42.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "80300d15a88f2f7eddec05aa89b195eac78464a0adf0e702bed1f4f591007ae2",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/gas-spore.json"
+    },
+    {
+      "slug": "githyanki-knight",
+      "name": "Githyanki Knight",
+      "filename": "githyanki-knight.webp",
+      "entityIds": [
+        "mm:monster:githyanki-knight"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-53e2f322-7c62-47dd-8c81-6752fbc16a6a.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "509ad3aadd992e060c08cf8e26da705d37600f85586638e672f61858a6d142d9",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/githyanki-knight.json"
+    },
+    {
+      "slug": "githyanki-warrior",
+      "name": "Githyanki Warrior",
+      "filename": "githyanki-warrior.webp",
+      "entityIds": [
+        "mm:monster:githyanki-warrior"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3282d474-f670-44e7-bf78-a0bb145051c2.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "c2f264e43b8d73d583f21f9894a6affd36734ad8c454e73eb8c4536d3e05efb9",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/githyanki-warrior.json"
+    },
+    {
+      "slug": "githzerai-monk",
+      "name": "Githzerai Monk",
+      "filename": "githzerai-monk.webp",
+      "entityIds": [
+        "mm:monster:githzerai-monk"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ac97a0cd-89cd-4682-b8d2-459b450307f3.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "6d2928fcc17c0e29e6427b816971189c3747bba2593c20fde346242d8ffd25e1",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/githzerai-monk.json"
+    },
+    {
+      "slug": "githzerai-zerth",
+      "name": "Githzerai Zerth",
+      "filename": "githzerai-zerth.webp",
+      "entityIds": [
+        "mm:monster:githzerai-zerth"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-06ffce8c-10c8-498d-baf8-a9848bed653d.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "bcac6a42118f51761561d9183890dde593adccf6346d3959abe5296faf8391ff",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/githzerai-zerth.json"
+    },
+    {
+      "slug": "gnoll-fang-of-yeenoghu",
+      "name": "Gnoll Fang of Yeenoghu",
+      "filename": "gnoll-fang-of-yeenoghu.webp",
+      "entityIds": [
+        "mm:monster:gnoll-fang-of-yeenoghu"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dca2326c-6ba2-428c-833c-daf0ba1c932d.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "a93331923eab25cde8ac388982e3828f9de253f29e6eb46e011e1e0885b195a4",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/gnoll-fang-of-yeenoghu.json"
+    },
+    {
+      "slug": "gnoll-pack-lord",
+      "name": "Gnoll Pack Lord",
+      "filename": "gnoll-pack-lord.webp",
+      "entityIds": [
+        "mm:monster:gnoll-pack-lord"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-01ee9c01-de4a-4700-be47-e4150dfbdad9.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "8d56d20f8c08086633301f365b6a11f270524f5cab433e8db9336eead26561f4",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/gnoll-pack-lord.json"
+    },
+    {
+      "slug": "goristro",
+      "name": "Goristro",
+      "filename": "goristro.webp",
+      "entityIds": [
+        "mm:monster:goristro"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-fe0f359c-1574-469e-8562-ab2cea9e7da1.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "e6bb39dc65651b69b558ccf8d41b85d04624b19981207310b5d0e2faebdc8322",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/goristro.json"
+    },
+    {
+      "slug": "gray-slaad",
+      "name": "Gray Slaad",
+      "filename": "gray-slaad.webp",
+      "entityIds": [
+        "mm:monster:gray-slaad"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ffddbcd8-79ac-40df-b382-4d662f840914.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "8063fc9f603a0f22282d7e6966d4ed5f4fba54141e819d046d481547d8dca100",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/gray-slaad.json"
+    },
+    {
+      "slug": "green-slaad",
+      "name": "Green Slaad",
+      "filename": "green-slaad.webp",
+      "entityIds": [
+        "mm:monster:green-slaad"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2410924a-af03-4d63-b306-8d4469fd773c.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "758c2fd1dedbf71908cd4854cfe1cc05a0d34392c173a67f5ffe36312d2a7d05",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/green-slaad.json"
+    },
+    {
+      "slug": "grell",
+      "name": "Grell",
+      "filename": "grell.webp",
+      "entityIds": [
+        "mm:monster:grell"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3e493a49-89d3-459d-8374-e1e8a230a6dd.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "53d008a11a9a68a635188107b5a9a10326288e234d6eb7e539846a7c1b9c0d7d",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/grell.json"
+    },
+    {
+      "slug": "grick-alpha",
+      "name": "Grick Alpha",
+      "filename": "grick-alpha.webp",
+      "entityIds": [
+        "mm:monster:grick-alpha"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-bd2deae1-18eb-45a1-801f-a2609329cc5e.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "94841269ab63ab08b407216512fd62ecee70d4c20c9d85ba07fc366946f9768e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/grick-alpha.json"
+    },
+    {
+      "slug": "half-ogre-ogrillon",
+      "name": "Half-Ogre (Ogrillon)",
+      "filename": "half-ogre-ogrillon.webp",
+      "entityIds": [
+        "mm:monster:half-ogre"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f8c897e2-2398-414d-884f-4a5a24f5c550.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "3f1c10b366eff208639289302728fc3b70f1e5dea9863a89c4ca36316658c630",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/half-ogre-ogrillon.json"
+    },
+    {
+      "slug": "helmed-horror",
+      "name": "Helmed Horror",
+      "filename": "helmed-horror.webp",
+      "entityIds": [
+        "mm:monster:helmed-horror"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b7b81791-fa5d-47fa-a5a6-bda2d1ce0ff1.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "33a79e09d97330a6f771e4fea0b1d16a99b00c2c78fd87088fc0be7d7c1174fc",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/helmed-horror.json"
+    },
+    {
+      "slug": "hobgoblin-warlord",
+      "name": "Hobgoblin Warlord",
+      "filename": "hobgoblin-warlord.webp",
+      "entityIds": [
+        "mm:monster:hobgoblin-warlord"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-d8e975a1-8cb7-4f5d-9cda-ae5146eec0b3.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "60147f05346518a8e670cd165404f8f927f47598ec9957d104d19b1849539c03",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/hobgoblin-warlord.json"
+    },
+    {
+      "slug": "hook-horror",
+      "name": "Hook Horror",
+      "filename": "hook-horror.webp",
+      "entityIds": [
+        "mm:monster:hook-horror"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-11b0efe9-1b9d-4abf-965a-29e4a7ed52ed.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "8024fc81391845f463c0f406d3d9f4c65c021a43373e066d139e6f6959859fb4",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/hook-horror.json"
+    },
+    {
+      "slug": "intellect-devourer",
+      "name": "Intellect Devourer",
+      "filename": "intellect-devourer.webp",
+      "entityIds": [
+        "mm:monster:intellect-devourer"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-d2984b99-94fa-4849-8824-bc3f2bc49395.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "4b2db9bf6a7251e99dee52b920e3025d611f312e2ff2dcf4592720be9ed28108",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/intellect-devourer.json"
+    },
+    {
+      "slug": "jackalwere",
+      "name": "Jackalwere",
+      "filename": "jackalwere.webp",
+      "entityIds": [
+        "mm:monster:jackalwere"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6511821f-5d12-4efe-9cf7-950b3ab0b24f.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "dbcb81d1a6009d9782f14a40331f644329d1adecc6dd13f6a0502314792ae075",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/jackalwere.json"
+    },
+    {
+      "slug": "kenku",
+      "name": "Kenku",
+      "filename": "kenku.webp",
+      "entityIds": [
+        "mm:monster:kenku"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2f509aea-9763-4f70-aa4b-742aab5ac986.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "69eb9033c6ab4b1a18183734f22d94a3b30324f19bc56ab537b2da4a83171b1c",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/kenku.json"
+    },
+    {
+      "slug": "kuo-toa-archpriest",
+      "name": "Kuo-toa Archpriest",
+      "filename": "kuo-toa-archpriest.webp",
+      "entityIds": [
+        "mm:monster:kuo-toa-archpriest"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b53cb54d-c97d-4014-80cb-4f1bd74966c1.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "74f0e2eef2a0686ab223c88f28bc35220dc18bd84147acd988afe718239901ef",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/kuo-toa-archpriest.json"
+    },
+    {
+      "slug": "kuo-toa-whip",
+      "name": "Kuo-toa Whip",
+      "filename": "kuo-toa-whip.webp",
+      "entityIds": [
+        "mm:monster:kuo-toa-whip"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-360aa710-c025-4605-af5f-aedf627190c2.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "000a4fb6aa601624c5114d32e918acfeb35268bc0e58fbebbd596419878563ba",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/kuo-toa-whip.json"
+    },
+    {
+      "slug": "kuo-toa",
+      "name": "Kuo-toa",
+      "filename": "kuo-toa.webp",
+      "entityIds": [
+        "mm:monster:kuo-toa"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3e432356-06a7-4251-80f0-9274fd9a9062.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "f228be99b84782921d1e3f17000b22806ff4aa1bb8dbe646bdb57f8ac54fc579",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/kuo-toa.json"
+    },
+    {
+      "slug": "lizard-king-queen",
+      "name": "Lizard King/Queen",
+      "filename": "lizard-king-queen.webp",
+      "entityIds": [
+        "mm:monster:lizard-king-queen"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4061fb38-8c94-4265-ab5e-b8994914819e.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "35edb20b9914a7b4125775aca6ac3015f9c03e552a994dd4c1adfed2ca1ea4ff",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/lizard-king-queen.json"
+    },
+    {
+      "slug": "lizardfolk-shaman",
+      "name": "Lizardfolk Shaman",
+      "filename": "lizardfolk-shaman.webp",
+      "entityIds": [
+        "mm:monster:lizardfolk-shaman"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-96bfd033-1309-4000-a376-0ca119c0f817.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "4065bd906dd886733c2edcc98b7badc6a34537823345f62382440b4fbc8b229e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/lizardfolk-shaman.json"
+    },
+    {
+      "slug": "lizardfolk",
+      "name": "Lizardfolk",
+      "filename": "lizardfolk.webp",
+      "entityIds": [
+        "mm:monster:lizardfolk"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-06bc06fa-eeee-46bf-b357-0c2957204e42.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "d0e8e5eb03dc3136709920c99bb8c531629686b82522200cc0bed244e65393fe",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/lizardfolk.json"
+    },
+    {
+      "slug": "manes",
+      "name": "Manes",
+      "filename": "manes.webp",
+      "entityIds": [
+        "mm:monster:manes"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f2a50931-afab-46b3-9c20-30181ef1e862.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "285a378c0dc9f5f8cc4461f001913df0aa93b865c4efd1ed16c7402271967542",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/manes.json"
+    },
+    {
+      "slug": "marid",
+      "name": "Marid",
+      "filename": "marid.webp",
+      "entityIds": [
+        "mm:monster:marid"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3fb6f2b1-e8d5-4272-9919-406dcf35014a.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "f1cc4834a757b3bcd15742d8fc07aaa388529f82f2e0c7eedce52924024539a5",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/marid.json"
+    },
+    {
+      "slug": "mezzoloth",
+      "name": "Mezzoloth",
+      "filename": "mezzoloth.webp",
+      "entityIds": [
+        "mm:monster:mezzoloth"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-0861c62a-f105-4d81-9e4d-66de7e30756a.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "ffc3de5f67de26807beddd75d04fb529bf76597c2eb6f3b908dbbba23610eb9b",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/mezzoloth.json"
+    },
+    {
+      "slug": "mind-flayer",
+      "name": "Mind Flayer",
+      "filename": "mind-flayer.webp",
+      "entityIds": [
+        "mm:monster:mind-flayer"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-583e8919-dcf3-4eaf-b586-b21c4f33cf67.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "2c2e98fd03f799f484ee9ca0b5c2ce2a55e82f05059160ee95d9e87dd1076854",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/mind-flayer.json"
+    },
+    {
+      "slug": "minotaur",
+      "name": "Minotaur",
+      "filename": "minotaur.webp",
+      "entityIds": [
+        "mm:monster:minotaur"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f5e0d6e2-940d-453a-9eab-21dabc5d2ec6.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "47f220a02278ee78525aa179772315d04f639f7ea6d2e68bd66171a5df850036",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/minotaur.json"
+    },
+    {
+      "slug": "monodrone",
+      "name": "Monodrone",
+      "filename": "monodrone.webp",
+      "entityIds": [
+        "mm:monster:monodrone"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b6de0041-4572-4471-9a17-7b00fcdc360a.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "f5575ff732b4c3e4b1c0d59d0eaa3440ddfee6284d309848aeb6ad8296497bba",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/monodrone.json"
+    },
+    {
+      "slug": "mud-mephit",
+      "name": "Mud Mephit",
+      "filename": "mud-mephit.webp",
+      "entityIds": [
+        "mm:monster:mud-mephit"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-66c9a809-1040-4d5d-b59b-f99ca2bc6e9c.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "ace48a1b452e676c79461d7d0bc0848639b73560777efdff4af8488b3bff0347",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/mud-mephit.json"
+    },
+    {
+      "slug": "myconid-adult",
+      "name": "Myconid Adult",
+      "filename": "myconid-adult.webp",
+      "entityIds": [
+        "mm:monster:myconid-adult"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6e7d216d-26b0-468a-b9d3-8178c0b77ff9.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "fef5f9614fdcb1b560aa2fa3f410e8dffb082abb89bbc1a9672d081c6d0e41c5",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/myconid-adult.json"
+    },
+    {
+      "slug": "myconid-sovereign",
+      "name": "Myconid Sovereign",
+      "filename": "myconid-sovereign.webp",
+      "entityIds": [
+        "mm:monster:myconid-sovereign"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3c3c2aa9-c3cb-4a86-b660-b206618a4a90.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "d455fa6ed4791c613ef1e872fa1be18517902bab79c7f2fbc552cd777d0217f7",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/myconid-sovereign.json"
+    },
+    {
+      "slug": "myconid-sprout",
+      "name": "Myconid Sprout",
+      "filename": "myconid-sprout.webp",
+      "entityIds": [
+        "mm:monster:myconid-sprout"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-97aa5c91-dd0f-46ff-b18e-b4ee499b1edf.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "f40062c71109422c09aee499c185fe260514495fb5a970358418b5c8b229b372",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/myconid-sprout.json"
+    },
+    {
+      "slug": "needle-blight",
+      "name": "Needle Blight",
+      "filename": "needle-blight.webp",
+      "entityIds": [
+        "mm:monster:needle-blight"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7cf52249-2c5e-4621-801e-c7f9e86ceee1.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "3831221073bfa41d335cdb77e64cdffbec86caef767a5879bc139f44a5a20e84",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/needle-blight.json"
+    },
+    {
+      "slug": "nothic",
+      "name": "Nothic",
+      "filename": "nothic.webp",
+      "entityIds": [
+        "mm:monster:nothic",
+        "lmop:monster:nothic"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-0ea0b2d5-405a-470b-889a-1a2abb6feef2.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "55e3d8566e10ab5a61976534ebdd0e04fc98f164d60237a9cc05c53b77f5a73b",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/nothic.json"
+    },
+    {
+      "slug": "nycaloth",
+      "name": "Nycaloth",
+      "filename": "nycaloth.webp",
+      "entityIds": [
+        "mm:monster:nycaloth"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-152d573b-085c-4b9d-86a3-271900a85d19.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "60e5f471e605e8799a317631fe91b6c35610a5bc0d96c1d1967649d80a1ba097",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/nycaloth.json"
+    },
+    {
+      "slug": "orc-eye-of-gruumsh",
+      "name": "Orc Eye of Gruumsh",
+      "filename": "orc-eye-of-gruumsh.webp",
+      "entityIds": [
+        "mm:monster:orc-eye-of-gruumsh"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7a22107a-2fcc-47ce-85e6-da49778ce7f4.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "b9416da3eac9ec3ab171839351578bdceed32e5ae1f6037cc6b4e3b9d13e3d61",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/orc-eye-of-gruumsh.json"
+    },
+    {
+      "slug": "orc-war-chief",
+      "name": "Orc War Chief",
+      "filename": "orc-war-chief.webp",
+      "entityIds": [
+        "mm:monster:orc-war-chief"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-279c7927-7b1c-494e-9a6d-7ca1abc05890.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "dc1f209a80e4bedb905cfc3cedfe228d6e1afe0a030ddb1b225c034da2fdcab0",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/orc-war-chief.json"
+    },
+    {
+      "slug": "orc",
+      "name": "Orc",
+      "filename": "orc.webp",
+      "entityIds": [
+        "mm:monster:orc",
+        "lmop:monster:orc"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-85430a8e-debb-409c-98b4-a0570fcabee5.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "372b432cd4712c0adb018b4c6051652696b0700feffe7b24c9c3724e621d72dd",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/orc.json"
+    },
+    {
+      "slug": "orog",
+      "name": "Orog",
+      "filename": "orog.webp",
+      "entityIds": [
+        "mm:monster:orog"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-98888b33-614d-4c06-b76c-2c4703518d7c.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "32febece07271208f0d68c14ec1be6c592b635702d1319a5277fbaae01e4b9be",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/orog.json"
+    },
+    {
+      "slug": "pentadrone",
+      "name": "Pentadrone",
+      "filename": "pentadrone.webp",
+      "entityIds": [
+        "mm:monster:pentadrone"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-76906dec-e3a0-44aa-9b01-59718ae6c1fb.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "b0393f4859f88be990b210a55628e75a22f8308f4029e45bb41d6ddff27ff24c",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/pentadrone.json"
+    },
+    {
+      "slug": "peryton",
+      "name": "Peryton",
+      "filename": "peryton.webp",
+      "entityIds": [
+        "mm:monster:peryton"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-bc47a181-c098-418c-aba8-0ec6885ee03d.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "3485e77d09c23cf6ca8af727c1c45ca449723b20cce812c4d8e0b8ac0f7d9305",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/peryton.json"
+    },
+    {
+      "slug": "piercer",
+      "name": "Piercer",
+      "filename": "piercer.webp",
+      "entityIds": [
+        "mm:monster:piercer"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-a6eceaf1-d46d-435b-a2dd-7fcffe1b909e.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "8e2fec276b6e4b8e5810b6e4e2b1471aab4285ccc935b67639c6890baac0de3e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/piercer.json"
+    },
+    {
+      "slug": "pixie",
+      "name": "Pixie",
+      "filename": "pixie.webp",
+      "entityIds": [
+        "mm:monster:pixie"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-8fd59331-b856-4e4c-af4d-52bf824e72d1.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "8325b3b93337b25e7cedb50ef6919f2196ce6aede936f90f897573ef6922a3ed",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/pixie.json"
+    },
+    {
+      "slug": "quadrone",
+      "name": "Quadrone",
+      "filename": "quadrone.webp",
+      "entityIds": [
+        "mm:monster:quadrone"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b269e508-359d-49e2-a25f-2a898b0d4eb6.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "744e549b65e673b4503ac9b0015d2ee87841972c7d40ac99363541afc85ca5cd",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/quadrone.json"
+    },
+    {
+      "slug": "quaggoth-spore-servant",
+      "name": "Quaggoth Spore Servant",
+      "filename": "quaggoth-spore-servant.webp",
+      "entityIds": [
+        "mm:monster:quaggoth-spore-servant"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5e4b85e4-1e43-497c-a38c-7b63348c658e.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "ff9cc62fdb6fae696b4f6089eaf370ccf59aed45376c4530803b06515d801bec",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/quaggoth-spore-servant.json"
+    },
+    {
+      "slug": "quaggoth",
+      "name": "Quaggoth",
+      "filename": "quaggoth.webp",
+      "entityIds": [
+        "mm:monster:quaggoth"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ddbc498e-6fe9-4110-9e80-01ef915db853.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "f07ed7ec333a06cfb9f5110da9b1abb34ca6fb095a9206ae05926dc48735f98e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/quaggoth.json"
+    },
+    {
+      "slug": "red-slaad",
+      "name": "Red Slaad",
+      "filename": "red-slaad.webp",
+      "entityIds": [
+        "mm:monster:red-slaad"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-27ea2657-fba1-44a6-a0da-1e56e48710f3.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "8b33e5606591637a03f635aec402117e2850a70a297ecda70c23801d31dbfb3c",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/red-slaad.json"
+    },
+    {
+      "slug": "revenant",
+      "name": "Revenant",
+      "filename": "revenant.webp",
+      "entityIds": [
+        "mm:monster:revenant"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7f3d4ab3-949e-4fdb-96ed-4d1246ba1088.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "b88a13636fb51b50e906b97518ccf5c1407691020e730df6844d12c3438477e2",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/revenant.json"
+    },
+    {
+      "slug": "sahuagin-baron",
+      "name": "Sahuagin Baron",
+      "filename": "sahuagin-baron.webp",
+      "entityIds": [
+        "mm:monster:sahuagin-baron"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5bfaf2de-2158-4efe-a5fd-c7567f82dadf.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "067cb6ed2c63fba02317b1e4ba98fcc8a0cea1bc109f3b05492ce6c20f7b4613",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/sahuagin-baron.json"
+    },
+    {
+      "slug": "sahuagin-priestess",
+      "name": "Sahuagin Priestess",
+      "filename": "sahuagin-priestess.webp",
+      "entityIds": [
+        "mm:monster:sahuagin-priestess"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9c2e8ca3-ac2a-4072-be67-254ede59c3e9.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "1f3885ebb04dbb8404a96e196b63dacfc3de33ddd47bae9e2c8f2d0226f78351",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/sahuagin-priestess.json"
+    },
+    {
+      "slug": "scarecrow",
+      "name": "Scarecrow",
+      "filename": "scarecrow.webp",
+      "entityIds": [
+        "mm:monster:scarecrow"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-92b96b4f-e845-434d-9652-7311074dbaaa.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "d09937b9ee633ac2551b9d4b716fba02a48f55aab20ad22095fd668666578670",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/scarecrow.json"
+    },
+    {
+      "slug": "shadow-demon",
+      "name": "Shadow Demon",
+      "filename": "shadow-demon.webp",
+      "entityIds": [
+        "mm:monster:shadow-demon"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2cb58cee-b38c-4a9e-84f8-5064bb2eb705.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "0e1f45d1dbf505daac83a0469ddf9a9cc432ba64a28a8da069370d3a42b8d7b7",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/shadow-demon.json"
+    },
+    {
+      "slug": "slaad-tadpole",
+      "name": "Slaad Tadpole",
+      "filename": "slaad-tadpole.webp",
+      "entityIds": [
+        "mm:monster:slaad-tadpole"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-341a1061-6882-43dc-a3de-9f5339c7fc6f.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "4744f0112aadf812c45a271a6e546a43162d1e23a7fe7ce06e5a9addafa47a59",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/slaad-tadpole.json"
+    },
+    {
+      "slug": "smoke-mephit",
+      "name": "Smoke Mephit",
+      "filename": "smoke-mephit.webp",
+      "entityIds": [
+        "mm:monster:smoke-mephit"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-a9fd2bce-2718-40a3-b99c-9608d6004809.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "4bb164b4c74c018fdd84aafaf46d1f8d3b15175514518f029172af3a81515e19",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/smoke-mephit.json"
+    },
+    {
+      "slug": "spectator",
+      "name": "Spectator",
+      "filename": "spectator.webp",
+      "entityIds": [
+        "mm:monster:spectator",
+        "lmop:monster:spectator"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-01a5e056-4bf1-44f6-af71-1df3425a4f28.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "6dc13a439fa57c12b9f7f65a4d7f7b50fa95aac4124956860d988ee937b0295e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/spectator.json"
+    },
+    {
+      "slug": "spined-devil",
+      "name": "Spined Devil",
+      "filename": "spined-devil.webp",
+      "entityIds": [
+        "mm:monster:spined-devil"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-a9d02a5c-b4e6-46fa-b3c3-94d7da34c71b.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "2c31c8633f3d3aafea716ae660703faa4c761e2b88037c76ec2f45693ab68d3b",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/spined-devil.json"
+    },
+    {
+      "slug": "thri-kreen",
+      "name": "Thri-kreen",
+      "filename": "thri-kreen.webp",
+      "entityIds": [
+        "mm:monster:thri-kreen"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5a80a7f3-7762-4d49-8053-e392845164ff.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "f9614d999e998a6113d19921a4e00859fd4b28eb1c80621e85734045db7e9811",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/thri-kreen.json"
+    },
+    {
+      "slug": "thug",
+      "name": "Thug",
+      "filename": "thug.webp",
+      "entityIds": [
+        "mm:monster:thug"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-eee2b4a1-3f83-467e-a359-8617752d598a.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "5db91de5d644d6afe54659cd5af997e2b0561af5437fa4e8f3e85909e751d5a1",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/thug.json"
+    },
+    {
+      "slug": "tribal-warrior",
+      "name": "Tribal Warrior",
+      "filename": "tribal-warrior.webp",
+      "entityIds": [
+        "mm:monster:tribal-warrior"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-24417167-96c6-4519-9ea8-a7f7ef89609e.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "0c4783b3038b672b4b9fa2badd6da57766ad9fb10a6f1618940f1a0819b84ab5",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/tribal-warrior.json"
+    },
+    {
+      "slug": "tridrone",
+      "name": "Tridrone",
+      "filename": "tridrone.webp",
+      "entityIds": [
+        "mm:monster:tridrone"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-1001e9a3-1b90-4e9d-809f-923860d115b7.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "7c260de9edc91074785dffbe6d52df997349e05856a8326ca160cfbd0ffb12be",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/tridrone.json"
+    },
+    {
+      "slug": "troglodyte",
+      "name": "Troglodyte",
+      "filename": "troglodyte.webp",
+      "entityIds": [
+        "mm:monster:troglodyte"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-c7c61703-6620-47e0-8e40-cca674713d49.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "de2a442441080d3d51be88631f07a5265a385a8f3238e9e137970b24e08f5ec7",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/troglodyte.json"
+    },
+    {
+      "slug": "twig-blight",
+      "name": "Twig Blight",
+      "filename": "twig-blight.webp",
+      "entityIds": [
+        "mm:monster:twig-blight",
+        "lmop:monster:twig-blight"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e31e2245-57a2-421f-bb37-0c0081008977.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "99c2d3950f31da8741ee2c719f874c159e2e5ad2ff37ac6013f18090c3cba0f7",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/twig-blight.json"
+    },
+    {
+      "slug": "ultroloth",
+      "name": "Ultroloth",
+      "filename": "ultroloth.webp",
+      "entityIds": [
+        "mm:monster:ultroloth"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-74763052-5fec-4370-bdff-fc6e0d9ab136.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "8d4e14ecee6e16e633b351e0833c0a60194e78498715b568cf9a78e39423391e",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/ultroloth.json"
+    },
+    {
+      "slug": "umber-hulk",
+      "name": "Umber Hulk",
+      "filename": "umber-hulk.webp",
+      "entityIds": [
+        "mm:monster:umber-hulk"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9486a3ce-a059-4964-8641-e19ce31315b6.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "9217f6c103931ab4c9d806f3f49b53188561a025d5ba4868a9802f29855de2ce",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/umber-hulk.json"
+    },
+    {
+      "slug": "vine-blight",
+      "name": "Vine Blight",
+      "filename": "vine-blight.webp",
+      "entityIds": [
+        "mm:monster:vine-blight"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5ee92f09-27dc-4fb2-aac3-8626cc9c7f60.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "e6cd87756b7598720f7d7a50e41da1f612a25b2046e505018dc7eca75149eb18",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/vine-blight.json"
+    },
+    {
+      "slug": "water-weird",
+      "name": "Water Weird",
+      "filename": "water-weird.webp",
+      "entityIds": [
+        "mm:monster:water-weird"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-adbfe33d-1f7a-4cfc-b352-304344f27664.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "c1fcadd968f96026672468a42e1eeb1cbb000baeb48d47f870fef12ca1263d02",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/water-weird.json"
+    },
+    {
+      "slug": "winged-kobold",
+      "name": "Winged Kobold",
+      "filename": "winged-kobold.webp",
+      "entityIds": [
+        "mm:monster:winged-kobold"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-1d8d51e9-6c26-4d3d-b1bb-0a346fab2238.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "3403907a08c6bc18646233588df968e40d7ad808acab201a0a5b0f77ce4086b6",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/winged-kobold.json"
+    },
+    {
+      "slug": "yeti",
+      "name": "Yeti",
+      "filename": "yeti.webp",
+      "entityIds": [
+        "mm:monster:yeti"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-98a5bec8-8d56-412e-8f96-c985872f91b2.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "65e5f532a876b43fbf453a16c9277fadc56d8ec8bf8eca12379d610b3b2d74d8",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/yeti.json"
+    },
+    {
+      "slug": "yochlol",
+      "name": "Yochlol",
+      "filename": "yochlol.webp",
+      "entityIds": [
+        "mm:monster:yochlol"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f21ecf9d-3cab-4cc6-a1af-44ddd19062e6.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "01046b46dc97add1c87ba7d8d52eb36d9c011229f7c3b6cda1e5ae871e5fe8d6",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/yochlol.json"
+    },
+    {
+      "slug": "young-red-shadow-dragon",
+      "name": "Young Red Shadow Dragon",
+      "filename": "young-red-shadow-dragon.webp",
+      "entityIds": [
+        "mm:monster:young-red-shadow-dragon"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ffabb6dc-fddd-4577-a01e-3baecc17ed11.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "bec3968cb0f1a6f25822bb24786d9e445c2036f102f7797875f71f9b11a84d8b",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/young-red-shadow-dragon.json"
+    },
+    {
+      "slug": "young-remorhaz",
+      "name": "Young Remorhaz",
+      "filename": "young-remorhaz.webp",
+      "entityIds": [
+        "mm:monster:young-remorhaz"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-04f3dc70-904e-42ec-b913-111c171d61d5.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "fdfeb813b38abab402e87ce9bddf877f64c04b9ae3064f228d78b4321b0c5879",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/young-remorhaz.json"
+    },
+    {
+      "slug": "yuan-ti-abomination",
+      "name": "Yuan-ti Abomination",
+      "filename": "yuan-ti-abomination.webp",
+      "entityIds": [
+        "mm:monster:yuan-ti-abomination"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2761095c-250d-47e5-92db-4c4af71a7de6.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "4eeae9901ac16f87be3924e4832aa40f1358de7a7bbea7e5977effefca812f9b",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/yuan-ti-abomination.json"
+    },
+    {
+      "slug": "yuan-ti-malison",
+      "name": "Yuan-ti Malison",
+      "filename": "yuan-ti-malison.webp",
+      "entityIds": [
+        "mm:monster:yuan-ti-malison"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-902cca10-110d-403e-bdec-06775a6724e4.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "94f60a50f0096c7f443eb2a3428ffd04ebe9a3b012ad3ba21a1bfc93f0d2fab0",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/yuan-ti-malison.json"
+    },
+    {
+      "slug": "yuan-ti-pureblood",
+      "name": "Yuan-ti Pureblood",
+      "filename": "yuan-ti-pureblood.webp",
+      "entityIds": [
+        "mm:monster:yuan-ti-pureblood"
+      ],
+      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-83637588-29b4-4978-a7b2-e193d70d4c5f.png",
+      "dimensions": [
+        280,
+        480
+      ],
+      "transparentBackground": true,
+      "sha256": "c724964f813d8f245750c0b58d2fb1d3dd8f7945824b71129998afdfd2cf4750",
+      "promptRecord": "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-monster-art-2026-11-27/generated/yuan-ti-pureblood.json"
+    }
+  ],
+  "validationIssues": []
+}
