@@ -1,5 +1,5 @@
 {
-  "generator": "built-in image_gen",
+  "generator": "built-in image_gen edit",
   "date": "2026-11-27",
   "destination": "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins",
   "dimensions": [
@@ -17,15 +17,17 @@
       "slug": "anthropologist",
       "name": "Anthropologist",
       "filename": "bgAnthropologist.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Anthropologist background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A travelling cultural scholar in a rain-forest village, respectfully exchanging stories with a local elder, open field journal and a small carved keepsake, distant timber dwellings and warm lanterns. The scholar is the clear main subject; supporting elder small and secondary.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgAnthropologist.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "A travelling cultural scholar in a rain-forest village, respectfully exchanging stories with a local elder, open field journal and a small carved keepsake, distant timber dwellings and warm lanterns. The scholar is the clear main subject; supporting elder small and secondary.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-98c561c4-c498-4724-b2dc-2bc45257c509.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-c6194d0a-0463-46df-9fa5-f03ac315b611.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -34,8 +36,10 @@
         1024,
         1536
       ],
-      "bytes": 72594,
-      "sha256": "69447cf364d7e4fe24c6b52d7ad2daeeaf105c8d7bb8b2091ca2cab75cfaa380"
+      "bytes": 73384,
+      "sha256": "d39e2466add8a05d4a68e312f5a061e46d3e2e39d0bb07935e2cfaa2df4cadc5",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-98c561c4-c498-4724-b2dc-2bc45257c509.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -44,15 +48,17 @@
       "slug": "astral-drifter",
       "name": "Astral Drifter",
       "filename": "bgAstralDrifter.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Astral Drifter background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An ageless adult wanderer in weathered travel robes on an ancient floating stone fragment in the silver Astral Sea, keeping a diary beside a small lantern, immense distant petrified celestial shapes and luminous silver clouds.\nMain character: an adult male elf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgAstralDrifter.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male elf",
       "scene": "An ageless adult wanderer in weathered travel robes on an ancient floating stone fragment in the silver Astral Sea, keeping a diary beside a small lantern, immense distant petrified celestial shapes and luminous silver clouds.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-1cf89c50-e9b7-4f2f-af79-b13a706f8451.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2b279144-de8e-490e-86be-9fba5f7dafc1.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -61,8 +67,10 @@
         1024,
         1536
       ],
-      "bytes": 73226,
-      "sha256": "80131a679ba3ffea65848c11fbeb52007b8c193a55d01efb25cb637736d0980b"
+      "bytes": 79088,
+      "sha256": "553371e96214caa6ea44f477762dd33c57a6b9e5af7d23ebd5d8fda5c3d841bd",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-1cf89c50-e9b7-4f2f-af79-b13a706f8451.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -71,15 +79,17 @@
       "slug": "athlete",
       "name": "Athlete",
       "filename": "bgAthlete.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Athlete background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A confident adult athlete with a bronze discus and a laurel circlet resting after training beside a classical stone arena, practical modest athletic tunic, warm sunset and long colonnade shadows.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgAthlete.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "A confident adult athlete with a bronze discus and a laurel circlet resting after training beside a classical stone arena, practical modest athletic tunic, warm sunset and long colonnade shadows.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-8a2bc096-3abf-4e21-a82e-8447ec9cb5ec.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-8c1be1e8-4275-48c2-b5be-b5ea19cdd742.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -88,8 +98,10 @@
         1024,
         1536
       ],
-      "bytes": 73672,
-      "sha256": "3876fde8145af3184123b8a1bd3dc1a6e26970696d5e119d2138f6bac6a40af3"
+      "bytes": 68186,
+      "sha256": "9d13562e8ea8db3e1c4d902e92363065f548c3dc1c64f736c2582fbc24e3c927",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-8a2bc096-3abf-4e21-a82e-8447ec9cb5ec.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -98,15 +110,17 @@
       "slug": "faceless",
       "name": "Faceless",
       "filename": "bgFaceless.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Faceless background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A mysterious masked adventurer adopting a heroic persona on a rain-slick medieval rooftop, elegant plain theatrical half-mask, dark cloak, discreet satchel, amber windows below, no modern superhero costume.\nMain character: an adult male human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgFaceless.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male human",
       "scene": "A mysterious masked adventurer adopting a heroic persona on a rain-slick medieval rooftop, elegant plain theatrical half-mask, dark cloak, discreet satchel, amber windows below, no modern superhero costume.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-fc2dc4e1-5708-402e-92c3-c2171fa4bfdc.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-08672085-35d5-403c-bc61-87b9bfee95c3.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -115,8 +129,10 @@
         1024,
         1536
       ],
-      "bytes": 68386,
-      "sha256": "6ecfbf8415d504bc2401c45829243cac0d77087fc42655028a37bff9023df84f"
+      "bytes": 68900,
+      "sha256": "7a262236e57bf64c230cc48fadfff885c9a9c42a8a98f7f2a9889f71d5580dd3",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-fc2dc4e1-5708-402e-92c3-c2171fa4bfdc.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -125,15 +141,17 @@
       "slug": "fate-touched",
       "name": "Fate-Touched",
       "filename": "bgFateTouched.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Fate-Touched background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A thoughtful traveller standing at a ruined crossroads, fine luminous threads of destiny gently curving around her hands and joining distant constellations, weathered travelling clothes and quiet determination, restrained supernatural light.\nMain character: an adult female half-elf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgFateTouched.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female half-elf",
       "scene": "A thoughtful traveller standing at a ruined crossroads, fine luminous threads of destiny gently curving around her hands and joining distant constellations, weathered travelling clothes and quiet determination, restrained supernatural light.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-129ed4cf-769c-4b13-b359-8e201f8af21f.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3efb5336-cde6-4d4a-8724-0bfbd2ad650d.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -142,8 +160,10 @@
         1024,
         1536
       ],
-      "bytes": 74318,
-      "sha256": "333c05bcfeeadf53c3c37fe83fed99bfc733b0be7d7f02e5aa8d65d5e4123330"
+      "bytes": 76684,
+      "sha256": "5e9bd25c0fadb4edf7948e1dfdabb031e4eeb42e4d02e5cf7fe6d1b2656c0061",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-129ed4cf-769c-4b13-b359-8e201f8af21f.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -152,15 +172,17 @@
       "slug": "feylost",
       "name": "Feylost",
       "filename": "bgFeylost.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Feylost background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult small-statured traveller returned from the Feywild, gazing at three curious little keepsakes in his palm beside an ancient tree arch, subtly mismatched eyes and a leaf caught in his hair, luminous moths and a dim enchanted forest.\nMain character: an adult male halfling, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgFeylost.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male halfling",
       "scene": "An adult small-statured traveller returned from the Feywild, gazing at three curious little keepsakes in his palm beside an ancient tree arch, subtly mismatched eyes and a leaf caught in his hair, luminous moths and a dim enchanted forest.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e9c6fb06-4f3c-400c-93ea-a62cc6d3d069.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-19a5edf4-b52a-4a73-a119-d367a62f75d4.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -169,8 +191,10 @@
         1024,
         1536
       ],
-      "bytes": 76132,
-      "sha256": "93086c649450e68c6831d643b16bd240454ff52e3493a872af58812d8523a85c"
+      "bytes": 72190,
+      "sha256": "7791448de8396512e07564dcd577e5bc016c62e14e28e67b2a32ec396b5db4ca",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e9c6fb06-4f3c-400c-93ea-a62cc6d3d069.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -179,15 +203,17 @@
       "slug": "fisher",
       "name": "Fisher",
       "filename": "bgFisher.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Fisher background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A sturdy fisher on an old wooden pier mending a fishing net beside a tackle box, wicker catch basket and oiled wading boots, weathered coastal village at dawn, amber lantern and cool sea mist.\nMain character: an adult female dwarf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgFisher.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female dwarf",
       "scene": "A sturdy fisher on an old wooden pier mending a fishing net beside a tackle box, wicker catch basket and oiled wading boots, weathered coastal village at dawn, amber lantern and cool sea mist.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-bf145562-02a1-4b71-a33e-f4839c3b07a6.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-70748d8d-7264-4ce9-a1b2-bd45b8f21695.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -196,8 +222,10 @@
         1024,
         1536
       ],
-      "bytes": 78040,
-      "sha256": "319757a08a9f5143d1a5704c265f31c72a84074539cf5957a4621226eb971cfd"
+      "bytes": 78644,
+      "sha256": "d3a2950ad339a102d1bbbb66c1dfb6e1a3ec922b447b254c6e7bf5eeeff6a0b8",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-bf145562-02a1-4b71-a33e-f4839c3b07a6.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -206,15 +234,17 @@
       "slug": "free-spirit",
       "name": "Free Spirit",
       "filename": "bgFreeSpirit.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Free Spirit background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A peaceful adult ratfolk wilderness wanderer in practical woven travel clothes beside a mountain pond, gently greeting a woodland animal, water flask and handmade carving tools, bamboo and deep forest, natural fur and a fully clothed small humanoid body.\nMain character: an adult female ratfolk, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgFreeSpirit.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female ratfolk",
       "scene": "A peaceful adult ratfolk wilderness wanderer in practical woven travel clothes beside a mountain pond, gently greeting a woodland animal, water flask and handmade carving tools, bamboo and deep forest, natural fur and a fully clothed small humanoid body.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dcc2ed19-09c3-4132-b71f-5792f8351c7d.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e68d27d7-6b3d-465b-adfb-3a9702479b70.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -223,8 +253,10 @@
         1024,
         1536
       ],
-      "bytes": 85834,
-      "sha256": "f42c9290da2922d564a47e4fbd14c920667910264cfe3095829aead3be056239"
+      "bytes": 88204,
+      "sha256": "0a4bee80b8597651069e5e74338beecedcda121f915fee87b456f1a598346927",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dcc2ed19-09c3-4132-b71f-5792f8351c7d.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -233,15 +265,17 @@
       "slug": "gate-warden",
       "name": "Gate Warden",
       "filename": "bgGateWarden.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Gate Warden background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A watchful planar gate warden keeping vigil beside a towering ancient portal arch, small intricate portal key in hand, practical cloak and light armor, impossible distant landscapes glimpsed through the cool shimmering gate, warm town lanterns.\nMain character: an adult male tiefling, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgGateWarden.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male tiefling",
       "scene": "A watchful planar gate warden keeping vigil beside a towering ancient portal arch, small intricate portal key in hand, practical cloak and light armor, impossible distant landscapes glimpsed through the cool shimmering gate, warm town lanterns.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2ba0b59c-eb57-4cd4-9368-e602d183d0e9.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f96f04ab-d52a-4b83-9c3b-32effdd842d4.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -250,8 +284,10 @@
         1024,
         1536
       ],
-      "bytes": 73544,
-      "sha256": "283d7452827b1e690169875881cfc29f83cc621fee0cde3c70992eb6a30af709"
+      "bytes": 78526,
+      "sha256": "0a79d00d8940c351cf26fdaaf29b6ab0ceae417b1a2a7a6a52ca60904824946a",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2ba0b59c-eb57-4cd4-9368-e602d183d0e9.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -260,15 +296,17 @@
       "slug": "giant-foundling",
       "name": "Giant Foundling",
       "filename": "bgGiantFoundling.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Giant Foundling background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An unusually tall adult human raised among giants sitting on an immense stone stair, cherished little stone keepsake in one hand, huge carved doorway and giant-sized wooden cup establishing scale, mountain home and amber hearthlight, still visibly human rather than a giant.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgGiantFoundling.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "An unusually tall adult human raised among giants sitting on an immense stone stair, cherished little stone keepsake in one hand, huge carved doorway and giant-sized wooden cup establishing scale, mountain home and amber hearthlight, still visibly human rather than a giant.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-d323f7d0-510b-4aad-af1c-50d3e2b5588b.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-fca1b082-a737-4367-b347-44a57b918c07.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -277,8 +315,10 @@
         1024,
         1536
       ],
-      "bytes": 67330,
-      "sha256": "06f80d24a8bd965d31984bc8dfa06944748f7053be12c4ed12100d5665a6e098"
+      "bytes": 65394,
+      "sha256": "fedea074126401464aac918e5d456ef109c8a6b08a6b7df75823ca24b89593e8",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-d323f7d0-510b-4aad-af1c-50d3e2b5588b.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -287,15 +327,17 @@
       "slug": "great-clan-warrior",
       "name": "Great Clan Warrior",
       "filename": "bgGreatClanWarrior.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Great Clan Warrior background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A noble warrior of a fantasy Great Clan in finely crafted lamellar armor and layered robes, sheathed curved sword, holding a rolled lineage scroll in a quiet traditional timber courtyard, pine silhouettes and warm lanterns, dignified posture.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgGreatClanWarrior.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "A noble warrior of a fantasy Great Clan in finely crafted lamellar armor and layered robes, sheathed curved sword, holding a rolled lineage scroll in a quiet traditional timber courtyard, pine silhouettes and warm lanterns, dignified posture.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6f8f6373-44cc-4b8a-8c55-fc14d78e3b09.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3c6da1e1-676b-47eb-a6db-7d16b6dd2b3b.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -304,8 +346,10 @@
         1024,
         1536
       ],
-      "bytes": 74204,
-      "sha256": "857683e2794f1fd6d07f36b8c0b6e848380300b36e54b492a58d6138be3990c2"
+      "bytes": 73688,
+      "sha256": "3aad3110b522c637331c167a12c16600ef297349f8ce49296defa89b1c86e5cc",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6f8f6373-44cc-4b8a-8c55-fc14d78e3b09.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -314,15 +358,17 @@
       "slug": "jade-bailiff",
       "name": "Jade Bailiff",
       "filename": "bgJadeBailiff.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Jade Bailiff background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A sworn jade bailiff wearing an olive-green uniform, matching cloak and traditional helmet, standing watch at an imperial fantasy courtyard gate with a closed document case, jade stone ornament and restrained bronze details, rain and amber lanterns.\nMain character: an adult male human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgJadeBailiff.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male human",
       "scene": "A sworn jade bailiff wearing an olive-green uniform, matching cloak and traditional helmet, standing watch at an imperial fantasy courtyard gate with a closed document case, jade stone ornament and restrained bronze details, rain and amber lanterns.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-023f5480-7a89-45eb-8c65-e0028d10d837.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9fcaa125-648a-423a-b34b-5fb90b6fbc20.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -331,8 +377,10 @@
         1024,
         1536
       ],
-      "bytes": 73860,
-      "sha256": "27b78976353fb5c36fa1e3d8bafe8f65b9a83c2930bb06222e0d1a555bc206e0"
+      "bytes": 70174,
+      "sha256": "8488be4bb62928121cecf4cf215518232a18dab3e46c306b215fc431e5185154",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-023f5480-7a89-45eb-8c65-e0028d10d837.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -341,15 +389,17 @@
       "slug": "lorehold-student",
       "name": "Lorehold Student",
       "filename": "bgLoreholdStudent.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Lorehold Student background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult history student in scholarly red and cream robes examining an ancient stone relief with a small hammer, lantern and heavy history tome, archaeological college courtyard, a faint kindly ancestral spirit in the distant shadows.\nMain character: an adult female dwarf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgLoreholdStudent.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female dwarf",
       "scene": "An adult history student in scholarly red and cream robes examining an ancient stone relief with a small hammer, lantern and heavy history tome, archaeological college courtyard, a faint kindly ancestral spirit in the distant shadows.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2a072717-8e47-4325-a42a-388241b0d1fb.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-d4498b7b-9ebe-4587-8d76-386d04ec587d.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -358,8 +408,10 @@
         1024,
         1536
       ],
-      "bytes": 69844,
-      "sha256": "48b7a56f664cc36e67b48e70b2d9c1edd264dfa248a06c1f710ebcb648cdeff9"
+      "bytes": 73562,
+      "sha256": "d7407fc3f031803d6d0a1f127159912e9a3487924d7a64ef4e4e0c43d1d57309",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2a072717-8e47-4325-a42a-388241b0d1fb.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -368,15 +420,17 @@
       "slug": "marine",
       "name": "Marine",
       "filename": "bgMarine.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Marine background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A weathered fantasy marine standing guard beside a beached longboat on a rocky shore, folded company flag and a keepsake dagger safely sheathed at his belt, practical salt-stained armor and cloak, cold spray and a warm harbor beacon.\nMain character: an adult male half-orc, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgMarine.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male half-orc",
       "scene": "A weathered fantasy marine standing guard beside a beached longboat on a rocky shore, folded company flag and a keepsake dagger safely sheathed at his belt, practical salt-stained armor and cloak, cold spray and a warm harbor beacon.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ef776a44-802f-4136-9647-94474f05211f.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7501b071-e1bb-43d2-9e40-83a69070e5e8.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -385,8 +439,10 @@
         1024,
         1536
       ],
-      "bytes": 68702,
-      "sha256": "96ae8fffe420fbf4dc6f921d5a503d5b23d37fdc9639d9cfff59e762fa453357"
+      "bytes": 66954,
+      "sha256": "7123832b7bfe45997865a2f35b92aec1c6789b211dc38e7dadb3e509a61f3585",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ef776a44-802f-4136-9647-94474f05211f.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -395,15 +451,17 @@
       "slug": "minor-clan-member",
       "name": "Minor Clan Member",
       "filename": "bgMinorClanMember.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Minor Clan Member background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult traveller from a modest minor clan in practical layered travel robes, a small clan token and musical flute at her belt, pausing by a rural footbridge with a bedroll and waterskin, distant terraced fields, lantern-lit wooden houses and mountain dusk.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgMinorClanMember.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "An adult traveller from a modest minor clan in practical layered travel robes, a small clan token and musical flute at her belt, pausing by a rural footbridge with a bedroll and waterskin, distant terraced fields, lantern-lit wooden houses and mountain dusk.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-0c7cf3ba-99a2-4638-a972-43f7e5fd5b25.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-06d22b6d-af63-4300-8ed0-99dbdb6a8146.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -412,8 +470,10 @@
         1024,
         1536
       ],
-      "bytes": 79208,
-      "sha256": "d0c134b84421451ee93034025160503aa64c0d68264a5954a61986782fba4327"
+      "bytes": 82368,
+      "sha256": "f29da854459ea7c37664877c7552af66b3cfa6d27f290a99b10b9509f73c27c5",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-0c7cf3ba-99a2-4638-a972-43f7e5fd5b25.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -422,15 +482,17 @@
       "slug": "planar-philosopher",
       "name": "Planar Philosopher",
       "filename": "bgPlanarPhilosopher.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Planar Philosopher background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult planar philosopher studying a small brass orrery and an open notebook in a strange vaulted urban library, practical scholarly robes, delicate portal key at her belt, distant impossible doorways and floating islands through a window, contemplative amber and violet light.\nMain character: an adult female gnome, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgPlanarPhilosopher.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female gnome",
       "scene": "An adult planar philosopher studying a small brass orrery and an open notebook in a strange vaulted urban library, practical scholarly robes, delicate portal key at her belt, distant impossible doorways and floating islands through a window, contemplative amber and violet light.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5b5809e7-05e1-4ec0-9cdf-294e0ad6abbb.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-46fd9cc1-0df3-4e92-8ca9-8bc237527ceb.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -439,8 +501,10 @@
         1024,
         1536
       ],
-      "bytes": 78326,
-      "sha256": "15791aff6e716b441dc86b8985f795060ebb472a2db425a6ded030ff0e3d0b50"
+      "bytes": 83980,
+      "sha256": "fab99fece99154cf5dd71ac17e0f1bea7f5b91267e88cf4d3c5f470b113d8fcf",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5b5809e7-05e1-4ec0-9cdf-294e0ad6abbb.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -449,15 +513,17 @@
       "slug": "prismari-student",
       "name": "Prismari Student",
       "filename": "bgPrismariStudent.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Prismari Student background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult magical arts student in elegant red and blue school robes conducting a small swirling ribbon of fire and water like a dance, artist tools nearby, moody college studio with stone arches, restrained luminous elemental brushstrokes and clear graceful hands.\nMain character: an adult male elf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgPrismariStudent.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male elf",
       "scene": "An adult magical arts student in elegant red and blue school robes conducting a small swirling ribbon of fire and water like a dance, artist tools nearby, moody college studio with stone arches, restrained luminous elemental brushstrokes and clear graceful hands.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-cb939094-d783-4b4c-a6e9-87e64a8cee5c.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-d0cadb23-c1ba-4869-9850-059535e873a8.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -466,8 +532,10 @@
         1024,
         1536
       ],
-      "bytes": 58370,
-      "sha256": "ad4c196373ce4adfcfe1c5b81504f4046c84f4026efa7fa57e1d80c94457c336"
+      "bytes": 69146,
+      "sha256": "b56aab53738e4ba9c770b59040f8c7cf9ce936bc3c62eced3c54d1fca8a62123",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-cb939094-d783-4b4c-a6e9-87e64a8cee5c.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -476,15 +544,17 @@
       "slug": "quandrix-student",
       "name": "Quandrix Student",
       "filename": "bgQuandrixStudent.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Quandrix Student background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult student of the mathematics of nature in teal and deep green school robes studying an abacus and a small luminous geometric pattern hovering over a fern, ivy-filled college cloister, elegant natural fractals without numbers or readable equations.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgQuandrixStudent.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "An adult student of the mathematics of nature in teal and deep green school robes studying an abacus and a small luminous geometric pattern hovering over a fern, ivy-filled college cloister, elegant natural fractals without numbers or readable equations.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e07c616b-5e3a-440c-b01f-25756b6289a7.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-a6e013e0-1ad9-42c2-9b3a-200d6dfc136c.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -493,8 +563,10 @@
         1024,
         1536
       ],
-      "bytes": 74504,
-      "sha256": "ce4eae21da43b38fc9c8e89e8722824a02e748fd1a199c8afc64f92e3882eb22"
+      "bytes": 82392,
+      "sha256": "3f5081cb5982a6f72ff89a25c592d6b7463cf3d19236bdd63a8bf3807961b1bc",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-e07c616b-5e3a-440c-b01f-25756b6289a7.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -503,15 +575,17 @@
       "slug": "rewarded",
       "name": "Rewarded",
       "filename": "bgRewarded.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Rewarded background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult traveller whose fortunes have changed, quietly delighted while turning a fine signet ring in his hand, tasteful new coat, worn old boots and a small purse of coins, a gaming card face-down on a wooden table, welcoming inn hearth and hopeful warm light.\nMain character: an adult male halfling, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgRewarded.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male halfling",
       "scene": "An adult traveller whose fortunes have changed, quietly delighted while turning a fine signet ring in his hand, tasteful new coat, worn old boots and a small purse of coins, a gaming card face-down on a wooden table, welcoming inn hearth and hopeful warm light.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3ea2516f-f725-4250-bcd6-7cb786c975b8.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-8a9a6f44-f2be-40cb-88b3-609710913368.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -520,8 +594,10 @@
         1024,
         1536
       ],
-      "bytes": 66900,
-      "sha256": "c4ceef4b02bac4635b60a6284a99313b5fe0b91bdaa213f55dfdc3760ed08b9a"
+      "bytes": 71710,
+      "sha256": "b5cf5bb5ed6fad7560e1025443d5f93365cad88f87da12dc4716c9e9543908de",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3ea2516f-f725-4250-bcd6-7cb786c975b8.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -530,15 +606,17 @@
       "slug": "ruined",
       "name": "Ruined",
       "filename": "bgRuined.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Ruined background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A once-prosperous adult traveller standing at the ivy-covered entrance of an abandoned estate, patched old fine coat, cracked hourglass and small travel pack, resolute expression after loss, cool storm clouds breaking toward a thin warm dawn, no disaster or victims shown.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgRuined.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "A once-prosperous adult traveller standing at the ivy-covered entrance of an abandoned estate, patched old fine coat, cracked hourglass and small travel pack, resolute expression after loss, cool storm clouds breaking toward a thin warm dawn, no disaster or victims shown.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b83f34e2-1937-440c-ae29-9f55e9f6d6b1.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9fae47ca-4d4a-4455-a1f9-1403a3123f53.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -547,8 +625,10 @@
         1024,
         1536
       ],
-      "bytes": 75296,
-      "sha256": "4757e5972ab6552bab37ffb21a733c4be0390acb302a27c00e58d39081759348"
+      "bytes": 77816,
+      "sha256": "328a5abedc3be968ca8c6b0060307a322038fe422a49a1c6af605f053c69fb45",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b83f34e2-1937-440c-ae29-9f55e9f6d6b1.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -557,15 +637,17 @@
       "slug": "rune-carver",
       "name": "Rune Carver",
       "filename": "bgRuneCarver.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Rune Carver background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult runecraft scholar carving a subtle glowing abstract rune into a small standing stone with a chisel, artisan tools and whetstone nearby, immense ancient giant inscriptions fading into a misty workshop ruin, warm working lantern, marks ornamental and unreadable.\nMain character: an adult male dwarf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgRuneCarver.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male dwarf",
       "scene": "An adult runecraft scholar carving a subtle glowing abstract rune into a small standing stone with a chisel, artisan tools and whetstone nearby, immense ancient giant inscriptions fading into a misty workshop ruin, warm working lantern, marks ornamental and unreadable.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7feb730e-718d-4abd-ac70-f0711807a7f0.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ebddb1cd-a09a-42e6-8beb-7fbb2f0f422a.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -574,8 +656,10 @@
         1024,
         1536
       ],
-      "bytes": 72080,
-      "sha256": "253b39a9ef4c4c98b771256ceab4fe1b57439b2bf205d5a4f9977d16e8aad9f7"
+      "bytes": 76768,
+      "sha256": "80aa4d7ee299785deebd0d4807b7f973d599bba045330ddcd29a825aeaf985e7",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7feb730e-718d-4abd-ac70-f0711807a7f0.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -584,15 +668,17 @@
       "slug": "scholar-of-the-ancient-ways",
       "name": "Scholar of the Ancient Ways",
       "filename": "bgScholarOfTheAncientWays.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Scholar of the Ancient Ways background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A cloistered scholar in simple traditional robes studying a sacred old book in an isolated timber monastery, bamboo and misty mountains beyond an open lattice window, low desk with scrolls, a warm oil lamp and quiet contemplative pose.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgScholarOfTheAncientWays.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "A cloistered scholar in simple traditional robes studying a sacred old book in an isolated timber monastery, bamboo and misty mountains beyond an open lattice window, low desk with scrolls, a warm oil lamp and quiet contemplative pose.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5d1e8ca1-6204-4456-8603-73bbe562957d.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-1ab1c24b-7f2f-4fb0-8cec-c79649082787.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -601,8 +687,10 @@
         1024,
         1536
       ],
-      "bytes": 64934,
-      "sha256": "334ca239f3d2e196dca76297989d8fe2b972d537e15ee1041007a147a7cc4c6a"
+      "bytes": 72308,
+      "sha256": "c6d7bb5718bf61c12e3cd2fd5d9a459e85b082b1885c8d57d891984993fc24e4",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5d1e8ca1-6204-4456-8603-73bbe562957d.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -611,15 +699,17 @@
       "slug": "shipwright",
       "name": "Shipwright",
       "filename": "bgShipwright.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Shipwright background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A skilled shipwright using well-loved carpenter tools beside the curved ribs of a wooden ship under construction, small blank sketchbook and timber shavings, atmospheric fantasy dry dock with the sea visible beyond, lantern glow and cool harbor light.\nMain character: an adult male dwarf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgShipwright.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male dwarf",
       "scene": "A skilled shipwright using well-loved carpenter tools beside the curved ribs of a wooden ship under construction, small blank sketchbook and timber shavings, atmospheric fantasy dry dock with the sea visible beyond, lantern glow and cool harbor light.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-65af5754-136e-4250-afdc-4f62f0cbf4db.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-aca4f46c-cf13-472f-bc75-1e90ff9e2353.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -628,8 +718,10 @@
         1024,
         1536
       ],
-      "bytes": 77222,
-      "sha256": "aba593550e53edd0ec07f2ff4d5e73c793276869baf69c88589d5d50ba6f9eb4"
+      "bytes": 77836,
+      "sha256": "b680f11bcdb875a319cc5a4ebd8bd51f84c9877b2c6d93f03df9e6fff31f80d8",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-65af5754-136e-4250-afdc-4f62f0cbf4db.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -638,15 +730,17 @@
       "slug": "silverquill-student",
       "name": "Silverquill Student",
       "filename": "bgSilverquillStudent.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Silverquill Student background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult eloquent student in black and ivory school robes holding an elegant quill, an open poetry book nearby, a few flowing ribbons of luminous silver ink curling harmlessly in the air, tall shadowy academy hall and strong warm highlights, no letters or words.\nMain character: an adult female tiefling, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgSilverquillStudent.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female tiefling",
       "scene": "An adult eloquent student in black and ivory school robes holding an elegant quill, an open poetry book nearby, a few flowing ribbons of luminous silver ink curling harmlessly in the air, tall shadowy academy hall and strong warm highlights, no letters or words.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-bf573bb7-3d71-4919-aa52-6f742eeae61b.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-00d88866-5c10-46f1-a98d-5bb3a68c81f2.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -655,8 +749,10 @@
         1024,
         1536
       ],
-      "bytes": 59766,
-      "sha256": "a7d7409fc0b58f0fdccdda130be023cf401268fd1b1a7605cce678155e04ad88"
+      "bytes": 54378,
+      "sha256": "4bfc9c023595458ecfb0b9fb8e9d8db8f1efdf4b70ab96519ec887d5896c5b54",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-bf573bb7-3d71-4919-aa52-6f742eeae61b.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -665,15 +761,17 @@
       "slug": "smuggler",
       "name": "Smuggler",
       "filename": "bgSmuggler.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Smuggler background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A resourceful fantasy river smuggler in worn leather boots and a fine practical vest quietly loading a sealed wine barrel onto a small wooden riverboat, moonlit medieval docks, coil of rope and warm shielded lantern, no modern items or violence.\nMain character: an adult female half-elf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgSmuggler.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female half-elf",
       "scene": "A resourceful fantasy river smuggler in worn leather boots and a fine practical vest quietly loading a sealed wine barrel onto a small wooden riverboat, moonlit medieval docks, coil of rope and warm shielded lantern, no modern items or violence.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-32ab9aaf-ab65-494c-904b-4fd44bf282c7.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-a739e910-9c28-4fe5-882c-54f807a557a7.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -682,8 +780,10 @@
         1024,
         1536
       ],
-      "bytes": 69862,
-      "sha256": "4af9c50a3a09cc39c24a0e56cfcffabc428291fa8e358d1fb70ef108742a5c2f"
+      "bytes": 74756,
+      "sha256": "f6c97d0345bb810ce2236208c8625708f04b0ea73a7e70f2a22f61ac1ba449b7",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-32ab9aaf-ab65-494c-904b-4fd44bf282c7.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -692,15 +792,17 @@
       "slug": "the-bonded",
       "name": "The Bonded",
       "filename": "bgTheBonded.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the The Bonded background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A determined adult Norse-inspired wanderer holding a folded letter and a carved keepsake that matches one worn by a distant companion, a subtle shared luminous rune motif joining their wrist ornaments, mead horn at her belt, windswept coastal longhouse, main character dominant and companion small.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgTheBonded.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "A determined adult Norse-inspired wanderer holding a folded letter and a carved keepsake that matches one worn by a distant companion, a subtle shared luminous rune motif joining their wrist ornaments, mead horn at her belt, windswept coastal longhouse, main character dominant and companion small.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-147560c0-c22d-40c0-be1d-c16f3fe28ac9.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-da86735f-e56b-4461-87b9-5e7a4e4edc5d.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -709,8 +811,10 @@
         1024,
         1536
       ],
-      "bytes": 67414,
-      "sha256": "f6ecb84bdf27b9d5a0716d1c14d67f5de037e1174ad5f9d45e11c413beacaf3a"
+      "bytes": 61836,
+      "sha256": "ba8fd5145627c47d985384799a1d9de8dced980f277063606d8c3b2132cb23e5",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-147560c0-c22d-40c0-be1d-c16f3fe28ac9.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -719,15 +823,17 @@
       "slug": "the-cursed-raider",
       "name": "The Cursed Raider",
       "filename": "bgTheCursedRaider.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the The Cursed Raider background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: A weathered adult Norse-inspired raider staring toward the horizon on a lonely misty beach, old scarred mail and fur cloak, axe resting safely against a driftwood log, a faint broken ring of cold magical light around his wrist suggesting an enduring curse, no wounds or gore.\nMain character: an adult male human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgTheCursedRaider.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male human",
       "scene": "A weathered adult Norse-inspired raider staring toward the horizon on a lonely misty beach, old scarred mail and fur cloak, axe resting safely against a driftwood log, a faint broken ring of cold magical light around his wrist suggesting an enduring curse, no wounds or gore.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-31c515db-30ed-49ea-9c2a-9d7de6375ce3.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-aab1772f-96be-49b7-8cf7-390835fb511d.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -736,8 +842,10 @@
         1024,
         1536
       ],
-      "bytes": 60490,
-      "sha256": "51378544d49a58d37f7d67c335ca7c0290258e2b7a9d332ba417b16abd181882"
+      "bytes": 59998,
+      "sha256": "270953863664376ef81c7ea074acef5304ee4cfbd1d8dc63e9c38f5fcc158cd6",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-31c515db-30ed-49ea-9c2a-9d7de6375ce3.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -746,15 +854,17 @@
       "slug": "the-fallen",
       "name": "The Fallen",
       "filename": "bgTheFallen.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the The Fallen background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An amnesiac adult wanderer emerging from a high sea cave into pale dawn, weathered travel clothes and a small cherished pendant, looking toward a distant fishing village below towering coastal mountains, faint indistinct dreamlike reflections in the cave shadows, mystery and rediscovery.\nMain character: an adult male half-elf, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgTheFallen.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male half-elf",
       "scene": "An amnesiac adult wanderer emerging from a high sea cave into pale dawn, weathered travel clothes and a small cherished pendant, looking toward a distant fishing village below towering coastal mountains, faint indistinct dreamlike reflections in the cave shadows, mystery and rediscovery.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6887fd34-bfc8-4715-9331-9ef61800b73c.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f69190f8-a311-4900-bc52-085e8acc0c1f.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -763,8 +873,10 @@
         1024,
         1536
       ],
-      "bytes": 69432,
-      "sha256": "7f2bc83d68df76d2b30ee0eb61fd28dab1032476016619e7658d66797b54e126"
+      "bytes": 78382,
+      "sha256": "86318d67cafb3b8c55b9f6191ef57e8cbe271c2489988b39e3690b5d965e37c0",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6887fd34-bfc8-4715-9331-9ef61800b73c.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -773,15 +885,17 @@
       "slug": "the-royal-heir",
       "name": "The Royal Heir",
       "filename": "bgTheRoyalHeir.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the The Royal Heir background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult lost royal heir raised among Norse-inspired seafarers, practical traveller clothes under a weathered fur mantle, examining an old family-inscribed knife kept safely in its sheath, broken stone arch on a snowy coast, distant ruined castle and subdued regal bearing.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgTheRoyalHeir.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "An adult lost royal heir raised among Norse-inspired seafarers, practical traveller clothes under a weathered fur mantle, examining an old family-inscribed knife kept safely in its sheath, broken stone arch on a snowy coast, distant ruined castle and subdued regal bearing.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7949dd68-5a74-47bb-9328-372dce882e5f.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-1d88966e-64e6-432d-a382-b48344b1c25d.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -790,8 +904,10 @@
         1024,
         1536
       ],
-      "bytes": 66878,
-      "sha256": "ebc7f3eb5baffc8852246144263211c917c39bb7b64c979de95ac4dd564897f9"
+      "bytes": 70600,
+      "sha256": "32fcd2e0ec0031de7aa72904b60707cf0edc3ab22fe1d9a313c54f84627bf633",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7949dd68-5a74-47bb-9328-372dce882e5f.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -800,15 +916,17 @@
       "slug": "the-stranger",
       "name": "The Stranger",
       "filename": "bgTheStranger.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the The Stranger background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult foreign traveller with distinctive patterned robes beneath a borrowed northern cloak, carrying a battered pack and an incomplete gaming set, looking back at a fading multicolored portal on a barren coast, damaged caravan wheel nearby, distant outcast settlement and warm welcoming lights.\nMain character: an adult male human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgTheStranger.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male human",
       "scene": "An adult foreign traveller with distinctive patterned robes beneath a borrowed northern cloak, carrying a battered pack and an incomplete gaming set, looking back at a fading multicolored portal on a barren coast, damaged caravan wheel nearby, distant outcast settlement and warm welcoming lights.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dcc69846-2616-404f-b830-3ca1d548a36c.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-39581a79-8767-43b8-bb16-036d18dbc7a0.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -817,8 +935,10 @@
         1024,
         1536
       ],
-      "bytes": 67546,
-      "sha256": "2b3d57150dc8d129e63b186918e7c85e3c3aa8777d38a2a60e26cc7d6a465f06"
+      "bytes": 66796,
+      "sha256": "58585b531ac2f81e1cc12c3474276f2e4b89146264e3e2a854ec3dd8268e0580",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dcc69846-2616-404f-b830-3ca1d548a36c.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -827,15 +947,17 @@
       "slug": "the-vigilant-one",
       "name": "The Vigilant One",
       "filename": "bgTheVigilantOne.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the The Vigilant One background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult hereditary watchkeeper in heavy travelling clothes and a winter mantle, a raven perched on her thick leather glove, tiny yarn talisman tied to her belt, standing on an ancient coastal watchtower overlooking dark woods, mountains and stormy sea, grave readiness.\nMain character: an adult female human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgTheVigilantOne.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "female human",
       "scene": "An adult hereditary watchkeeper in heavy travelling clothes and a winter mantle, a raven perched on her thick leather glove, tiny yarn talisman tied to her belt, standing on an ancient coastal watchtower overlooking dark woods, mountains and stormy sea, grave readiness.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9e11f290-3944-49ca-820d-949d287843fb.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-285ac8e6-ee26-48b3-9956-17689537e65a.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -844,8 +966,10 @@
         1024,
         1536
       ],
-      "bytes": 71010,
-      "sha256": "110b3709be7218c7a11a440d73ab08402f39ca0434cd9179ba834529e141d95d"
+      "bytes": 71228,
+      "sha256": "cffcfc63259e4d55a625e39724b42f7d427b05a8bab3ff452f2da32630345b7e",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9e11f290-3944-49ca-820d-949d287843fb.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     },
     {
       "game": "dnd-2014",
@@ -854,15 +978,110 @@
       "slug": "wildspacer",
       "name": "Wildspacer",
       "filename": "bgWildspacer.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Wildspacer background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult broad-built hippopotamus-folk fantasy space sailor on the deck of a wooden spelljamming vessel, practical fully clothed naval travel attire, rope coils and a wooden rail, a small old healed scar, stars and distant floating asteroids, no guns, modern spacecraft or spacesuit.\nMain character: an adult male giff hippopotamus-folk, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
       "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgWildspacer.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
       ],
       "character": "male giff hippopotamus-folk",
       "scene": "An adult broad-built hippopotamus-folk fantasy space sailor on the deck of a wooden spelljamming vessel, practical fully clothed naval travel attire, rope coils and a wooden rail, a small old healed scar, stars and distant floating asteroids, no guns, modern spacecraft or spacesuit.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-20c9b545-1dd2-4324-b980-72d1842a1fb2.png",
-      "generator": "built-in image_gen",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-0d29261b-2769-4678-b34a-540b6c6be477.png",
+      "generator": "built-in image_gen edit",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sourceDimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 65998,
+      "sha256": "4e7e72cc88d5412a7a9e616a09b0598ef07bcc574211261213cefcbba17d13c0",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-20c9b545-1dd2-4324-b980-72d1842a1fb2.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
+    },
+    {
+      "game": "dnd-2014",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/wbtw/backgrounds/witchlight-hand.json",
+      "id": "wbtw:background:witchlight-hand",
+      "slug": "witchlight-hand",
+      "name": "Witchlight Hand",
+      "filename": "bgWitchlightHand.webp",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgWitchlightHand.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
+      ],
+      "character": "female gnome",
+      "scene": "An adult carnival worker in a practical faded violet and gold carnival uniform tending a magical lantern beside a whimsical tent, a disguise kit and face-down playing cards on a trunk, one tiny fey keepsake at her belt, glowing moths and festival lights after dusk.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-83ad678a-324d-40c8-bedd-55c11a535ba2.png",
+      "generator": "built-in image_gen edit",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sourceDimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 75916,
+      "sha256": "a395f853b361235e26c51e8ecbd8b0945dee1325ef3e46f7dae09c0f122a407d",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-76855a17-c43d-443e-b108-4a7ae72b5f30.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
+    },
+    {
+      "game": "dnd-2014",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/scc/backgrounds/witherbloom-student.json",
+      "id": "scc:background:witherbloom-student",
+      "slug": "witherbloom-student",
+      "name": "Witherbloom Student",
+      "filename": "bgWitherbloomStudent.webp",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgWitherbloomStudent.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
+      ],
+      "character": "male half-orc",
+      "scene": "An adult life-science and alchemy student in dark green school robes sorting swamp herbs beside an iron pot and a neatly arranged herbalism kit, luminous seedlings in small glass jars, moody marsh college greenhouse, warm lamp and restrained green magical glow, no gore or exposed anatomy.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9fafda23-3cde-4802-bc65-6f22eee298c7.png",
+      "generator": "built-in image_gen edit",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sourceDimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 79136,
+      "sha256": "1471eeae3724980e7fd58dcdb8b29b72400a28f360f265ca515bc0d395d55bca",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2a12914f-6099-483d-b789-0c49d2bcb79e.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
+    },
+    {
+      "game": "dnd-2014",
+      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/hoto/backgrounds/yakuza.json",
+      "id": "hoto:background:yakuza",
+      "slug": "yakuza",
+      "name": "Yakuza",
+      "filename": "bgYakuza.webp",
+      "prompt": "Use case: lighting-weather / style-transfer. EDIT IMAGE 1, the existing background card. Images 2, 3 and 4 are the user's desired SILHOUETTE STYLE REFERENCES ONLY. Preserve image 1's scene, environment, palette, camera, character poses, character shapes, props and composition. Change the main character and any other prominent foreground people into strong nearly SOLID BLACK SILHOUETTES exactly like the reference figures: no visible facial features, eyes, skin color, illuminated hands, clothing folds, fabric patterns, armor detail or internal costume highlights. Preserve recognizable outer contours of head, hair, hat, limbs, costume and held props; keep just very thin subtle rim lighting around selected outer edges. Faces and hands must be dark silhouette shapes too. All human/character surface interiors should read as flat deep black at thumbnail size. Maintain the colorful painterly environment and its light sources behind the figures so the silhouettes read clearly. Keep scenery, animals, distant architecture and background details intact. Objects held against or forming part of the figure silhouette should be dark, with clear outline; independent lantern flames or magical effects may retain their light without lighting the figure interior. Vertical 2:3 edge-to-edge narrative painting, no border, no title, no text, no watermark. Do not add the reference images' people, props or settings. No transparent background: retain the original painted environment.",
+      "references": [
+        "/Users/mikebastarache/htdocs/dnd_character_builder/tmp/dnd-background-silhouettes-2026-11-27/originals/bgYakuza.webp",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-20a492ec-63e8-4f81-8890-03f8586d1d8e.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3a89a292-84ff-4e29-83fb-1481d8c186db.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-3d71ad0e-0d54-4a28-8c70-fa8afbb5a78e.png"
+      ],
+      "character": "male human",
+      "scene": "An adult member of a fictional medieval fantasy city underworld in fine fully clothed dark layered robes, discreet abstract traditional tattoos visible only on a forearm, closed account ledger in hand, watching a lantern-lit timber market street from a tea-house doorway, composed and imposing, no real gang insignia or modern items.",
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b514de86-5594-4d77-9741-b3be95e4785e.png",
+      "generator": "built-in image_gen edit",
       "dimensions": [
         384,
         576
@@ -872,88 +1091,9 @@
         1536
       ],
       "bytes": 68558,
-      "sha256": "6ef36159751eb35f7d7a8b419589f022b0789e93e86dab134b4eb1013d60aa9d"
-    },
-    {
-      "game": "dnd-2014",
-      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/wbtw/backgrounds/witchlight-hand.json",
-      "id": "wbtw:background:witchlight-hand",
-      "slug": "witchlight-hand",
-      "name": "Witchlight Hand",
-      "filename": "bgWitchlightHand.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Witchlight Hand background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult carnival worker in a practical faded violet and gold carnival uniform tending a magical lantern beside a whimsical tent, a disguise kit and face-down playing cards on a trunk, one tiny fey keepsake at her belt, glowing moths and festival lights after dusk.\nMain character: an adult female gnome, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
-      "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
-      ],
-      "character": "female gnome",
-      "scene": "An adult carnival worker in a practical faded violet and gold carnival uniform tending a magical lantern beside a whimsical tent, a disguise kit and face-down playing cards on a trunk, one tiny fey keepsake at her belt, glowing moths and festival lights after dusk.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-76855a17-c43d-443e-b108-4a7ae72b5f30.png",
-      "generator": "built-in image_gen",
-      "dimensions": [
-        384,
-        576
-      ],
-      "sourceDimensions": [
-        1024,
-        1536
-      ],
-      "bytes": 70048,
-      "sha256": "1cb45dbfac64d544021ab79b087ab849981b548e4b5c2f17d285d7504137f776"
-    },
-    {
-      "game": "dnd-2014",
-      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/scc/backgrounds/witherbloom-student.json",
-      "id": "scc:background:witherbloom-student",
-      "slug": "witherbloom-student",
-      "name": "Witherbloom Student",
-      "filename": "bgWitherbloomStudent.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Witherbloom Student background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult life-science and alchemy student in dark green school robes sorting swamp herbs beside an iron pot and a neatly arranged herbalism kit, luminous seedlings in small glass jars, moody marsh college greenhouse, warm lamp and restrained green magical glow, no gore or exposed anatomy.\nMain character: an adult male half-orc, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
-      "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
-      ],
-      "character": "male half-orc",
-      "scene": "An adult life-science and alchemy student in dark green school robes sorting swamp herbs beside an iron pot and a neatly arranged herbalism kit, luminous seedlings in small glass jars, moody marsh college greenhouse, warm lamp and restrained green magical glow, no gore or exposed anatomy.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2a12914f-6099-483d-b789-0c49d2bcb79e.png",
-      "generator": "built-in image_gen",
-      "dimensions": [
-        384,
-        576
-      ],
-      "sourceDimensions": [
-        1024,
-        1536
-      ],
-      "bytes": 74144,
-      "sha256": "b16c2559fb4516314c814a1d032be88149c9bd36d18b48f095765c7bc3aca8d4"
-    },
-    {
-      "game": "dnd-2014",
-      "path": "/Users/mikebastarache/htdocs/dnd_character_builder/games/dnd-2014/content/src/hoto/backgrounds/yakuza.json",
-      "id": "hoto:background:yakuza",
-      "slug": "yakuza",
-      "name": "Yakuza",
-      "filename": "bgYakuza.webp",
-      "prompt": "Use case: stylized-concept.\nAsset type: original fantasy character background card, vertical 2:3 portrait.\nPrimary request: Illustrate the Yakuza background as one distinctive adult character engaged in their former vocation or shaped by their personal history.\nScene: An adult member of a fictional medieval fantasy city underworld in fine fully clothed dark layered robes, discreet abstract traditional tattoos visible only on a forearm, closed account ledger in hand, watching a lantern-lit timber market street from a tea-house doorway, composed and imposing, no real gang insignia or modern items.\nMain character: an adult male human, anatomically coherent, recognizable silhouette, practical fully clothed fantasy attire fitting the story.\nStyle references: Images 1 and 2 are STYLE references only. Match their moody hand-painted fantasy book illustration, subdued earthy colors, textured painterly scenery, strong dark silhouettes, dramatic chiaroscuro with pools of warm amber light or cool moonlight. Do not copy either reference character, workshop or forest layout; create the new subject and scene specified here.\nComposition: full-body or nearly full-body figure integrated into the environment, small enough to show their vocation and surroundings; readable gesture and key props. Keep the head, hands and important props inside the frame. Rich environmental storytelling, restrained magic where appropriate. Edge-to-edge painted scenery, like the reference cards.\nConstraints: no captions, no typography, no readable writing, no logos, no watermark, no decorative border, no modern clothing or guns. Narrative scene, not a floating icon or headshot.",
-      "references": [
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgArtisan.webp",
-        "/Users/mikebastarache/htdocs/rpg_character_builder_assets/dungeons_and_dragons/origins/bgGuide.webp"
-      ],
-      "character": "male human",
-      "scene": "An adult member of a fictional medieval fantasy city underworld in fine fully clothed dark layered robes, discreet abstract traditional tattoos visible only on a forearm, closed account ledger in hand, watching a lantern-lit timber market street from a tea-house doorway, composed and imposing, no real gang insignia or modern items.",
-      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2817df89-f07c-4e4e-8462-92fa7b284d67.png",
-      "generator": "built-in image_gen",
-      "dimensions": [
-        384,
-        576
-      ],
-      "sourceDimensions": [
-        1024,
-        1536
-      ],
-      "bytes": 67230,
-      "sha256": "cf6b3435281a90b9816d7b9e524bbd4a3b2d90b275d02bec9eb797659fa28258"
+      "sha256": "93ac3b111c7792f7f3715bb1c6f2126dc55a4f2c660f4e42a5c3793d6d540d1c",
+      "previousSource": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2817df89-f07c-4e4e-8462-92fa7b284d67.png",
+      "style": "solid dark character silhouettes; existing painted environments retained"
     }
   ],
   "reusedExistingArt": [
@@ -970,5 +1110,6 @@
       "file": "bgHouseAgent.webp"
     }
   ],
-  "validationIssues": []
+  "validationIssues": [],
+  "revision": "silhouette figures requested 2026-11-27"
 }
