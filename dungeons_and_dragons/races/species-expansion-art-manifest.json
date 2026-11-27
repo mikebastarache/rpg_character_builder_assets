@@ -1,0 +1,1107 @@
+{
+  "generator": "built-in image_gen",
+  "requested": 49,
+  "completed": 49,
+  "remaining": 0,
+  "items": [
+    {
+      "slug": "aarakocra",
+      "name": "Aarakocra",
+      "filename": "raceAarakocra.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: eagle-like upright birdfolk with two arms, two taloned legs and a separate pair of broad feathered wings, perched on a wind-carved mountain pinnacle; turquoise sky and golden clouds. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"AARAKOCRA\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-d8f935ec-a7bc-438e-9988-e2e511c1bb2f.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "287b849a11717378363a73e9b8f4332080320e42e214cf30eff4f137cd01d88a",
+      "entityIds": [
+        "mpmm:species:aarakocra"
+      ]
+    },
+    {
+      "slug": "air-genasi",
+      "name": "Air Genasi",
+      "filename": "raceAirGenasi.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: humanlike traveller with wind-swept floating hair and billowing robes, ribbons of pale air around their silhouette on a high cloud terrace; silver blue and teal. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"AIR GENASI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f323c406-0c97-46ec-9202-3822fd59eb2b.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "80435a477e8497589c905d217790d4d682e5cabb954b257dd1f9b1072e137151",
+      "entityIds": [
+        "mpmm:species:genasi-air",
+        "pota:species:air-genasi"
+      ]
+    },
+    {
+      "slug": "astral-elf",
+      "name": "Astral Elf",
+      "filename": "raceAstralElf.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: slender pointed-eared elf in flowing astral travel robes, hood shadowing the face, floating silver ruins and a starry violet void. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"ASTRAL ELF\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-cf3036c6-af76-40f8-97fa-52af0c6c8f8e.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "67dbd7e43108e3775d7343b45c84ef33c6a72e0e3164c1e6210e58aa5a602ef7",
+      "entityIds": [
+        "aag:species:astral-elf"
+      ]
+    },
+    {
+      "slug": "autognome",
+      "name": "Autognome",
+      "filename": "raceAutognome.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: small gnome-shaped mechanical person, rounded metal cap and articulated limbs, muted bronze casing visible at edges, a clockwork workshop with amber and teal light; face plate completely dark. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"AUTOGNOME\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-d0582dcd-d285-4e31-be58-3c2e7c71da24.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "d9a571cf69271378ef12f42f13a6baf51460a7d1ff722c5d462ef4349546a537",
+      "entityIds": [
+        "aag:species:autognome"
+      ]
+    },
+    {
+      "slug": "beastborn",
+      "name": "Beastborn",
+      "filename": "raceBeastborn.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult upright bear-like humanoid in practical Norse-inspired travelling clothes, shaggy silhouette, a forest village on a misty northern fjord. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"BEASTBORN\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3624530f-e23b-4c2d-8363-b9fe0dd6e948.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "e02ad9afbe1dd4437ec59242b18833c661cdfed96eea9883622579e4200c82d9",
+      "entityIds": [
+        "rotss-pg:species:beastborn"
+      ]
+    },
+    {
+      "slug": "bugbear",
+      "name": "Bugbear",
+      "filename": "raceBugbear.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: tall broad shaggy goblinoid with notably long arms, fur-edged cloak and simple travelling gear, a mossy forest ruin at copper dusk. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"BUGBEAR\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-eb765503-1793-43de-977a-fcc1593b7cd0.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "e975d26954fcac05ea4bf5d33f17b4fcfbb8304998cf4e90f2ec0a00a3ca209c",
+      "entityIds": [
+        "mpmm:species:bugbear",
+        "vgtm:species:bugbear"
+      ]
+    },
+    {
+      "slug": "centaur",
+      "name": "Centaur",
+      "filename": "raceCentaur.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult centaur with one humanoid torso rising naturally from a complete horse body with four horse legs, cloaked shoulders, carrying a spear upright, windswept golden grassland. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"CENTAUR\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4a495ea9-8f2c-40ab-bba5-436503cb2ff4.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "0578dd88e0720ecc49a739923145bc400081a5436838cd5eab63075dca4c1cf5",
+      "entityIds": [
+        "mpmm:species:centaur",
+        "mot:species:centaur"
+      ]
+    },
+    {
+      "slug": "custom-lineage",
+      "name": "Custom Lineage",
+      "filename": "raceCustomLineage.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: one mysterious adult humanoid adventurer with an original ambiguous ancestry, travel cloak and staff, face entirely lost in the hood, standing at a crossroads of varied fantastical landscapes; representative custom lineage. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"CUSTOM LINEAGE\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4f63d7e8-600a-4600-b414-9b064b85f42a.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "1054c1f958b73be484a1fe1bb81b6f0552036be425ecda15a4fdac3d12d1ad86",
+      "entityIds": [
+        "tcoe:species:custom-lineage"
+      ]
+    },
+    {
+      "slug": "deep-gnome",
+      "name": "Deep Gnome",
+      "filename": "raceDeepGnome.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: very small stocky gnome explorer with hood, pick and mineral satchel, immense glowing fungi and crystalline Underdark caverns; violet and amber. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"DEEP GNOME\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-fa9bffa2-8a25-4826-bf59-59b3b62f482d.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "32be086aaf56595a4d8f6f6f9a838baca5747e2b29fb0fb25e65f9d87a2bb9f1",
+      "entityIds": [
+        "mpmm:species:deep-gnome"
+      ]
+    },
+    {
+      "slug": "duergar",
+      "name": "Duergar",
+      "filename": "raceDuergar.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: stocky deep dwarf in heavy angular armor, beard silhouette and hooded helmet obscuring the whole face, ancient underground forge city and dull crimson furnaces. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"DUERGAR\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-9298f948-13b6-461d-8296-f4624061a400.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "beeaa1fc6c2483e209c59d94eadc2f1645c641ae90d4429b397110d44db5867d",
+      "entityIds": [
+        "mpmm:species:duergar"
+      ]
+    },
+    {
+      "slug": "earth-genasi",
+      "name": "Earth Genasi",
+      "filename": "raceEarthGenasi.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: sturdy humanlike wanderer with rocky textured forearms only subtly visible at the silhouette edges, dark hood concealing the face, towering basalt columns and warm mineral veins. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"EARTH GENASI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3b1be402-1550-4ac3-9a98-b308d7bd5e8d.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "8931f520f53103d8ccb7037e02847e94e68b542c22aeb0684b21804dfdb85087",
+      "entityIds": [
+        "mpmm:species:genasi-earth",
+        "pota:species:earth-genasi"
+      ]
+    },
+    {
+      "slug": "eladrin",
+      "name": "Eladrin",
+      "filename": "raceEladrin.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: slender adult elf with flowing leaflike cloak and pointed ears in silhouette, enchanted autumn forest with falling gold leaves and a distant cool spring glade. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"ELADRIN\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-20ce3f24-b7a9-49e6-8946-6b30685a04f5.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "803807c9e31f10f524002158301e741686d1de454048e1dd60e0ea4af2437bf8",
+      "entityIds": [
+        "mpmm:species:eladrin"
+      ]
+    },
+    {
+      "slug": "fairy",
+      "name": "Fairy",
+      "filename": "raceFairy.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: small adult fey humanoid with delicate insect wings, dark face and body, muted iridescent wing texture allowed, perched beside enormous woodland flowers and luminous mushrooms. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"FAIRY\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-7ddd3ae0-832b-40ad-a2b3-6402d39c9433.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "c28e89aacb09e5b2cc519e1fa6f137f446c8dd2d18af17d78f98e5c5819a0cef",
+      "entityIds": [
+        "mpmm:species:fairy",
+        "wbtw:species:fairy"
+      ]
+    },
+    {
+      "slug": "firbolg",
+      "name": "Firbolg",
+      "filename": "raceFirbolg.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: very tall broad gentle forest guardian with long ears and a shaggy mantle, staff held at their side, face obscured in deep shadow, immense old-growth woodland and shafts of warm light. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"FIRBOLG\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ce38bc7a-c254-40b7-9115-45fb73f63f0c.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "4b98ab9277300eb65d1ff0c39f23070113dd2efdf7be80652ffe34933cc95d05",
+      "entityIds": [
+        "mpmm:species:firbolg",
+        "vgtm:species:firbolg"
+      ]
+    },
+    {
+      "slug": "fire-genasi",
+      "name": "Fire Genasi",
+      "filename": "raceFireGenasi.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: humanlike elemental traveller with flame-shaped hair, ember red cloth accents, face a solid dark silhouette without glowing eyes, volcanic stone terrace against blazing orange clouds. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"FIRE GENASI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-18778032-0c29-4852-a975-cba22b3c111c.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "042f4244209405e4c30a335b4b7432c8b7eeb73148aae6afa2bf98db623390c9",
+      "entityIds": [
+        "mpmm:species:genasi-fire",
+        "pota:species:fire-genasi"
+      ]
+    },
+    {
+      "slug": "giff",
+      "name": "Giff",
+      "filename": "raceGiff.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: broad tall hippopotamus-headed humanoid in antique fantasy naval coat, stout hippo muzzle silhouette with no facial detail, wooden spelljamming ship deck and stars, no firearms. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"GIFF\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-6242b521-a6f8-420e-bd7f-da52634b7f82.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "ad95bc0c45c2128902d22c4580f3ecf332c7d76ff98329f7b7a8e7ae11ee5686",
+      "entityIds": [
+        "aag:species:giff"
+      ]
+    },
+    {
+      "slug": "githyanki",
+      "name": "Githyanki",
+      "filename": "raceGithyanki.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: lanky long-pointed-eared humanoid warrior in ornate spiked armor, silver sword at their side, face fully hidden by shadow, floating astral fortress and crimson silver clouds. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"GITHYANKI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-35c64fae-fc4d-41ed-8e9e-1c753c48ca78.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "d30b983fec6b278825f276dad2e16c27174ec1207b2e81af17cf1e036961ea8e",
+      "entityIds": [
+        "mtof:species:githyanki",
+        "mpmm:species:githyanki"
+      ]
+    },
+    {
+      "slug": "githzerai",
+      "name": "Githzerai",
+      "filename": "raceGithzerai.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: lean pointed-eared humanoid ascetic in simple robes, meditation posture on a floating stone platform, completely shadowed face, chaotic elemental clouds held apart by a tranquil amber sphere. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"GITHZERAI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-53c444ea-6945-4c03-868f-f5ea8d32bfd1.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "fe13edc6dfba2cb14693c118c42ab1d9e5196db76c7574e9d0c02bd0c8112152",
+      "entityIds": [
+        "mtof:species:githzerai",
+        "mpmm:species:githzerai"
+      ]
+    },
+    {
+      "slug": "goblin",
+      "name": "Goblin",
+      "filename": "raceGoblin.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: small wiry goblinoid traveller with large pointed ears and an oversized pack, face fully dark, lantern-lit woodland bridge and blue-green dusk. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"GOBLIN\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f617b47c-cdf8-4a05-89c3-5f35c1a97d1d.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "967aa0f1ffad26d6aa2e1b13d7dab581ce64a1e7e93ad8fa267c1b6786a198cd",
+      "entityIds": [
+        "mpmm:species:goblin",
+        "vgtm:species:goblin"
+      ]
+    },
+    {
+      "slug": "grim",
+      "name": "Grim",
+      "filename": "raceGrim.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: mysterious adult water-associated humanoid musician in shadow, holding a small fiddle beside a forest waterfall and still lake, northern reeds and silver moonlight; face invisible. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"GRIM\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-c8e59703-4bf6-4f0c-bc69-7c4f6a9f9ee2.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "bf08849786c70260a80c37372c2b062709fddc8a6afed08f0029914e66cc9d49",
+      "entityIds": [
+        "rotss-pg:species:grim"
+      ]
+    },
+    {
+      "slug": "grung",
+      "name": "Grung",
+      "filename": "raceGrung.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: small upright frog humanoid with a squat frog head, long springy legs and webbed hands, subtle moss-green edge texture, giant jungle leaves and pools of golden reflected light; no eyes or facial details visible. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"GRUNG\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-dc6daa5b-ee30-473f-b0c3-52da08d48cce.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "47b32212531315a74bd5f73a26c657025842014112226fd2afa2189c8e763a56",
+      "entityIds": [
+        "ua:species:grung"
+      ]
+    },
+    {
+      "slug": "hadozee",
+      "name": "Hadozee",
+      "filename": "raceHadozee.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult simian humanoid deckhand with gliding membranes clearly extending between arms and flanks, climbing rigging of a wooden fantasy starship, face fully shadowed, purple sky and amber lanterns. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"HADOZEE\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-2cd8b78b-76a6-4553-a4ea-be68d0a921ba.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "7934353e8b4836619321901fc29cefd2747873675536dc2b852c1757edad9b77",
+      "entityIds": [
+        "aag:species:hadozee"
+      ]
+    },
+    {
+      "slug": "half-elf",
+      "name": "Half-Elf",
+      "filename": "raceHalfElf.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult traveller with subtly pointed ears beneath flowing hair and a hood, practical elegant mixed woodland and city attire, face invisible in shadow, leafy bridge joining medieval and elven architecture. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"HALF-ELF\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-3c9b2915-a4df-4dcc-8662-96247304b4ce.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "85b2aa60d92fa2ca73141727006503a59c8bd8eb74c60a1b47f4484e3f51dd0f",
+      "entityIds": [
+        "phb-2014:species:half-elf"
+      ]
+    },
+    {
+      "slug": "harengon",
+      "name": "Harengon",
+      "filename": "raceHarengon.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult rabbitfolk traveller with tall rabbit ears, powerful hind legs and a short tail, practical waistcoat and pack, face hidden in shadow, clover meadow and a warm enchanted sunset. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"HARENGON\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-4c3d0faa-d59f-4d90-92c8-686df83d4071.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "3023c8a9872ff3dbc0ef3901ea232078a092073f32eae106f7e10142a2e24fe0",
+      "entityIds": [
+        "mpmm:species:harengon",
+        "wbtw:species:harengon"
+      ]
+    },
+    {
+      "slug": "hengeyokai",
+      "name": "Hengeyokai",
+      "filename": "raceHengeyokai.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult human-shaped shapeshifter in traditional travelling robes with subtle foxlike ear and tail contours, dark hooded face, a small fox-shaped magical shadow nearby, bamboo shrine in moonlight; one representative fox-associated form. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"HENGEYOKAI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ac2ae0ad-d117-4f22-ad15-ef12d11e2d19.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "1fe6bf244bc9c81b6061d1366c9d902f3ff691ceaf87874bb380fd2cba317cb2",
+      "entityIds": [
+        "hoto:species:hengeyokai"
+      ]
+    },
+    {
+      "slug": "hobgoblin",
+      "name": "Hobgoblin",
+      "filename": "raceHobgoblin.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult tall broad-shouldered goblinoid in disciplined lamellar armor, pointed ears and a dark helmet hiding the face, standing before a fortified mountain bridge, deep red banners and amber dusk. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"HOBGOBLIN\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b41857d3-278a-4e0c-b797-d1804eaf77fd.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "d2c2cef62dedd685062b1ebb574454c0c9f4a14a0bc499a3f047db5a8d49bc76",
+      "entityIds": [
+        "mpmm:species:hobgoblin",
+        "vgtm:species:hobgoblin"
+      ]
+    },
+    {
+      "slug": "kenku",
+      "name": "Kenku",
+      "filename": "raceKenku.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult raven-headed humanoid in a ragged travel cloak, one pair of arms and two birdlike legs, clear beak silhouette and no facial detail, rainy medieval rooftops with cool moonlight and amber windows. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"KENKU\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-cace5388-66bf-44bb-b0cc-a340d7c03fd0.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "51d6425787e7f9cd86088d82a210e382f594567923125d883d457dc0df066bbe",
+      "entityIds": [
+        "mpmm:species:kenku",
+        "vgtm:species:kenku"
+      ]
+    },
+    {
+      "slug": "kobold",
+      "name": "Kobold",
+      "filename": "raceKobold.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: small reptilian humanoid with an angular dragonlike snout, long tapering tail and small horns, carrying a mining lantern, dark face and body, a cavern filled with ancient dragon-carved stone. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"KOBOLD\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-303b7439-9ae7-4b1c-ae1f-eb56e6bdf459.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "bb8c14832c0a5408bb8be6860474c5d4c4854ef855239ee36a25bbbd083e3e4c",
+      "entityIds": [
+        "mpmm:species:kobold",
+        "vgtm:species:kobold"
+      ]
+    },
+    {
+      "slug": "leonin",
+      "name": "Leonin",
+      "filename": "raceLeonin.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: tall lionfolk guardian with a broad mane and feline tail, bronze-edged travelling armor, face a completely dark lion muzzle silhouette, golden savannah and distant classical ruins. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"LEONIN\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-50363f20-6e74-44f4-954a-81774e5806e3.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "38bab5b1c45900ccc95eb1b3a88ec3ce874e43ff502bd11ee88edbcf53f167f3",
+      "entityIds": [
+        "mot:species:leonin"
+      ]
+    },
+    {
+      "slug": "lizardfolk",
+      "name": "Lizardfolk",
+      "filename": "raceLizardfolk.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult reptilian humanoid with a long snout, dorsal crest and heavy tapering tail, practical reed and leather gear, face fully shadowed, mangrove swamp and a teal sunset. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"LIZARDFOLK\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-44eb5784-daf9-438a-8748-70dc29eb2dcd.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "ced6f2a7b08a385dc3060c1efcea13c4d3d3a2bb8144ad7784475978e80632f3",
+      "entityIds": [
+        "mpmm:species:lizardfolk",
+        "vgtm:species:lizardfolk"
+      ]
+    },
+    {
+      "slug": "minotaur",
+      "name": "Minotaur",
+      "filename": "raceMinotaur.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult bull-headed humanoid with large curved horns, powerful shoulders and two humanoid legs ending in hooves, heavy travelling mantle, no facial details, monumental labyrinth ruins under a red moon. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"MINOTAUR\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-0364dae1-61d0-49a0-87a6-05a9087623b2.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "136d94cb655f156076d1d1b8e493819a4707134fa626100a6e2748f9bed2eabc",
+      "entityIds": [
+        "mpmm:species:minotaur",
+        "mot:species:minotaur"
+      ]
+    },
+    {
+      "slug": "nezumi",
+      "name": "Nezumi",
+      "filename": "raceNezumi.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult ratfolk with round ears, pointed muzzle and a long bare tail, practical layered travelling robes, face completely dark, bamboo riverbank and lantern-lit timber village. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"NEZUMI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-deab3f31-b2b4-4d10-abdc-767695c326f0.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "ae49ec0da261c61893bc45073d9f764528bb68bdf617aefa9f48a96da5e7ac44",
+      "entityIds": [
+        "hoto:species:nezumi"
+      ]
+    },
+    {
+      "slug": "owlin",
+      "name": "Owlin",
+      "filename": "raceOwlin.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult owl humanoid with rounded owl head, two arms, two legs and a separate feathered pair of wings, muted feather edge texture, face fully shadowed with no visible eyes, moonlit academy towers and library windows. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"OWLIN\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-ec035eb4-1950-40a4-9db7-7ef79f4f8403.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "65aaf08a173206fc2d169d274dbd1cc59a04220d38d58173023f86871d05361d",
+      "entityIds": [
+        "scc:species:owlin"
+      ]
+    },
+    {
+      "slug": "plasmoid",
+      "name": "Plasmoid",
+      "filename": "racePlasmoid.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: amorphous sentient ooze adopting a simple humanoid silhouette with rounded fluid limbs and no face at all, subtle deep teal translucent edge texture only, alien stone harbor beneath stars. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"PLASMOID\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-b6d17cf8-775e-401e-a64c-50da2d2d8163.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "031dd6550dca52d448420574bb30dcfc27ffa8dd2985bfc46d2baaecf58c19cb",
+      "entityIds": [
+        "aag:species:plasmoid"
+      ]
+    },
+    {
+      "slug": "satyr",
+      "name": "Satyr",
+      "filename": "raceSatyr.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult fey traveller with curling goat horns, two furred goat legs ending in hooves and a clothed humanoid torso, holding panpipes, dark unreadable face, autumn woodland revel glade with amber lights. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"SATYR\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-086bc2e7-76ce-4244-8778-3d162e14b6db.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "33fd1f9b3576c6ba37b3bbace5abf036426efba8811748ab8443f729e92b2c59",
+      "entityIds": [
+        "mpmm:species:satyr",
+        "mot:species:satyr"
+      ]
+    },
+    {
+      "slug": "sea-elf",
+      "name": "Sea Elf",
+      "filename": "raceSeaElf.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: slender pointed-eared aquatic elf with subtle fin-edged silhouette and a flowing cloak, trident upright beside them, shadow hiding the face, underwater coral arches and turquoise shafts of sunlight. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"SEA ELF\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-77ac8c74-0dc7-4655-a22f-bc34045fd282.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "cbc7f267297daf5a94ee9e20ed6e9b89f5f8e5a35808b2b87820ba253bb6bd14",
+      "entityIds": [
+        "mpmm:species:sea-elf"
+      ]
+    },
+    {
+      "slug": "shadar-kai",
+      "name": "Shadar-kai",
+      "filename": "raceShadarKai.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult elven wanderer in a torn black cloak with a chain at the belt, hood and hair fully conceal the face, a raven on a broken stone arch, desaturated gothic city under a pale moon with deep burgundy accents. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"SHADAR-KAI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-217c940b-4f60-44bf-8fba-75084f30a749.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "1bed426b4b0c290769f20d6feb5e8f53d86ff8f84941f4c85b7da4d1d4cac0da",
+      "entityIds": [
+        "mpmm:species:shadar-kai"
+      ]
+    },
+    {
+      "slug": "spirit-folk",
+      "name": "Spirit Folk",
+      "filename": "raceSpiritFolk.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: serene adult humanlike nature-spirit descendant in flowing traditional robes, long hair hiding the face, subtle green-blue cloth edge accents, bamboo grove and luminous river shrine. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"SPIRIT FOLK\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-05ba50ee-bf58-4031-8a2d-8241bec0a613.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "63eaf9b7c818a0bf92f235fab135ad3ddf49c67cda6b990844d3acd0ec5f7117",
+      "entityIds": [
+        "hoto:species:spirit-folk"
+      ]
+    },
+    {
+      "slug": "tabaxi",
+      "name": "Tabaxi",
+      "filename": "raceTabaxi.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult agile feline humanoid with pointed cat ears and a long curving tail, travel cloak and interesting small keepsakes, face a dark feline silhouette, jungle temple and golden sky. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"TABAXI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f843d90c-d991-407c-85aa-3c0326c36ddf.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "19da276f4285b2a105cb3a47952db062fcd2956c2448ad7db5d2cb0aad76ed0e",
+      "entityIds": [
+        "mpmm:species:tabaxi",
+        "vgtm:species:tabaxi"
+      ]
+    },
+    {
+      "slug": "tallfolk",
+      "name": "Tallfolk",
+      "filename": "raceTallfolk.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: towering broad giant-kin adult in Norse-inspired travel gear, very long limbs, immense silhouette beside a human-sized door establishing scale, dark face, rugged fjord mountains and northern light. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"TALLFOLK\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-af98ad5d-48b1-4bf6-914e-b97adf90ef34.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "b6ff0e9fcf8201efb388d1e0ee7f84105f21676765c37a1899e95c82eb38cec2",
+      "entityIds": [
+        "rotss-pg:species:tallfolk"
+      ]
+    },
+    {
+      "slug": "thri-kreen",
+      "name": "Thri-kreen",
+      "filename": "raceThriKreen.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult mantis-like insect humanoid with exactly four arms, two larger primary arms and two smaller secondary arms, two walking legs and clear antennae, muted chitin edge texture, face unreadable in shadow, desert ruins beneath twin moons. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"THRI-KREEN\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f6f375d9-d569-4bbb-9e87-a67426ada658.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "045618c6b70ffbf0a2f48d56f9b19b4951c8643c3e9a72ab75083d0a7b76397b",
+      "entityIds": [
+        "aag:species:thri-kreen"
+      ]
+    },
+    {
+      "slug": "tortle",
+      "name": "Tortle",
+      "filename": "raceTortle.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult upright turtle humanoid with a large domed shell on their back, two arms and two sturdy legs, wooden walking staff, subdued shell edge texture allowed, face in deep shadow, tropical coast at sunset. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"TORTLE\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-deb32cd9-2657-4f83-9215-d1efe6ac976d.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "55bac5c371f80df0a8a24e08883a588652c7d2de0d487ee684b594d07705bd89",
+      "entityIds": [
+        "mpmm:species:tortle"
+      ]
+    },
+    {
+      "slug": "triton",
+      "name": "Triton",
+      "filename": "raceTriton.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult aquatic humanoid guardian with finlike hair silhouette and a trident, dark face without glowing eyes, subtle sea-blue garment edges, deep ocean palace and luminous turquoise currents. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"TRITON\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-630eb764-0f17-4dc4-8109-bbeafc8206d0.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "d77bfd9b0681e0db8c6be6a7dfdbeeca83b0979285186c8450aa9cd8e7b1a0a7",
+      "entityIds": [
+        "mpmm:species:triton",
+        "mot:species:triton",
+        "vgtm:species:triton"
+      ]
+    },
+    {
+      "slug": "tuss",
+      "name": "Tuss",
+      "filename": "raceTuss.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult strong humanlike Norse-inspired traveller with a subtle giant-blooded presence, hooded face completely hidden, a restrained violet aura along one hand suggesting concealed nature, rocky northern settlement and storm clouds. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"TUSS\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-aecbf070-8927-4c68-8093-958a5276f908.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "2198022eee03e7d9728cc4d67898669f1c02129e6770e29384d98e596130f7cb",
+      "entityIds": [
+        "rotss-pg:species:tuss"
+      ]
+    },
+    {
+      "slug": "vanara",
+      "name": "Vanara",
+      "filename": "raceVanara.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult monkey-like humanoid with a long prehensile tail and simian head contour, simple travelling clothes, face in deep shadow, forest canopy village and distant mountain shrine. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"VANARA\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-566f6f73-c8ef-4d90-b7d2-355f7f58609b.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "c629bd03d93dbafcb4e3053a8b08627d89d4434a8d0b940047662203feeced4e",
+      "entityIds": [
+        "hoto:species:vanara"
+      ]
+    },
+    {
+      "slug": "water-genasi",
+      "name": "Water Genasi",
+      "filename": "raceWaterGenasi.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: humanlike traveller with flowing wave-shaped hair, subtle deep blue fabric accents and dark faceless silhouette, moonlit seaside steps surrounded by gently rising water ribbons. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"WATER GENASI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-041d526d-fb2b-4b80-b4c5-0e2a948d66f9.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "96cd0a21099c543e1784358fb0be253af57875743fd5c4cdfa11395774936336",
+      "entityIds": [
+        "mpmm:species:genasi-water",
+        "pota:species:water-genasi"
+      ]
+    },
+    {
+      "slug": "wicker",
+      "name": "Wicker",
+      "filename": "raceWicker.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult wooden humanoid made of coiled woven branches, twig fingers and branching shoulder contours, modest travel mantle, face entirely dark and featureless, ancient northern forest with pale golden spirit lights; subtle wood texture at edges. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"WICKER\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-cfd41c11-981c-4dc4-af93-b7182b23f096.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "4d937b8115ba32e1adfc7a1f718107dfb1273d92fed09f47d7bb3b8811259db9",
+      "entityIds": [
+        "rotss-pg:species:wicker"
+      ]
+    },
+    {
+      "slug": "yuan-ti",
+      "name": "Yuan-ti",
+      "filename": "raceYuanTi.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult predominantly human-shaped serpent-descended traveller, two human legs, flowing robes with restrained scale-pattern edge texture, face concealed entirely by hood, overgrown serpent temple and emerald twilight; no snake lower body. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"YUAN-TI\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-5a72dcf1-577b-4f31-bca9-915c90fd9304.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "9bb42bc8704aca85d7dc87f8d6c5e3e4320fc111de49ebc56188ef1d138b4f80",
+      "entityIds": [
+        "mpmm:species:yuan-ti"
+      ]
+    },
+    {
+      "slug": "yuan-ti-pureblood",
+      "name": "Yuan-ti Pureblood",
+      "filename": "raceYuanTiPureblood.webp",
+      "prompt": "Use case: stylized-concept. Original fantasy species card, vertical portrait 2:3. The four attached images are STYLE AND BORDER references only. Match their antique gold rectangular frame, engraved corner filigree, arched painted interior and bottom cream parchment title plaque. Subject: adult human-shaped serpent-descended envoy with two human legs, elegant dark cloak with subtle bronze scale trim, face entirely hidden by hood and shadow, ancient jungle colonnade with serpentine carvings and amber torchlight; no snake lower body. One adult full-body character with the species-specific anatomy and outer contour clearly recognizable. Character is a strong dark silhouette; the WHOLE FACE must remain hidden in deep black shadow, no visible eyes, mouth detail or facial features, no glowing eyes. Small restrained areas of color and painterly texture on clothing, shell, fur, feathers or wings are welcome like the examples, but the silhouette remains dominant. Dramatic backlighting, atmospheric painterly scenery, rich muted colors and clear readable outline. Keep whole body, important appendages and props within the frame. Do not copy the reference species, wings or scenery unless explicitly requested here. Text (verbatim): \"YUAN-TI PUREBLOOD\" on the bottom parchment plaque in correctly spelled bold black classical serif capitals. No other writing or watermark. Original design, fully clothed where appropriate, no photorealism.",
+      "references": [
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-92fff369-ff2f-45e8-a2aa-14d0dfa23c86.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-375966f6-f8ff-4c33-b014-6bf875ae0103.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-faa78602-7da7-415f-acff-fba9e5afcf1c.png",
+        "/var/folders/cl/g937nw4n2kd19rbdzhnz3rgw0000gp/T/codex-clipboard-b6280bac-9932-461e-b2b2-063a430ed385.png"
+      ],
+      "source": "/Users/mikebastarache/.codex/generated_images/01a20a51-d688-7aa2-b053-75824e0d488c/exec-f0594b12-6421-42ec-a30d-7bff700a89b3.png",
+      "generator": "built-in image_gen",
+      "dimensions": [
+        384,
+        576
+      ],
+      "sha256": "59d8e6992448b7dbfe1c5def9fba89cbf5714088f7f8280c596a6e2efdfb38e0",
+      "entityIds": [
+        "vgtm:species:yuan-ti-pureblood"
+      ]
+    }
+  ]
+}
